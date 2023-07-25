@@ -35,6 +35,22 @@ public:
         uintmax_t fileSize = fs::file_size(route);
         memoriaDisponible = capacidad - fileSize;
     }
+    string getData(){
+        ifstream file(route);
+        string data,linea;
+        while(getline(file,linea)) data += linea + '\n';
+        return data;
+    }
+    string getRegistro(string key){
+        key = "5";
+        int sizeKey = stoi(key); //cambiar
+        string data,linea;
+        ifstream file(route);
+        while(getline(file,linea)){
+            data += linea.substr(0,sizeKey) + " ";
+        }
+        return data;
+    }
 };
 
 class Pista{

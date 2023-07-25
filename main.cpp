@@ -1,16 +1,44 @@
 #include <iostream>
 #include <vector>
 #include "Disco.h"
+#include "DiskManager.h"
+#include "DBMS.h"
+#include "BufferManager.h"
 using namespace std;
 int main() {
-    //Crear disco desde 0 a partir de un file
-    //Disco disco("titanic",4,5,10,2500,5);
-    //disco.createDisk();
+    /*
+    Disco *disco;
 
-    //Usar un disco
-    Disco disco("titanic");
+    int usar = 0;
+    cout<<"Crear disco: 0"<<endl;
+    cout<<"Usar disco: 1"<<endl;
+    cout<<"Opt: ";cin>>usar;
+    string tableName = "";
+    if(usar){
+        cout<<"Nombre de la tabla: ";getline(cin,tableName);
+        disco = new Disco(tableName);
+    }
+    else{
+        cout<<"Nombre de la tabla: ";getline(cin,tableName);
+        int numPlatos,numPistas,numSectores,memoriaSector,sectorBloques;
+        cout<<"N Platos?: ";cin>>numPlatos;
+        cout<<"N Pistas?: ";cin>>numPistas;
+        cout<<"N Sectores?: ";cin>>numSectores;
+        cout<<"Memoria por sector?: ";cin>>memoriaSector;
+        cout<<"N sectores por bloque?: ";cin>>sectorBloques;
+        disco = new Disco(tableName,numPlatos,numPistas,numSectores,memoriaSector,sectorBloques);
+    }
+    disco->loadDisk();
+*/
+    Disco *disco = new Disco("titanic");
+    disco->loadDisk();
+    DiskManager *manager = new DiskManager(disco );
+    manager->makingBlok();
+    //manager.showDirectorio();
 
-    disco.loadDisk();
-
+    //manager.makingBTree(3,4);
+    BufferManager *bufem = new BufferManager(4);
+    DBMS *db = new DBMS(manager,bufem);
+    db->sql_Request(14);
     return 0;
 }
