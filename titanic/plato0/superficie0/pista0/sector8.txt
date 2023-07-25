@@ -1,0 +1,15 @@
+121  0    2    Hickman, Mr. Stanley George                                                               male   21        2    0    S.O.C. 14879        73.5                                    S
+122  0    3    Moore, Mr. Leonard Charles                                                                male             0    0    A4. 54510           8.05                                    S
+123  0    2    Nasser, Mr. Nicholas                                                                      male   32.5      1    0    237736              30.0708                                 C
+124  1    2    Webber, Miss. Susan                                                                       female 32.5      0    0    27267               13                  E101                S
+125  0    1    White, Mr. Percival Wayland                                                               male   54        0    1    35281               77.2875             D26                 S
+126  1    3    Nicola-Yarred, Master. Elias                                                              male   12        1    0    2651                11.2417                                 C
+127  0    3    McMahon, Mr. Martin                                                                       male             0    0    370372              7.75                                    Q
+128  1    3    Madsen, Mr. Fridtjof Arne                                                                 male   24        0    0    C 17369             7.1417                                  S
+129  1    3    Peter, Miss. Anna                                                                         female           1    1    2668                22.3583             F E69               C
+130  0    3    Ekstrom, Mr. Johan                                                                        male   45        0    0    347061              6.975                                   S
+131  0    3    Drazenoic, Mr. Jozef                                                                      male   33        0    0    349241              7.8958                                  C
+132  0    3    Coelho, Mr. Domingos Fernandeo                                                            male   20        0    0    SOTON/O.Q. 3101307  7.05                                    S
+133  0    3    Robins, Mrs. Alexander A (Grace Charity Laury)                                            female 47        1    0    A/5. 3337           14.5                                    S
+134  1    2    Weisz, Mrs. Leopold (Mathilde Francoise Pede)                                             female 29        1    0    228414              26                                      S
+135  0    2    Sobey, Mr. Samuel James Hayden                                                            male   25        0    0    C.A. 29178          13                                      S

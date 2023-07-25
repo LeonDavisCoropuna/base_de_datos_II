@@ -1,0 +1,15 @@
+811  0    3    Alexander, Mr. William                                                                    male   26        0    0    3474                7.8875                                  S
+812  0    3    Lester, Mr. James                                                                         male   39        0    0    A/4 48871           24.15                                   S
+813  0    2    Slemen, Mr. Richard James                                                                 male   35        0    0    28206               10.5                                    S
+814  0    3    Andersson, Miss. Ebba Iris Alfrida                                                        female 6         4    2    347082              31.275                                  S
+815  0    3    Tomlin, Mr. Ernest Portage                                                                male   30.5      0    0    364499              8.05                                    S
+816  0    1    Fry, Mr. Richard                                                                          male             0    0    112058              0                   B102                S
+817  0    3    Heininen, Miss. Wendla Maria                                                              female 23        0    0    STON/O2. 3101290    7.925                                   S
+818  0    2    Mallet, Mr. Albert                                                                        male   31        1    1    S.C./PARIS 2079     37.0042                                 C
+819  0    3    Holm, Mr. John Fredrik Alexander                                                          male   43        0    0    C 7075              6.45                                    S
+820  0    3    Skoog, Master. Karl Thorsten                                                              male   10        3    2    347088              27.9                                    S
+821  1    1    Hays, Mrs. Charles Melville (Clara Jennings Gregg)                                        female 52        1    1    12749               93.5                B69                 S
+822  1    3    Lulic, Mr. Nikola                                                                         male   27        0    0    315098              8.6625                                  S
+823  0    1    Reuchlin, Jonkheer. John George                                                           male   38        0    0    19972               0                                       S
+824  1    3    Moor, Mrs. (Beila)                                                                        female 27        0    1    392096              12.475              E121                S
+825  0    3    Panula, Master. Urho Abraham                                                              male   2         4    1    3101295             39.6875                                 S

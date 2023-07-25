@@ -1,0 +1,15 @@
+571  1    2    Harris, Mr. George                                                                        male   62        0    0    S.W./PP 752         10.5                                    S
+572  1    1    Appleton, Mrs. Edward Dale (Charlotte Lamson)                                             female 53        2    0    11769               51.4792             C101                S
+573  1    1    "Flynn, Mr. John Irwin ("Irving")"                                                        male   36        0    0    PC 17474            26.3875             E25                 S
+574  1    3    Kelly, Miss. Mary                                                                         female           0    0    14312               7.75                                    Q
+575  0    3    Rush, Mr. Alfred George John                                                              male   16        0    0    A/4. 20589          8.05                                    S
+576  0    3    Patchett, Mr. George                                                                      male   19        0    0    358585              14.5                                    S
+577  1    2    Garside, Miss. Ethel                                                                      female 34        0    0    243880              13                                      S
+578  1    1    Silvey, Mrs. William Baird (Alice Munger)                                                 female 39        1    0    13507               55.9                E44                 S
+579  0    3    Caram, Mrs. Joseph (Maria Elias)                                                          female           1    0    2689                14.4583                                 C
+580  1    3    Jussila, Mr. Eiriik                                                                       male   32        0    0    STON/O 2. 3101286   7.925                                   S
+581  1    2    Christy, Miss. Julie Rachel                                                               female 25        1    1    237789              30                                      S
+582  1    1    Thayer, Mrs. John Borland (Marian Longstreth Morris)                                      female 39        1    1    17421               110.8833            C68                 C
+583  0    2    Downton, Mr. William James                                                                male   54        0    0    28403               26                                      S
+584  0    1    Ross, Mr. John Hugo                                                                       male   36        0    0    13049               40.125              A10                 C
+585  0    3    Paulner, Mr. Uscher                                                                       male             0    0    3411                8.7125                                  C

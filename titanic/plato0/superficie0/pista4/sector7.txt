@@ -1,0 +1,15 @@
+706  0    2    "Morley, Mr. Henry Samuel ("Mr Henry Marshall")"                                          male   39        0    0    250655              26                                      S
+707  1    2    "Kelly, Mrs. Florence "Fannie"                                                            female 45        0    0    223596              13.5                                    S
+708  1    1    Calderhead, Mr. Edward Pennington                                                         male   42        0    0    PC 17476            26.2875             E24                 S
+709  1    1    Cleaver, Miss. Alice                                                                      female 22        0    0    113781              151.55                                  S
+710  1    3    "Moubarek, Master. Halim Gonios ("William George")"                                       male             1    1    2661                15.2458                                 C
+711  1    1    "Mayne, Mlle. Berthe Antonine ("Mrs de Villiers")"                                        female 24        0    0    PC 17482            49.5042             C90                 C
+712  0    1    Klaber, Mr. Herman                                                                        male             0    0    113028              26.55               C124                S
+713  1    1    Taylor, Mr. Elmer Zebley                                                                  male   48        1    0    19996               52                  C126                S
+714  0    3    Larsson, Mr. August Viktor                                                                male   29        0    0    7545                9.4833                                  S
+715  0    2    Greenberg, Mr. Samuel                                                                     male   52        0    0    250647              13                                      S
+716  0    3    Soholt, Mr. Peter Andreas Lauritz Andersen                                                male   19        0    0    348124              7.65                F G73               S
+717  1    1    Endres, Miss. Caroline Louise                                                             female 38        0    0    PC 17757            227.525             C45                 C
+718  1    2    "Troutt, Miss. Edwina Celia "Winnie"                                                      female 27        0    0    34218               10.5                E101                S
+719  0    3    McEvoy, Mr. Michael                                                                       male             0    0    36568               15.5                                    Q
+720  0    3    Johnson, Mr. Malkolm Joackim                                                              male   33        0    0    347062              7.775                                   S
