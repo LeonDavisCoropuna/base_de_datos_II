@@ -22,17 +22,17 @@ public:
         int memoriaActual = memoriaMax;
         istringstream iss(data);
         string line;
-
+        ofstream archivo(sectores[temp]->route);
         while (getline(iss, line)) {
-            ofstream archivo(sectores[temp]->route);
-            if(memoriaActual - line.size() > 0){
+            int mDisponible = memoriaActual - line.size();
+            if(mDisponible > 0){
                 archivo<<line<<endl;
                 memoriaActual = memoriaActual - line.size();
             }
             else{
                 memoriaActual = memoriaMax;
                 temp++;
-                archivo.close();
+                archivo.open(sectores[temp]->route);
             }
         }
     }
