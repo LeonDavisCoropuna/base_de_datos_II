@@ -19,7 +19,6 @@ class Pista;
 class Superficie;
 class Platos;
 
-
 class Sector{
 public:
     string route;

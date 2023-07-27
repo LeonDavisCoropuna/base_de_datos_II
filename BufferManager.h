@@ -4,85 +4,196 @@
 
 #ifndef BD2_BUFFERMANAGER_H
 #define BD2_BUFFERMANAGER_H
-
 #include <iostream>
 #include <vector>
-#include <unordered_map>
+#include "Bloque.h"
+#include "DiskManager.h"
+#include <list>
+#include <algorithm>
+using namespace std;
 
-class BufferManager {
-private:
-    struct Page {
-        int page_id;
-        bool referenced;
-        bool dirty;
-        // Aquí puedes agregar más información necesaria para la página, como los datos almacenados, etc.
-    };
-
-    int buffer_size;
-    std::vector<Page> buffer;
-    std::unordered_map<int, int> page_map; // Para mapear el page_id a su índice en el buffer.
-    int hand; // Índice del puntero "manecilla" para el algoritmo de reemplazo "clock".
-
+class NodoRegistro{
 public:
-    BufferManager(int size) : buffer_size(size), hand(0) {
-        buffer.resize(buffer_size);
+    string registro;
+    int linea;
+    int sizeRegistro;
+    bool empty;
+};
+
+class Page {
+public:
+    int bit_uso;
+    int pin_count; // Indica si la página está siendo utilizada por algún proceso
+    bool dirty_bit; // Indica si la página ha sido modificada y necesita escribirse en disco
+    int frame_id;   // Identificador del marco de la página en el buffer
+    int pageId;     // Identificador único de la página
+    Bloque *bloq;
+    using ListIterator = list<string>::iterator;
+
+    list <string> linkedList;
+    list <int> freeSpace;
+
+    Page(int _pageId) : pageId(_pageId), bit_uso(1), pin_count(1), dirty_bit(false), frame_id(-1) {}
+    void setBloq(Bloque * bloque){
+        bloq = bloque;
+        generateList();
     }
-
-    void readPage(int page_id) {
-        int index = getPageIndex(page_id);
-        if (index != -1) {
-            buffer[index].referenced = true;
-            std::cout << "Reading page " << page_id << " from buffer." << std::endl;
-        } else {
-            // La página no está en el buffer, la cargamos.
-            std::cout << "Page " << page_id << " not found in buffer. Loading it." << std::endl;
-
-            // Aquí implementarías la lógica para cargar la página desde el almacenamiento,
-            // pero para este ejemplo, solo simularemos que se carga en el buffer.
-            Page new_page;
-            new_page.page_id = page_id;
-            new_page.referenced = true;
-            new_page.dirty = false;
-            buffer[hand] = new_page;
-            page_map[page_id] = hand;
-
-            hand = (hand + 1) % buffer_size; // Movemos la manecilla al siguiente índice.
-        }
+    ListIterator findRecord(string key) {
+        int sizeKeyMagic = 5;
+        for(int i=key.size();i<sizeKeyMagic;i++) key += " ";
+        ListIterator it = find_if(linkedList.begin(), linkedList.end(), [&key](const string& element) {
+            return element.substr(0, key.size()) == key;
+        });
+        return it;
     }
-
-    void writePage(int page_id) {
-        int index = getPageIndex(page_id);
-        if (index != -1) {
-            buffer[index].referenced = true;
-            buffer[index].dirty = true;
-            std::cout << "Writing page " << page_id << " to buffer." << std::endl;
-        } else {
-            // La página no está en el buffer, la cargamos y marcamos como dirty.
-            std::cout << "Page " << page_id << " not found in buffer. Loading it." << std::endl;
-
-            // Aquí implementarías la lógica para cargar la página desde el almacenamiento,
-            // pero para este ejemplo, solo simularemos que se carga en el buffer.
-            Page new_page;
-            new_page.page_id = page_id;
-            new_page.referenced = true;
-            new_page.dirty = true;
-            buffer[hand] = new_page;
-            page_map[page_id] = hand;
-
-            hand = (hand + 1) % buffer_size; // Movemos la manecilla al siguiente índice.
-        }
+    void Eliminar(int idRegistro){
+        string data = bloq->cargarData();
+        ListIterator it = findRecord(to_string(idRegistro));
+        *it = "";
     }
+    void generateList(){
+        const char * data = bloq->cargarData();
+        size_t start = 0;
+        size_t end = 0;
 
-    // Método para obtener el índice de una página en el buffer.
-    int getPageIndex(int page_id) {
-        auto it = page_map.find(page_id);
-        if (it != page_map.end()) {
-            return it->second;
+        while (data[end] != '\0') {
+            if (data[end] == '\n') {
+                string value = string(data + start, data + end);
+                linkedList.push_back(value);
+                start = end + 1;
+            }
+            end++;
         }
-        return -1;
+
+        // Agregar el último elemento (si existe)
+        if (end > start) {
+            string value = string(data + start, data + end);
+            linkedList.push_back(value);
+        }
     }
 };
 
+class BufferManager {
+public:
+    int buffer_size;
+    int puntero = 0;
+    int pageCounter=0;
+    std::vector<Page*> buffer;
 
+    BufferManager(int size) : buffer_size(size), puntero(0) {}
+
+    Page* findPage(int idPage) {
+        for (auto i : buffer) {
+            if (i->pageId == idPage) return i;
+        }
+        return nullptr;
+    }
+
+    // Función para reemplazar una página en el buffer (política Clock)
+    void writeDisk(Page *page){
+        string data;
+        for(auto i: page->linkedList){
+            data += i + "\n";
+        }
+        cout<<"DATAAAAAAAAAAAA"<<endl<<data<<endl;
+        page->bloq->writeDisk(data);
+        cout<<"Escribir en disco"<<endl;
+    }
+    void setBloq(int pageId,Bloque *bl) {
+        Page *page = findPage(pageId);
+        page->setBloq(bl);
+    }
+    void insertPage(int idPage,Bloque *bloq) {
+        Page* page = findPage(idPage);
+        if (page == nullptr) {
+            page = new Page(idPage);
+            page->setBloq(bloq);
+            page->bit_uso = 1;
+            while (true) {
+                if(pageCounter > buffer_size){
+                    cout<<"Es necesario liberar alguna pagina"<<endl;
+                    break;
+                }
+                if (buffer.size() < buffer_size) {
+                    buffer.push_back(page);
+                    page->frame_id = buffer.size() - 1; // Establecer frame_id a la posición actual
+                    break;
+                } else {
+                    if(buffer[puntero]->pin_count <= 0){
+                        if (buffer[puntero]->bit_uso) {
+                            buffer[puntero]->bit_uso = 0;
+                            puntero = (puntero + 1) % (buffer_size);
+                        } else {
+                            // Reemplazar página usando la política Clock
+
+                            if(buffer[puntero]->dirty_bit){
+                                writeDisk(buffer[puntero]);
+                            }
+
+                            buffer[puntero] = page;
+                            page->frame_id = puntero; // Establecer frame_id a la posición actual
+                            puntero = (puntero + 1) % (buffer_size);
+                            break;
+                        }
+                        pageCounter = 0;
+                    }
+                    else{
+                        puntero = (puntero + 1) % (buffer_size);
+                        pageCounter++;
+                    }
+
+                }
+            }
+        } else {
+            findPage(idPage)->pin_count++;
+            page->setBloq(bloq);
+            page->bit_uso = 1;
+        }
+    }
+    void modifyPage(int idPage,int opt,string record){
+        Page *page = findPage(idPage);
+        if(page){
+            page->dirty_bit = 1;
+        }
+        else{
+            return;
+        }
+        switch (opt) {
+            case 1:
+                //insertar
+                cout<<"Regsitro insertado"<<endl;
+                break;
+            case 2:
+                //eliminar
+                int del = stoi(record);
+                page->Eliminar(del);
+                cout<<"Registro eliminado"<<endl;
+
+                break;
+        }
+
+    }
+    void realeasePage(int idPage){
+        if(findPage(idPage))
+            findPage(idPage)->pin_count--;
+    }
+    void deletePage(int idPage){
+        Page *page = findPage(idPage);
+        if(page){
+            page->pin_count = 0;
+            if(page->dirty_bit) writeDisk(page);
+            page->dirty_bit = 0;
+        }
+    }
+    void printStateBuffer() {
+        for (auto i : buffer) {
+            cout << "Frame ID: " << i->frame_id << " | ";
+            cout << "Page ID: " << i->pageId << " | ";
+            cout << "Bit Uso: " << i->bit_uso << " | ";
+            cout << "Pin Count: " << i->pin_count << " | ";
+            cout << "Dirty Bit: " << i->dirty_bit << endl;
+        }
+    }
+};
 
 #endif //BD2_BUFFERMANAGER_H

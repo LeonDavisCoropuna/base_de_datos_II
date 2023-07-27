@@ -7,8 +7,6 @@
 #ifndef BD2_DISKMANAGER_H
 #define BD2_DISKMANAGER_H
 
-
-
 class DiskManager{
 public:
     vector <Bloque *> directorioBloques;

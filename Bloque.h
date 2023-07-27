@@ -8,26 +8,49 @@
 class Bloque{
 public:
     vector<Sector *> sectores;
-    string data;
     Disco * disk;
+    string data;
     int memoria_bloque;
     Bloque(Disco *_disk){
-        disk = _disk;
         data = "";
+        disk = _disk;
         memoria_bloque = disk->memoriaSector*disk->sectorBloque;
-        sectores.resize(disk->sectorBloque,0);
     }
-    void cargarData(){
+    void writeDisk(string data){
+        int temp = 0;
+        int memoriaMax = sectores[0]->capacidad;
+        int memoriaActual = memoriaMax;
+        istringstream iss(data);
+        string line;
+
+        while (getline(iss, line)) {
+            ofstream archivo(sectores[temp]->route);
+            if(memoriaActual - line.size() > 0){
+                archivo<<line<<endl;
+                memoriaActual = memoriaActual - line.size();
+            }
+            else{
+                memoriaActual = memoriaMax;
+                temp++;
+                archivo.close();
+            }
+        }
+    }
+    const char *cargarData(){
         for(auto i: sectores){
             if(i != 0)
                 data += i->getData();
         }
+        return data.c_str();
     }
-    void getKeyData(){
+
+    string getKeyData(){
+        string keys = "";
         for(auto i: sectores){
             if(i != 0)
-                data += i->getRegistro("id");
+                keys += i->getRegistro("id");
         }
+        return keys;
     }
 
 };

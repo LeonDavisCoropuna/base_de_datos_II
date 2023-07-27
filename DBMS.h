@@ -20,39 +20,33 @@ public:
         DM = dm;
         BM = bm;
     }
-    void sql_Request(int recordNum)
+    void sql_Request(int recordNum,int opt)
     {
+        // idRegistro       route                                            bloque
+        // 100              titanic/plato2/superficie1/pista4/sector5           3
+        int nroBloque = 0; //esto retorna el bTree
+        Bloque *bloq = DM->directorioBloques[nroBloque];
 
-        string record;
-        BTree *btree = DM->makingBTree(3,4,recordNum);
-        btree->search(recordNum);
-        cout<<btree->root->keys[0];
-        /*
-        bool band = false;
-        for (int i = 0; i < DM->directorioBloques.size() -1 ; i++)
-        {
-            if(DM->nPages[i])
-            {
-                if(BM->addPage(i, recordNum, DM->nPages[i]->ptrPosition, DM->disk->getNameTable(), DM))
-                {
-                    band=false;
-                    break;
-                }else
-                {
-                    band =true;
-                }
-            }else
-            {
-                band = true;
+        BM->insertPage(nroBloque,bloq);
+        //BM->modifyPage(nroBloque,2);
+        switch (opt) {
+            case 1:
+                //select
                 break;
-            }
-            //BM->unpinPage(i);
+            case 2:
+                //insertar
+                break;
+            case 3:
+                //eliminar
+                BM->modifyPage(nroBloque,2,"10");
+                BM->deletePage(nroBloque);
+                break;
         }
-        if(band)
-        {
-            cout<<"Registro no encontrado en el DISCO"<<endl;
-        }
-         */
+
+        //BM->modifyPage(nroBloque,1);
+        //BM->deletePage(nroBloque);
+        BM->printStateBuffer();
+
     }
 };
 

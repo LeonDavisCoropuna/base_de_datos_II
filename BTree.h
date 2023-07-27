@@ -17,7 +17,7 @@ public:
         int temp = 75;
         for(int i=0;i<sizeDirectorio;i++){
             keys.push_back(temp);
-            temp =+ 75;
+            temp += 75;
         }
     }
     int getLimiteInferior(int a){

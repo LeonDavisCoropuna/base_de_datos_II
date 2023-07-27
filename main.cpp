@@ -30,15 +30,17 @@ int main() {
     }
     disco->loadDisk();
 */
+
     Disco *disco = new Disco("titanic");
     disco->loadDisk();
     DiskManager *manager = new DiskManager(disco );
     manager->makingBlok();
-    //manager.showDirectorio();
+    //manager->showDirectorio();
 
     //manager.makingBTree(3,4);
     BufferManager *bufem = new BufferManager(4);
     DBMS *db = new DBMS(manager,bufem);
-    db->sql_Request(14);
+    db->sql_Request(14,3);
+
     return 0;
 }
