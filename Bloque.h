@@ -16,26 +16,37 @@ public:
         disk = _disk;
         memoria_bloque = disk->memoriaSector*disk->sectorBloque;
     }
-    void writeDisk(string data){
+    void writeDisk(string data) {
         int temp = 0;
         int memoriaMax = sectores[0]->capacidad;
         int memoriaActual = memoriaMax;
         istringstream iss(data);
         string line;
+
+        // Abrir el archivo fuera del bucle para evitar reemplazar su contenido
         ofstream archivo(sectores[temp]->route);
+
         while (getline(iss, line)) {
             int mDisponible = memoriaActual - line.size();
-            if(mDisponible > 0){
-                archivo<<line<<endl;
-                memoriaActual = memoriaActual - line.size();
-            }
-            else{
-                memoriaActual = memoriaMax;
+            if (mDisponible >= 0) {
+                archivo << line << endl;
+                memoriaActual -= line.size() + 1; // +1 para contar el carácter de nueva línea
+            } else {
+                archivo.close(); // Cerrar el archivo actual antes de cambiar al siguiente
                 temp++;
+                if (temp >= sectores.size()) {
+                    cout << "No hay más sectores disponibles." << endl;
+                    return;
+                }
                 archivo.open(sectores[temp]->route);
+                memoriaActual = memoriaMax;
+                // No debemos olvidarnos de escribir la línea actual en el nuevo archivo abierto
+                archivo << line << endl;
+                memoriaActual -= line.size() + 1; // +1 para contar el carácter de nueva línea
             }
         }
     }
+
     const char *cargarData(){
         for(auto i: sectores){
             if(i != 0)

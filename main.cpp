@@ -40,7 +40,7 @@ int main() {
     //manager.makingBTree(3,4);
     BufferManager *bufem = new BufferManager(4);
     DBMS *db = new DBMS(manager,bufem);
-    db->sql_Request(14,3);
+    db->sql_Request("173",3);
 
     return 0;
 }

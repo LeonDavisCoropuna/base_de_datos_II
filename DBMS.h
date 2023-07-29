@@ -20,11 +20,11 @@ public:
         DM = dm;
         BM = bm;
     }
-    void sql_Request(int recordNum,int opt)
+    void sql_Request(string recordNum,int opt)
     {
         // idRegistro       route                                            bloque
         // 100              titanic/plato2/superficie1/pista4/sector5           3
-        int nroBloque = 0; //esto retorna el bTree
+        int nroBloque = 1; //esto retorna el bTree
         Bloque *bloq = DM->directorioBloques[nroBloque];
 
         BM->insertPage(nroBloque,bloq);
@@ -38,11 +38,10 @@ public:
                 break;
             case 3:
                 //eliminar
-                BM->modifyPage(nroBloque,2,"10");
+                BM->modifyPage(nroBloque,2,recordNum);
                 BM->deletePage(nroBloque);
                 break;
         }
-
         //BM->modifyPage(nroBloque,1);
         //BM->deletePage(nroBloque);
         BM->printStateBuffer();

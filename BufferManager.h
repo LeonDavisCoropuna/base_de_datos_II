@@ -46,9 +46,9 @@ public:
         });
         return it;
     }
-    void Eliminar(int idRegistro){
+    void Eliminar(string idRegistro){
         string data = bloq->cargarData();
-        ListIterator it = findRecord(to_string(idRegistro));
+        ListIterator it = findRecord(idRegistro);
         *it = "";
     }
     void generateList(){
@@ -95,7 +95,6 @@ public:
         for(auto i: page->linkedList){
             data += i + "\n";
         }
-        cout<<"DATAAAAAAAAAAAA"<<endl<<data<<endl;
         page->bloq->writeDisk(data);
         cout<<"Escribir en disco"<<endl;
     }
@@ -165,10 +164,8 @@ public:
                 break;
             case 2:
                 //eliminar
-                int del = stoi(record);
-                page->Eliminar(del);
+                page->Eliminar(record);
                 cout<<"Registro eliminado"<<endl;
-
                 break;
         }
 
