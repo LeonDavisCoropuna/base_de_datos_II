@@ -1,0 +1,15 @@
+196  1    1    Lurette, Miss. Elise                                                                      female 58        0    0    PC 17569            146.5208            B80                 C
+197  0    3    Mernagh, Mr. Robert                                                                       male             0    0    368703              7.75                                    Q
+198  0    3    Olsen, Mr. Karl Siegwart Andreas                                                          male   42        0    1    4579                8.4042                                  S
+199  1    3    "Madigan, Miss. Margaret "Maggie"                                                         female           0    0    370370              7.75                                    Q
+200  0    2    "Yrois, Miss. Henriette ("Mrs Harbeck")"                                                  female 24        0    0    248747              13                                      S
+201  0    3    Vande Walle, Mr. Nestor Cyriel                                                            male   28        0    0    345770              9.5                                     S
+202  0    3    Sage, Mr. Frederick                                                                       male             8    2    CA. 2343            69.55                                   S
+203  0    3    Johanson, Mr. Jakob Alfred                                                                male   34        0    0    3101264             6.4958                                  S
+204  0    3    Youseff, Mr. Gerious                                                                      male   45.5      0    0    2628                7.225                                   C
+205  1    3    "Cohen, Mr. Gurshon "Gus"                                                                 male   18        0    0    A/5 3540            8.05                                    S
+206  0    3    Strom, Miss. Telma Matilda                                                                female 2         0    1    347054              10.4625             G6                  S
+207  0    3    Backstrom, Mr. Karl Alfred                                                                male   32        1    0    3101278             15.85                                   S
+208  1    3    Albimona, Mr. Nassef Cassem                                                               male   26        0    0    2699                18.7875                                 C
+209  1    3    "Carr, Miss. Helen "Ellen"                                                                female 16        0    0    367231              7.75                                    Q
+210  1    1    Blank, Mr. Henry                                                                          male   40        0    0    112277              31                  A31                 C
