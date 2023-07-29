@@ -59,7 +59,6 @@ public:
         //BTree<int> btree(nKeys,nChildren);
         BTree *btree = new BTree(3);
 
-
         for(int i=0;i<directorioBloques.size();i++){
             btree->insert(i);
         }

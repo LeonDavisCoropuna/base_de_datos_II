@@ -10,7 +10,9 @@
 #include "DiskManager.h"
 #include <list>
 #include <algorithm>
+#include "ModifySector.h"
 using namespace std;
+
 
 class NodoRegistro{
 public:
@@ -28,9 +30,9 @@ public:
     int frame_id;   // Identificador del marco de la página en el buffer
     int pageId;     // Identificador único de la página
     Bloque *bloq;
-    using ListIterator = list<string>::iterator;
+    using ListIterator = vector<ModifySector>::iterator;
 
-    list <string> linkedList;
+    vector <vector<ModifySector>> linkedList;
     list <int> freeSpace;
 
     Page(int _pageId) : pageId(_pageId), bit_uso(1), pin_count(1), dirty_bit(false), frame_id(-1) {}
@@ -40,35 +42,54 @@ public:
     }
     ListIterator findRecord(string key) {
         int sizeKeyMagic = 5;
-        for(int i=key.size();i<sizeKeyMagic;i++) key += " ";
-        ListIterator it = find_if(linkedList.begin(), linkedList.end(), [&key](const string& element) {
-            return element.substr(0, key.size()) == key;
-        });
-        return it;
+        for (int i = key.size(); i < sizeKeyMagic; i++) {
+            key += " ";
+        }
+        int pos_record_file = 1;
+        int pos_record_bloq = 0;
+        for (auto it = linkedList.begin(); it != linkedList.end(); ++it) {
+            for (auto element = it->begin(); element != it->end(); ++element) {
+                if (element->data.substr(0, key.size()) == key) {
+                    element->linea = pos_record_file;
+                    element->sector = pos_record_bloq;
+                    return element; // Devolvemos un iterador que apunta al string encontrado dentro de registros
+                }
+                pos_record_file++;
+            }
+            pos_record_file = 1;
+            pos_record_bloq++;
+        }
+        return linkedList.end()->end(); // Si no se encuentra, devolvemos el iterador end() que indica "no encontrado"
+    }
+    void Insertar(string record){
+
     }
     void Eliminar(string idRegistro){
-        string data = bloq->cargarData();
         ListIterator it = findRecord(idRegistro);
-        *it = "";
+        (*it).dirty = 1;
+        (*it).data = "vacio";
     }
-    void generateList(){
-        const char * data = bloq->cargarData();
+    void generateList() {
+        vector<string> data = bloq->cargarData();
         size_t start = 0;
         size_t end = 0;
-
-        while (data[end] != '\0') {
-            if (data[end] == '\n') {
-                string value = string(data + start, data + end);
-                linkedList.push_back(value);
-                start = end + 1;
+        for (auto i : data) {
+            vector<ModifySector> registros;
+            while (end < i.size()) { // Cambiado de i[end] != '\0' a end < i.size()
+                if (i[end] == '\n') {
+                    string value = string(i.begin() + start, i.begin() + end); // Cambiado de i + start a i.begin() + start
+                    registros.push_back(ModifySector {value,0});
+                    start = end + 1;
+                }
+                end++;
             }
-            end++;
-        }
-
-        // Agregar el último elemento (si existe)
-        if (end > start) {
-            string value = string(data + start, data + end);
-            linkedList.push_back(value);
+            if (end > start) {
+                string value = string(i.begin() + start, i.begin() + end); // Cambiado de data + start a i.begin() + start
+                registros.push_back(ModifySector {value,0});
+            }
+            linkedList.push_back(registros);
+            start = 0; // Reiniciar los valores para el siguiente registro
+            end = 0;
         }
     }
 };
@@ -88,14 +109,15 @@ public:
         }
         return nullptr;
     }
-
     // Función para reemplazar una página en el buffer (política Clock)
     void writeDisk(Page *page){
-        string data;
+        vector<ModifySector> registros;
         for(auto i: page->linkedList){
-            data += i + "\n";
+            for(auto j: i){
+                if(j.dirty) registros.push_back(j);
+            }
         }
-        page->bloq->writeDisk(data);
+        page->bloq->writeDisk(registros);
         cout<<"Escribir en disco"<<endl;
     }
     void setBloq(int pageId,Bloque *bl) {
@@ -160,6 +182,7 @@ public:
         switch (opt) {
             case 1:
                 //insertar
+                page->Insertar(record);
                 cout<<"Regsitro insertado"<<endl;
                 break;
             case 2:

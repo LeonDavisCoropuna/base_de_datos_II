@@ -4,6 +4,10 @@
 #include "Disco.h"
 #ifndef BD2_BLOQUE_H
 #define BD2_BLOQUE_H
+#include "ModifySector.h"
+#include <algorithm>
+#include <cctype>
+#include <fstream>
 
 class Bloque{
 public:
@@ -16,43 +20,46 @@ public:
         disk = _disk;
         memoria_bloque = disk->memoriaSector*disk->sectorBloque;
     }
-    void writeDisk(string data) {
-        int temp = 0;
-        int memoriaMax = sectores[0]->capacidad;
-        int memoriaActual = memoriaMax;
-        istringstream iss(data);
-        string line;
+    void writeDisk(const std::vector<ModifySector>& data) {
+        for (const auto& i : data) {
+            std::fstream archivo(sectores[i.sector]->route, std::ios::in | std::ios::out | std::ios::binary);
 
-        // Abrir el archivo fuera del bucle para evitar reemplazar su contenido
-        ofstream archivo(sectores[temp]->route);
-
-        while (getline(iss, line)) {
-            int mDisponible = memoriaActual - line.size();
-            if (mDisponible >= 0) {
-                archivo << line << endl;
-                memoriaActual -= line.size() + 1; // +1 para contar el carácter de nueva línea
-            } else {
-                archivo.close(); // Cerrar el archivo actual antes de cambiar al siguiente
-                temp++;
-                if (temp >= sectores.size()) {
-                    cout << "No hay más sectores disponibles." << endl;
-                    return;
-                }
-                archivo.open(sectores[temp]->route);
-                memoriaActual = memoriaMax;
-                // No debemos olvidarnos de escribir la línea actual en el nuevo archivo abierto
-                archivo << line << endl;
-                memoriaActual -= line.size() + 1; // +1 para contar el carácter de nueva línea
+            if (!archivo) {
+                std::cerr << "Error al abrir el archivo: " << sectores[i.sector]->route << std::endl;
+                continue;
             }
+            string dato = i.data;
+            // Asegurarse de que el dato tenga el mismo tamaño que los demás registros, incluido el salto de línea
+            int size = dato.size();
+            int recordSize = 0;
+            std::string linea;
+            std::getline(archivo, linea);
+            if (!linea.empty()) {
+                recordSize = linea.size() + 1; // +1 para contar el salto de línea
+            }
+
+            if (size < recordSize) {
+                dato += std::string(recordSize - size - 3, ' ');
+            } else if (size > recordSize) {
+                dato.resize(recordSize - 1);
+            }
+
+            // Moverse a la posición de la línea a modificar
+            archivo.seekp((recordSize)*(i.linea - 1), std::ios::beg);
+            //for(int k=0;k<dato.length()+1;k++) cout<<"-"<<int(dato[k])<<"-";
+            //dato = dato.substr(0,dato.size()-1);
+            archivo.write(dato.c_str(), recordSize - 1); // Escribir el dato sin el salto de línea
+
+            archivo.close();
         }
     }
-
-    const char *cargarData(){
+    vector <string> cargarData(){
+        vector<string> data;
         for(auto i: sectores){
             if(i != 0)
-                data += i->getData();
+                data.push_back(i->getData());
         }
-        return data.c_str();
+        return data;
     }
 
     string getKeyData(){

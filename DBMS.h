@@ -20,7 +20,7 @@ public:
         DM = dm;
         BM = bm;
     }
-    void sql_Request(string recordNum,int opt)
+    void sql_Request(string data,int opt)
     {
         // idRegistro       route                                            bloque
         // 100              titanic/plato2/superficie1/pista4/sector5           3
@@ -35,10 +35,12 @@ public:
                 break;
             case 2:
                 //insertar
+                BM->modifyPage(nroBloque,1,data);
+                BM->deletePage(nroBloque);
                 break;
             case 3:
                 //eliminar
-                BM->modifyPage(nroBloque,2,recordNum);
+                BM->modifyPage(nroBloque,2,data);
                 BM->deletePage(nroBloque);
                 break;
         }
