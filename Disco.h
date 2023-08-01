@@ -1,6 +1,10 @@
 //
 // Created by leonf on 24/07/2023.
 //
+
+#ifndef BD2_DISCO_H
+#define BD2_DISCO_H
+#include <list>
 #include <iostream>
 #include <vector>
 #include <fstream>
@@ -8,12 +12,10 @@
 #include "sstream"
 #include <string>
 #include <cstring>
-
+#include <queue>
+#include "BTree.h"
 using namespace std;
 namespace fs = std::filesystem;
-#ifndef BD2_DISCO_H
-#define BD2_DISCO_H
-
 class Sector;
 class Pista;
 class Superficie;
@@ -24,7 +26,6 @@ public:
     string route;
     int memoriaDisponible;
     int capacidad;
-
     Sector(string _route,int _capacidad){
         route = _route;
         capacidad = _capacidad;
@@ -86,8 +87,11 @@ public:
     int memoriaSector;
     int sectorBloque;
     const int numSuperficies = 2;
+    queue <string> freeSpaceList;
     vector<Platos *> platos;
+    BPlusTree *btree;
     Disco(string _tableName,int num_platos,int pista,int sector,int memoria,int _sectorBloque){
+        btree = new BPlusTree(10);
         nameDisk = _tableName;
         numPlatos = num_platos;
         numPista = pista;
@@ -111,9 +115,39 @@ public:
         platos.resize(numPlatos,0);
 
     }
-
+    void loadFreeSpace(){
+        ifstream archiveFreeSpace(nameDisk+"/freeSpace.txt");
+        string linea;
+        while(getline(archiveFreeSpace,linea)){
+            cout<<linea<<endl;
+            freeSpaceList.push(linea);
+        }
+    }
+    string getFreeSpace(){
+        loadFreeSpace();
+        string top = freeSpaceList.front();
+        freeSpaceList.pop();
+        return top;
+    }
+    void updateFreeSpace(){
+        ofstream free(nameDisk+"/freeSpace.txt");
+        while (!freeSpaceList.empty()) {
+            free<< freeSpaceList.front()<<endl; // Acceder al elemento frontal de la cola
+            freeSpaceList.pop(); // Eliminar el elemento frontal de la cola
+        }
+    }
+    void makeBPlusTree(string id,int lineaSector,int secBloc,int bloque){
+        try{
+            btree->insert(stoi(id)," " + to_string(bloque)+" "+ to_string(secBloc) + " " + to_string(lineaSector));
+        } catch (const std::invalid_argument& e){
+            std::cerr << "Error de argumento: " << e.what() << std::endl;
+        }
+    };
+    void generateBPlusTreeFile(){
+        ofstream  btreeFile(nameDisk+"/bPlusTree.txt");
+        btree->print(btreeFile);
+    }
     void loadDisk(){
-
         for(int i=0;i<numPlatos;i++){
             platos[i] = new Platos(numPlatos);
             for(int j=0;j<numSuperficies;j++){
@@ -125,9 +159,7 @@ public:
                                                                                                                         to_string(m)+".txt";                        string routeB = "/pista"+to_string(k)+"/sector"+ to_string(m)+".txt";
                         platos[i]->superficies[j]->pistas[k]->sectores[m] = new Sector(route,memoriaSector);
                     }
-
                 }
-
             }
         }
     }
@@ -183,6 +215,9 @@ public:
         ifstream file("files/"+nameDisk+".txt");
         string linea;
         bool band = 1;
+        int idBloq = 0;
+        int temp = 1;
+        int lineaFile = 0;
         while(getline(file,linea)){
             // Procesa la combinación actual de índices (currentPlato, currentSuperficie, currentPista, currentSector)
             fs::path route = nameDisk+"/plato"+ to_string(currentIndexes[0])+"/superficie"+to_string(currentIndexes[1])+"/pista"+to_string(currentIndexes[2])+"/";
@@ -192,6 +227,8 @@ public:
                 if(!(fileSize + linea.length() > memoriaSector)) {
                     ofstream file("sector"+to_string(currentIndexes[3])+".txt",ios::app);
                     file<<linea<<endl;
+                    lineaFile++;
+                    makeBPlusTree(linea.substr(0,5),lineaFile,(temp-1)%sectorBloque,idBloq);
                     band = 1;
                 }
                 else{
@@ -206,12 +243,18 @@ public:
                         cout<<"Disco lleno";
                         break;
                     }
+
                     if(band){
+                        if(temp%sectorBloque == 0) { idBloq++;}
+                        temp++;
+
                         fs::current_path(initialPath);
                         fs::path routeA = nameDisk+"/plato"+ to_string(currentIndexes[0])+"/superficie"+to_string(currentIndexes[1])+"/pista"+to_string(currentIndexes[2])+"/";
                         fs::current_path(routeA);
                         ofstream file("sector"+to_string(currentIndexes[3])+".txt",ios::app);
                         file<<linea<<endl;
+                        lineaFile = 1;
+                        makeBPlusTree(linea.substr(0,5),lineaFile,(temp-1)%sectorBloque,idBloq);
                         band = 0;
                     }
                 }
@@ -222,6 +265,8 @@ public:
             }
             fs::current_path(initialPath);
         }
+
     }
+
 };
 #endif

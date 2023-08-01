@@ -11,14 +11,21 @@
 #include "BufferManager.h"
 #include "DiskManager.h"
 #include "BTree.h"
+#include <sstream>
 
 class DBMS{
 public:
     BufferManager *BM;
     DiskManager * DM;
+
     DBMS(DiskManager *dm, BufferManager* bm){
         DM = dm;
         BM = bm;
+    }
+    string getFreeSpace(){
+        string data = DM->disk->getFreeSpace();
+        DM->disk->updateFreeSpace();
+        return data;
     }
     void sql_Request(string data,int opt)
     {
@@ -29,20 +36,32 @@ public:
 
         BM->insertPage(nroBloque,bloq);
         //BM->modifyPage(nroBloque,2);
+
         switch (opt) {
             case 1:
                 //select
                 break;
-            case 2:
-                //insertar
-                BM->modifyPage(nroBloque,1,data);
+            case 2: {
+                string freeSpaceDisk = getFreeSpace();
+                std::istringstream iss(freeSpaceDisk);
+                string bloq;
+                string bloqSector;
+                string lineSector;
+                iss >> bloq;
+                iss >> bloqSector;
+                iss >> lineSector;
+
+                string dataInsert = bloqSector + "#" + lineSector + "#" + data;
+                cout<<dataInsert<<endl;
+                BM->modifyPage(stoi(bloq), 1, dataInsert);
+                BM->deletePage(stoi(bloq));
+                break;
+            }
+            case 3: {//eliminar
+                BM->modifyPage(nroBloque, 2, data);
                 BM->deletePage(nroBloque);
                 break;
-            case 3:
-                //eliminar
-                BM->modifyPage(nroBloque,2,data);
-                BM->deletePage(nroBloque);
-                break;
+            }
         }
         //BM->modifyPage(nroBloque,1);
         //BM->deletePage(nroBloque);

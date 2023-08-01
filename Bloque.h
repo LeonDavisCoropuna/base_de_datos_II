@@ -15,11 +15,13 @@ public:
     Disco * disk;
     string data;
     int memoria_bloque;
+
     Bloque(Disco *_disk){
         data = "";
         disk = _disk;
         memoria_bloque = disk->memoriaSector*disk->sectorBloque;
     }
+
     void writeDisk(const std::vector<ModifySector>& data) {
         for (const auto& i : data) {
             std::fstream archivo(sectores[i.sector]->route, std::ios::in | std::ios::out | std::ios::binary);
@@ -37,19 +39,15 @@ public:
             if (!linea.empty()) {
                 recordSize = linea.size() + 1; // +1 para contar el salto de línea
             }
-
             if (size < recordSize) {
-                dato += std::string(recordSize - size - 3, ' ');
+                dato += std::string(recordSize - size - 2, ' ');
             } else if (size > recordSize) {
-                dato.resize(recordSize - 1);
+                dato.resize(recordSize+1);
             }
 
-            // Moverse a la posición de la línea a modificar
             archivo.seekp((recordSize)*(i.linea - 1), std::ios::beg);
-            //for(int k=0;k<dato.length()+1;k++) cout<<"-"<<int(dato[k])<<"-";
-            //dato = dato.substr(0,dato.size()-1);
+            dato += "\0";
             archivo.write(dato.c_str(), recordSize - 1); // Escribir el dato sin el salto de línea
-
             archivo.close();
         }
     }
@@ -61,7 +59,6 @@ public:
         }
         return data;
     }
-
     string getKeyData(){
         string keys = "";
         for(auto i: sectores){
@@ -72,6 +69,5 @@ public:
     }
 
 };
-
 
 #endif //BD2_BLOQUE_H

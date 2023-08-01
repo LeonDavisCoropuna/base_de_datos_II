@@ -62,6 +62,17 @@ public:
         return linkedList.end()->end(); // Si no se encuentra, devolvemos el iterador end() que indica "no encontrado"
     }
     void Insertar(string record){
+        std::istringstream iss(record);
+        std::vector<std::string> partes;
+        std::string palabra;
+        while (std::getline(iss, palabra, '#')) {
+            partes.push_back(palabra);
+        }
+        auto *it = &linkedList[stoi(partes[0])][stoi(partes[1])];
+        (*it).data = partes[2];
+        (*it).linea = stoi(partes[1]);
+        (*it).dirty = 1;
+        (*it).sector =stoi(partes[0]) ;
 
     }
     void Eliminar(string idRegistro){
@@ -194,8 +205,12 @@ public:
 
     }
     void realeasePage(int idPage){
-        if(findPage(idPage))
-            findPage(idPage)->pin_count--;
+        Page *page = findPage(idPage);
+        if(page)
+            page->pin_count--;
+        if(page->pin_count == 0){
+            deletePage(idPage);
+        }
     }
     void deletePage(int idPage){
         Page *page = findPage(idPage);
