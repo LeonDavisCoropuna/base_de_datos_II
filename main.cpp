@@ -36,17 +36,16 @@ int main() {
     disco = new Disco("titanic",5,5,10,3000,5);
     disco->createDisk();
     disco->loadDisk();
-    int searchKey = 891;
-    Node * find = disco->btree->search(searchKey);
-    if(find){
-        for(auto i : find->keys){
-            if (find->keys[i] == searchKey){
-                std::string value = disco->btree->data[find->keys[i]];
-                std::cout << "Clave: " << find->keys[i] << ", Valor: " << value << std::endl;
-            }
-        }
-    }
-    disco->generateBPlusTreeFile();
+    disco->btree->bpt_print();
+    //disco->btree->remove(43);
+
+    Item<int> noddde = disco->btree->searchItemById(44);
+    cout<<noddde.key<<"-"<<noddde.route;
+     /*
+    Node <int> *nodde = disco->btree->searchItemByRange(44);
+    for(int i=0;i<nodde->size;i++)
+        cout<<nodde->item[i].key<<"-";
+*/
 /*
     Disco *disco = new Disco("titanic");
     disco->loadDisk();

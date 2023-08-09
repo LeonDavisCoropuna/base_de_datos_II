@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module classpath="CIDR" type="CPP_MODULE" version="4" />
+<module classpath="CIDR" type="CPP_MODULE" version="4">
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="295cba8e-14ee-4778-ac05-0158343d70fb" />
+  </component>
+</module>

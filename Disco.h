@@ -89,9 +89,9 @@ public:
     const int numSuperficies = 2;
     queue <string> freeSpaceList;
     vector<Platos *> platos;
-    BPlusTree *btree;
+    BPlusTree <int>*btree;
     Disco(string _tableName,int num_platos,int pista,int sector,int memoria,int _sectorBloque){
-        btree = new BPlusTree(10);
+        btree = new BPlusTree<int>(10);
         nameDisk = _tableName;
         numPlatos = num_platos;
         numPista = pista;
@@ -138,14 +138,16 @@ public:
     }
     void makeBPlusTree(string id,int lineaSector,int secBloc,int bloque){
         try{
-            btree->insert(stoi(id)," " + to_string(bloque)+" "+ to_string(secBloc) + " " + to_string(lineaSector));
+            Item<int> item = {stoi(id),to_string(bloque)+" "+ to_string(secBloc) + " " + to_string(lineaSector)};
+            btree->insert(item);
+            //btree->insert(stoi(id)," " + to_string(bloque)+" "+ to_string(secBloc) + " " + to_string(lineaSector));
         } catch (const std::invalid_argument& e){
             std::cerr << "Error de argumento: " << e.what() << std::endl;
         }
     };
     void generateBPlusTreeFile(){
         ofstream  btreeFile(nameDisk+"/bPlusTree.txt");
-        btree->print(btreeFile);
+        //btree->print(btreeFile);
     }
     void loadDisk(){
         for(int i=0;i<numPlatos;i++){
@@ -269,4 +271,5 @@ public:
     }
 
 };
+
 #endif
