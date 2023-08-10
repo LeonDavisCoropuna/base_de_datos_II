@@ -1,0 +1,21 @@
+19698audi        Audi A3                white 01/2020   2020     21690     85          116         Manual        Petrol                        0 g/km           13221  Sportback 1.0 T
+19699audi        Audi A3                white 01/2020   2020     21950     110         150         Automatic     Diesel       4.6 l/100 km     120 g/km         83317  35 TDI S tronic
+19700audi        Audi A6                white 10/2020   2020     55970     185         252         Automatic     Hybrid       1.9 l/100 km     43 g/km          54930  TFSIe 2x S-Line
+19701audi        Audi SQ7               white 06/2020   2020     89990     320         435         Automatic     Diesel       7.2 l/100 km     189 g/km         49800  4.0 TDI quattro
+19702audi        Audi TT                white 10/2020   2020     35980     145         197         Automatic     Petrol       6 l/100 km       137 g/km         24600  Coupe 2.0 TFSI 
+19703audi        Audi TT                white 05/2020   2020     38948     145         197         Automatic     Petrol       7 l/100 km       158 g/km         23026  40 TFSI Coupé 
+19704audi        Audi A1                white 07/2020   2020     22930     85          116         Automatic     Petrol       6.4 l/100 km     144 g/km         24629  30 TFSI S-trnc 
+19705audi        Audi S6                white 05/2020   2020     54849     257         349         Automatic     Diesel       6.2 l/100 km     203 g/km         59998  3.0 TDI quattro
+19706audi        Audi A5                white 05/2020   2020     35990     140         190         Automatic     Petrol       4.1 l/100 km     108 g/km         55050  Sportback 40 TF
+19707audi        Audi S6                white 03/2020   2020     57545     257         349         Automatic     Diesel       6.5 l/100 km     171 g/km         93100  3.0 TDI quattro
+19708audi        Audi Q3                white 03/2020   2020     31750     140         190         Automatic     Petrol       5.9 l/100 km     165 g/km         60130  40 TFSI Sport V
+19709audi        Audi A1                white 03/2020   2020     24590     110         150         Automatic     Petrol       5.1 l/100 km     116 g/km         38266  Sportback 35 TF
+19710audi        Audi Q2                white 06/2020   2020     23890     110         150         Automatic     Petrol       6.6 l/100 km     150 g/km         37413  35 TFSI sport S
+19711audi        Audi A4                white 02/2020   2020     33480     210         286         Automatic     Diesel       7.1 l/100 km     186 g/km         137697 AVANT 50 TDi 2x
+19712audi        Audi S6                white 01/2020   2020     64340     257         349         Automatic     Diesel                        - (g/km)         60940  Avant 3.0 TDI q
+19713audi        Audi Q3                white 05/2020   2020     28980     110         150         Manual        Diesel                        0 g/km           99100  35 TDI advanced
+19714audi        Audi A6                white 01/2020   2020     45990     150         204         Automatic     Diesel                        0 g/km           43610  Avant 40 TDI Q.
+19715audi        Audi A5                white 10/2020   2020     35090     195         265         Automatic     Petrol       6.8 l/100 km     168 g/km         21000  45 TFSI quattro
+19716audi        Audi Q5                white 05/2020   2020     46900     170         231         Automatic     Diesel       6.3 l/100 km     165 g/km         20275  45 TDI S-Line P
+19717audi        Audi Q8                orange03/2020   2020     69990     210         286         Automatic     Diesel       6.8 l/100 km     179 g/km         113765 "50 TDI 2x S-li
+19718audi        Audi Q3                orange03/2020   2020     38800     140         190         Automatic     Diesel       7.3 l/100 km     193 g/km         66100  S line 40 TDI q

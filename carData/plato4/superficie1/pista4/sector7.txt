@@ -1,0 +1,21 @@
+19887audi        Audi A5                grey  05/2021   2021     38900     150         204         Automatic     Petrol       5.7 l/100 km     130 g/km         15500  SB 40 TFSI quat
+19888audi        Audi A5                grey  09/2021   2021     35500     110         150         Automatic     Petrol       6.2 l/100 km     - (g/km)         17000  A5 Sportback 35
+19889audi        Audi RS Q8             grey  07/2021   2021     137900    441         600         Automatic     Petrol       12.1 l/100 km    276 g/km         13172  4.0 TFSI Quattr
+19890audi        Audi Q4 e-tron         grey  08/2021   2021     52950     150         204         Automatic     Electric                      466 km Reichweite29103  e-tron 40 S-Lin
+19891audi        Audi A4                grey  03/2021   2021     38790     150         204         Automatic     Petrol       5.9 l/100 km     131 g/km         28900  "Avant TFSI S l
+19892audi        Audi                   grey  02/2021   2021     82950     350         476         Automatic     Electric                      463 km Reichweite4780   qu. 21 LASER B&
+19893audi        Audi A8                grey  07/2021   2021     74486     210         286         Automatic     Diesel       7.5 l/100 km     199 g/km         12152  Lang 50TDI Spor
+19894audi        Audi S6                grey  01/2021   2021     71280     253         344         Automatic     Diesel       6.4 l/100 km     171 g/km         24500  3.0 TDI quattro
+19895audi        Audi Q4 e-tron         grey  06/2021   2021     59920     220         299         Automatic     Electric                      412 km Reichweite22458  50 quattro S Li
+19896audi        Audi TT RS             grey  03/2021   2021     63000     294         400         Automatic     Petrol                        - (g/km)         8000   5J Gar. ASR Kla
+19897audi        Audi e-tron            grey  04/2021   2021     87900     350         476         Automatic     Electric                      0 g/km           26428  GT  qu. Matrix*
+19898audi        Audi R8                grey  10/2021   2021     166780    456         620         Automatic     Petrol                        - (g/km)         26940  Coupe V10 quatt
+19899audi        Audi Q3                grey  06/2021   2021     36990     180         245         Automatic     Hybrid       1.4 l/100 km     33 g/km          19485  45 TFSI e S-lin
+19900audi        Audi S4                grey  07/2021   2021     47900     251         341         Automatic     Petrol                        - (g/km)         19275  Lim. quattro*Ca
+19901audi        Audi e-tron GT         grey  07/2021   2021     84420     350         476         Automatic     Electric                      452 km Reichweite9998   e-tron GT qu 20
+19902audi        Audi Q3                grey  09/2021   2021     39200     140         190         Automatic     Petrol       6.7 l/100 km     - (g/km)         15000  40 TFSI quattro
+19903audi        Audi Q2                grey  05/2021   2021     31900     110         150         Automatic     Petrol       6.4 l/100 km     146 g/km         15000  35 TFSI S line 
+19904audi        Audi RS Q3             grey  10/2021   2021     62980     294         400         Automatic     Petrol       9 l/100 km       206 g/km         2117   Sportback 2.5 T
+19905audi        Audi A3                grey  04/2021   2021     27888     110         150         Manual        Diesel       4.2 l/100 km     109 g/km         82292  LIMOUSINE 35TDi
+19906audi        Audi S6                grey  04/2021   2021     66747     253         344         Automatic     Diesel       7.3 l/100 km     192 g/km         43379  TDI B&O Sportsi
+19907audi        Audi A7                grey  03/2021   2021     53888     220         299         Automatic     Hybrid                        61 km Reichweite 18695  SPORTBACK 50TFS

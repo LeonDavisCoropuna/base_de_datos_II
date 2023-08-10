@@ -1,0 +1,25 @@
+775  alfa-romeo  Alfa Romeo Stelvio     red   10/2019   2019     29600     118         160         Automatic     Diesel       5.4 l/100 km     142 g/km         56900  2.2 JTDM Busine
+776  alfa-romeo  Alfa Romeo Giulia      red   11/2019   2019     38500     206         280         Automatic     Petrol       7.7 l/100 km     178 g/km         85000  2.0 Turbo 16V A
+777  alfa-romeo  Alfa Romeo Stelvio     red   03/2019   2019     59900     375         510         Automatic     Petrol       9.8 l/100 km     227 g/km         45499  Quadrifoglio Q4
+778  alfa-romeo  Alfa Romeo Stelvio     red   02/2019   2019     28990     154         209         Automatic     Diesel       5.6 l/100 km     147 g/km         51035  MY19 Super 2.2 
+779  alfa-romeo  Alfa Romeo Stelvio     red   07/2019   2019     33499     206         280         Automatic     Petrol       8 l/100 km       186 g/km         41500  B-Tech Q4 Aut. 
+780  alfa-romeo  Alfa Romeo Stelvio     red   02/2019   2019     30980     206         280         Automatic     Petrol       7 l/100 km       161 g/km         42759  Q4 2.0 Turbo AT
+781  alfa-romeo  Alfa Romeo Stelvio     red   05/2019   2019     45990     375         510         Unknown       Petrol       9 l/100 km       210 g/km         120200 Quadrifoglio Al
+782  alfa-romeo  Alfa Romeo Stelvio     red   01/2019   2019     27998     118         160         Automatic     Diesel                        0 g/km           65000  2.2 Diesel 16V 
+783  alfa-romeo  Alfa Romeo Stelvio     red   06/2019   2019     26000     147         200         Automatic     Petrol       8 l/100 km       - (g/km)         82000  2.0 Turbo 16V A
+784  alfa-romeo  Alfa Romeo Giulietta   red   08/2019   2019     17990     88          120         Manual        Petrol       7.4 l/100 km     170 g/km         26145  1.4 TB 16V KLIM
+785  alfa-romeo  Alfa Romeo Stelvio     red   05/2019   2019     37500     140         190         Automatic     Diesel       6.1 l/100 km     160 g/km         55000  B-Tech Q4 (630)
+786  alfa-romeo  Alfa Romeo Stelvio     red   09/2019   2019     25940     118         160         Automatic     Diesel       5.3 l/100 km     139 g/km         93151  Business 2WD Ca
+787  alfa-romeo  Alfa Romeo Stelvio     red   11/2019   2019     24950     110         150         Automatic     Diesel       4.7 l/100 km     124 g/km         90000  2.2d Aut Super 
+788  alfa-romeo  Alfa Romeo Stelvio     red   02/2019   2019     30690     140         190         Automatic     Diesel                        0 g/km           79750  B-Tech 2.2 Dies
+789  alfa-romeo  Alfa Romeo Stelvio     red   07/2019   2019     36900     206         280         Automatic     Petrol       8 l/100 km       184 g/km         34990  Super 2.0 Turbo
+790  alfa-romeo  Alfa Romeo Stelvio     red   09/2019   2019     32450     154         209         Automatic     Diesel       6.1 l/100 km     169 g/km         93319  Lusso Q4 1.HAND
+791  alfa-romeo  Alfa Romeo Stelvio     black 10/2019   2019     36050     154         209         Automatic     Diesel       6.1 l/100 km     171 g/km         45150  Super Q4 1.H+PA
+792  alfa-romeo  Alfa Romeo Giulia      black 01/2019   2019     18980     100         136         Automatic     Diesel                        109 g/km         125661 2.2 JTDM T-Lede
+793  alfa-romeo  Alfa Romeo Giulia      black 05/2019   2019     101950    375         510         Manual        Petrol                        - (g/km)         25850  GIULIA 510PS MT
+794  alfa-romeo  Alfa Romeo Giulia      black 04/2019   2019     28890     147         200         Automatic     Petrol       7.1 l/100 km     164 g/km         51500  B-Tech 2.0 Turb
+795  alfa-romeo  Alfa Romeo Giulia      black 06/2019   2019     28990     147         200         Automatic     Petrol       7.1 l/100 km     164 g/km         55500  Super 2.0 Turbo
+796  alfa-romeo  Alfa Romeo Giulia      black 02/2019   2019     38650     206         280         Automatic     Petrol       9.2 l/100 km     208 g/km         22950  GIULIA 280PS Q4
+797  alfa-romeo  Alfa Romeo Stelvio     black 01/2019   2019     27000     140         190         Automatic     Diesel       5.9 l/100 km     155 g/km         43000  2.2 Diesel 16V 
+798  alfa-romeo  Alfa Romeo Giulia      black 04/2019   2019     59900     375         510         Automatic     Petrol       8.5 l/100 km     236 g/km         35477  2.9 V6 Quadrifo
+799  alfa-romeo  Alfa Romeo Giulietta   black 12/2019   2019     18900     88          120         Manual        Petrol       8.6 l/100 km     190 g/km         29000  1.4 TB 16V Supe

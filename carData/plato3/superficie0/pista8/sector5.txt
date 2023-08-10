@@ -1,0 +1,21 @@
+14385audi        Audi A4                white 08/2017   2017     21500     110         150         Manual        Petrol       5.5 l/100 km     131 g/km         50000  Limousine 1.4 T
+14386audi        Audi A3                white 08/2017   2017     19999     110         150         Automatic     Diesel       4.6 l/100 km     119 g/km         79000  2-0 TDI Sportba
+14387audi        Audi SQ7               white 06/2017   2017     38800     320         435         Automatic     Diesel       7.6 l/100 km     199 g/km         198800 4.0 TDI quattro
+14388audi        Audi TT                white 10/2017   2017     32290     169         230         Automatic     Petrol       - (l/100 km)     - (g/km)         72982  S Line Competit
+14389audi        Audi Q2                white 10/2017   2017     23980     140         190         Automatic     Petrol       6.4 l/100 km     146 g/km         64000  2.0 TFSI quattr
+14390audi        Audi A6                white 09/2017   2017     36990     240         326         Automatic     Diesel       6.4 l/100 km     169 g/km         93000  A6 3.0 TDI Avan
+14391audi        Audi Q5                white 08/2017   2017     34450     140         190         Automatic     Diesel       5.3 l/100 km     138 g/km         50000  40 TDI QUATTRO 
+14392audi        Audi A4                white 09/2017   2017     22770     140         190         Manual        Petrol       5.6 l/100 km     129 g/km         53033  Avant 2.0 TFSI 
+14393audi        Audi TT                white 02/2017   2017     22879     135         184         Manual        Diesel       4.3 l/100 km     114 g/km         113754 Coupé 2.0 TDI 
+14394audi        Audi Q5                white 06/2017   2017     28950     140         190         Automatic     Diesel       4.9 l/100 km     129 g/km         92     2.0TDI+Bi-Xen+K
+14395audi        Audi A4                white 10/2017   2017     27579     185         252         Automatic     Petrol       6.1 l/100 km     142 g/km         51392  "Avant sport 2.
+14396audi        Audi A3                white 08/2017   2017     19790     110         150         Automatic     Petrol       1.8 l/100 km     40 g/km          69999  1.4 TFSI e-tron
+14397audi        Audi TT                white 05/2017   2017     24999     169         230         Manual        Petrol       6.2 l/100 km     144 g/km         70640  Roadster 2.0 TF
+14398audi        Audi A3                white 08/2017   2017     19790     110         150         Automatic     Hybrid       1.8 l/100 km     40 g/km          69999  1.4 TFSI e-tron
+14399audi        Audi A3                white 02/2017   2017     23850     150         204         Automatic     Hybrid       1.7 l/100 km     38 g/km          54900  Sport 1.4 TFSI 
+14400audi        Audi A3                white 03/2017   2017     23890     150         204         Automatic     Hybrid                        320 km Reichweite29700  e-tron Sport 1.
+14401audi        Audi A6                white 10/2017   2017     24990     140         190         Automatic     Diesel       4.2 l/100 km     109 g/km         109800 Lim. 2.0 TDI ul
+14402audi        Audi SQ7               white 12/2017   2017     49900     320         435         Automatic     Diesel       7.6 l/100 km     199 g/km         171632 "Standhz 21"" A
+14403audi        Audi A6                white 09/2017   2017     26990     140         190         Automatic     Diesel       4.7 l/100 km     114 g/km         88500  Avant 2.0 TDI S
+14404audi        Audi A6                white 12/2017   2017     35900     140         190         Automatic     Diesel       5.4 l/100 km     141 g/km         49900  Avant 2.0 TDI q
+14405audi        Audi R8                white 03/2017   2017     93998     449         610         Automatic     Petrol       12.3 l/100 km    287 g/km         149898 Coupe R8 V10 Pl

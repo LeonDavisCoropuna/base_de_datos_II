@@ -1,0 +1,25 @@
+13950audi        Audi A5                black 11/2017   2017     23199     140         190         Manual        Diesel       4.4 l/100 km     114 g/km         105846 Sportback 2.0 T
+13951audi        Audi A6                black 12/2017   2017     48000     240         326         Automatic     Diesel       6.4 l/100 km     - (g/km)         64000  Avant 3.0 TDI c
+13952audi        Audi A4                black 11/2017   2017     23900     140         190         Automatic     Diesel       4.7 l/100 km     123 g/km         95740  Avant quattro 2
+13953audi        Audi A8                black 11/2017   2017     51800     210         286         Automatic     Diesel       6.5 l/100 km     170 g/km         111189 A8 50 TDI quatt
+13954audi        Audi A4                black 11/2017   2017     19885     140         190         Manual        Diesel       4.6 l/100 km     121 g/km         99985  Avant = Navigat
+13955audi        Audi A5                black 02/2017   2017     26000     140         190         Automatic     Diesel       4.1 l/100 km     107 g/km         26252  basis Coupe (F5
+13956audi        Audi R8                black 06/2017   2017     129800    449         610         Automatic     Petrol       12.3 l/100 km    287 g/km         37900  Coupe 5.2 FSI V
+13957audi        Audi SQ7               black 03/2017   2017     47860     320         435         Automatic     Diesel       7.6 l/100 km     199 g/km         169000 4.0 TDI quattro
+13958audi        Audi Q2                black 11/2017   2017     15990     110         150         Manual        Petrol       5.8 l/100 km     130 g/km         73954  1.4 TFSI #S-LIN
+13959audi        Audi A6                black 12/2017   2017     31990     140         190         Automatic     Diesel                        0 g/km           56433  2.0TDI Quattro*
+13960audi        Audi A8                black 12/2017   2017     52600     210         286         Automatic     Diesel       5.8 l/100 km     152 g/km         80000  50 TDI L Quattr
+13961audi        Audi A5                black 11/2017   2017     26900     140         190         Automatic     Diesel       4.5 l/100 km     - (g/km)         98000  A5 Sportback 2.
+13962audi        Audi A6                black 06/2017   2017     31649     200         272         Automatic     Diesel       5.3 l/100 km     138 g/km         104000 Avant 3.0| LUFT
+13963audi        Audi SQ7               black 03/2017   2017     54990     320         435         Automatic     Diesel       7.6 l/100 km     199 g/km         149900 4.0 TDI*QUATTRO
+13964audi        Audi A4                black 12/2017   2017     18000     140         190         Automatic     Diesel       4.7 l/100 km     123 g/km         197000 quattro* Virtua
+13965audi        Audi A3                black 05/2017   2017     17450     110         150         Manual        Petrol       5 l/100 km       115 g/km         77920  Sportback sport
+13966audi        Audi A5                black 07/2017   2017     25499     140         190         Automatic     Diesel       4.2 l/100 km     109 g/km         119305 Sportback Sport
+13967audi        Audi A6                black 01/2017   2017     27950     245         333         Automatic     Petrol       7.4 l/100 km     172 g/km         73242  3.0 T QUATTRO*S
+13968audi        Audi A4                black 05/2017   2017     20990     140         190         Manual        Diesel       4.5 l/100 km     118 g/km         115000 Lim. design / N
+13969audi        Audi A5                black 07/2017   2017     25880     200         272         Automatic     Diesel       5.3 l/100 km     139 g/km         150000 SB 40 TDI qu S 
+13970audi        Audi S8                black 11/2017   2017     54990     445         605         Automatic     Petrol       10 l/100 km      231 g/km         74000  4.0 TFSI quattr
+13971audi        Audi A5                black 07/2017   2017     25880     200         272         Automatic     Diesel       5.3 l/100 km     139 g/km         150000 SB 40 TDI qu S 
+13972audi        Audi A6                black 01/2017   2017     32500     240         326         Automatic     Diesel       5.8 l/100 km     164 g/km         110000 Avant 3.0TDI Co
+13973audi        Audi A8                black 07/2017   2017     42990     320         435         Automatic     Petrol       9.3 l/100 km     214 g/km         45000  4.0 TFSI quattr
+13974audi        Audi A4                black 07/2017   2017     17850     140         190         Manual        Petrol       5.6 l/100 km     128 g/km         138000 Avant sport ult

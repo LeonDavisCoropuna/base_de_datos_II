@@ -1,0 +1,21 @@
+16548audi        Audi Q2                orange12/2018   2018     47990     85          116         Manual        Petrol       5.4 l/100 km     122 g/km         27000  30 TFSI sport  
+16549audi        Audi A4 allroad        gold  05/2018   2018     25300     120         163         Automatic     Diesel       5.1 l/100 km     134 g/km         250000 2.0 TDI Quattro
+16550audi        Audi A6                gold  07/2018   2018     40900     140         190         Automatic     Diesel       4.7 l/100 km     118 g/km         63451  2.0 TDI Ultra A
+16551audi        Audi Q7                gold  03/2018   2018     78689     210         286         Automatic     Diesel       5.9 l/100 km     154 g/km         163000 3.0 TDI quattro
+16552audi        Audi e-tron            beige 09/2019   2019     51888     300         408         Automatic     Electric                      359 km Reichweite84800  55 Advanced Qua
+16553audi        Audi A7                beige 05/2019   2019     38999     150         204         Automatic     Diesel       4.9 l/100 km     127 g/km         150000 Sportback 40 TD
+16554audi        Audi A6                beige 10/2019   2019     44985     150         204         Automatic     Diesel       4.9 l/100 km     129 g/km         68533  40 TDI sport- M
+16555audi        Audi A6                beige 08/2019   2019     51990     180         245         Automatic     Petrol       6.8 l/100 km     156 g/km         47300  45 TFSI quattro
+16556audi        Audi S6                beige 10/2019   2019     20950     257         349         Automatic     Diesel       6.5 l/100 km     171 g/km         92000  Avant 3.0 TDI q
+16557audi        Audi A1                beige 02/2019   2019     79444     85          116         Automatic     Petrol       4.9 l/100 km     111 g/km         76282  Sportback 30 TF
+16558audi        Audi Q8                beige 11/2019   2019     56930     210         286         Automatic     Diesel       8.1 l/100 km     212 g/km         60000  STNDH PANO AHK 
+16559audi        Audi e-tron            beige 07/2019   2019     53990     300         408         Automatic     Electric                      359 km Reichweite51000  55 quattro adva
+16560audi        Audi A7                beige 11/2019   2019     43689     210         286         Automatic     Diesel       5.8 l/100 km     150 g/km         101336 Sportback 50TDI
+16561audi        Audi e-tron            beige 11/2019   2019     54870     300         408         Automatic     Electric                      0 g/km           82814  +ADVANCED+55+PA
+16562audi        Audi A6                beige 03/2019   2019     46990     210         286         Automatic     Diesel Hybrid5.9 l/100 km     155 g/km         32900  50 TDI quattro 
+16563audi        Audi A6                beige 03/2019   2019     46990     210         286         Automatic     Diesel       5.9 l/100 km     155 g/km         32900  50 TDI quattro 
+16564audi        Audi A6                beige 08/2019   2019     47990     250         340         Automatic     Petrol       7.2 l/100 km     163 g/km         38922  Avant 55 TFSI Q
+16565audi        Audi S6                beige 12/2019   2019     51890     257         349         Automatic     Diesel       6.5 l/100 km     171 g/km         75331  Avant 3.0 TDI q
+16566audi        Audi A6                beige 05/2019   2019     34890     170         231         Automatic     Diesel Hybrid5.8 l/100 km     150 g/km         92320  "Lim. 3.0 TDI q
+16567audi        Audi S6                beige 10/2019   2019     51450     257         349         Automatic     Diesel       8 l/100 km       "209             8 g/km"67754          
+16568audi        Audi A6                beige 09/2019   2019     47440     210         286         Automatic     Diesel       5.5 l/100 km     190 g/km         45229  50 TDI sport *2

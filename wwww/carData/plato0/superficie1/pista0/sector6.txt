@@ -1,0 +1,25 @@
+2650 audi        Audi A3                grey  07/2005   2005     6200      75          102         Automatic     Petrol       7.7 l/100 km     - (g/km)         177659 1.6 Sportback t
+2651 audi        Audi A8                grey  01/2005   2005     3290      202         275         Automatic     Diesel       9.8 l/100 km     260 g/km         324000 4.0 TDI quattro
+2652 audi        Audi A3                black 10/2005   2005     3000      103         140         Automatic     Diesel       5.9 l/100 km     159 g/km         226580 2.0 TDI Attract
+2653 audi        Audi A3                black 06/2005   2005     2700      103         140         Manual        Diesel       5.7 l/100 km     154 g/km         252000 Sportback 2.0 T
+2654 audi        Audi TT                black 02/2005   2005     2600      110         150         Manual        Petrol       8.2 l/100 km     197 g/km         220000 1.8 T Coupe (11
+2655 audi        Audi A4                black 04/2005   2005     2800      147         200         Manual        Petrol       8 l/100 km       192 g/km         205400 Avant 2.0 TFSI 
+2656 audi        Audi A4                black 03/2005   2005     2500      120         163         Automatic     Diesel       7.1 l/100 km     192 g/km         226000 Avant 2.5 TDI T
+2657 audi        Audi A6                black 07/2005   2005     2299      165         224         Automatic     Diesel       8.6 l/100 km     231 g/km         468238 3.0 TDI quattro
+2658 audi        Audi A3                black 09/2005   2005     1500      103         140         Manual        Diesel       5.5 l/100 km     - (g/km)         279000 Sportback 2.0 t
+2659 audi        Audi A4                black 06/2005   2005     2190      103         140         Manual        Diesel       6.5 l/100 km     175 g/km         314810 Avant 2.0 TDI*K
+2660 audi        Audi A4                black 11/2005   2005     2600      185         252         Automatic     Diesel       8.4 l/100 km     252 g/km         225812 3.0 TDI Quattro
+2661 audi        Audi A4                black 04/2005   2005     9699      120         163         Automatic     Petrol       8.6 l/100 km     206 g/km         109000 Cabriolet 1.8 T
+2662 audi        Audi A3                black 04/2005   2005     5000      85          116         Manual        Petrol       4.5 l/100 km     158 g/km         172000 1.6 FSI Sportba
+2663 audi        Audi TT                black 09/2005   2005     12480     110         150         Manual        Petrol       8.1 l/100 km     194 g/km         15020  Roadster Coupe 
+2664 audi        Audi A4                black 02/2005   2005     4800      120         163         Manual        Petrol       9.2 l/100 km     221 g/km         286500 Avant 1.8 T qua
+2665 audi        Audi A6                black 11/2005   2005     4800      132         179         Manual        Diesel       6.8 l/100 km     - (g/km)         322500 2.7 TDI Tüv AU
+2666 audi        Audi A4                black 03/2005   2005     5000      147         200         Manual        Petrol       8.8 l/100 km     - (g/km)         197000 A4 Avant 2.0 T 
+2667 audi        Audi A4                black 04/2005   2005     7700      147         200         Automatic     Petrol       8.1 l/100 km     194 g/km         166000 2.0 T FSI multi
+2668 audi        Audi A3                black 11/2005   2005     1800      75          102         Manual        Petrol       7.1 l/100 km     - (g/km)         258000 1.6 Attraction 
+2669 audi        Audi A4                black 02/2005   2005     7990      120         163         Manual        Petrol       8.7 l/100 km     208 g/km         160000 1.8 T Cabriolet
+2670 audi        Audi A4                black 03/2005   2005     4000      96          131         Automatic     Petrol       7.9 l/100 km     - (g/km)         220000 A4 Avant 2.0 mu
+2671 audi        Audi A4                black 04/2005   2005     10400     98          133         Manual        Petrol       7.5 l/100 km     - (g/km)         94000  Cabriolet      
+2672 audi        Audi TT                black 09/2005   2005     23900     176         239         Manual        Petrol       9.3 l/100 km     223 g/km         134850 Coupe quattro S
+2673 audi        Audi A4                black 06/2005   2005     2700      147         200         Manual        Petrol       8 l/100 km       192 g/km         211000 Avant 2.0 TFSI 
+2674 audi        Audi A4                black 06/2005   2005     5500      120         163         Manual        Petrol       9.2 l/100 km     221 g/km         210000 A4 Avant 1.8 T 

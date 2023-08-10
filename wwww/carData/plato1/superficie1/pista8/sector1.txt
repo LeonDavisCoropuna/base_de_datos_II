@@ -1,0 +1,25 @@
+9525 audi        Audi A6                white 08/2014   2014     14500     230         313         Automatic     Diesel       5.9 l/100 km     - (g/km)         232000 A6 Avant 3.0 TD
+9526 audi        Audi A4                white 12/2014   2014     12000     130         177         Unknown       Diesel       5.3 l/100 km     140 g/km         240000 Ambiente quattr
+9527 audi        Audi A4                white 07/2014   2014     12000     130         177         Automatic     Diesel       4.9 l/100 km     - (g/km)         195500 A4 Avant 2.0 TD
+9528 audi        Audi A5                white 02/2014   2014     23950     180         245         Automatic     Diesel       5.7 l/100 km     - (g/km)         104000 3.0 TDI DPF qua
+9529 audi        Audi A6                white 10/2014   2014     18880     140         190         Automatic     Diesel       4.6 l/100 km     119 g/km         145000 Avant 2.0 TDI S
+9530 audi        Audi Q5                white 05/2014   2014     19900     165         224         Automatic     Petrol       7.2 l/100 km     - (g/km)         174000 2.0 TFSI quattr
+9531 audi        Audi A3                white 05/2014   2014     14000     135         184         Manual        Diesel       4.2 l/100 km     - (g/km)         174000 A3 2.0 TDI (cle
+9532 audi        Audi A4                white 10/2014   2014     13700     110         150         Automatic     Diesel       4.7 l/100 km     125 g/km         161700 Avant 2.0 TDI A
+9533 audi        Audi S3                white 05/2014   2014     26990     221         300         Automatic     Petrol       7 l/100 km       166 g/km         89990  Sportback 2.0 T
+9534 audi        Audi A1                white 07/2014   2014     12980     90          122         Manual        Petrol       5.3 l/100 km     124 g/km         51000  1.4TFSI Ambitio
+9535 audi        Audi A4                white 11/2014   2014     10999     110         150         Manual        Diesel       4.7 l/100 km     124 g/km         190000 Avant 2.0 TDI D
+9536 audi        Audi SQ5               white 07/2014   2014     28000     230         313         Automatic     Diesel       6.8 l/100 km     179 g/km         130000 3.0 TDI quattro
+9537 audi        Audi A5                white 04/2014   2014     14400     180         245         Automatic     Diesel       5.7 l/100 km     - (g/km)         243000 A5 3.0 TDI Spor
+9538 audi        Audi A6                white 03/2014   2014     15500     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         225000 3.0 TDI quattro
+9539 audi        Audi A5                white 10/2014   2014     20990     180         245         Automatic     Diesel       5.8 l/100 km     154 g/km         117000 3.0 TDI quattro
+9540 audi        Audi A4                white 11/2014   2014     18600     140         190         Automatic     Diesel       5.2 l/100 km     - (g/km)         141129 A4 Avant 2.0 TD
+9541 audi        Audi A3                white 10/2014   2014     14980     92          125         Manual        Petrol       5.1 l/100 km     117 g/km         125000 "Limousine S-Li
+9542 audi        Audi Q5                white 08/2014   2014     25690     155         211         Automatic     Hybrid       7.5 l/100 km     159 g/km         86052  2.0 TFSI quattr
+9543 audi        Audi A8                white 05/2014   2014     26100     190         258         Automatic     Diesel       5.9 l/100 km     - (g/km)         240000 A8 3.0 TDI DPF 
+9544 audi        Audi TT                white 05/2014   2014     22999     118         160         Automatic     Petrol       6.4 l/100 km     147 g/km         86263  1.8 TFSI 160PS 
+9545 audi        Audi A4                white 07/2014   2014     19990     140         190         Automatic     Diesel       4.7 l/100 km     125 g/km         132008 Avant /3X S-LIN
+9546 audi        Audi A3                white 04/2014   2014     19500     132         179         Automatic     Petrol       5.6 l/100 km     - (g/km)         130000 1.8 TFSI Sportb
+9547 audi        Audi A1                white 05/2014   2014     10990     63          86          Manual        Petrol       5.1 l/100 km     118 g/km         110428 Sportback Attra
+9548 audi        Audi A1                white 12/2014   2014     13500     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         40500  Ambition       
+9549 audi        Audi A1                white 03/2014   2014     12890     90          122         Automatic     Petrol                        - (g/km)         155000 A1 1.4 TFSI Spo

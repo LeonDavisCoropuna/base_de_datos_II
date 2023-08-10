@@ -1,0 +1,25 @@
+1575 aston-martinAston Martin V8        grey  11/2018   2018     124990    375         510         Automatic     Petrol       10.3 l/100 km    236 g/km         14100  4.0*V8*ALCANTAR
+1576 aston-martinAston Martin Vantage   grey  11/2018   2018     112000    375         510         Automatic     Petrol       10.5 l/100 km    245 g/km         50900  V8 Vantage 510 
+1577 aston-martinAston Martin DB11      grey  06/2018   2018     159941    375         510         Automatic     Petrol       9.9 l/100 km     230 g/km         38000  Volante 4.0 V8 
+1578 aston-martinAston Martin Lagonda   green 01/2018   2018     859990    412         560         Automatic     Petrol                        - (g/km)         5150   Taraf          
+1579 aston-martinAston Martin Rapide    green 01/2018   2018     139900    412         560         Automatic     Petrol       14.2 l/100 km    300 g/km         9860   S Arden Green +
+1580 aston-martinAston Martin V8        green 07/2018   2018     239970    328         446         Automatic     Petrol       13.8 l/100 km    321 g/km         97     Vantage GT8+LIM
+1581 aston-martinAston Martin Vantage   red   09/2018   2018     130000    375         510         Automatic     Petrol       10.5 l/100 km    245 g/km         10500  Superleggera V1
+1582 aston-martinAston Martin V8        black 09/2018   2018     87007     321         436         Automatic     Petrol       12.9 l/100 km    296 g/km         35700  V8 Vantage S Wi
+1583 aston-martinAston Martin V8        black 08/2018   2018     87500     320         435         Automatic     Petrol       13.8 l/100 km    321 g/km         14610  Roadster N430 S
+1584 aston-martinAston Martin DB11      black 05/2018   2018     169900    375         510         Automatic     Petrol       13.5 l/100 km    306 g/km         48543  V8 Volante B&O 
+1585 aston-martinAston Martin Vanquish  black 01/2018   2018     249800    444         604         Automatic     Petrol                        - (g/km)         1350   S              
+1586 aston-martinAston Martin V8        silver08/2018   2018     121900    375         510         Automatic     Petrol       10.3 l/100 km    236 g/km         52500  CoupéUPE 203.0
+1587 aston-martinAston Martin DB11      silver04/2018   2018     179999    448         609         Automatic     Petrol       11.4 l/100 km    265 g/km         18900  5.2 V12 Coupe  
+1588 aston-martinAston Martin V8        silver11/2018   2018     119900    375         510         Automatic     Petrol       10.3 l/100 km    236 g/km         40081  4.0 V8 ab 1.347
+1589 aston-martinAston Martin DB11      silver04/2018   2018     139900    375         510         Automatic     Petrol       9.9 l/100 km     230 g/km         43500  V8 Coupe       
+1590 aston-martinAston Martin V8        white 07/2018   2018     114980    375         510         Automatic     Petrol       10.3 l/100 km    236 g/km         6530   "4.0 *20"" AM G
+1591 aston-martinAston Martin V8        orange08/2018   2018     285000    328         446         Manual        Petrol       13.8 l/100 km    321 g/km         310    Vantage GT8 Lim
+1592 aston-martinAston Martin DB11      blue  08/2019   2019     159900    375         510         Automatic     Petrol       9.9 l/100 km     230 g/km         1750   4.0 V8         
+1593 aston-martinAston Martin Rapide    blue  05/2019   2019     118988    412         560         Automatic     Petrol                        - (g/km)         14044  S TÜV + Inspek
+1594 aston-martinAston Martin DB11      blue  05/2019   2019     174850    375         510         Automatic     Petrol       10 l/100 km      230 g/km         13375  4.0 V8 Volante 
+1595 aston-martinAston Martin DBS       brown 02/2019   2019     249900    533         725         Automatic     Petrol       12.4 l/100 km    285 g/km         28820  Superleggera Co
+1596 aston-martinAston Martin DBS       grey  12/2019   2019     285007    533         725         Automatic     Petrol       12.4 l/100 km    306 g/km         8500   Superleggera Co
+1597 aston-martinAston Martin DBS       grey  07/2019   2019     299000    533         725         Automatic     Petrol                        - (g/km)         4507   Superleggera V1
+1598 aston-martinAston Martin Vantage   grey  06/2019   2019     119999    375         510         Automatic     Petrol       10.5 l/100 km    - (g/km)         43000  Vantage        
+1599 aston-martinAston Martin V8        grey  09/2019   2019     129900    375         510         Automatic     Petrol       10.3 l/100 km    236 g/km         23350  4.0/Aston Mart�

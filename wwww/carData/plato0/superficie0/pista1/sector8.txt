@@ -1,0 +1,25 @@
+450  alfa-romeo  Alfa Romeo MiTo        black 08/2012   2012     6490      77          105         Manual        Petrol       5.7 l/100 km     134 g/km         104308 Super/2.Hd/MFL/
+451  alfa-romeo  Alfa Romeo Giulietta   black 03/2012   2012     6490      88          120         Manual        Petrol       6.4 l/100 km     152 g/km         152000 Super (191)    
+452  alfa-romeo  Alfa Romeo MiTo        black 09/2012   2012     4990      58          79          Manual        Petrol       5.6 l/100 km     133 g/km         104700 Mito 1.4 8V Jun
+453  alfa-romeo  Alfa Romeo Giulietta   black 03/2012   2012     7200      88          120         Manual        Petrol       6.4 l/100 km     152 g/km         142321 Super          
+454  alfa-romeo  Alfa Romeo MiTo        black 02/2012   2012     5500      77          105         Manual        Petrol       5.8 l/100 km     - (g/km)         137000 1.4 m.air Super
+455  alfa-romeo  Alfa Romeo MiTo        black 10/2012   2012     8500      77          105         Manual        Petrol       5.7 l/100 km     - (g/km)         82500  Mito 1.4 16V Mu
+456  alfa-romeo  Alfa Romeo MiTo        black 09/2012   2012     5800      62          84          Manual        Petrol       4.2 l/100 km     98 g/km          98000  0.9 8V Twinair 
+457  alfa-romeo  Alfa Romeo Giulietta   black 04/2012   2012     7000      88          120         Manual        Petrol       6.4 l/100 km     149 g/km         170000 1.4 TB 16V     
+458  alfa-romeo  Alfa Romeo Giulietta   black 09/2012   2012     6400      88          120         Manual        Petrol       6.6 l/100 km     156 g/km         113873 Turismo (191)  
+459  alfa-romeo  Alfa Romeo MiTo        violet10/2012   2012     8300      77          105         Manual        Petrol       5.7 l/100 km     134 g/km         75000  Super 105PS *2.
+460  alfa-romeo  Alfa Romeo MiTo        violet07/2012   2012     6980      63          86          Manual        Petrol                        0 g/km           107306 0.9 8V Twinair 
+461  alfa-romeo  Alfa Romeo Giulietta   white 06/2012   2012     8990      125         170         Manual        Petrol       - (l/100 km)     - (g/km)         107167 1.4 TB 16V Mult
+462  alfa-romeo  Alfa Romeo Giulietta   white 07/2012   2012     6600      103         140         Manual        Diesel       4.5 l/100 km     119 g/km         161200 Turismo 2.0JTDM
+463  alfa-romeo  Alfa Romeo Giulietta   white 04/2012   2012     8990      125         170         Automatic     Petrol       6.4 l/100 km     121 g/km         166000 Turismo 1.4 TB 
+464  alfa-romeo  Alfa Romeo Sportwagon  white 03/2012   2012     12999     147         200         Manual        Petrol       8.3 l/100 km     194 g/km         89000  159 1.8 TBi 16V
+465  alfa-romeo  Alfa Romeo Giulietta   white 03/2012   2012     8485      88          120         Manual        Petrol       6.4 l/100 km     - (g/km)         76370  Giulietta 1.4 T
+466  alfa-romeo  Alfa Romeo MiTo        white 08/2012   2012     7100      99          135         Manual        Petrol       5.6 l/100 km     - (g/km)         134600 TB 1.4 16V Mult
+467  alfa-romeo  Alfa Romeo Giulietta   white 12/2012   2012     6999      125         170         Manual        Petrol       5.8 l/100 km     134 g/km         124544 1.4i TB MultiAi
+468  alfa-romeo  Alfa Romeo Giulietta   blue  10/2013   2013     10999     110         150         Manual        Diesel       4.2 l/100 km     111 g/km         90000  Turismo NAVI/PD
+469  alfa-romeo  Alfa Romeo MiTo        blue  06/2013   2013     7990      99          135         Manual        Petrol       5.6 l/100 km     133 g/km         122400 Turismo        
+470  alfa-romeo  Alfa Romeo MiTo        brown 08/2013   2013     5990      88          120         Manual        Diesel       4.8 l/100 km     126 g/km         142000 1.6 JTD Turismo
+471  alfa-romeo  Alfa Romeo MiTo        brown 11/2013   2013     6500      58          79          Manual        Petrol       5.6 l/100 km     130 g/km         94000  1.4 8V Turismo 
+472  alfa-romeo  Alfa Romeo Giulietta   grey  04/2013   2013     6699      88          120         Manual        Petrol       6.6 l/100 km     156 g/km         157358 Turismo        
+473  alfa-romeo  Alfa Romeo Giulietta   red   04/2013   2013     8990      125         170         Automatic     Diesel       4.9 l/100 km     119 g/km         150000 Turismo-Automat
+474  alfa-romeo  Alfa Romeo Giulietta   red   12/2013   2013     9850      88          120         Manual        Petrol       6.4 l/100 km     152 g/km         114550 Veloce PDC/BLUE

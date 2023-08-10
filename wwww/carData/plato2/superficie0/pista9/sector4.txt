@@ -1,0 +1,25 @@
+12350audi        Audi A4                silver04/2016   2016     25500     200         272         Automatic     Diesel       4.9 l/100 km     - (g/km)         108600 A4 3.0 TDI quat
+12351audi        Audi A6 allroad        silver02/2016   2016     18999     160         218         Automatic     Diesel       5.7 l/100 km     149 g/km         179000 Quattro Matrix 
+12352audi        Audi A4                silver10/2016   2016     14980     140         190         Automatic     Diesel       4.4 l/100 km     116 g/km         179000 Avant basis    
+12353audi        Audi A5                silver09/2016   2016     25490     140         190         Automatic     Diesel       5.1 l/100 km     135 g/km         52000  Sportback 2.0 T
+12354audi        Audi A5                silver01/2016   2016     14999     160         218         Automatic     Diesel       6.1 l/100 km     164 g/km         248197 Sportback 3.0 T
+12355audi        Audi A3                silver01/2016   2016     25500     110         150         Manual        Diesel       4.7 l/100 km     125 g/km         145000 2-0 TDI Ambient
+12356audi        Audi A6                silver06/2016   2016     17500     160         218         Automatic     Diesel       4.5 l/100 km     - (g/km)         92000  Avant 3.0 TDI S
+12357audi        Audi Q3                silver01/2016   2016     26500     110         150         Manual        Diesel       4.4 l/100 km     - (g/km)         98000  Q3 2.0 TDI     
+12358audi        Audi TT                silver05/2016   2016     19990     169         230         Automatic     Petrol       6.4 l/100 km     - (g/km)         111840 Schönster TT e
+12359audi        Audi A5                silver12/2016   2016     27000     140         190         Automatic     Diesel       4.5 l/100 km     119 g/km         131038 Sportback 2.0 T
+12360audi        Audi A5                silver10/2016   2016     25900     180         245         Automatic     Diesel       5.7 l/100 km     151 g/km         88500  Sb. 3.0 TDI cle
+12361audi        Audi A7                silver03/2016   2016     31800     200         272         Automatic     Diesel       5.2 l/100 km     - (g/km)         125000 3.0 TDI quattro
+12362audi        Audi A3                silver12/2016   2016     16900     85          116         Manual        Petrol       4.8 l/100 km     110 g/km         49552  Sportback sport
+12363audi        Audi A7                silver06/2016   2016     30490     235         320         Automatic     Diesel       6.2 l/100 km     164 g/km         141288 Sportback 3.0TD
+12364audi        Audi A4                silver04/2016   2016     14999     160         218         Automatic     Diesel       4.6 l/100 km     121 g/km         189000 A4  3.0 TDI S t
+12365audi        Audi A4 allroad        silver02/2016   2016     19490     140         190         Automatic     Diesel       5.3 l/100 km     139 g/km         128995 S-tronic 1.HD B
+12366audi        Audi A8                silver11/2016   2016     49990     320         435         Automatic     Petrol       9.3 l/100 km     214 g/km         64895  *4.0TFSI*QUA*SP
+12367audi        Audi A4                silver10/2016   2016     14199     140         190         Automatic     Diesel       4.4 l/100 km     116 g/km         178048 Bi-Xenon- Audi 
+12368audi        Audi A6                silver06/2016   2016     34990     240         326         Automatic     Diesel       6.2 l/100 km     164 g/km         111245 Avant competiti
+12369audi        Audi A6                silver11/2016   2016     21950     185         252         Automatic     Petrol       6.9 l/100 km     157 g/km         147000 Avant 2.0 TFSI 
+12370audi        Audi TTS               silver04/2016   2016     35950     272         370         Automatic     Petrol       6.7 l/100 km     155 g/km         54170  Coupé 2.0 TFSI
+12371audi        Audi A3                silver04/2016   2016     18600     110         150         Manual        Petrol       4.7 l/100 km     111 g/km         17868  Sportback 1.4 T
+12372audi        Audi A4                silver05/2016   2016     19999     140         190         Manual        Petrol       5.9 l/100 km     134 g/km         61591  2.0T 1.HAND Alc
+12373audi        Audi A3                silver07/2016   2016     18499     132         179         Automatic     Petrol       6.6 l/100 km     156 g/km         108890 Sportback quatt
+12374audi        Audi A4                silver06/2016   2016     21350     140         190         Manual        Diesel       4.9 l/100 km     128 g/km         184000 2.0 TDI DPF cle

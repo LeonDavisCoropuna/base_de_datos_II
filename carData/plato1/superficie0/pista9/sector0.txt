@@ -1,0 +1,21 @@
+6090 audi        Audi A4                white 11/2011   2011     13490     105         143         Manual        Diesel       5.3 l/100 km     140 g/km         134000 Avant 2-0 Tdi A
+6091 audi        Audi Q3                white 10/2011   2011     16880     130         177         Automatic     Diesel       5.9 l/100 km     156 g/km         129820 2.0 TDI quattro
+6092 audi        Audi Q5                white 12/2011   2011     11800     155         211         Manual        Petrol       8.1 l/100 km     - (g/km)         128000 2.0 TFSI quattr
+6093 audi        Audi A1                white 11/2011   2011     11999     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         89992  Attraction Spor
+6094 audi        Audi A4 allroad        white 02/2011   2011     9900      105         143         Manual        Diesel       6.2 l/100 km     - (g/km)         218000 quattro 2.0 TDI
+6095 audi        Audi A5                white 08/2011   2011     12199     176         239         Automatic     Diesel       6.8 l/100 km     - (g/km)         211000 Cabrio 3.0 TDI 
+6096 audi        Audi A6                white 02/2011   2011     7490      125         170         Manual        Diesel       5.8 l/100 km     154 g/km         279000 2.0 TDI  S-Line
+6097 audi        Audi A3                white 06/2011   2011     9999      125         170         Manual        Diesel       5.6 l/100 km     148 g/km         235000 2.0 TDI Quattro
+6098 audi        Audi S5                white 03/2011   2011     18999     245         333         Automatic     Petrol       9.7 l/100 km     224 g/km         153210 Cabrio 3.0 TFSI
+6099 audi        Audi A4                white 09/2011   2011     11490     118         160         Manual        Petrol       7.1 l/100 km     0 g/km           134315 Ambiente Bi-XEN
+6100 audi        Audi RS3               white 10/2011   2011     27900     250         340         Automatic     Petrol       9.1 l/100 km     216 g/km         189900 2.5 TFSI quattr
+6101 audi        Audi A3                white 12/2011   2011     16900     118         160         Automatic     Petrol       6.7 l/100 km     156 g/km         71600  Cabriolet S lin
+6102 audi        Audi A1                white 07/2011   2011     6500      90          122         Manual        Petrol       5.3 l/100 km     126 g/km         145531 S line Sportpak
+6103 audi        Audi Q5                white 11/2011   2011     14500     176         239         Automatic     Diesel       7.5 l/100 km     199 g/km         199000 3.0 TDI quattro
+6104 audi        Audi A6                white 11/2011   2011     11990     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         296000 3.0 TDI quattro
+6105 audi        Audi Q5                white 01/2011   2011     13999     132         179         Manual        Petrol       8.1 l/100 km     - (g/km)         149454 Q5 2.0 TFSI qua
+6106 audi        Audi A5                white 08/2011   2011     13950     176         239         Automatic     Diesel       6.6 l/100 km     174 g/km         207000 Sportback 3.0 T
+6107 audi        Audi Q5                white 11/2011   2011     18500     176         239         Automatic     Diesel       7.5 l/100 km     - (g/km)         135000 3.0 TDI quattro
+6108 audi        Audi Q5                white 03/2011   2011     14900     132         179         Manual        Petrol       8.4 l/100 km     195 g/km         93000  / Erst  93 Tkm-
+6109 audi        Audi A5                white 05/2011   2011     15900     176         239         Automatic     Diesel       6.8 l/100 km     179 g/km         218000 3.0 TDI quattro
+6110 audi        Audi A1                white 09/2011   2011     7600      63          86          Manual        Petrol       5 l/100 km       - (g/km)         115000 1.2 TFSI Ambiti

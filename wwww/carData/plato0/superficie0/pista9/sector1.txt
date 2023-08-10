@@ -1,0 +1,25 @@
+2275 audi        Audi A4                silver07/2003   2003     4499      120         163         Manual        Petrol       8.7 l/100 km     208 g/km         259000 Cabriolet 1.8 T
+2276 audi        Audi A3                silver09/2003   2003     3750      75          102         Manual        Petrol       7 l/100 km       - (g/km)         168900 1.6 Ambiente   
+2277 audi        Audi A3                silver10/2003   2003     3000      103         140         Manual        Diesel       5.7 l/100 km     154 g/km         232500 2.0 TDI Ambitio
+2278 audi        Audi A8                silver07/2003   2003     6899      246         334         Automatic     Petrol       11.9 l/100 km    286 g/km         266000 4.2 quattro    
+2279 audi        Audi A4                silver10/2003   2003     7800      120         163         Automatic     Petrol       7.6 l/100 km     - (g/km)         116824 1.8 T CABRIOLET
+2280 audi        Audi A6                silver07/2003   2003     2175      125         170         Automatic     Petrol       9.7 l/100 km     - (g/km)         269000 4B C5- 2.4 Mult
+2281 audi        Audi A6                silver04/2003   2003     4990      162         220         Manual        Petrol       9.7 l/100 km     233 g/km         239422 3              
+2282 audi        Audi A6                silver11/2003   2003     1200      125         170         Manual        Petrol       9.9 l/100 km     235 g/km         215000 Lim. 2.4  Xenon
+2283 audi        Audi A4                silver02/2003   2003     7780      125         170         Automatic     Petrol       9.7 l/100 km     233 g/km         180000 Cabriolet AUTOM
+2284 audi        Audi A8                silver03/2003   2003     7500      246         334         Automatic     LPG          11.9 l/100 km    286 g/km         380000 4.2 quattro    
+2285 audi        Audi A3                silver10/2003   2003     4300      75          102         Manual        Petrol       7.3 l/100 km     175 g/km         131856 1.6 Attraction 
+2286 audi        Audi A3                silver09/2003   2003     2599      75          102         Manual        Petrol       7 l/100 km       - (g/km)         163000 1.6 Ambition   
+2287 audi        Audi A8                silver07/2003   2003     5990      246         334         Automatic     Petrol       11.9 l/100 km    286 g/km         238907 4.2 quattro Lan
+2288 audi        Audi A4                silver04/2003   2003     3970      75          102         Manual        Petrol       7.7 l/100 km     185 g/km         215000 1.6 Limousine +
+2289 audi        Audi A4                silver03/2003   2003     4500      120         163         Manual        LPG          8.2 l/100 km     - (g/km)         322000 Avant 1.8 T    
+2290 audi        Audi Cabriolet         silver04/2003   2003     6000      120         163         Automatic     Petrol       10 l/100 km      205 g/km         220400 Audi A4 Cabriol
+2291 audi        Audi A2                silver09/2003   2003     3450      55          75          Manual        Petrol       5.9 l/100 km     142 g/km         170000 1.4            
+2292 audi        Audi A4                silver06/2003   2003     3000      75          102         Manual        Petrol       7.7 l/100 km     - (g/km)         300011 1.6            
+2293 audi        Audi A3                silver01/2003   2003     5450      75          102         Manual        Petrol       6.8 l/100 km     161 g/km         95000  1.6 Attraction 
+2294 audi        Audi A3                silver06/2003   2003     3500      75          102         Manual        Petrol       6.8 l/100 km     - (g/km)         190000 1.6 Ambition   
+2295 audi        Audi A2                silver01/2003   2003     4900      55          75          Manual        Petrol       6 l/100 km       142 g/km         125000 1.4*Klima*Alu*T
+2296 audi        Audi A4                silver06/2003   2003     10500     125         170         Automatic     Petrol       9.9 l/100 km     - (g/km)         175156 A4 Cabriolet 2.
+2297 audi        Audi A2                silver01/2003   2003     3300      55          75          Manual        Petrol       5.9 l/100 km     142 g/km         206000 1.4            
+2298 audi        Audi A2                silver04/2003   2003     3690      55          75          Manual        Petrol       5.9 l/100 km     142 g/km         190143 1.4 Klima Sitzh
+2299 audi        Audi A8                silver09/2003   2003     7900      202         275         Automatic     Diesel                        - (g/km)         178000 A8 4.0 TDI quat

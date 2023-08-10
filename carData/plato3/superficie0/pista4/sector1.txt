@@ -1,0 +1,21 @@
+13461audi        Audi A4                grey  03/2017   2017     23500     160         218         Automatic     Diesel       4.2 l/100 km     - (g/km)         158000 3.0 TDI s-troni
+13462audi        Audi A4                grey  03/2017   2017     16950     140         190         Manual        Diesel       4.8 l/100 km     124 g/km         188410 2.0 TDI quattro
+13463audi        Audi TTS               grey  05/2017   2017     35000     228         310         Automatic     Petrol       6.7 l/100 km     - (g/km)         73300  TTS Coupe- TÜV
+13464audi        Audi A6                grey  03/2017   2017     35900     240         326         Automatic     Diesel       6.4 l/100 km     - (g/km)         125500 Avant 3.0 TDI c
+13465audi        Audi A3                grey  06/2017   2017     25490     110         150         Automatic     Diesel       4.7 l/100 km     121 g/km         37500  2.0 TDI Lim. S 
+13466audi        Audi RS3               grey  10/2017   2017     53700     294         400         Automatic     Petrol       8.3 l/100 km     188 g/km         44300  Lim. RS-AGA/RS-
+13467audi        Audi Q5                grey  02/2017   2017     32900     190         258         Automatic     Diesel       6.3 l/100 km     167 g/km         51600  "3.0 TDI qu""S-
+13468audi        Audi A6                grey  07/2017   2017     21999     140         190         Automatic     Petrol       5.9 l/100 km     137 g/km         132000 "1.8 TFSI ultra
+13469audi        Audi TT                grey  12/2017   2017     28190     169         230         Manual        Petrol       6.1 l/100 km     141 g/km         68250  Coupe 2.0 TFSI 
+13470audi        Audi S3                grey  05/2017   2017     33000     228         310         Automatic     Petrol       6.5 l/100 km     151 g/km         127000 2.0 TFSI quattr
+13471audi        Audi Q5                grey  07/2017   2017     32480     140         190         Automatic     Diesel       5.3 l/100 km     138 g/km         113702 2.0 TDI Q 2x S 
+13472audi        Audi RS6               grey  07/2017   2017     54990     445         605         Automatic     Petrol       9.6 l/100 km     223 g/km         177000 Avant 4.0 TFSI 
+13473audi        Audi A6                grey  04/2017   2017     26290     140         190         Automatic     Diesel       5.2 l/100 km     136 g/km         82601  Avant 2.0 TDI q
+13474audi        Audi Q7                grey  02/2017   2017     43286     200         272         Automatic     Diesel       5.9 l/100 km     154 g/km         119800 Audi Q7 3.0 TDI
+13475audi        Audi RS3               grey  10/2017   2017     41990     294         400         Automatic     Petrol       8.3 l/100 km     189 g/km         90103  Sportback 2.5 T
+13476audi        Audi A6                grey  12/2017   2017     38990     240         326         Automatic     Diesel       6.4 l/100 km     169 g/km         110000 Avant 3.0 TDI c
+13477audi        Audi A5                grey  09/2017   2017     38086     140         190         Automatic     Diesel       4.5 l/100 km     117 g/km         83387  Sportback 2.0 T
+13478audi        Audi A6                grey  04/2017   2017     28770     200         272         Automatic     Diesel       5.3 l/100 km     138 g/km         112504 Avant 3.0 TDI q
+13479audi        Audi Q3                grey  06/2017   2017     21999     135         184         Automatic     Diesel       5.2 l/100 km     136 g/km         99999  "2.0 TDI QUATTR
+13480audi        Audi A3                grey  01/2017   2017     20850     140         190         Automatic     Diesel       4.6 l/100 km     - (g/km)         95000  A3 2.0 TDI Limo
+13481audi        Audi A4 allroad        grey  07/2017   2017     25900     140         190         Automatic     Diesel       5 l/100 km       130 g/km         81700  quattro 2.0 TDI

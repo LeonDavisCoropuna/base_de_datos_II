@@ -1,0 +1,25 @@
+7925 audi        Audi A6                black 11/2013   2013     14985     230         313         Automatic     Diesel       6.4 l/100 km     - (g/km)         250000 3.0 TDI DPF qua
+7926 audi        Audi A4                black 05/2013   2013     14700     125         170         Manual        Petrol       6.1 l/100 km     145 g/km         127746 Attraction Avan
+7927 audi        Audi Q5                black 05/2013   2013     14700     130         177         Automatic     Diesel       6.1 l/100 km     - (g/km)         260000 2.0 TDI quattro
+7928 audi        Audi A3                black 11/2013   2013     14680     90          122         Manual        Petrol       5.3 l/100 km     126 g/km         55070  1.4 TFSI ATTRAC
+7929 audi        Audi A3                black 11/2013   2013     17999     110         150         Manual        Diesel       4.7 l/100 km     125 g/km         82000  2.0 TDI*S-line*
+7930 audi        Audi A5                black 10/2013   2013     21000     165         224         Automatic     Petrol       6.6 l/100 km     - (g/km)         108000 2.0 TFSI quattr
+7931 audi        Audi A5                black 02/2013   2013     19249     155         211         Automatic     Petrol       7.4 l/100 km     174 g/km         135190 2.0 TFSI 211PS 
+7932 audi        Audi Q3                black 05/2013   2013     13500     130         177         Automatic     Diesel       5 l/100 km       156 g/km         250000 2.0 TDI quattro
+7933 audi        Audi A5                black 06/2013   2013     15990     125         170         Automatic     Petrol       5.8 l/100 km     137 g/km         134500 1.8 TFSI Sportb
+7934 audi        Audi A3                black 05/2013   2013     7950      77          105         Manual        Diesel       3.8 l/100 km     101 g/km         198750 Attraction 1.6 
+7935 audi        Audi A4                black 07/2013   2013     19990     155         211         Automatic     Petrol       8.1 l/100 km     189 g/km         82900  2.0 TFSI Avant 
+7936 audi        Audi SQ5               black 09/2013   2013     17900     230         313         Automatic     Diesel                        - (g/km)         295000 3.0 TDI quattro
+7937 audi        Audi A4                black 02/2013   2013     7995      100         136         Manual        Diesel       4.4 l/100 km     117 g/km         302000 Attraction     
+7938 audi        Audi SQ5               black 09/2013   2013     13690     230         313         Automatic     Diesel       6.8 l/100 km     180 g/km         294287 3.0 TDI quattro
+7939 audi        Audi A6 allroad        black 10/2013   2013     21499     150         204         Automatic     Diesel       6.1 l/100 km     162 g/km         319758 quattro 3.0 TDI
+7940 audi        Audi A6                black 06/2013   2013     19900     230         313         Automatic     Diesel       6.4 l/100 km     170 g/km         164663 Avant 3.0 TDI q
+7941 audi        Audi A6                black 07/2013   2013     15400     132         179         Manual        Petrol       6.6 l/100 km     - (g/km)         99000  A6 Avant 2.0 TF
+7942 audi        Audi Q5                black 01/2013   2013     24800     132         179         Manual        Petrol       7.5 l/100 km     178 g/km         172000 2.0 TFSI quattr
+7943 audi        Audi A6                black 12/2013   2013     16599     230         313         Automatic     Diesel       6.3 l/100 km     - (g/km)         168000 A6 Avant 3.0 TD
+7944 audi        Audi Q5                black 12/2013   2013     21000     110         150         Manual        Diesel       5.3 l/100 km     140 g/km         180000 2.0 TDI S line 
+7945 audi        Audi Q5                black 06/2013   2013     51999     130         177         Automatic     Diesel       6.1 l/100 km     159 g/km         161000 2.0 TDI S-Line 
+7946 audi        Audi Q5                black 11/2013   2013     24980     180         245         Automatic     Diesel       6.4 l/100 km     - (g/km)         93000  3.0 TDI quattro
+7947 audi        Audi A6                black 11/2013   2013     13500     150         204         Manual        Diesel       5.3 l/100 km     - (g/km)         290000 Avant 3.0 TDI D
+7948 audi        Audi A6                black 09/2013   2013     18000     180         245         Automatic     Diesel       5.9 l/100 km     - (g/km)         222000 A6 3.0 TDI DPF 
+7949 audi        Audi A4                black 02/2013   2013     12000     105         143         Manual        Diesel       4.7 l/100 km     - (g/km)         192000 A4 Avant 2.0 TD

@@ -1,0 +1,25 @@
+1650 aston-martinAston Martin DBX       white 03/2021   2021     199890    405         551         Automatic     Petrol       14.3 l/100 km    269 g/km         550    White Stone - O
+1651 aston-martinAston Martin DBS       white 11/2021   2021     279980    533         725         Automatic     Petrol                        - (g/km)         7211   5.2 V12 Superle
+1652 aston-martinAston Martin DB11      white 03/2021   2021     187900    375         510         Automatic     Petrol                        - (g/km)         7500   Volante//Garant
+1653 aston-martinAston Martin DBX       white 08/2021   2021     188800    405         551         Automatic     Petrol       10.9 l/100 km    269 g/km         11800  4.0 V8 - ELEGAN
+1654 aston-martinAston Martin           blue  08/2022   2022     434980    515         700         Automatic     Petrol       13.8 l/100 km    315 g/km         482    Coupe Carbon An
+1655 aston-martinAston Martin           blue  08/2022   2022     434980    515         700         Automatic     Petrol       13.8 l/100 km    315 g/km         482    Coupe Carbon An
+1656 aston-martinAston Martin V8        blue  07/2022   2022     199900    375         510         Automatic     Petrol       11.6 l/100 km    263 g/km         12050  DB11  Volante I
+1657 aston-martinAston Martin Vantage   blue  06/2022   2022     1170000   515         700         Automatic     Petrol       11.4 l/100 km    298 g/km         80     V12 Speedster 1
+1658 aston-martinAston Martin V8        blue  09/2022   2022     174900    375         510         Automatic     Petrol       10.5 l/100 km    245 g/km         2200   Vantage Roadste
+1659 aston-martinAston Martin DBX       grey  11/2022   2022     238888    520         707         Automatic     Petrol       14.2 l/100 km    323 g/km         8150   707            
+1660 aston-martinAston Martin DBX       grey  11/2022   2022     259000    520         707         Automatic     Petrol       16.9 l/100 km    269 g/km         5000   707            
+1661 aston-martinAston Martin DBX       grey  11/2022   2022     249007    520         707         Automatic     Petrol       16.9 l/100 km    269 g/km         3500   707 ++Q Special
+1662 aston-martinAston Martin DBX       grey  10/2022   2022     239999    520         707         Automatic     Petrol       14.2 l/100 km    323 g/km         11200  707 CARBONPACK 
+1663 aston-martinAston Martin V8        grey  05/2022   2022     159900    375         510         Automatic     Petrol                        236 g/km         5500   4.0 /Satin Xeno
+1664 aston-martinAston Martin DBX       grey  11/2022   2022     259900    520         707         Automatic     Petrol       16.9 l/100 km    269 g/km         4007   707            
+1665 aston-martinAston Martin DB11      grey  12/2022   2022     199007    394         536         Automatic     Petrol       9.9 l/100 km     230 g/km         3500   V8 Coupe       
+1666 aston-martinAston Martin DB11      grey  04/2022   2022     189007    375         510         Automatic     Petrol       11.2 l/100 km    257 g/km         8949   V8 Coupe B&O 1.
+1667 aston-martinAston Martin DB11      grey  06/2022   2022     189007    375         510         Automatic     Petrol       11.2 l/100 km    257 g/km         9225   V8 Coupe       
+1668 aston-martinAston Martin DBX       grey  06/2022   2022     198890    405         551         Automatic     Petrol       14.3 l/100 km    269 g/km         3470   Xenon Grey- Spo
+1669 aston-martinAston Martin DB11      green 06/2022   2022     238970    394         536         Automatic     Petrol       11.3 l/100 km    257 g/km         1540   V8 Volante Acce
+1670 aston-martinAston Martin DBX       green 12/2022   2022     219007    405         551         Automatic     Petrol       11.8 l/100 km    269 g/km         1000   - AstonMartin H
+1671 aston-martinAston Martin Vantage   green 04/2022   2022     1288000   515         700         Automatic     Petrol                        - (g/km)         1600   V12 Speedster  
+1672 aston-martinAston Martin Vantage   green 08/2022   2022     479990    515         700         Automatic     Petrol       13.9 l/100 km    315 g/km         766    (Limited Editio
+1673 aston-martinAston Martin V8        green 01/2022   2022     179999    393         534         Automatic     Petrol       10.5 l/100 km    236 g/km         5384   V8 VANTAGE F1 E
+1674 aston-martinAston Martin DBX       green 06/2022   2022     178900    405         551         Automatic     Petrol       14.3 l/100 km    269 g/km         5500   - Minotaur Gree

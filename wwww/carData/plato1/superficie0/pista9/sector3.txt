@@ -1,0 +1,25 @@
+7325 audi        Audi A5                blue  05/2013   2013     16000     150         204         Automatic     Diesel       4.9 l/100 km     - (g/km)         244000 3.0 TDI Sportba
+7326 audi        Audi Q5                blue  05/2013   2013     21440     132         179         Manual        Petrol       7.5 l/100 km     178 g/km         92000  2.0TFSI qu AHK 
+7327 audi        Audi Q3                blue  10/2013   2013     15999     103         140         Automatic     Diesel       5.7 l/100 km     149 g/km         154300 2.0 TDI quattro
+7328 audi        Audi A4                blue  12/2013   2013     11200     150         204         Manual        Diesel       5.2 l/100 km     135 g/km         230000 Avant 3.0 TDI D
+7329 audi        Audi Q3                blue  02/2013   2013     18000     103         140         Manual        Diesel       5.7 l/100 km     - (g/km)         76000  2.0 TDI quattro
+7330 audi        Audi A1                blue  04/2013   2013     12480     90          122         Manual        Petrol       5.4 l/100 km     128 g/km         108132 Sportback Ambit
+7331 audi        Audi Q3                blue  03/2013   2013     15990     103         140         Manual        Diesel       5.2 l/100 km     137 g/km         84900  2.0 TDI        
+7332 audi        Audi A6                blue  02/2013   2013     19995     230         313         Automatic     Diesel       6.3 l/100 km     - (g/km)         227000 Avant 3.0 TDI q
+7333 audi        Audi A6                blue  01/2013   2013     19990     230         313         Automatic     Diesel       6.3 l/100 km     166 g/km         210000 Avant 3.0 TDI D
+7334 audi        Audi A6                blue  05/2013   2013     20500     230         313         Automatic     Diesel       6.4 l/100 km     - (g/km)         220570 Avant 3.0 TDI D
+7335 audi        Audi A1                blue  10/2013   2013     12000     63          86          Manual        Petrol       5 l/100 km       - (g/km)         122000 1.2 TFSI Sportb
+7336 audi        Audi TT                blue  04/2013   2013     15150     118         160         Automatic     Petrol       6.6 l/100 km     152 g/km         142000 Roadster 1.8 TF
+7337 audi        Audi A4                blue  03/2013   2013     14750     88          120         Manual        Petrol       6.5 l/100 km     151 g/km         83775  1.8 TFSi Ambiti
+7338 audi        Audi Q5                blue  02/2013   2013     19980     180         245         Automatic     Diesel       6.4 l/100 km     170 g/km         131300 3.0 TDI quattro
+7339 audi        Audi A5                blue  11/2013   2013     17900     165         224         Automatic     Petrol       6.9 l/100 km     164 g/km         175000 Cabriolet 2.0 T
+7340 audi        Audi A3                blue  03/2013   2013     7900      77          105         Manual        Diesel       4.3 l/100 km     114 g/km         262478 Cabriolet 1.6 T
+7341 audi        Audi A3                blue  04/2013   2013     14990     90          122         Manual        Petrol       5.3 l/100 km     126 g/km         42000  "1.4 TFSI Ambit
+7342 audi        Audi A8                blue  12/2013   2013     26900     190         258         Automatic     Diesel       5.9 l/100 km     156 g/km         175000 3.0 TDI  quattr
+7343 audi        Audi A6                blue  10/2013   2013     29500     230         313         Automatic     Diesel       6.4 l/100 km     170 g/km         207000 3.0 TDI quattro
+7344 audi        Audi A4                blue  05/2013   2013     19990     125         170         Manual        Petrol       6.1 l/100 km     141 g/km         113390 B8 Avant 1.8TFS
+7345 audi        Audi A3                blue  05/2013   2013     14470     90          122         Automatic     Petrol       5 l/100 km       116 g/km         124732 Sportback 1.4 T
+7346 audi        Audi A6                blue  05/2013   2013     14990     132         179         Automatic     Petrol       6.6 l/100 km     156 g/km         188000 "2.0 TFSI Avant
+7347 audi        Audi A3                blue  08/2013   2013     13250     77          105         Manual        Diesel       3.8 l/100 km     101 g/km         135500 S line Sportpak
+7348 audi        Audi A6                blue  07/2013   2013     20990     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         115101 3.0TDI Lim Quat
+7349 audi        Audi A5                blue  03/2013   2013     17200     180         245         Automatic     Diesel       5.9 l/100 km     - (g/km)         158000 Cabrio 3.0 TDI 

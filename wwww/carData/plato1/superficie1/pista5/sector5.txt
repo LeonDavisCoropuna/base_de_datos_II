@@ -1,0 +1,25 @@
+8875 audi        Audi A4                red   06/2014   2014     11990     100         136         Manual        Diesel       4.2 l/100 km     109 g/km         152200 Avant 2.0 TDI u
+8876 audi        Audi Q5                red   07/2014   2014     16900     110         150         Manual        Diesel       5.9 l/100 km     156 g/km         186800 2.0 TDI quattro
+8877 audi        Audi A5                red   07/2014   2014     15999     140         190         Manual        Diesel       4.6 l/100 km     - (g/km)         208000 A5 2.0 TDI Spor
+8878 audi        Audi S3                red   03/2014   2014     23350     221         300         Manual        Petrol       7 l/100 km       166 g/km         77200  2.0 TFSI quattr
+8879 audi        Audi A3                red   12/2014   2014     19897     135         184         Automatic     Diesel       4.9 l/100 km     130 g/km         112353 Sportback 2.0 T
+8880 audi        Audi A5                red   08/2014   2014     12999     110         150         Manual        Diesel       4.5 l/100 km     119 g/km         193000 Sportback 2.0 T
+8881 audi        Audi A4                red   05/2014   2014     20790     180         245         Manual        Diesel       5.9 l/100 km     156 g/km         108000 /Ambition quatt
+8882 audi        Audi A4                red   04/2014   2014     14999     88          120         Automatic     Petrol       6.2 l/100 km     179 g/km         85000  "Avant Ambiente
+8883 audi        Audi S3                red   07/2014   2014     32900     221         300         Automatic     Petrol       7.1 l/100 km     168 g/km         46500  "Cabrio 2.0TFSI
+8884 audi        Audi A1                red   05/2014   2014     16500     90          122         Automatic     Petrol       5.3 l/100 km     126 g/km         38900  Attraction (8X1
+8885 audi        Audi A3                red   10/2014   2014     10999     81          110         Manual        Petrol       4.9 l/100 km     116 g/km         91000  Sportback Attra
+8886 audi        Audi A1                red   09/2014   2014     41900     63          86          Manual        Petrol       4.8 l/100 km     121 g/km         120000 Sportback*SHZ*P
+8887 audi        Audi RS4               red   08/2014   2014     17500     331         450         Automatic     Petrol       10.7 l/100 km    254 g/km         117000 -EXKLUSIVE-KERA
+8888 audi        Audi A3                red   11/2014   2014     16500     110         150         Automatic     Petrol       4.8 l/100 km     112 g/km         127000 1.4 TFSI cylind
+8889 audi        Audi A3                red   02/2014   2014     28500     103         140         Automatic     Petrol       4.7 l/100 km     111 g/km         122340 1-4 TFSI S-tron
+8890 audi        Audi A6                red   06/2014   2014     16500     230         313         Automatic     Diesel       6.4 l/100 km     169 g/km         114266 Avant 3.0 TDI D
+8891 audi        Audi A3                red   05/2014   2014     15450     110         150         Manual        Diesel       4.1 l/100 km     107 g/km         82000  2.0 TDI Limousi
+8892 audi        Audi A1                red   12/2014   2014     13100     103         140         Manual        Petrol       4.9 l/100 km     113 g/km         93824  1.4 TFSI S line
+8893 audi        Audi A1                red   04/2014   2014     28990     90          122         Automatic     Petrol       5.4 l/100 km     128 g/km         106000 Sportback Attra
+8894 audi        Audi A3                red   12/2014   2014     11999     135         184         Manual        Diesel       4.2 l/100 km     111 g/km         256663 "Sportback 2.0 
+8895 audi        Audi Q3                red   11/2014   2014     16390     130         177         Automatic     Diesel       5.9 l/100 km     156 g/km         155681 2.0 TDI quattro
+8896 audi        Audi S5                red   09/2014   2014     29990     245         333         Automatic     Petrol       7.9 l/100 km     187 g/km         99895  *Cabriolet*3.0T
+8897 audi        Audi A3                red   11/2014   2014     13500     92          125         Automatic     Petrol       5.1 l/100 km     118 g/km         96000  1.4 TFSI Sportb
+8898 audi        Audi A4                red   08/2014   2014     20850     165         224         Manual        Petrol       6.2 l/100 km     143 g/km         99500  Avant 2.0 TFSI 
+8899 audi        Audi A5                red   09/2014   2014     19800     165         224         Automatic     Petrol       6.6 l/100 km     153 g/km         153300 A5 2.0 TFSI qua

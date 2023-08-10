@@ -1,0 +1,25 @@
+18225audi        Audi A4                white 09/2019   2019     29850     185         252         Automatic     Petrol       6.3 l/100 km     142 g/km         25567  2.0 QUATTRO*S-L
+18226audi        Audi RS3               white 07/2019   2019     46890     294         400         Automatic     Petrol       8.5 l/100 km     194 g/km         28880  Sportback 2.5 T
+18227audi        Audi A4                white 08/2019   2019     17895     140         190         Automatic     Diesel       4.6 l/100 km     121 g/km         215000 40 TDI Matrix L
+18228audi        Audi RS7               white 12/2019   2019     129990    625         850         Automatic     Petrol                        - (g/km)         60000  quattro        
+18229audi        Audi RS3               white 08/2019   2019     51490     294         400         Automatic     Petrol       8.5 l/100 km     194 g/km         52000  LIMO *RS-SITZE-
+18230audi        Audi A5                white 08/2019   2019     31950     140         190         Automatic     Diesel                        - (g/km)         84000  40 TDI S tr. qu
+18231audi        Audi TT                white 08/2019   2019     32950     180         245         Manual        Petrol       6.5 l/100 km     - (g/km)         34800  TT Coupe 45 TFS
+18232audi        Audi A3                white 03/2019   2019     16975     110         150         Automatic     Diesel       4.6 l/100 km     120 g/km         123000 Sportback 35 TD
+18233audi        Audi A3                white 08/2019   2019     24499     140         190         Automatic     Petrol       6.6 l/100 km     149 g/km         76288  TFSI S-Line qua
+18234audi        Audi A3                white 02/2019   2019     16950     110         150         Automatic     Diesel       4.5 l/100 km     117 g/km         239776 35 TDI S Line S
+18235audi        Audi A3                white 11/2019   2019     20290     85          116         Manual        Petrol       4.8 l/100 km     - (g/km)         32300  A3 30 TFSI Limo
+18236audi        Audi TT                white 11/2019   2019     29990     145         197         Automatic     Petrol       6.1 l/100 km     138 g/km         27290  40 TFSI S LINE 
+18237audi        Audi A3                white 11/2019   2019     21990     110         150         Manual        Petrol       5.5 l/100 km     125 g/km         18595  Sportback 35 TF
+18238audi        Audi A6                white 01/2019   2019     31980     200         272         Automatic     Diesel       5.3 l/100 km     138 g/km         84590  Avant 3.0 TDI q
+18239audi        Audi A5                white 07/2019   2019     24300     110         150         Automatic     Diesel       4.3 l/100 km     - (g/km)         122500 Sportback 35 TD
+18240audi        Audi RS3               white 06/2019   2019     42750     294         400         Automatic     Petrol       8.5 l/100 km     194 g/km         45294  Sportback 2.5 T
+18241audi        Audi TT                white 04/2019   2019     31980     180         245         Automatic     Petrol       6.5 l/100 km     148 g/km         77818  Coupe 45 TFSI s
+18242audi        Audi A3                white 07/2019   2019     29780     110         150         Automatic     Petrol       5.3 l/100 km     121 g/km         30428  Cabriolet 35 TF
+18243audi        Audi A4                white 11/2019   2019     29940     170         231         Automatic     Diesel       5.5 l/100 km     144 g/km         92472  Avant S line 45
+18244audi        Audi A3                white 02/2019   2019     26990     110         150         Manual        Petrol       5.3 l/100 km     120 g/km         23000  Sportback Sport
+18245audi        Audi RS3               white 07/2019   2019     42870     294         400         Automatic     Petrol       8.5 l/100 km     194 g/km         50520  RS 3 Sportback 
+18246audi        Audi A1                white 05/2019   2019     23950     147         200         Automatic     Petrol       6 l/100 km       137 g/km         58720  Sportback 40 TF
+18247audi        Audi A3                white 08/2019   2019     23900     110         150         Automatic     Petrol       5 l/100 km       113 g/km         7100   A3 35 TFSI Limo
+18248audi        Audi A6                white 08/2019   2019     46991     210         286         Automatic     Diesel       5.9 l/100 km     155 g/km         64900  "Avant 50 TDI q
+18249audi        Audi SQ8               white 11/2019   2019     109990    320         435         Automatic     Diesel       7.8 l/100 km     204 g/km         48900  4.0 TDI*HD-Matr

@@ -1,0 +1,21 @@
+18291audi        Audi A6 allroad        white 11/2019   2019     50990     282         383         Automatic     Diesel Hybrid6.6 l/100 km     172 g/km         55150  55 TDI quattro 
+18292audi        Audi SQ5               white 12/2019   2019     55900     255         347         Automatic     Diesel       6.8 l/100 km     177 g/km         38650  3.0 TDI qu.tipt
+18293audi        Audi Q5                white 01/2019   2019     28690     140         190         Automatic     Diesel       7.1 l/100 km     186 g/km         131400 40TDI quattro S
+18294audi        Audi A4                white 08/2019   2019     28950     140         190         Automatic     Diesel       5.1 l/100 km     134 g/km         56200  Avant 40 TDI2.0
+18295audi        Audi Q3                white 12/2019   2019     31850     140         190         Automatic     Diesel       7 l/100 km       183 g/km         72400  40 TDI quattro 
+18296audi        Audi RS3               white 12/2019   2019     49530     294         400         Automatic     Petrol       8.5 l/100 km     194 g/km         42855  RS3 Limousine 2
+18297audi        Audi Q7                white 04/2019   2019     38880     170         231         Automatic     Diesel       8.1 l/100 km     "214             5 g/km"104364         
+18298audi        Audi Q3                white 09/2019   2019     30630     140         190         Automatic     Petrol       7.5 l/100 km     171 g/km         56610  Advanced 40 TFS
+18299audi        Audi Q5                white 09/2019   2019     45500     270         367         Automatic     Hybrid       2.1 l/100 km     - (g/km)         72000  Q5 55 TFSI e qu
+18300audi        Audi A3                white 10/2019   2019     27789     110         150         Automatic     Petrol       5.5 l/100 km     130 g/km         48320  "Sportback TFSI
+18301audi        Audi A5                white 09/2019   2019     28930     110         150         Automatic     Petrol       7 l/100 km       "160             9 g/km"56250          
+18302audi        Audi A6                white 12/2019   2019     33990     150         204         Automatic     Diesel       4.7 l/100 km     124 g/km         81000  Lim. 40 TDI bas
+18303audi        Audi A6                white 01/2019   2019     22990     200         272         Automatic     Diesel       5.3 l/100 km     138 g/km         103045 S line Nachtsic
+18304audi        Audi A1                white 03/2019   2019     46300     110         150         Automatic     Petrol       5.1 l/100 km     116 g/km         47350  Sportback 35 TF
+18305audi        Audi A6                white 08/2019   2019     29750     210         286         Automatic     Diesel       5.6 l/100 km     146 g/km         19637  Lim. 50 TDI spo
+18306audi        Audi TT                white 12/2019   2019     22890     145         197         Automatic     Petrol       6.1 l/100 km     138 g/km         31450  Coupe 40 TFSI S
+18307audi        Audi A4                white 09/2019   2019     25990     140         190         Automatic     Diesel       5.6 l/100 km     146 g/km         92172  Design 40 TDI N
+18308audi        Audi TT                white 01/2019   2019     36990     180         245         Automatic     Petrol       7 l/100 km       161 g/km         50787  Coupe 45 TFSI q
+18309audi        Audi A4                white 06/2019   2019     29950     140         190         Automatic     Petrol       7.2 l/100 km     "164             6 g/km"36517          
+18310audi        Audi A5                white 12/2019   2019     32850     140         190         Automatic     Petrol       7.4 l/100 km     169 g/km         68556  Sportback 40 TF
+18311audi        Audi Q3                white 06/2019   2019     21999     110         150         Manual        Diesel       5.7 l/100 km     150 g/km         188514 35 TDI quattro 

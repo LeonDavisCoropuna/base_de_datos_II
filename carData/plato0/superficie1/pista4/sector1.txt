@@ -1,0 +1,21 @@
+2961 audi        Audi A8                grey  07/2006   2006     7000      191         260         Automatic     Petrol       10.9 l/100 km    262 g/km         325000 3.2 FSI quattro
+2962 audi        Audi A4                grey  11/2006   2006     9500      96          131         Manual        Petrol       8 l/100 km       - (g/km)         105000 A4 Avant 2.0   
+2963 audi        Audi A4                grey  06/2006   2006     4999      96          131         Automatic     LPG          8 l/100 km       191 g/km         280000 2.0 multitronic
+2964 audi        Audi A4                grey  01/2006   2006     4990      120         163         Automatic     Diesel       7.1 l/100 km     192 g/km         306000 Lim. 2.5 TDI Na
+2965 audi        Audi A3                grey  12/2006   2006     4299      184         250         Manual        Petrol       10.5 l/100 km    250 g/km         353075 3.2 quattro Spo
+2966 audi        Audi Q7                grey  08/2006   2006     5999      171         232         Automatic     Diesel       10.5 l/100 km    282 g/km         420000 3.0 TDI Quattro
+2967 audi        Audi A3                grey  03/2006   2006     4200      85          116         Manual        Petrol       7 l/100 km       136 g/km         210100 1-6fsi         
+2968 audi        Audi A4                grey  05/2006   2006     4999      75          102         Manual        Petrol       7.9 l/100 km     190 g/km         200000 Avant 1.6 |Klim
+2969 audi        Audi S4                grey  01/2006   2006     14990     253         344         Automatic     Petrol       12.3 l/100 km    - (g/km)         210000 Audi S4 B7 4.2 
+2970 audi        Audi A4                grey  03/2006   2006     10500     120         163         Manual        Petrol       8.3 l/100 km     - (g/km)         117100 A4 Cabriolet 1.
+2971 audi        Audi A4                grey  11/2006   2006     3850      103         140         Manual        Diesel       6 l/100 km       161 g/km         286515 2.0 TDI Avant G
+2972 audi        Audi A6                grey  06/2006   2006     5999      171         232         Automatic     Diesel       8.8 l/100 km     235 g/km         327000 Avant 3.0 TDI q
+2973 audi        Audi A4                black 01/2006   2006     5999      103         140         Manual        Diesel       6.1 l/100 km     162 g/km         189800 2.0 TDI Avant+M
+2974 audi        Audi A8                black 02/2006   2006     12999     191         260         Automatic     Petrol       11.1 l/100 km    266 g/km         176500 3.2 FSI GSD Sou
+2975 audi        Audi A4                black 02/2006   2006     6990      103         140         Manual        Diesel       6.1 l/100 km     162 g/km         116732 Avant 2.0 TDI- 
+2976 audi        Audi A4                black 03/2006   2006     9950      162         220         Manual        Petrol       9.1 l/100 km     218 g/km         146700 Lim. 2-0 TFSI q
+2977 audi        Audi A4                black 07/2006   2006     5200      85          116         Manual        Diesel       5.9 l/100 km     156 g/km         203084 Avant 1.9 TDI T
+2978 audi        Audi A3                black 12/2006   2006     6500      75          102         Manual        Petrol       7.1 l/100 km     168 g/km         88900  1.6 / SITZHEIZU
+2979 audi        Audi A8                black 01/2006   2006     6850      191         260         Automatic     Petrol       10.9 l/100 km    262 g/km         260000 3.2 FSI quattro
+2980 audi        Audi A6                black 04/2006   2006     6880      132         179         Automatic     Diesel       8.6 l/100 km     230 g/km         183000 Avant 2.7 TDI t
+2981 audi        Audi A4                black 11/2006   2006     3999      103         140         Manual        Diesel       6.1 l/100 km     162 g/km         313991 Avant 2.0 TDI T

@@ -1,0 +1,25 @@
+15425audi        Audi A5                red   07/2018   2018     30890     185         252         Automatic     Petrol       6.4 l/100 km     239 g/km         48000  Coupe 2.0 TFSI 
+15426audi        Audi A5                red   03/2018   2018     28980     140         190         Automatic     Petrol       5.5 l/100 km     126 g/km         33431  Sportback 2.0 T
+15427audi        Audi A7                red   07/2018   2018     65000     313         426         Automatic     Petrol       6.9 l/100 km     - (g/km)         49000  A7 55 TFSI quat
+15428audi        Audi A5                red   07/2018   2018     36950     185         252         Automatic     Petrol       5.8 l/100 km     - (g/km)         65042  Panoramadach- S
+15429audi        Audi A5                red   04/2018   2018     36500     185         252         Automatic     Petrol       6.5 l/100 km     - (g/km)         52000  Sportback 2.0 T
+15430audi        Audi A6                red   03/2018   2018     38750     240         326         Automatic     Diesel       6.2 l/100 km     164 g/km         75000  Avant 3.0 TDI c
+15431audi        Audi RS5               red   03/2018   2018     68990     331         450         Automatic     Petrol       8.7 l/100 km     - (g/km)         36000  Coupe 2.9 TFSI 
+15432audi        Audi A4                red   12/2018   2018     23989     140         190         Manual        Petrol       6.7 l/100 km     152 g/km         45850  40 TFSI XENON+N
+15433audi        Audi TT                red   04/2018   2018     30488     132         179         Manual        Petrol                        - (g/km)         37785  1.8 TFSI S line
+15434audi        Audi Q2                red   02/2018   2018     19988     110         150         Manual        Petrol       5.8 l/100 km     130 g/km         74747  1.4 Sport NAVI 
+15435audi        Audi A3                red   06/2018   2018     27950     140         190         Automatic     Petrol       6 l/100 km       137 g/km         82000  2.0 TFSI Quattr
+15436audi        Audi A5                red   04/2018   2018     33500     185         252         Automatic     Petrol       6.5 l/100 km     147 g/km         7624   2.0 T QUATTRO*S
+15437audi        Audi A6                red   11/2018   2018     32900     170         231         Automatic     Diesel       5.9 l/100 km     155 g/km         85342  Avant 45 TDI qu
+15438audi        Audi S5                red   02/2018   2018     46800     260         354         Automatic     Petrol       7.7 l/100 km     174 g/km         37000  Sportback 3.0 T
+15439audi        Audi RS5               red   07/2018   2018     55990     331         450         Automatic     Petrol       8.7 l/100 km     197 g/km         76000  "Coupe 2.9 TFSI
+15440audi        Audi RS4               red   08/2018   2018     64680     331         450         Automatic     Petrol       8.8 l/100 km     200 g/km         37575  Avant 2.9 TFSI 
+15441audi        Audi A5                red   07/2018   2018     28700     185         252         Automatic     Petrol                        - (g/km)         45000  2.0 TFSI S tron
+15442audi        Audi RS5               red   05/2018   2018     57990     331         450         Automatic     Petrol       8.7 l/100 km     197 g/km         57000  RS 5 Coupe Carb
+15443audi        Audi A5                red   02/2018   2018     34490     185         252         Automatic     Petrol                        - (g/km)         36990  2.0T Quattro*S-
+15444audi        Audi A5                red   05/2018   2018     32999     140         190         Automatic     Petrol       5.5 l/100 km     126 g/km         45100  Sportback desig
+15445audi        Audi RS5               red   06/2018   2018     61790     331         450         Automatic     Petrol       8.7 l/100 km     197 g/km         22349  2.9 TFSI RS-Sit
+15446audi        Audi A5                red   01/2018   2018     30460     185         252         Automatic     Petrol       5.9 l/100 km     136 g/km         68241  Sportback 2.0 T
+15447audi        Audi S5                red   06/2018   2018     44430     260         354         Automatic     Petrol       7.7 l/100 km     174 g/km         35598  COUPE 3.0TFSi 2
+15448audi        Audi A4 allroad        red   02/2018   2018     29800     200         272         Automatic     Diesel       5.5 l/100 km     146 g/km         73321  quattro AHK Nav
+15449audi        Audi A5                red   01/2018   2018     23990     140         190         Manual        Petrol       5.5 l/100 km     126 g/km         94000  Sportback 2.0 T

@@ -1,0 +1,25 @@
+875  alfa-romeo  Alfa Romeo Stelvio     grey  10/2020   2020     36990     147         200         Automatic     Petrol       7.1 l/100 km     161 g/km         42850  2.0 Turbo Super
+876  alfa-romeo  Alfa Romeo Stelvio     green 12/2020   2020     49890     154         209         Automatic     Diesel       5.8 l/100 km     144 g/km         25000  Veloce 2.2 16V 
+877  alfa-romeo  Alfa Romeo Giulietta   green 03/2020   2020     23990     125         170         Automatic     Diesel       5.2 l/100 km     136 g/km         62403  Lusso Ti 2.0 JT
+878  alfa-romeo  Alfa Romeo Stelvio     red   06/2020   2020     33780     147         200         Automatic     Petrol       7.1 l/100 km     161 g/km         58457  Super Q4  Assis
+879  alfa-romeo  Alfa Romeo Stelvio     red   06/2020   2020     51900     206         280         Automatic     Petrol       6.9 l/100 km     157 g/km         23900  2.0 Turbo 16V A
+880  alfa-romeo  Alfa Romeo Stelvio     red   03/2020   2020     27450     118         160         Automatic     Diesel       5.4 l/100 km     142 g/km         38000  2.2d Aut. Busin
+881  alfa-romeo  Alfa Romeo Stelvio     red   12/2020   2020     69390     375         510         Unknown       Petrol       9.8 l/100 km     222 g/km         22500  Quadrifoglio V6
+882  alfa-romeo  Alfa Romeo Stelvio     red   11/2020   2020     67490     375         510         Automatic     Petrol       9.2 l/100 km     214 g/km         18750  Quadrifoglio V6
+883  alfa-romeo  Alfa Romeo Stelvio     red   04/2020   2020     65000     375         510         Automatic     Petrol       9.8 l/100 km     227 g/km         14177  Quadrifoglio Q4
+884  alfa-romeo  Alfa Romeo Giulia      red   05/2020   2020     39950     206         280         Automatic     Petrol       7 l/100 km       160 g/km         24000  2.0 Turbo 16V A
+885  alfa-romeo  Alfa Romeo Stelvio     red   10/2020   2020     39450     147         200         Automatic     Petrol       9.2 l/100 km     207 g/km         15500  MY20 SUPER 2.0 
+886  alfa-romeo  Alfa Romeo Stelvio     red   02/2020   2020     26990     118         160         Automatic     Diesel                        0 g/km           69700  SUPER 2.2JTDM A
+887  alfa-romeo  Alfa Romeo Stelvio     red   08/2020   2020     28980     148         201         Automatic     Petrol       - (l/100 km)     211 g/km         44964  2.0 Turbo Navi 
+888  alfa-romeo  Alfa Romeo Giulia      red   10/2020   2020     28990     147         200         Automatic     Petrol       6.4 l/100 km     149 g/km         43899  2.0T AT8 Super 
+889  alfa-romeo  Alfa Romeo Stelvio     red   10/2020   2020     35490     147         200         Automatic     Petrol       7 l/100 km       161 g/km         48999  Business Q4 2.0
+890  alfa-romeo  Alfa Romeo Giulia      red   11/2020   2020     31900     140         190         Automatic     Diesel       6.4 l/100 km     149 g/km         73000  Business NAVI/T
+891  alfa-romeo  Alfa Romeo Stelvio     red   01/2020   2020     44800     154         209         Automatic     Diesel                        0 g/km           34150  Lusso 2.2 *GSD*
+892  alfa-romeo  Alfa Romeo Stelvio     red   01/2020   2020     36980     154         209         Automatic     Diesel       5.9 l/100 km     155 g/km         88108  B-Tech Q4 Klima
+893  alfa-romeo  Alfa Romeo Stelvio     red   01/2020   2020     33990     140         190         Automatic     Diesel                        - (g/km)         54518  2.2 Super AT8 Q
+894  alfa-romeo  Alfa Romeo Stelvio     red   09/2020   2020     32900     140         190         Automatic     Diesel       5.5 l/100 km     144 g/km         61670  2.2 Diesel 140k
+895  alfa-romeo  Alfa Romeo Giulia      red   09/2020   2020     40000     206         280         Automatic     Petrol       7 l/100 km       - (g/km)         30000  2.0 Turbo 16V A
+896  alfa-romeo  Alfa Romeo Giulia      black 12/2020   2020     64780     375         510         Automatic     Petrol       9.3 l/100 km     211 g/km         19700  2.9 V6 Bi-Turbo
+897  alfa-romeo  Alfa Romeo Giulia      black 12/2020   2020     47490     154         209         Automatic     Diesel       5.2 l/100 km     138 g/km         1000   Veloce 2.2D Q4 
+898  alfa-romeo  Alfa Romeo Giulietta   black 04/2020   2020     20950     125         170         Automatic     Diesel       5.2 l/100 km     136 g/km         80199  Lusso 2.0 JTDM 
+899  alfa-romeo  Alfa Romeo Stelvio     black 07/2020   2020     35750     147         200         Automatic     Petrol       8 l/100 km       185 g/km         37393  Super Q4       

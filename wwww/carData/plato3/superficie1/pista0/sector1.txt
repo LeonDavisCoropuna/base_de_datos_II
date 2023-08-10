@@ -1,0 +1,25 @@
+17525audi        Audi A4                red   03/2019   2019     27880     140         190         Automatic     Diesel       5.1 l/100 km     134 g/km         72575  Avant 2.0 TDI q
+17526audi        Audi A5                red   03/2019   2019     32890     140         190         Automatic     Diesel       5.2 l/100 km     138 g/km         53031  Cabrio sport S 
+17527audi        Audi A5                red   01/2019   2019     42790     140         190         Automatic     Diesel       4.5 l/100 km     118 g/km         83800  Sportback 40TDI
+17528audi        Audi Q5                red   02/2019   2019     56790     140         190         Automatic     Diesel       5.5 l/100 km     146 g/km         20149  2.0TDI quattro 
+17529audi        Audi S6                red   10/2019   2019     55750     257         349         Automatic     Diesel       6.5 l/100 km     171 g/km         70830  Avant 3.0 TDi q
+17530audi        Audi Q3                red   06/2019   2019     33440     110         150         Automatic     Petrol       7.3 l/100 km     165 g/km         30990  35TFSI S-tr S-l
+17531audi        Audi A4                red   03/2019   2019     25990     110         150         Automatic     Diesel       4.6 l/100 km     121 g/km         80770  *Avant35*Standh
+17532audi        Audi A1                red   11/2019   2019     23990     85          116         Manual        Petrol       4.9 l/100 km     0 g/km           32525  30 Sportback 1.
+17533audi        Audi A4                red   03/2019   2019     33150     140         190         Automatic     Petrol       6 l/100 km       137 g/km         56598  Avant 40TFSI S 
+17534audi        Audi A4                red   01/2019   2019     17990     110         150         Automatic     Diesel       4.6 l/100 km     121 g/km         217436 Avant 35 TDI ba
+17535audi        Audi Q2                red   01/2019   2019     27590     85          116         Automatic     Petrol       5.4 l/100 km     124 g/km         37500  30 TFSI S line 
+17536audi        Audi A4                red   05/2019   2019     34199     170         231         Automatic     Diesel       5.5 l/100 km     145 g/km         41546  Avant 45 TDI qu
+17537audi        Audi A4                red   07/2019   2019     22770     110         150         Automatic     Diesel       5.7 l/100 km     "149             4 g/km"92400          
+17538audi        Audi A4                red   03/2019   2019     33690     170         231         Automatic     Diesel       7 l/100 km       184 g/km         79900  Avant 45 TDI qu
+17539audi        Audi A6                red   11/2019   2019     29480     150         204         Automatic     Diesel       4.9 l/100 km     129 g/km         99980  40 S Line LED`*
+17540audi        Audi A3                red   10/2019   2019     24500     96          131         Automatic     CNG          4.4 kg/100 km    122 g/km         25000  30 g-tron Sport
+17541audi        Audi A4                red   01/2019   2019     27975     110         150         Automatic     Diesel       5.5 l/100 km     "145             6 g/km"41568          
+17542audi        Audi A5                red   03/2019   2019     34980     140         190         Automatic     Petrol       7.7 l/100 km     175 g/km         29911  Cabrio S line S
+17543audi        Audi A4                red   10/2019   2019     30980     110         150         Automatic     Petrol       5.7 l/100 km     156 g/km         49569  Avant 35 TFSI M
+17544audi        Audi A4                red   03/2019   2019     27870     110         150         Automatic     Diesel       4.6 l/100 km     121 g/km         45277  Avant 35 TDI sp
+17545audi        Audi A3                red   04/2019   2019     21980     85          116         Automatic     Petrol       6 l/100 km       135 g/km         43519  30 TFSI S-troni
+17546audi        Audi A4                red   09/2019   2019     35679     140         190         Automatic     Petrol       7.3 l/100 km     165 g/km         43100  Avant s-line 40
+17547audi        Audi Q2                red   04/2019   2019     23950     85          116         Automatic     Petrol       6.6 l/100 km     151 g/km         19994  30 TFSI S-troni
+17548audi        Audi Q2                red   05/2019   2019     25930     85          116         Automatic     Petrol       5.4 l/100 km     124 g/km         32500  30TFSI S-Trc Sp
+17549audi        Audi A4                red   02/2019   2019     29990     140         190         Automatic     Petrol       6 l/100 km       137 g/km         41500  Avant 40 TFSI d

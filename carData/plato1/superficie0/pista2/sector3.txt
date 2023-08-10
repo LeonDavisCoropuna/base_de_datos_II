@@ -1,0 +1,21 @@
+4683 audi        Audi A1                blue  11/2010   2010     9990      63          86          Manual        Petrol       5.1 l/100 km     118 g/km         101049 1.2 TFSI Ambiti
+4684 audi        Audi A3                blue  12/2010   2010     11890     118         160         Manual        Petrol       6.6 l/100 km     153 g/km         82500  Sportback 1.8 T
+4685 audi        Audi A6                blue  11/2010   2010     4890      140         190         Manual        Petrol       8.7 l/100 km     206 g/km         235245 Avant 2.8 FSI q
+4686 audi        Audi A1                blue  09/2010   2010     3600      77          105         Manual        Diesel       3.8 l/100 km     101 g/km         202000 Attraction (8X1
+4687 audi        Audi A6                blue  08/2010   2010     5900      140         190         Automatic     Petrol       8.4 l/100 km     195 g/km         247500 2.8 FSI- Standh
+4688 audi        Audi A5                blue  09/2010   2010     9150      118         160         Automatic     Petrol       7.2 l/100 km     169 g/km         129000 Coupe 1.8      
+4689 audi        Audi A5                blue  10/2010   2010     12990     155         211         Automatic     Petrol       7.5 l/100 km     174 g/km         150000 Sportback 2.0TF
+4690 audi        Audi A3                blue  01/2010   2010     5450      92          125         Manual        Petrol       5.8 l/100 km     - (g/km)         190000 1.4 TFSI Sportb
+4691 audi        Audi A4                blue  12/2010   2010     11950     140         190         Automatic     Diesel       6.5 l/100 km     170 g/km         145000 Avant Ambiente 
+4692 audi        Audi Q7                blue  12/2010   2010     25990     250         340         Automatic     Diesel       8.9 l/100 km     244 g/km         172000 4.2 TDI quattro
+4693 audi        Audi A3                blue  03/2010   2010     7999      77          105         Manual        Diesel       4.2 l/100 km     112 g/km         146000 Sportback 1.6 T
+4694 audi        Audi A1                blue  08/2010   2010     9000      90          122         Automatic     Petrol       5.3 l/100 km     122 g/km         113000 1.4 TFSI S tron
+4695 audi        Audi A3                blue  11/2010   2010     11000     103         140         Manual        Diesel       5.6 l/100 km     148 g/km         269876 Sportback 2.0 T
+4696 audi        Audi A4                blue  11/2010   2010     8900      176         239         Automatic     Diesel       6.7 l/100 km     - (g/km)         199000 A4 3.0 TDI quat
+4697 audi        Audi A3                blue  07/2010   2010     8900      77          105         Manual        Petrol       5.7 l/100 km     135 g/km         179000 Cabriolet 1.2 T
+4698 audi        Audi A6                blue  04/2010   2010     12890     140         190         Automatic     Diesel       6.5 l/100 km     172 g/km         314990 Avant 2.7 TDI P
+4699 audi        Audi A4                blue  05/2010   2010     9500      118         160         Manual        Petrol       7.1 l/100 km     168 g/km         95100  Lim. Attraction
+4700 audi        Audi A6                blue  12/2010   2010     8500      140         190         Automatic     Diesel       6.2 l/100 km     - (g/km)         255000 2.7 TDI DPF    
+4701 audi        Audi A3                blue  10/2010   2010     9000      75          102         Manual        Petrol       5.5 l/100 km     - (g/km)         89500  A3 1.2  TFSI   
+4702 audi        Audi A4                blue  11/2010   2010     8888      125         170         Manual        Diesel       5.7 l/100 km     149 g/km         233000 Avant 2.0 TDI D
+4703 audi        Audi A3                blue  06/2010   2010     9750      77          105         Manual        Diesel       4.3 l/100 km     114 g/km         200000 Cabriolet Attra

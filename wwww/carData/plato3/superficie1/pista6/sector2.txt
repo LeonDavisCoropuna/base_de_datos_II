@@ -1,0 +1,25 @@
+19050audi        Audi A6                red   12/2020   2020     61650     185         252         Automatic     Hybrid                        45 km Reichweite 37900  Avant 55 2.0 TF
+19051audi        Audi S3                red   12/2020   2020     45999     228         310         Automatic     Petrol       7.3 l/100 km     166 g/km         30000  Lim. 2.0 TFSI q
+19052audi        Audi A6                red   12/2020   2020     61450     185         252         Automatic     Hybrid                        45 km Reichweite 37900  Avant 55 2.0 TF
+19053audi        Audi A3                red   05/2020   2020     32190     140         190         Automatic     Petrol       6.8 l/100 km     155 g/km         58919  Cabriolet 40 TF
+19054audi        Audi A1                red   04/2020   2020     22960     85          116         Automatic     Petrol       5.7 l/100 km     130 g/km         18880  30 TFSI S troni
+19055audi        Audi A5                red   06/2020   2020     39930     140         190         Automatic     Diesel       5.8 l/100 km     163 g/km         84781  40TDI QU S-TR S
+19056audi        Audi Cabriolet         red   01/2020   2020     37400     120         163         Automatic     Diesel       4.6 l/100 km     - (g/km)         40000  A5 Cabrio Advan
+19057audi        Audi RS Q3             red   09/2020   2020     61365     294         400         Automatic     Petrol       8.9 l/100 km     203 g/km         12300  RSQ3 2.5 TFSI q
+19058audi        Audi A3                red   03/2020   2020     24689     110         150         Automatic     Diesel       4.5 l/100 km     120 g/km         67766  sport 35 TDI S-
+19059audi        Audi A1                red   05/2020   2020     24500     85          116         Manual        Petrol       5.4 l/100 km     122 g/km         7030   30 TFSI Schaltg
+19060audi        Audi A4                red   01/2020   2020     32470     120         163         Automatic     Diesel       5.6 l/100 km     147 g/km         104600 Limousine 35 TD
+19061audi        Audi A4                red   05/2020   2020     33990     140         190         Automatic     Petrol       6.9 l/100 km     156 g/km         55664  40 TFSI S line 
+19062audi        Audi A3                red   02/2020   2020     23777     150         204         Automatic     Hybrid       - (l/100 km)     46 g/km          33450  Sportback 40 e-
+19063audi        Audi A5                red   07/2020   2020     42930     140         190         Automatic     Petrol       7.1 l/100 km     162 g/km         30884  A5 Cabrio 40 TF
+19064audi        Audi A5                red   07/2020   2020     36490     140         190         Automatic     Petrol       4.1 l/100 km     108 g/km         37400  40 TFSI S-Troni
+19065audi        Audi Q2                red   03/2020   2020     27500     110         150         Automatic     Diesel       4.4 l/100 km     115 g/km         50000  35 TDI Sport  S
+19066audi        Audi S5                red   10/2020   2020     57890     260         354         Automatic     Petrol       9 l/100 km       205 g/km         29170  Cabriolet TFSI 
+19067audi        Audi A3                red   03/2020   2020     26480     110         150         Automatic     Hybrid       2 l/100 km       47 g/km          23300  40 TFSI e S lin
+19068audi        Audi Q2                red   12/2020   2020     28950     110         150         Automatic     Petrol       5.1 l/100 km     118 g/km         26370  35 1.5 TFSI adv
+19069audi        Audi Q3                red   01/2020   2020     30990     110         150         Automatic     Petrol       7 l/100 km       159 g/km         21250  35 TFSI LED Nav
+19070audi        Audi Q2                red   03/2020   2020     23770     110         150         Manual        Petrol       5.9 l/100 km     133 g/km         28500  1.5 35 TFSI spo
+19071audi        Audi S5                red   01/2020   2020     54470     255         347         Automatic     Diesel       7 l/100 km       182 g/km         107887 Sportback 3.0 T
+19072audi        Audi A4                red   11/2020   2020     25890     125         170         Automatic     CNG                           - (g/km)         78245  Avant 40 TFSI g
+19073audi        Audi S6                red   02/2020   2020     61980     257         349         Automatic     Diesel       6.5 l/100 km     171 g/km         56272  Avant 3.0 TDI q
+19074audi        Audi Q2                red   05/2020   2020     27000     110         150         Automatic     Diesel       5.1 l/100 km     - (g/km)         67500  Q2 35 TDI quatt

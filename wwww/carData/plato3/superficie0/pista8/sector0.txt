@@ -1,0 +1,25 @@
+17000audi        Audi Q5                grey  10/2019   2019     41890     185         252         Automatic     Hybrid                        - (g/km)         80500  S line 55 TFSI 
+17001audi        Audi Q3                grey  07/2019   2019     33450     140         190         Automatic     Petrol       8.8 l/100 km     200 g/km         40790  S line 40 TFSI 
+17002audi        Audi Q5                grey  12/2019   2019     40830     220         299         Automatic     Hybrid                        45 km Reichweite 43739  50 TFSI e quatt
+17003audi        Audi A4                grey  06/2019   2019     24880     110         150         Automatic     Petrol       5.9 l/100 km     135 g/km         52477  Lim. / Virtual 
+17004audi        Audi Q3                grey  03/2019   2019     28970     140         190         Automatic     Petrol       8.7 l/100 km     197 g/km         65993  40 TFSI Q ADVAN
+17005audi        Audi S6                grey  07/2019   2019     62390     257         349         Automatic     Diesel       6.5 l/100 km     172 g/km         62600  3.0 TDI q. Tipt
+17006audi        Audi Q8                grey  09/2019   2019     60800     170         231         Automatic     Diesel       6.7 l/100 km     176 g/km         57050  TDI Panorama AH
+17007audi        Audi A4                grey  03/2019   2019     32900     170         231         Automatic     Diesel       7.2 l/100 km     "191             8 g/km"71190          
+17008audi        Audi RS5               grey  08/2019   2019     57440     331         450         Automatic     Petrol       9.3 l/100 km     "211             5 g/km"54100          
+17009audi        Audi Q7                grey  08/2019   2019     56480     200         272         Automatic     Diesel       5.9 l/100 km     154 g/km         51200  3.0 TDI qu 3x S
+17010audi        Audi Q5                grey  11/2019   2019     41875     270         367         Automatic     Hybrid                        - (g/km)         22351  55 TFSI e quatt
+17011audi        Audi e-tron            grey  11/2019   2019     49830     300         408         Automatic     Electric                      371 km Reichweite64274  55 quattro adva
+17012audi        Audi A3                grey  06/2019   2019     31690     110         150         Automatic     Petrol       5.3 l/100 km     121 g/km         16382  Cabrio 35 TFSI 
+17013audi        Audi A4                grey  02/2019   2019     30380     140         190         Automatic     Diesel       5.3 l/100 km     134 g/km         42750  40 TDI quattro 
+17014audi        Audi Q3                grey  10/2019   2019     32680     140         190         Automatic     Petrol       7.5 l/100 km     171 g/km         35650  40 TFSI quattro
+17015audi        Audi A6                grey  11/2019   2019     28890     150         204         Automatic     Diesel       4.9 l/100 km     129 g/km         79000  Avant 40 TDI MO
+17016audi        Audi A4                grey  11/2019   2019     41490     180         245         Automatic     Petrol       6.7 l/100 km     153 g/km         52300  Avant 45 TFSI Q
+17017audi        Audi A4                grey  04/2019   2019     23300     140         190         Automatic     Diesel       4.6 l/100 km     121 g/km         114400 40 TDI sport Av
+17018audi        Audi A1                grey  04/2019   2019     26990     110         150         Automatic     Petrol                        - (g/km)         58500  Sportback 1.5 T
+17019audi        Audi Q2                grey  01/2019   2019     22000     85          116         Automatic     Diesel       4.1 l/100 km     - (g/km)         53840  30 TDI / Neuer 
+17020audi        Audi Q7                grey  06/2019   2019     53785     210         286         Automatic     Diesel       6.9 l/100 km     180 g/km         56485  3.0 TDI Quattro
+17021audi        Audi A1                grey  02/2019   2019     18980     85          116         Manual        Petrol       4.9 l/100 km     111 g/km         29780  1.0 Sportback 3
+17022audi        Audi A5                grey  05/2019   2019     22999     140         190         Automatic     Diesel       4.5 l/100 km     119 g/km         205440 "SPORTBACK 40 T
+17023audi        Audi A6                grey  05/2019   2019     32850     150         204         Automatic     Diesel       4.7 l/100 km     124 g/km         147800 Lim. 40 TDI spo
+17024audi        Audi A6                grey  10/2019   2019     34990     210         286         Automatic     Diesel       5.9 l/100 km     155 g/km         149000 Avant 50 TDI qu

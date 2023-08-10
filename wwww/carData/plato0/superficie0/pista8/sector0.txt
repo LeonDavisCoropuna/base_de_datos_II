@@ -1,0 +1,25 @@
+2000 audi        Audi A2                blue  11/2002   2002     4999      55          75          Manual        Petrol       6.1 l/100 km     146 g/km         136650 1.4  1.Hand    
+2001 audi        Audi A2                blue  07/2002   2002     3990      81          110         Manual        Petrol       6 l/100 km       144 g/km         224500 1.6 FSI S Line 
+2002 audi        Audi A3                blue  03/2002   2002     1600      75          102         Manual        Petrol       6.8 l/100 km     163 g/km         246545 1.6 Ambiente   
+2003 audi        Audi A2                blue  08/2002   2002     2980      81          110         Manual        Petrol       6 l/100 km       144 g/km         221689 1.6 FSI #KLIMA 
+2004 audi        Audi A3                blue  05/2002   2002     2649      75          102         Manual        Petrol       6.8 l/100 km     - (g/km)         204000 1.6 Ambition   
+2005 audi        Audi A3                blue  11/2002   2002     1950      75          102         Manual        Petrol       6.8 l/100 km     163 g/km         242000 1.6 Benzin. TÜ
+2006 audi        Audi A2                blue  10/2002   2002     3999      81          110         Manual        Petrol       5.9 l/100 km     - (g/km)         170500 1.6 FSI        
+2007 audi        Audi A2                blue  02/2002   2002     3499      55          75          Manual        Petrol       5.9 l/100 km     - (g/km)         211500 A2 1.4 - TÜV b
+2008 audi        Audi A2                blue  01/2002   2002     5499      55          75          Manual        Petrol       5.9 l/100 km     142 g/km         185000 1.4            
+2009 audi        Audi A2                blue  11/2002   2002     3300      55          75          Manual        Diesel       4.3 l/100 km     116 g/km         195000 1.4TDI- Klimaau
+2010 audi        Audi A2                blue  03/2002   2002     3000      55          75          Manual        Diesel                        - (g/km)         222980 ABT 1-4 TDI TÜ
+2011 audi        Audi A2                blue  05/2002   2002     3690      55          75          Manual        Petrol       5.9 l/100 km     142 g/km         213000 1.4            
+2012 audi        Audi TT                blue  07/2002   2002     5990      132         179         Manual        Petrol       9.4 l/100 km     226 g/km         186441 Coupe 1.8 T qua
+2013 audi        Audi A4                blue  06/2002   2002     3500      96          131         Manual        Petrol       7.9 l/100 km     190 g/km         201000 2              
+2014 audi        Audi A4                blue  02/2002   2002     2650      96          131         Manual        Diesel       5.8 l/100 km     157 g/km         205000 Lim. 1.9 TDI Sp
+2015 audi        Audi A3                blue  10/2002   2002     1999      75          102         Automatic     Petrol       6.8 l/100 km     163 g/km         149000 1.6 /VERKAUF NU
+2016 audi        Audi A4                blue  09/2002   2002     2000      125         170         Manual        Petrol       9.5 l/100 km     228 g/km         205100 2.4            
+2017 audi        Audi A4                blue  04/2002   2002     8490      125         170         Manual        Petrol       9.8 l/100 km     235 g/km         96800  Cabriolet erst 
+2018 audi        Audi TT                blue  08/2002   2002     7500      110         150         Manual        Petrol       8.3 l/100 km     197 g/km         150000 Coupe/Roadster 
+2019 audi        Audi A4                blue  04/2002   2002     1869      110         150         Automatic     Petrol                        0 g/km           266300 Avant 1.8 T Tem
+2020 audi        Audi A3                blue  10/2002   2002     4499      75          102         Automatic     Petrol       6.8 l/100 km     161 g/km         116000 1.6 Attraction*
+2021 audi        Audi A4                blue  04/2002   2002     7800      125         170         Manual        Petrol       9 l/100 km       233 g/km         155000 Cabriolet 19 Zo
+2022 audi        Audi A6                blue  02/2002   2002     6990      184         250         Automatic     Petrol       12.3 l/100 km    295 g/km         177460 Lim. 2.7 T quat
+2023 audi        Audi A4                blue  07/2002   2002     3850      110         150         Manual        Petrol       8.2 l/100 km     197 g/km         205000 1.8 T Avant*Led
+2024 audi        Audi A2                blue  02/2002   2002     3899      55          75          Manual        Petrol       5.9 l/100 km     142 g/km         116500 1.4 Klima TÜV/

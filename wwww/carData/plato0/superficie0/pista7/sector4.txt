@@ -1,0 +1,25 @@
+1850 audi        Audi TT                black 09/2000   2000     2750      132         179         Manual        Petrol       8.3 l/100 km     198 g/km         246000 2.5 TDI Avant  
+1851 audi        Audi A6                black 12/2000   2000     777       132         179         Automatic     Diesel                        - (g/km)         300000 2.4            
+1852 audi        Audi A4                silver04/2000   2000     2490      110         150         Manual        Petrol       8.1 l/100 km     194 g/km         318000 1.8 T          
+1853 audi        Audi A4                silver02/2000   2000     3900      75          102         Manual        Petrol       8 l/100 km       192 g/km         145000 1.6KLIMA GROSSE
+1854 audi        Audi TT                silver04/2000   2000     4700      132         179         Manual        Petrol       9.4 l/100 km     228 g/km         219000 Roadster 1.8 T 
+1855 audi        Audi Cabriolet         silver12/2000   2000     7250      92          125         Manual        Petrol       9 l/100 km       - (g/km)         151000 BJ: 12/2001 Aut
+1856 audi        Audi TT                silver09/2000   2000     3950      132         179         Manual        Petrol       8.3 l/100 km     199 g/km         198291 1.8 T Coupe (13
+1857 audi        Audi TT                silver05/2000   2000     7500      165         224         Manual        Petrol       9.4 l/100 km     - (g/km)         230500 TT Roadster 1.8
+1858 audi        Audi A4                silver08/2000   2000     3450      75          102         Manual        Petrol                        - (g/km)         168000 *HU Neu-Insp.Ne
+1859 audi        Audi A6                silver04/2000   2000     2999      132         179         Automatic     Diesel       8.7 l/100 km     235 g/km         275139 Quattro 2.5 TDI
+1860 audi        Audi A3                silver07/2000   2000     1790      74          101         Manual        Petrol       7.4 l/100 km     - (g/km)         236276 1.6 Ambition   
+1861 audi        Audi TT                silver02/2000   2000     4950      132         179         Manual        Petrol       8.1 l/100 km     194 g/km         221000 Coupe 1.8 T    
+1862 audi        Audi A4                silver03/2000   2000     3755      110         150         Manual        Diesel       6.8 l/100 km     184 g/km         222222 Avant 2.5 TDI F
+1863 audi        Audi A2                silver06/2000   2000     1899      55          75          Manual        Petrol       6.1 l/100 km     146 g/km         224652 1.4-Tüv 11/23/
+1864 audi        Audi A6                silver03/2000   2000     1990      121         165         Automatic     Petrol       9.7 l/100 km     233 g/km         355000 2.4 multitronic
+1865 audi        Audi A2                silver06/2000   2000     1500      55          75          Manual        Petrol       5.9 l/100 km     142 g/km         241255 1.4. klimaautom
+1866 audi        Audi Allroad           silver05/2000   2000     7000      184         250         Automatic     Petrol       12.8 l/100 km    - (g/km)         270000 Quattro 2.7 T  
+1867 audi        Audi A2                silver07/2000   2000     4999      55          75          Manual        Petrol       6.1 l/100 km     146 g/km         167900 1.4 - TÜV/AU N
+1868 audi        Audi A3                silver11/2000   2000     1400      66          90          Manual        Diesel       4.9 l/100 km     132 g/km         330000 1.9 TDI Ambitio
+1869 audi        Audi A6                silver12/2000   2000     900       121         165         Manual        Petrol       10.9 l/100 km    262 g/km         242000 Avant 2.4 quatt
+1870 audi        Audi A2                silver12/2000   2000     3500      55          75          Manual        Petrol       5.9 l/100 km     - (g/km)         224000 1.4 / 75 PS / K
+1871 audi        Audi A6                silver06/2000   2000     2390      128         174         Automatic     Petrol       9.9 l/100 km     238 g/km         187000 2.4            
+1872 audi        Audi A3                silver05/2000   2000     3600      132         179         Manual        LPG          7.8 l/100 km     - (g/km)         268300 1.8 Turbo 180 P
+1873 audi        Audi Cabriolet         silver06/2000   2000     7800      92          125         Manual        Petrol       9 l/100 km       - (g/km)         98800  Cabriolet 1.8  
+1874 audi        Audi RS4               silver11/2000   2000     51999     280         381         Manual        Petrol                        - (g/km)         125000 2.7 quattro Xen

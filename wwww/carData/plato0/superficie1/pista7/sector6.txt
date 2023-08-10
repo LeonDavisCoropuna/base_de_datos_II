@@ -1,0 +1,25 @@
+4400 audi        Audi A3                black 04/2009   2009     6250      103         140         Manual        Diesel       4.4 l/100 km     115 g/km         245000 2.0 TDI DPF S l
+4401 audi        Audi A3                black 04/2009   2009     7950      75          102         Manual        Petrol                        0 g/km           134501 1-6 Cabriolet A
+4402 audi        Audi A5                black 03/2009   2009     13500     176         239         Automatic     Diesel       6.9 l/100 km     - (g/km)         185000 3.0 TDI DPF qua
+4403 audi        Audi A4                black 11/2009   2009     7500      105         143         Automatic     Diesel       5.9 l/100 km     155 g/km         235000 Avant 2.0 TDI D
+4404 audi        Audi TT                black 05/2009   2009     8400      118         160         Manual        Petrol       6.9 l/100 km     159 g/km         175000 Roadster 1.8 TF
+4405 audi        Audi S4                black 05/2009   2009     15000     245         333         Manual        Petrol       10.2 l/100 km    - (g/km)         192000 S4 Avant       
+4406 audi        Audi A5                black 03/2009   2009     11990     132         179         Automatic     Petrol                        - (g/km)         193000 Coupe  Klima+Na
+4407 audi        Audi A4                black 09/2009   2009     12999     132         179         Manual        Petrol       6.6 l/100 km     154 g/km         124000 Avant 2.0 TFSI 
+4408 audi        Audi Q7                black 12/2009   2009     17990     250         340         Automatic     Diesel       9.9 l/100 km     262 g/km         189765 "4.2 TDI quattr
+4409 audi        Audi Q5                black 02/2009   2009     12990     125         170         Manual        Diesel       6.7 l/100 km     175 g/km         196500 2.0 TDI Quattro
+4410 audi        Audi A5                black 04/2009   2009     16990     176         239         Automatic     Diesel       6.8 l/100 km     179 g/km         159000 3.0 TDI quattro
+4411 audi        Audi A3                black 07/2009   2009     9490      118         160         Manual        Petrol       6.6 l/100 km     - (g/km)         174000 A3 1.8 TFSI Spo
+4412 audi        Audi A6                black 09/2009   2009     9300      176         239         Automatic     Diesel       7.1 l/100 km     - (g/km)         222350 Avant 3.0 TDI D
+4413 audi        Audi A4                black 12/2009   2009     6500      140         190         Automatic     Diesel       6.5 l/100 km     170 g/km         429887 2.7 AVANT AMBIT
+4414 audi        Audi A3                black 06/2009   2009     7350      103         140         Manual        Diesel       5.1 l/100 km     135 g/km         180000 Sportback 2.0 T
+4415 audi        Audi S4                black 07/2009   2009     17000     245         333         Automatic     Petrol       9.4 l/100 km     - (g/km)         184000 S4 S tronic    
+4416 audi        Audi Q7                black 02/2009   2009     12990     176         239         Automatic     Diesel       9.1 l/100 km     239 g/km         251400 3.0 TDI QUATTRO
+4417 audi        Audi A3                black 01/2009   2009     7700      92          125         Manual        Petrol       6.3 l/100 km     149 g/km         110031 1.4 TFSI Klima 
+4418 audi        Audi A3                black 02/2009   2009     6990      103         140         Automatic     Diesel       5.9 l/100 km     159 g/km         261268 2.0 TDI Attract
+4419 audi        Audi A5                black 07/2009   2009     14999     132         179         Automatic     Petrol       7.1 l/100 km     167 g/km         75000  2.0 TFSI multit
+4420 audi        Audi A5                black 08/2009   2009     9650      132         179         Automatic     Petrol       7.1 l/100 km     167 g/km         195811 Coupe 2.0 TFSI 
+4421 audi        Audi A3                black 09/2009   2009     6900      77          105         Manual        Diesel       4.2 l/100 km     112 g/km         199000 1.6 TDI S-LINE 
+4422 audi        Audi A6                black 12/2009   2009     10500     140         190         Automatic     Diesel       6.4 l/100 km     - (g/km)         271000 Audi A6 2.7 TDI
+4423 audi        Audi TT                black 08/2009   2009     12000     118         160         Manual        Petrol       6.4 l/100 km     149 g/km         112500 Coupe 1.8 TFSI 
+4424 audi        Audi A4                black 01/2009   2009     6980      140         190         Automatic     Diesel       6.5 l/100 km     169 g/km         268500 Avant 2.7 TDI D

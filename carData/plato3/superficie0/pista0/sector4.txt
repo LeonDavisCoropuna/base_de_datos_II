@@ -1,0 +1,21 @@
+12684audi        Audi SQ5               white 11/2016   2016     29490     240         326         Automatic     Diesel       6.6 l/100 km     - (g/km)         148938 3.0 TDI S-Troni
+12685audi        Audi A5                white 05/2016   2016     23499     140         190         Manual        Diesel       5.1 l/100 km     135 g/km         72257  2.0 TDI Cabrio 
+12686audi        Audi S5                white 12/2016   2016     37990     245         333         Automatic     Petrol       7.9 l/100 km     187 g/km         13000  3.0 TFSI quattr
+12687audi        Audi A4                white 11/2016   2016     22680     110         150         Automatic     Petrol       5.7 l/100 km     131 g/km         54541  Avant 1-4l TSI 
+12688audi        Audi Q2                white 12/2016   2016     16900     85          116         Manual        Diesel       4.4 l/100 km     114 g/km         125000 1.6 TDI        
+12689audi        Audi TT                white 03/2016   2016     29180     169         230         Automatic     Petrol                        - (g/km)         93580  "2.0 TFSI qu. M
+12690audi        Audi A4 allroad        white 06/2016   2016     26900     160         218         Automatic     Diesel       5.3 l/100 km     143 g/km         122300 3-0TDI quattro 
+12691audi        Audi Q5                white 03/2016   2016     27990     140         190         Automatic     Diesel       5.7 l/100 km     149 g/km         84441  2.0 TDI quattro
+12692audi        Audi A5                white 05/2016   2016     21555     140         190         Manual        Diesel       5.1 l/100 km     134 g/km         111222 Cabrio 2.0 TDI 
+12693audi        Audi A1                white 07/2016   2016     20999     92          125         Automatic     Petrol       5.1 l/100 km     117 g/km         36000  1.4 TFSi *2x S 
+12694audi        Audi SQ7               white 10/2016   2016     35999     320         435         Automatic     Diesel       7.6 l/100 km     199 g/km         300371 4.0 TDI quattro
+12695audi        Audi Q3                white 05/2016   2016     18850     88          120         Manual        Diesel       4.8 l/100 km     126 g/km         86000  sport 86.000 KM
+12696audi        Audi A5                white 03/2016   2016     26000     130         177         Manual        Petrol       5.9 l/100 km     137 g/km         28000  Cabrio 1.8 TFSI
+12697audi        Audi RS Q3             white 08/2016   2016     34900     270         367         Automatic     Petrol       8.6 l/100 km     - (g/km)         101000 2.5 TFSI quattr
+12698audi        Audi Q5                white 09/2016   2016     26780     132         179         Automatic     Petrol       7.5 l/100 km     178 g/km         84000  2.0 TFSI quattr
+12699audi        Audi A6                white 02/2016   2016     33500     160         218         Automatic     Diesel       5.1 l/100 km     - (g/km)         70000  A6 Avant 3.0 TD
+12700audi        Audi A1                white 01/2016   2016     13899     70          95          Automatic     Petrol       4.6 l/100 km     107 g/km         91750  1.0 TFSI Automa
+12701audi        Audi Q7                white 03/2016   2016     45900     200         272         Automatic     Diesel       6.2 l/100 km     163 g/km         51000  3.0 TDI quattro
+12702audi        Audi A5                white 05/2016   2016     24890     140         190         Manual        Diesel       5.1 l/100 km     135 g/km         78900  Cabriolet 2.0 T
+12703audi        Audi Q3                white 07/2016   2016     21630     110         150         Automatic     Diesel       5 l/100 km       129 g/km         116600 2.0 TDI quattro
+12704audi        Audi A3                white 06/2016   2016     23900     110         150         Automatic     Hybrid       1.7 l/100 km     40 g/km          93000  Sportback Ambi 

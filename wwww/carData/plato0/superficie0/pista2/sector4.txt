@@ -1,0 +1,25 @@
+600  alfa-romeo  Alfa Romeo Stelvio     red   04/2017   2017     29480     206         280         Automatic     Petrol       7 l/100 km       161 g/km         72650  2.0 Turbo AT8-Q
+601  alfa-romeo  Alfa Romeo Giulietta   red   03/2017   2017     16980     88          120         Manual        Petrol       6.2 l/100 km     144 g/km         35008  Super 1.4 TB Na
+602  alfa-romeo  Alfa Romeo Giulia      red   09/2017   2017     49750     375         510         Automatic     Petrol       8.2 l/100 km     189 g/km         54000  2.9 V6 Quadrifo
+603  alfa-romeo  Alfa Romeo Stelvio     red   08/2017   2017     33900     206         280         Automatic     Petrol       7 l/100 km       161 g/km         39463  2.0 Turbo First
+604  alfa-romeo  Alfa Romeo Stelvio     red   03/2017   2017     29800     206         280         Automatic     Petrol       7 l/100 km       161 g/km         47702  2.0 Turbo Super
+605  alfa-romeo  Alfa Romeo 4C          red   07/2017   2017     89994     177         241         Automatic     Petrol       6.8 l/100 km     157 g/km         3422   Coupé ! 3.422 
+606  alfa-romeo  Alfa Romeo Giulia      red   02/2017   2017     37990     206         280         Automatic     Petrol       6.4 l/100 km     152 g/km         11350  Veloce Q4      
+607  alfa-romeo  Alfa Romeo Giulia      red   10/2017   2017     56900     375         510         Automatic     Petrol       8.5 l/100 km     198 g/km         68000  2.9 V6 Bi-Turbo
+608  alfa-romeo  Alfa Romeo Giulietta   red   10/2017   2017     16000     129         175         Automatic     Diesel       4.3 l/100 km     113 g/km         63625  Super (ab 2016)
+609  alfa-romeo  Alfa Romeo Stelvio     red   06/2017   2017     28470     206         280         Automatic     Petrol       7 l/100 km       161 g/km         68090  2.0 Turbo First
+610  alfa-romeo  Alfa Romeo 4C          red   10/2017   2017     77900     177         241         Automatic     Petrol       6.9 l/100 km     161 g/km         2690   Spider         
+611  alfa-romeo  Alfa Romeo Stelvio     red   03/2017   2017     29470     206         280         Automatic     Petrol       7 l/100 km       161 g/km         63513  2.0 Turbo Super
+612  alfa-romeo  Alfa Romeo Giulia      red   11/2017   2017     18990     100         136         Manual        Diesel       4.2 l/100 km     109 g/km         109517 2.2 Business   
+613  alfa-romeo  Alfa Romeo Stelvio     red   06/2017   2017     25300     147         200         Automatic     Petrol       7 l/100 km       161 g/km         89000  2.0 Turbo 16V A
+614  alfa-romeo  Alfa Romeo Giulia      red   09/2017   2017     24880     132         179         Automatic     Diesel       4.2 l/100 km     109 g/km         88000  2.2 JTDM Super 
+615  alfa-romeo  Alfa Romeo MiTo        red   09/2017   2017     9350      57          77          Manual        Petrol       5.6 l/100 km     - (g/km)         58000  Mito 1.4 8V Sup
+616  alfa-romeo  Alfa Romeo Giulia      black 05/2017   2017     13500     132         179         Automatic     Diesel       4.2 l/100 km     109 g/km         88935  Super 2.2 Diese
+617  alfa-romeo  Alfa Romeo Giulia      black 07/2017   2017     101950    375         510         Manual        Petrol       8.5 l/100 km     198 g/km         14400  GIULIA 2.9 QUAD
+618  alfa-romeo  Alfa Romeo Giulia      black 02/2017   2017     19999     132         179         Manual        Diesel       4.2 l/100 km     109 g/km         99890  2.2 Super|R-Cam
+619  alfa-romeo  Alfa Romeo Stelvio     black 09/2017   2017     26500     147         200         Automatic     Petrol       7 l/100 km       161 g/km         57900  Super Q4 *8-fac
+620  alfa-romeo  Alfa Romeo Stelvio     black 07/2017   2017     26999     154         209         Automatic     Diesel       4.8 l/100 km     127 g/km         80000  Super 2-2 d Q4/
+621  alfa-romeo  Alfa Romeo Giulietta   black 08/2017   2017     10990     88          120         Manual        Petrol       6.2 l/100 km     144 g/km         112752 Super 1.4 TB 16
+622  alfa-romeo  Alfa Romeo Stelvio     black 11/2017   2017     29890     206         280         Automatic     Petrol       7 l/100 km       161 g/km         122000 FIRST EDITION/K
+623  alfa-romeo  Alfa Romeo Giulietta   black 11/2017   2017     14598     110         150         Manual        Petrol       5.5 l/100 km     127 g/km         70000  Super (ab 2016)
+624  alfa-romeo  Alfa Romeo Giulia      black 03/2017   2017     14990     110         150         Manual        Diesel       4.2 l/100 km     111 g/km         183219 2.2 JTDM 1.Hand

@@ -1,0 +1,25 @@
+3000 audi        Audi TT                black 12/2006   2006     13500     147         200         Manual        Petrol       7.7 l/100 km     - (g/km)         145000 Coupe 2.0 TFSI 
+3001 audi        Audi A3                black 04/2006   2006     6800      147         200         Manual        Petrol       7.8 l/100 km     186 g/km         113500 2.0 TFSI Ambiti
+3002 audi        Audi A4                black 11/2006   2006     5200      132         179         Manual        Diesel       6.8 l/100 km     182 g/km         184500 Avant 2.7 TDI D
+3003 audi        Audi A3                black 05/2006   2006     4650      85          116         Manual        Petrol       6.8 l/100 km     163 g/km         173000 Sportback 1.6 F
+3004 audi        Audi A4                black 05/2006   2006     7499      147         200         Manual        Petrol       8 l/100 km       188 g/km         179000 Lim. 2.0 TFSI S
+3005 audi        Audi A4                black 04/2006   2006     3690      171         232         Automatic     Diesel       8.5 l/100 km     229 g/km         331000 Avant 3.0 TDI q
+3006 audi        Audi A4                black 06/2006   2006     3390      103         140         Manual        Diesel                        - (g/km)         254800 2.0 TDI l NAVI 
+3007 audi        Audi A4                black 10/2006   2006     2499      147         200         Manual        Petrol       8 l/100 km       192 g/km         286000 Avant 2.0 TFSI.
+3008 audi        Audi A6                black 02/2006   2006     2999      165         224         Automatic     Diesel       8.6 l/100 km     232 g/km         299342 3.0 TDI Kombi q
+3009 audi        Audi A3                black 05/2006   2006     4999      147         200         Manual        Petrol       7.8 l/100 km     185 g/km         183940 2.0 TFSI Ambiti
+3010 audi        Audi A4                black 05/2006   2006     5000      96          131         Manual        Petrol       8.2 l/100 km     197 g/km         181000 2.0 Avant (8E) 
+3011 audi        Audi A4                black 12/2006   2006     2400      125         170         Manual        Diesel       6.8 l/100 km     179 g/km         317000 Avant 2.0 TDI q
+3012 audi        Audi A4                black 10/2006   2006     3790      96          131         Manual        Petrol       8.2 l/100 km     197 g/km         203000 Avant 2.0 Klima
+3013 audi        Audi A4                black 07/2006   2006     3900      132         179         Manual        Diesel       6.9 l/100 km     183 g/km         307440 2.7 TDI Avant (
+3014 audi        Audi A4                black 04/2006   2006     4444      75          102         Manual        Petrol       7.9 l/100 km     190 g/km         183300 1.6 Avant (8E) 
+3015 audi        Audi A3                black 05/2006   2006     5200      85          116         Manual        Petrol       6.6 l/100 km     158 g/km         179000 1.6 FSI Sportba
+3016 audi        Audi A4                black 11/2006   2006     7500      171         232         Manual        Diesel       7.6 l/100 km     - (g/km)         227000 Avant 3.0 TDI D
+3017 audi        Audi A3                black 12/2006   2006     2999      75          102         Manual        Petrol       7.1 l/100 km     - (g/km)         149000 1.6 Attraction 
+3018 audi        Audi A6                black 07/2006   2006     8990      132         179         Automatic     Diesel       7.3 l/100 km     - (g/km)         238667 A6 Avant 2.7 TD
+3019 audi        Audi A3                black 09/2006   2006     4500      110         150         Manual        Petrol       7.6 l/100 km     180 g/km         215000 2.0 FSI Ambitio
+3020 audi        Audi Q7                black 04/2006   2006     11900     171         232         Automatic     Diesel       10.5 l/100 km    282 g/km         200000 3.0 TDI (DPF) q
+3021 audi        Audi A3                black 09/2006   2006     8000      85          116         Manual        Petrol       6.6 l/100 km     - (g/km)         73920  A3 1.6 FSI Ambi
+3022 audi        Audi A4                black 10/2006   2006     7950      120         163         Automatic     Petrol       8.4 l/100 km     202 g/km         159986 1.8 T Avant *Na
+3023 audi        Audi A4                black 03/2006   2006     10000     147         200         Automatic     Petrol       8.3 l/100 km     197 g/km         84094  Cabriolet 2.0 T
+3024 audi        Audi Cabriolet         black 06/2006   2006     14900     188         256         Automatic     Petrol       10.9 l/100 km    259 g/km         114000 Cabriolet 3.2 F

@@ -1,0 +1,25 @@
+3900 audi        Audi A3                black 06/2008   2008     7000      118         160         Manual        Petrol       6.7 l/100 km     - (g/km)         205000 A3 Cabriolet 1.
+3901 audi        Audi A6                black 06/2008   2008     5000      132         179         Automatic     Diesel       8.6 l/100 km     230 g/km         310865 Avant 2.7 TDI t
+3902 audi        Audi A5                black 10/2008   2008     11000     280         381         Manual        Diesel       6.6 l/100 km     - (g/km)         320000 3.0 TDI DPF qua
+3903 audi        Audi A5                black 07/2008   2008     12500     125         170         Manual        Petrol       7.1 l/100 km     - (g/km)         145000 A5 1.8 TFSI    
+3904 audi        Audi A6                black 03/2008   2008     5200      132         179         Automatic     Diesel       8.2 l/100 km     - (g/km)         377000 A6 2.7 TDI tipt
+3905 audi        Audi Q7                black 03/2008   2008     10000     176         239         Automatic     Diesel       9.1 l/100 km     - (g/km)         290000 3.0 TDI DPF qua
+3906 audi        Audi Q7                black 03/2008   2008     10000     176         239         Automatic     Diesel       9.1 l/100 km     - (g/km)         290000 3.0 TDI DPF qua
+3907 audi        Audi Q7                black 10/2008   2008     10900     176         239         Automatic     Diesel       9.8 l/100 km     260 g/km         315000 3.0 TDI quattro
+3908 audi        Audi A6                black 06/2008   2008     6950      171         232         Automatic     Diesel       8.6 l/100 km     - (g/km)         294306 Avant 3.0 TDI D
+3909 audi        Audi A6                black 09/2008   2008     5999      103         140         Automatic     Diesel       6.7 l/100 km     178 g/km         284000 *A6 2.0 TDI Ava
+3910 audi        Audi A6                black 08/2008   2008     6450      132         179         Manual        Diesel       7.2 l/100 km     - (g/km)         288000 A6 Avant 2.7 TD
+3911 audi        Audi A4                black 04/2008   2008     8900      125         170         Manual        Diesel       6.8 l/100 km     179 g/km         192428 Avant 2.0 TDI q
+3912 audi        Audi A6                black 07/2008   2008     5500      103         140         Manual        Diesel       6.4 l/100 km     - (g/km)         304000 Avant 2.0 TDI D
+3913 audi        Audi A4                black 03/2008   2008     9000      118         160         Manual        Petrol       7.1 l/100 km     - (g/km)         225000 1.8 TFSI S line
+3914 audi        Audi A6                black 04/2008   2008     7500      170         231         Automatic     Diesel       7.5 l/100 km     - (g/km)         345000 Avant 2.7 TDI D
+3915 audi        Audi TT                black 05/2008   2008     15990     147         200         Manual        Petrol       7.7 l/100 km     183 g/km         104320 Coupe Roadster 
+3916 audi        Audi A3                black 08/2008   2008     7000      75          102         Manual        Petrol       6.8 l/100 km     - (g/km)         177000 1.6 Attraction 
+3917 audi        Audi A4                black 10/2008   2008     8499      105         143         Automatic     Diesel       5 l/100 km       - (g/km)         225000 2.0 TDI DPF S l
+3918 audi        Audi A4                black 03/2008   2008     3499      103         140         Manual        Diesel       6.1 l/100 km     - (g/km)         446000 A4 Avant 2.0 TD
+3919 audi        Audi A4                black 08/2008   2008     4200      118         160         Manual        Petrol       7.2 l/100 km     172 g/km         158350 Ambition Avant 
+3920 audi        Audi A5                black 04/2008   2008     10350     195         265         Automatic     Petrol       8.7 l/100 km     207 g/km         193000 3.2 FSI Coupe (
+3921 audi        Audi A6                black 07/2008   2008     7999      171         232         Automatic     Diesel       8.5 l/100 km     224 g/km         199000 3.0 TDI DPF qua
+3922 audi        Audi A4                black 06/2008   2008     4500      118         160         Manual        Petrol       7.2 l/100 km     - (g/km)         220000 Avant 1.8 TFSI 
+3923 audi        Audi A5                black 12/2008   2008     10000     176         239         Manual        Diesel       6.6 l/100 km     - (g/km)         220000 3.0 TDI DPF qua
+3924 audi        Audi A6                black 01/2008   2008     8000      171         232         Manual        Diesel       8 l/100 km       215 g/km         230000 3.0 TDI DPF qua

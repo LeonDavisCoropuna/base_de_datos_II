@@ -1,0 +1,21 @@
+16275audi        Audi A6                white 12/2018   2018     35975     200         272         Automatic     Diesel       5.3 l/100 km     138 g/km         60574  Avant 3.0 TDI q
+16276audi        Audi A6                white 11/2018   2018     31260     150         204         Automatic     Diesel       4.7 l/100 km     124 g/km         94003  Lim. 40 TDI S L
+16277audi        Audi A6                white 12/2018   2018     32280     210         286         Automatic     Diesel                        - (g/km)         136808 50 TDI Q SPORT 
+16278audi        Audi A1                white 07/2018   2018     17900     70          95          Automatic     Petrol       4.6 l/100 km     102 g/km         48800  Sportback sport
+16279audi        Audi A4                white 06/2018   2018     29000     185         252         Automatic     Petrol       6 l/100 km       135 g/km         77430  Avant 2.0 TFSI 
+16280audi        Audi A6                white 03/2018   2018     44990     240         326         Automatic     Diesel       6.2 l/100 km     164 g/km         43163  3.0 TDI Competi
+16281audi        Audi Q2                white 08/2018   2018     20988     110         150         Automatic     Diesel       4.8 l/100 km     125 g/km         121000 2.0 TDI 150 S t
+16282audi        Audi A5                white 02/2018   2018     28310     140         190         Manual        Petrol       5.7 l/100 km     130 g/km         40986  Coupe Sport MMI
+16283audi        Audi SQ7               white 09/2018   2018     61890     320         435         Automatic     Diesel       7.2 l/100 km     189 g/km         60295  4.0 TDI quattro
+16284audi        Audi A6                white 02/2018   2018     39899     235         320         Automatic     Diesel       6.2 l/100 km     164 g/km         91300  "Avant 3.0TDI Q
+16285audi        Audi A5                white 07/2018   2018     33980     210         286         Automatic     Diesel       5.7 l/100 km     151 g/km         69980  Sportback 3.0 T
+16286audi        Audi A5                white 08/2018   2018     30000     140         190         Automatic     Petrol       5.5 l/100 km     126 g/km         74777  sport Sportback
+16287audi        Audi S5                white 07/2018   2018     47000     260         354         Automatic     Petrol       7.5 l/100 km     280 g/km         33371  Sportback-Side 
+16288audi        Audi A6 allroad        white 04/2018   2018     40990     235         320         Automatic     Diesel       6.5 l/100 km     172 g/km         54290  3.0 TDI Qu./Nig
+16289audi        Audi TT RS             white 06/2018   2018     55990     294         400         Automatic     Petrol       8.2 l/100 km     187 g/km         73000  Coupe 2.5 TFSI*
+16290audi        Audi Q5                white 08/2018   2018     31680     140         190         Automatic     Diesel       5.1 l/100 km     129 g/km         61627  2.0 TDI quattro
+16291audi        Audi A7                white 03/2018   2018     41900     240         326         Automatic     Diesel       6.3 l/100 km     167 g/km         41200  Sportback 3.0 T
+16292audi        Audi A3                white 12/2018   2018     22490     110         150         Manual        Petrol       5.3 l/100 km     120 g/km         63300  Sportback sport
+16293audi        Audi RS4               white 04/2018   2018     55990     331         450         Automatic     Petrol       8.8 l/100 km     200 g/km         100000 2.9 TFSI Quattr
+16294audi        Audi A4                white 07/2018   2018     19990     110         150         Manual        Petrol       5.4 l/100 km     128 g/km         139000 Avant 1.4 TFSI 
+16295audi        Audi A5                white 02/2018   2018     27999     140         190         Manual        Petrol       5.6 l/100 km     128 g/km         34000  Coupe 2.0 TFSI 

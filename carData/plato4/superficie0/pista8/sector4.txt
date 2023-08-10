@@ -1,0 +1,21 @@
+18564audi        Audi A6                beige 08/2020   2020     36990     150         204         Automatic     Diesel       4.4 l/100 km     156 g/km         48000  Avant 40 TDI qu
+18565audi        Audi A6                beige 03/2020   2020     34930     150         204         Automatic     Diesel       4.4 l/100 km     156 g/km         82000  40 TDI quattro 
+18566audi        Audi A6                beige 04/2020   2020     59623     150         204         Automatic     Diesel       4.5 l/100 km     152 g/km         61621  40 TDI sport *L
+18567audi        Audi e-tron            beige 06/2020   2020     40939     300         408         Automatic     Electric                      0 g/km           38604  55 quattro adva
+18568audi        Audi A6                beige 06/2020   2020     46980     210         286         Automatic     Diesel       7.4 l/100 km     193 g/km         73805  Avant 50 TDI qu
+18569audi        Audi A6 allroad        beige 04/2020   2020     59990     170         231         Automatic     Diesel                        - (g/km)         42901  quattro 45 TDI 
+18570audi        Audi A7                beige 02/2020   2020     53750     210         286         Automatic     Diesel       5.8 l/100 km     150 g/km         40516  50 TDI quattro 
+18571audi        Audi A7                beige 02/2020   2020     38690     185         252         Automatic     Hybrid                        52 km Reichweite 75500  50 TFSIe quattr
+18572audi        Audi A3                blue  06/2020   2020     27930     110         150         Manual        Petrol       4.9 l/100 km     113 g/km         43105  Sportback 1.5 T
+18573audi        Audi A6                blue  01/2020   2020     46499     210         286         Automatic     Diesel       5.8 l/100 km     150 g/km         53000  Lim. 50 TDI qua
+18574audi        Audi A5                blue  10/2020   2020     39950     150         204         Automatic     Petrol       6.7 l/100 km     152 g/km         9500   "40 TFSI *2x S 
+18575audi        Audi e-tron            blue  09/2020   2020     51840     300         408         Automatic     Electric                      0 g/km           28334  55 quattro Auto
+18576audi        Audi A3                blue  11/2020   2020     28250     110         150         Manual        Petrol       6 l/100 km       137 g/km         3201   Sportback 35 TF
+18577audi        Audi e-tron            blue  03/2020   2020     49880     300         408         Automatic     Electric                      371 km Reichweite50500  "advanced 55 qu
+18578audi        Audi Q5                blue  02/2020   2020     44900     270         367         Automatic     Hybrid                        45 km Reichweite 21600  55 TFSI e qu.S 
+18579audi        Audi e-tron            blue  03/2020   2020     45989     230         313         Automatic     Electric                      276 km Reichweite43417  50 quattro KLIM
+18580audi        Audi A4                blue  10/2020   2020     40690     195         265         Automatic     Petrol       7 l/100 km       161 g/km         6100   45 TFSI quattro
+18581audi        Audi e-tron            blue  03/2020   2020     41950     230         313         Automatic     Electric                      276 km Reichweite50374  50 quattro NAVI
+18582audi        Audi A6                blue  10/2020   2020     48890     270         367         Automatic     Hybrid       1.9 l/100 km     43 g/km          42000  55 TFSI e q. S-
+18583audi        Audi A3                blue  07/2020   2020     27550     150         204         Automatic     Hybrid       1.6 l/100 km     38 g/km          17280  Sportback desig
+18584audi        Audi A6                blue  12/2020   2020     46890     220         299         Automatic     Hybrid       1.6 l/100 km     36 g/km          35500  sport 50 TFSI e

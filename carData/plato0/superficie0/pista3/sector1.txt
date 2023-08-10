@@ -1,0 +1,21 @@
+651  alfa-romeo  Alfa Romeo Giulia      blue  05/2018   2018     31500     154         209         Automatic     Diesel       4.7 l/100 km     122 g/km         74554  Veloce Q4 Leder
+652  alfa-romeo  Alfa Romeo Stelvio     blue  06/2018   2018     26500     132         179         Automatic     Diesel       4.7 l/100 km     124 g/km         76700  2.2 Diesel 16V 
+653  alfa-romeo  Alfa Romeo Stelvio     blue  09/2018   2018     32850     206         280         Automatic     Petrol       7 l/100 km       161 g/km         77960  2.0 16V AT8-Q4 
+654  alfa-romeo  Alfa Romeo Giulia      blue  07/2018   2018     27990     132         179         Automatic     Diesel       4.7 l/100 km     122 g/km         81000  2.2 Diesel 16V 
+655  alfa-romeo  Alfa Romeo Stelvio     blue  10/2018   2018     35991     154         209         Automatic     Diesel                        0 g/km           51431  Lusso 2.2 Diese
+656  alfa-romeo  Alfa Romeo Giulia      blue  03/2018   2018     26980     132         179         Automatic     Diesel       4.2 l/100 km     109 g/km         63950  2-2 Super 179 P
+657  alfa-romeo  Alfa Romeo Stelvio     blue  06/2018   2018     38250     132         179         Automatic     Diesel       4.8 l/100 km     127 g/km         45000  Super 180PS Q4-
+658  alfa-romeo  Alfa Romeo Stelvio     blue  07/2018   2018     62900     375         510         Automatic     Petrol       9 l/100 km       210 g/km         39000  Quadrifoglio Q4
+659  alfa-romeo  Alfa Romeo Stelvio     blue  11/2018   2018     29900     147         200         Automatic     Petrol       7 l/100 km       161 g/km         48000  MY19 Business 2
+660  alfa-romeo  Alfa Romeo Stelvio     brown 12/2018   2018     32100     206         280         Automatic     Petrol       9.8 l/100 km     222 g/km         43000  2-0T 280PS AWD 
+661  alfa-romeo  Alfa Romeo Stelvio     brown 02/2018   2018     32800     206         280         Automatic     Petrol       8 l/100 km       184 g/km         68700  Super 2.0 Turbo
+662  alfa-romeo  Alfa Romeo Giulia      grey  06/2018   2018     32990     206         280         Automatic     Petrol       6.4 l/100 km     152 g/km         54537  VELOCE Q4 2.0 T
+663  alfa-romeo  Alfa Romeo Giulia      grey  12/2018   2018     28900     147         200         Automatic     Petrol       6.8 l/100 km     157 g/km         29000  2.0 Turbo 16V A
+664  alfa-romeo  Alfa Romeo Giulietta   grey  05/2018   2018     14980     125         170         Automatic     Petrol       - (l/100 km)     114 g/km         64916  1.4 TB 16V Mult
+665  alfa-romeo  Alfa Romeo Giulia      grey  07/2018   2018     28550     206         280         Automatic     Petrol       7.7 l/100 km     178 g/km         66500  2.0 Q4 Veloce T
+666  alfa-romeo  Alfa Romeo Giulietta   grey  06/2018   2018     23900     177         241         Automatic     Petrol       6.8 l/100 km     157 g/km         44377  Veloce /Navi / 
+667  alfa-romeo  Alfa Romeo Stelvio     grey  11/2018   2018     28900     206         280         Automatic     Petrol       7 l/100 km       161 g/km         67398  Super Q4 Leder 
+668  alfa-romeo  Alfa Romeo Giulia      grey  01/2018   2018     21980     132         179         Manual        Diesel       4.2 l/100 km     109 g/km         79600  2.2 JTDM Super 
+669  alfa-romeo  Alfa Romeo MiTo        grey  04/2018   2018     15950     103         140         Automatic     Petrol                        0 g/km           50300  Super Automatik
+670  alfa-romeo  Alfa Romeo Giulia      grey  04/2018   2018     34600     206         280         Automatic     Petrol       6.4 l/100 km     152 g/km         47000  2.0 Turbo 16V A
+671  alfa-romeo  Alfa Romeo Stelvio     grey  10/2018   2018     54770     375         510         Automatic     Petrol       9 l/100 km       210 g/km         60167  Quadrifoglio Q4

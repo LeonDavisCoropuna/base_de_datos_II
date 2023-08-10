@@ -1,0 +1,21 @@
+3528 audi        Audi A3                silver09/2007   2007     7990      75          102         Automatic     Petrol       8.1 l/100 km     194 g/km         98000  Sportback 1.6 A
+3529 audi        Audi A3                silver05/2007   2007     2490      85          116         Manual        Petrol       6.7 l/100 km     159 g/km         161391 1.6 FSI Attract
+3530 audi        Audi TT                silver01/2007   2007     6900      147         200         Automatic     Petrol       7.7 l/100 km     183 g/km         171600 Coupe 2.0 TFSI/
+3531 audi        Audi A4                silver02/2007   2007     1200      132         179         Automatic     Diesel       6.8 l/100 km     182 g/km         335000 Avant 2.7 TDI D
+3532 audi        Audi A6                silver02/2007   2007     4490      132         179         Automatic     Diesel       7.7 l/100 km     206 g/km         266000 2.7 TDI Avant*T
+3533 audi        Audi A8                silver05/2007   2007     5999      171         232         Automatic     Diesel       8.8 l/100 km     236 g/km         350000 3.0 TDI quattro
+3534 audi        Audi A6                silver02/2007   2007     8500      120         163         Automatic     Diesel       8.5 l/100 km     229 g/km         193400 Lim. 2.7 TDI qu
+3535 audi        Audi A6                silver06/2007   2007     5000      171         232         Automatic     Diesel       8.6 l/100 km     - (g/km)         225000 A6 Avant 3.0 TD
+3536 audi        Audi S3                silver05/2007   2007     11000     195         265         Manual        Petrol       9.1 l/100 km     - (g/km)         179000 Top-Zustand    
+3537 audi        Audi A6                silver09/2007   2007     7490      132         179         Automatic     Diesel       7.7 l/100 km     206 g/km         247771 Avant 2.7 TDI  
+3538 audi        Audi TT                silver11/2007   2007     6450      147         200         Manual        Petrol       7.7 l/100 km     183 g/km         295000 Coupe 2.0 TFSI 
+3539 audi        Audi A3                silver10/2007   2007     5950      75          102         Manual        Petrol       7.1 l/100 km     169 g/km         137000 1.6 S Line Spor
+3540 audi        Audi S3                silver02/2007   2007     19890     195         265         Manual        Petrol       9.1 l/100 km     217 g/km         75000  2.0 TFSI QUATTR
+3541 audi        Audi TT                silver06/2007   2007     15850     147         200         Automatic     Petrol       7.8 l/100 km     186 g/km         63000  Roadster 2.0 TF
+3542 audi        Audi TT                silver09/2007   2007     8900      184         250         Automatic     Petrol       9.4 l/100 km     224 g/km         219000 3.2  - Quattro 
+3543 audi        Audi A3                silver04/2007   2007     5990      75          102         Manual        Petrol       7.1 l/100 km     169 g/km         145231 1.6 Klimaautom.
+3544 audi        Audi A6 allroad        silver02/2007   2007     11000     171         232         Semi-automaticDiesel       8.4 l/100 km     - (g/km)         228999 3.0 TDI        
+3545 audi        Audi TT                silver05/2007   2007     14890     147         200         Automatic     Petrol       7.7 l/100 km     183 g/km         99800  Coupe 2.0 TFSI 
+3546 audi        Audi A6                silver12/2007   2007     5999      171         232         Automatic     Diesel       8.5 l/100 km     224 g/km         370000 3.0 TDI quattro
+3547 audi        Audi TT                silver03/2007   2007     9999      147         200         Manual        Petrol       7.8 l/100 km     186 g/km         144000 Roadster 2.0 TF
+3548 audi        Audi Q7                silver11/2007   2007     11990     171         232         Automatic     Diesel       10.5 l/100 km    282 g/km         187000 3.0 TDI quattro

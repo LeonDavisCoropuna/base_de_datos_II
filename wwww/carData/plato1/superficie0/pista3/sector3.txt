@@ -1,0 +1,25 @@
+5825 audi        Audi A3                black 05/2011   2011     11990     103         140         Manual        Diesel       5.3 l/100 km     140 g/km         150000 Cabriolet S lin
+5826 audi        Audi TT                black 11/2011   2011     11800     118         160         Manual        Petrol       6.4 l/100 km     149 g/km         137000 Coupe 1.8 TFSI 
+5827 audi        Audi A3                black 09/2011   2011     9799      77          105         Automatic     Petrol       5.3 l/100 km     - (g/km)         155000 A3 1.2 TFSI Spo
+5828 audi        Audi A1                black 05/2011   2011     7200      90          122         Automatic     Petrol       5.3 l/100 km     - (g/km)         175000 1.4 TFSI S tron
+5829 audi        Audi A4                black 02/2011   2011     9980      105         143         Manual        Diesel       5.7 l/100 km     149 g/km         214000 2.0 TDI Avant C
+5830 audi        Audi A3                black 05/2011   2011     8890      92          125         Manual        Petrol       5.7 l/100 km     135 g/km         171718 1.4 TFSI Ambien
+5831 audi        Audi A4                black 12/2011   2011     8000      105         143         Automatic     Diesel       5.9 l/100 km     - (g/km)         258000 Avant 2.0 TDI D
+5832 audi        Audi A3                black 07/2011   2011     10000     77          105         Manual        Diesel       4.3 l/100 km     - (g/km)         175360 Cabriolet 1.6 T
+5833 audi        Audi Q7                black 05/2011   2011     15500     176         239         Automatic     Diesel       8.4 l/100 km     219 g/km         226000 3.0 TDI DPF cle
+5834 audi        Audi A1                black 03/2011   2011     7500      77          105         Manual        Diesel       3.8 l/100 km     - (g/km)         165600 A1 1.6 TDI Attr
+5835 audi        Audi A1                black 04/2011   2011     13500     90          122         Automatic     Petrol       5.3 l/100 km     122 g/km         71000  A1 1.4 TFSI S t
+5836 audi        Audi A5                black 01/2011   2011     10800     180         245         Automatic     Diesel       6.5 l/100 km     - (g/km)         260000 3.0 TDI Sportba
+5837 audi        Audi A3                black 05/2011   2011     12000     118         160         Manual        Petrol       6.7 l/100 km     156 g/km         84500  A3 Cabriolet 1.
+5838 audi        Audi Q5                black 08/2011   2011     17200     125         170         Automatic     Diesel       7 l/100 km       - (g/km)         176700 2.0 TDI quattro
+5839 audi        Audi TT                black 12/2011   2011     16980     155         211         Manual        Petrol       6.6 l/100 km     154 g/km         126500 Coupe S-Line 2.
+5840 audi        Audi A6                black 01/2011   2011     13000     176         239         Manual        Diesel       6.7 l/100 km     179 g/km         174150 Avant 3.0 TDI D
+5841 audi        Audi A5                black 11/2011   2011     9800      150         204         Automatic     Diesel       4.9 l/100 km     - (g/km)         365000 A5 3.0 TDI Spor
+5842 audi        Audi A4                black 07/2011   2011     14800     105         143         Manual        Diesel       5.7 l/100 km     149 g/km         84000  Avant Ambition 
+5843 audi        Audi A3                black 04/2011   2011     9990      77          105         Manual        Diesel       4.2 l/100 km     112 g/km         123000 Sportback 1.6 T
+5844 audi        Audi A3                black 08/2011   2011     9450      103         140         Manual        Diesel       4.6 l/100 km     119 g/km         160000 2.0 TDI Cabriol
+5845 audi        Audi A4                black 11/2011   2011     14900     105         143         Manual        Diesel       5.7 l/100 km     149 g/km         104400 "Av2.0 TDI""NAV
+5846 audi        Audi A5                black 11/2011   2011     12900     132         179         Automatic     Petrol       7.2 l/100 km     - (g/km)         220000 2.0 TFSI Sportb
+5847 audi        Audi A4                black 07/2011   2011     8849      140         190         Manual        Diesel       6.2 l/100 km     - (g/km)         268000 A4 Avant 2.7 TD
+5848 audi        Audi A6                black 07/2011   2011     14900     150         204         Automatic     Diesel       5.7 l/100 km     - (g/km)         190000 A6 3.0 TDI DPF 
+5849 audi        Audi A5                black 03/2011   2011     13999     202         275         Manual        Petrol       6.8 l/100 km     159 g/km         155000 2.0 TFSI (202kW

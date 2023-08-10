@@ -1,0 +1,21 @@
+3696 audi        Audi A6 allroad        grey  01/2008   2008     7900      257         349         Automatic     Petrol       11.2 l/100 km    267 g/km         232932 Allroad Quattro
+3697 audi        Audi A5                grey  04/2008   2008     4499      140         190         Automatic     Diesel       6.4 l/100 km     - (g/km)         285000 2.7 TDI DPF mul
+3698 audi        Audi A4                grey  09/2008   2008     10950     118         160         Automatic     Petrol       7.6 l/100 km     179 g/km         180000 Avant Ambiente 
+3699 audi        Audi A4                grey  08/2008   2008     6490      118         160         Manual        Petrol       7.1 l/100 km     - (g/km)         96000  1.8 TFSI Ambien
+3700 audi        Audi A3                grey  04/2008   2008     18890     118         160         Manual        Petrol       7.3 l/100 km     174 g/km         200000 Cabriolet Ambit
+3701 audi        Audi A4                grey  07/2008   2008     10900     195         265         Automatic     Petrol       9.3 l/100 km     220 g/km         72500  "3.2 Quattro Am
+3702 audi        Audi A4                grey  05/2008   2008     4300      118         160         Manual        Petrol       7.2 l/100 km     172 g/km         127000 Avant Ambition 
+3703 audi        Audi A6                grey  04/2008   2008     5500      171         232         Automatic     Diesel       8.8 l/100 km     235 g/km         337900 3.0 TDI quattro
+3704 audi        Audi A4                grey  06/2008   2008     8900      105         143         Manual        Diesel       5.2 l/100 km     - (g/km)         266000 Avant 2.0 TDI D
+3705 audi        Audi A4                grey  04/2008   2008     9990      105         143         Manual        Diesel       5.2 l/100 km     143 g/km         180000 A4 Avant 2.0 TD
+3706 audi        Audi A4                grey  05/2008   2008     12700     118         160         Automatic     Petrol       7.6 l/100 km     179 g/km         128100 Avant Ambiente 
+3707 audi        Audi TT                grey  01/2008   2008     12990     147         200         Automatic     Petrol       7.7 l/100 km     - (g/km)         137000 TT Coupe 2.0 TF
+3708 audi        Audi Q7                grey  04/2008   2008     8250      176         239         Automatic     Diesel       9.8 l/100 km     260 g/km         240000 3.0 TDI quattro
+3709 audi        Audi A6                grey  05/2008   2008     12500     125         170         Manual        Petrol       7.9 l/100 km     187 g/km         185000 2.0 TFSI SLine 
+3710 audi        Audi Q7                grey  09/2008   2008     4190      240         326         Automatic     Diesel       11.1 l/100 km    294 g/km         267000 4.2 TDI Leder-7
+3711 audi        Audi A3                grey  04/2008   2008     6200      103         140         Manual        Diesel       5.7 l/100 km     154 g/km         267000 Sportback 2.0 T
+3712 audi        Audi A5                grey  09/2008   2008     9799      176         239         Manual        Diesel       7.2 l/100 km     191 g/km         290913 Coupe 3.0 TDI q
+3713 audi        Audi A4                grey  07/2008   2008     6700      88          120         Manual        Petrol       7.1 l/100 km     - (g/km)         90000  A4 1.8 TFSI Amb
+3714 audi        Audi A4                grey  11/2008   2008     6500      105         143         Manual        Diesel       5 l/100 km       - (g/km)         225000 2.0 tdi Advance
+3715 audi        Audi TT                grey  04/2008   2008     16906     147         200         Manual        Petrol       7.7 l/100 km     183 g/km         85900  2.0 TFSI Roadst
+3716 audi        Audi A4                grey  04/2008   2008     9950      103         140         Automatic     Diesel       6.6 l/100 km     177 g/km         184700 Cabriolet 2.0 T

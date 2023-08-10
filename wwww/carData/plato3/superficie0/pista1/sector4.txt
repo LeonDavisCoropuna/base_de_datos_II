@@ -1,0 +1,25 @@
+15350audi        Audi A6                green 07/2018   2018     39450     160         218         Automatic     Diesel       4.4 l/100 km     - (g/km)         47000  A6 3.0 TDI S tr
+15351audi        Audi A5                green 08/2018   2018     36888     140         190         Automatic     Diesel       4.6 l/100 km     121 g/km         91150  Coupé 2.0 TDI 
+15352audi        Audi A4                green 04/2018   2018     24980     110         150         Automatic     Petrol       5.7 l/100 km     131 g/km         72590  Avant design 1.
+15353audi        Audi Q3                green 06/2018   2018     25990     132         179         Automatic     Petrol       6.5 l/100 km     161 g/km         88700  2-0 TFSI QUATTR
+15354audi        Audi A6                green 08/2018   2018     36940     185         252         Automatic     Petrol       6.9 l/100 km     158 g/km         69000  A6 Avant 2.0 TF
+15355audi        Audi Q3                green 04/2018   2018     23442     110         150         Manual        Petrol       5.5 l/100 km     127 g/km         32143  1.4 TFSI design
+15356audi        Audi A6                green 01/2018   2018     29985     200         272         Automatic     Diesel       5.3 l/100 km     138 g/km         96500  Avant 3.0 TDI q
+15357audi        Audi Q3                green 02/2018   2018     18599     110         150         Manual        Diesel       4.4 l/100 km     116 g/km         165000 2.0 TDI        
+15358audi        Audi Q3                green 07/2018   2018     25980     110         150         Manual        Petrol       5.5 l/100 km     127 g/km         69768  nza 1.4 Sport S
+15359audi        Audi A4 allroad        green 05/2018   2018     189880    120         163         Automatic     Diesel       5.1 l/100 km     134 g/km         250000 2.0 TDI Quattro
+15360audi        Audi R8                green 03/2018   2018     22750     449         610         Automatic     Petrol       12.5 l/100 km    292 g/km         27600  Spyder 5.2 FSI 
+15361audi        Audi A4                green 07/2018   2018     23879     140         190         Automatic     Petrol       5.6 l/100 km     128 g/km         75000  Avant 2.0 TFSI 
+15362audi        Audi Q3                green 03/2018   2018     30700     110         150         Manual        Diesel       4.4 l/100 km     116 g/km         77669  2.0 TDI ultra N
+15363audi        Audi A4 allroad        green 01/2018   2018     21990     185         252         Automatic     Petrol       6.7 l/100 km     154 g/km         74400  quattro        
+15364audi        Audi Q3                green 07/2018   2018     69999     110         150         Manual        Diesel       4.7 l/100 km     124 g/km         82550  2.0 TDI Sport A
+15365audi        Audi RS4               green 09/2018   2018     42950     559         760         Automatic     Petrol       8.8 l/100 km     200 g/km         107000 Avant 2.9 TFSI 
+15366audi        Audi S5                green 07/2018   2018     59995     260         354         Automatic     Petrol                        - (g/km)         22711  3.0 TFSI quattr
+15367audi        Audi RS5               green 03/2018   2018     129900    331         450         Automatic     Petrol       8.7 l/100 km     197 g/km         24935  Coupe 2.9 TFSI 
+15368audi        Audi RS5               green 08/2018   2018     59900     390         530         Automatic     Petrol       8.7 l/100 km     197 g/km         9986   -R 1/50 CARBON-
+15369audi        Audi RS4               green 07/2018   2018     28490     331         450         Automatic     Petrol       8.8 l/100 km     200 g/km         67725  Avant 2.9 TFSI 
+15370audi        Audi A5                green 07/2018   2018     36990     140         190         Automatic     Diesel       4.2 l/100 km     109 g/km         45700  ++Alcantara+Xen
+15371audi        Audi A7                green 01/2018   2018     57990     235         320         Automatic     Diesel       6.2 l/100 km     164 g/km         89102  3.0 TDI QUATTRO
+15372audi        Audi RS5               green 05/2018   2018     19995     331         450         Automatic     Petrol       8.7 l/100 km     197 g/km         80000  Coupe+RS Design
+15373audi        Audi A4                green 05/2018   2018     35189     110         150         Manual        Diesel       4.2 l/100 km     112 g/km         96132  2.0 Tdi Lim. de
+15374audi        Audi A5                green 11/2018   2018     27000     140         190         Automatic     Diesel       5.5 l/100 km     "146             6 g/km"38140          

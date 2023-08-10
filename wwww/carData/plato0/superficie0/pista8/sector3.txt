@@ -1,0 +1,25 @@
+2075 audi        Audi A6                black 01/2002   2002     3500      169         230         Manual        Petrol       11.6 l/100 km    278 g/km         369000 2.7 T quattro L
+2076 audi        Audi S6                black 03/2002   2002     6999      250         340         Automatic     Petrol       14.6 l/100 km    350 g/km         310000 Avant 4.2 quatt
+2077 audi        Audi A2                black 01/2002   2002     6750      55          75          Manual        Petrol       5.9 l/100 km     - (g/km)         229000 1-4L 16V*Leder*
+2078 audi        Audi TT                black 03/2002   2002     5999      110         150         Manual        Petrol       8.3 l/100 km     197 g/km         235650 Coupe/Roadster 
+2079 audi        Audi A2                black 10/2002   2002     2999      55          75          Manual        Petrol                        - (g/km)         230000 1.4 ADVANCE    
+2080 audi        Audi A4                silver06/2002   2002     3500      120         163         Automatic     Petrol       8.4 l/100 km     202 g/km         167734 1.8 T Avant (8E
+2081 audi        Audi A4                silver08/2002   2002     1200      114         155         Automatic     Diesel       7 l/100 km       189 g/km         211000 2.5 TDI / Klima
+2082 audi        Audi A4                silver06/2002   2002     5990      125         170         Manual        Petrol       9.7 l/100 km     - (g/km)         155000 Cabriolet 2.4 m
+2083 audi        Audi TT                silver02/2002   2002     11500     132         179         Manual        Petrol       8.2 l/100 km     197 g/km         77250  Roadster 1.8 T 
+2084 audi        Audi TT                silver12/2002   2002     7800      132         179         Manual        Petrol       8.1 l/100 km     - (g/km)         159000 TT Coupe 1.8 T 
+2085 audi        Audi A6                silver05/2002   2002     5490      125         170         Automatic     Petrol       9.8 l/100 km     235 g/km         112800 Lim. 2.4       
+2086 audi        Audi TT                silver07/2002   2002     11990     165         224         Manual        Petrol       9.4 l/100 km     226 g/km         154000 Roadster 1.8 T 
+2087 audi        Audi A4                silver04/2002   2002     4333      96          131         Manual        Petrol       8 l/100 km       - (g/km)         122000 Avant 2.0      
+2088 audi        Audi A4                silver01/2002   2002     1600      125         170         Manual        Petrol       9.5 l/100 km     228 g/km         206000 2.4            
+2089 audi        Audi A4                silver09/2002   2002     8890      125         170         Manual        Petrol       9.8 l/100 km     235 g/km         99349  Cabrio 2.4 Navi
+2090 audi        Audi A2                silver08/2002   2002     3500      81          110         Manual        Petrol       6 l/100 km       144 g/km         166000 1.6 FSI/OpenSky
+2091 audi        Audi A4                silver09/2002   2002     4999      96          131         Manual        Diesel       5.6 l/100 km     - (g/km)         277000 Avant 1.9 TDI  
+2092 audi        Audi A6                silver11/2002   2002     1500      125         170         Automatic     Petrol       9.9 l/100 km     238 g/km         256000 Avant 2.4      
+2093 audi        Audi A2                silver08/2002   2002     5300      55          75          Manual        Diesel       4.3 l/100 km     119 g/km         128000 A2 1.4 TDI     
+2094 audi        Audi A4                silver08/2002   2002     4500      162         220         Automatic     Petrol       10.8 l/100 km    259 g/km         190000 Avant 3.0 quatt
+2095 audi        Audi A6                silver09/2002   2002     1000      120         163         Automatic     Diesel       7.1 l/100 km     192 g/km         414505 Avant 2.5 TDI L
+2096 audi        Audi A4                silver06/2002   2002     2900      96          131         Manual        Diesel       5.8 l/100 km     157 g/km         243350 Avant 1.9 TDI  
+2097 audi        Audi A4                silver10/2002   2002     3500      96          131         Manual        Petrol       7.9 l/100 km     190 g/km         230275 2              
+2098 audi        Audi A4                silver08/2002   2002     3780      120         163         Manual        Petrol       8.4 l/100 km     202 g/km         257350 Avant S-Line 1.
+2099 audi        Audi TT                silver10/2002   2002     10490     165         224         Manual        Petrol       9.4 l/100 km     226 g/km         152000 1.8 T Coupe Qua

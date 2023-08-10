@@ -1,0 +1,25 @@
+17725audi        Audi A6                black 07/2019   2019     44890     150         204         Automatic     Diesel       4.9 l/100 km     129 g/km         55800  Avant 40 TDI sp
+17726audi        Audi A3                black 05/2019   2019     51870     110         150         Automatic     Petrol       6.6 l/100 km     153 g/km         53358  35 TFSI S-TR S-
+17727audi        Audi Q3                black 10/2019   2019     36925     140         190         Automatic     Petrol       8.7 l/100 km     199 g/km         136062 40 TFSI QU S-TR
+17728audi        Audi A6                black 08/2019   2019     22900     210         286         Automatic     Diesel       7.4 l/100 km     195 g/km         100697 Avant 50+TDI+SP
+17729audi        Audi A6                black 08/2019   2019     43980     210         286         Automatic     Diesel       7.3 l/100 km     192 g/km         53290  Limousine 50*TD
+17730audi        Audi S3                black 04/2019   2019     55990     221         300         Automatic     Petrol       6.8 l/100 km     155 g/km         39954  2.0 TFSI Limous
+17731audi        Audi A4                black 07/2019   2019     29888     110         150         Automatic     Diesel       4.6 l/100 km     121 g/km         54500  Avant TDI AUTOM
+17732audi        Audi e-tron            black 03/2019   2019     31850     300         408         Automatic     Electric                      359 km Reichweite146003 55 quattro adva
+17733audi        Audi RS4               black 08/2019   2019     65480     331         450         Automatic     Petrol                        - (g/km)         84350  Avant Quattro L
+17734audi        Audi Q8                black 04/2019   2019     66780     210         286         Automatic     Diesel       8.1 l/100 km     212 g/km         57588  50 quattro S LI
+17735audi        Audi A6                black 11/2019   2019     27480     120         163         Automatic     Diesel       5.3 l/100 km     138 g/km         99900  35 TDI S tronic
+17736audi        Audi A4 allroad        black 07/2019   2019     34945     180         245         Automatic     Petrol       6.8 l/100 km     154 g/km         56621  45TFSI S TRONIC
+17737audi        Audi SQ5               black 12/2019   2019     55250     255         347         Automatic     Diesel       6.8 l/100 km     177 g/km         43674  3.0 TDI quattro
+17738audi        Audi S6                black 12/2019   2019     60469     257         349         Automatic     Diesel       7.9 l/100 km     207 g/km         46481  Avant 3.0TDI AC
+17739audi        Audi S4                black 11/2019   2019     41875     255         347         Automatic     Diesel       6.3 l/100 km     188 g/km         68950  Avant TDI tiptr
+17740audi        Audi S6                black 07/2019   2019     53890     257         349         Automatic     Diesel       8 l/100 km       209 g/km         109014 Avant 3.0+TDI+H
+17741audi        Audi SQ5               black 10/2019   2019     55690     255         347         Automatic     Diesel       6.8 l/100 km     177 g/km         54150  3.0 TDI q. Tipt
+17742audi        Audi A4 allroad        black 07/2019   2019     34745     180         245         Automatic     Petrol       6.8 l/100 km     154 g/km         56621  45TFSI S TRONIC
+17743audi        Audi A8                black 02/2019   2019     62589     210         286         Automatic     Diesel       5.9 l/100 km     156 g/km         90327  L50 TDI LANG PA
+17744audi        Audi A3                black 03/2019   2019     24470     110         150         Manual        Petrol       5.5 l/100 km     125 g/km         28000  Sportback 35 TF
+17745audi        Audi S7                black 11/2019   2019     78975     257         349         Automatic     Diesel       6.5 l/100 km     170 g/km         50092  Sportback 3.0 T
+17746audi        Audi A1                black 04/2019   2019     21950     85          116         Automatic     Petrol       4.9 l/100 km     111 g/km         44123  Sportback 30 TF
+17747audi        Audi Q8                black 10/2019   2019     75390     210         286         Automatic     Diesel       6.8 l/100 km     179 g/km         49350  50 TDI q. Tiptr
+17748audi        Audi A6                black 11/2019   2019     42900     180         245         Automatic     Petrol       6.8 l/100 km     156 g/km         48600  Avant 45 2.0 TF
+17749audi        Audi A5                black 05/2019   2019     44780     210         286         Automatic     Diesel       7.3 l/100 km     "191             6 g/km"46301          

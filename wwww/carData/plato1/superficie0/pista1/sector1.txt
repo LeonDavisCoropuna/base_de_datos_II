@@ -1,0 +1,25 @@
+5275 audi        Audi TT                white 09/2010   2010     19500     155         211         Automatic     Petrol       7.4 l/100 km     - (g/km)         88500  Roadster 2.0 TF
+5276 audi        Audi A4                white 06/2010   2010     9000      140         190         Automatic     Diesel       6.4 l/100 km     167 g/km         257000 2.7 TDI DPF mul
+5277 audi        Audi A1                white 09/2010   2010     6490      77          105         Manual        Diesel       3.8 l/100 km     101 g/km         197195 Attraction 1-6 
+5278 audi        Audi A3                white 06/2010   2010     8200      118         160         Automatic     Petrol       6.6 l/100 km     149 g/km         175000 A3 Sportback S 
+5279 audi        Audi A5                white 06/2010   2010     13450     155         211         Automatic     Petrol       7.5 l/100 km     175 g/km         183000 2.0 TFSI Sportb
+5280 audi        Audi A1                white 12/2010   2010     12499     90          122         Manual        Petrol       5.3 l/100 km     124 g/km         59988  1.4 TFSI Ambiti
+5281 audi        Audi TT                white 10/2010   2010     10000     155         211         Automatic     Petrol       7.1 l/100 km     164 g/km         271111 Coupe 2.0 TFSI 
+5282 audi        Audi A3                white 03/2010   2010     10990     118         160         Manual        Petrol       6.8 l/100 km     161 g/km         138000 Cabriolet Ambit
+5283 audi        Audi TT                white 12/2010   2010     12900     147         200         Automatic     Petrol       7.7 l/100 km     183 g/km         214000 2.0 TFSI Coupe 
+5284 audi        Audi A5                white 07/2010   2010     10500     132         179         Manual        Petrol       6.4 l/100 km     - (g/km)         250443 2.0 TFSI       
+5285 audi        Audi A3                white 06/2010   2010     7499      92          125         Manual        Petrol       5.8 l/100 km     134 g/km         178000 1.4 TFSI Sportb
+5286 audi        Audi A5                white 10/2010   2010     14500     155         211         Automatic     Petrol       8 l/100 km       - (g/km)         134775 A5 2.0 TFSI Spo
+5287 audi        Audi A3                white 10/2010   2010     7200      103         140         Manual        Diesel       5.1 l/100 km     135 g/km         214000 2.0 TDI Ambitio
+5288 audi        Audi A5                white 07/2010   2010     11950     155         211         Manual        Petrol       6.8 l/100 km     159 g/km         168000 Cabriolet 2.0 T
+5289 audi        Audi A5                white 06/2010   2010     11500     140         190         Automatic     Diesel       6.5 l/100 km     169 g/km         230000 2.7 TDI Sportba
+5290 audi        Audi A4                white 12/2010   2010     7899      140         190         Automatic     Diesel       6.5 l/100 km     169 g/km         211500 Avant 2.7 TDI D
+5291 audi        Audi Q5                white 11/2010   2010     17850     199         271         Automatic     Petrol       9.3 l/100 km     218 g/km         182700 3.2 FSI S troni
+5292 audi        Audi Q5                white 01/2010   2010     17490     155         211         Automatic     Petrol       8.6 l/100 km     199 g/km         165728 2.0 TFSI Quattr
+5293 audi        Audi A5                white 09/2010   2010     16870     176         239         Automatic     Diesel       6.8 l/100 km     179 g/km         155519 3.0 TDI quattro
+5294 audi        Audi A5                white 01/2010   2010     19999     228         310         Automatic     Petrol       7.5 l/100 km     175 g/km         118000 2.0 TFSI quattr
+5295 audi        Audi A4                white 06/2010   2010     9950      140         190         Automatic     Diesel       6.2 l/100 km     - (g/km)         218000 Avant 2.7 TDI D
+5296 audi        Audi A3                blue  10/2011   2011     9900      103         140         Manual        Diesel       5.1 l/100 km     135 g/km         119000 2.0 TDI Ambitio
+5297 audi        Audi A1                blue  8999      Manual   6-Gang    2011        126 g/km    Manual        110.250 km   Petrol           04/2011                 1.4 TFSI Ambiti
+5298 audi        Audi TT                blue  05/2011   2011     9290      118         160         Manual        Petrol       6.4 l/100 km     152 g/km         184574 1.8 TFSI Coupe*
+5299 audi        Audi A3                blue  02/2011   2011     9499      77          105         Manual        Diesel       4.2 l/100 km     112 g/km         114860 1.6 TDI Ambitio

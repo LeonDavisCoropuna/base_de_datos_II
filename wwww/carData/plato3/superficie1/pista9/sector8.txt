@@ -1,0 +1,25 @@
+19950audi        Audi A5                green 01/2021   2021     46800     210         286         Automatic     Diesel       6 l/100 km       158 g/km         39000  S-Line 50TDI qu
+19951audi        Audi RS5               green 05/2021   2021     76970     331         450         Automatic     Petrol       8.8 l/100 km     199 g/km         20945  Coupé 2.9 TFSI
+19952audi        Audi A5                green 08/2021   2021     44650     150         204         Automatic     Petrol                        - (g/km)         16000  A5 Sportback 40
+19953audi        Audi RS Q3             green 05/2021   2021     60840     294         400         Automatic     Petrol       10 l/100 km      226 g/km         15500  RSQ3 Sportback 
+19954audi        Audi A1                green 02/2021   2021     20100     70          95          Manual        Petrol       4.7 l/100 km     127 g/km         11250  A1 25 TFSI Spor
+19955audi        Audi e-tron GT         green 08/2021   2021     91980     350         476         Automatic     Electric                      448 km Reichweite24981  ACC Allradlenku
+19956audi        Audi Q5                green 09/2021   2021     57930     195         265         Automatic     Petrol       8.4 l/100 km     191 g/km         44643  45TFSI S tronic
+19957audi        Audi Q5                green 09/2021   2021     57930     195         265         Automatic     Petrol       8.4 l/100 km     191 g/km         44643  45TFSI S tronic
+19958audi        Audi TT RS             green 04/2021   2021     64770     294         400         Automatic     Petrol       8.7 l/100 km     199 g/km         29750  Roadster TFSI q
+19959audi        Audi A6 allroad        green 04/2021   2021     82947     253         344         Automatic     Diesel       7.4 l/100 km     194 g/km         30016  A6 allroad 55TD
+19960audi        Audi RS Q3             green 05/2021   2021     66460     294         400         Automatic     Petrol       8.8 l/100 km     201 g/km         37966  Sportback quatt
+19961audi        Audi Q5                green 02/2021   2021     68870     150         204         Automatic     Diesel       6.7 l/100 km     176 g/km         35500  edition one S l
+19962audi        Audi Q5                green 06/2021   2021     54120     195         265         Automatic     Petrol       8.4 l/100 km     191 g/km         9200   45 TFSi S line 
+19963audi        Audi Q5                green 11/2021   2021     54490     195         265         Automatic     Petrol       2.4 l/100 km     165 g/km         58000  Sportback 45 TF
+19964audi        Audi A5                green 06/2021   2021     57290     150         204         Automatic     Petrol       6.8 l/100 km     "154             8 g/km"30000          
+19965audi        Audi Q5                green 09/2021   2021     56990     150         204         Automatic     Diesel       6.6 l/100 km     173 g/km         3790   Facelift 40 TDI
+19966audi        Audi RS Q8             green 04/2021   2021     139980    441         600         Automatic     Petrol       12.1 l/100 km    276 g/km         53617  Dynamikpaket+*P
+19967audi        Audi Q5                green 10/2021   2021     55470     150         204         Automatic     Diesel       6.7 l/100 km     175 g/km         11531  40 quattro edit
+19968audi        Audi Q5                green 04/2021   2021     54489     150         204         Automatic     Diesel       6.5 l/100 km     169 g/km         31838  40 TDI quattro 
+19969audi        Audi Q5                green 02/2021   2021     44450     150         204         Automatic     Diesel       5.4 l/100 km     142 g/km         31677  40 TDI quattro 
+19970audi        Audi SQ5               green 11/2021   2021     68790     251         341         Automatic     Diesel       8.2 l/100 km     214 g/km         14997  TDI Q PANO LM21
+19971audi        Audi A5                green 04/2021   2021     46940     150         204         Automatic     Petrol       6.3 l/100 km     143 g/km         19564  Sportback S lin
+19972audi        Audi A6                green 01/2021   2021     51500     195         265         Automatic     Petrol       8.7 l/100 km     191 g/km         35000  Avant 45 TFSI q
+19973audi        Audi A5                green 03/2021   2021     39980     120         163         Automatic     Diesel       5.2 l/100 km     136 g/km         16500  A5 Cabrio 35 TD
+19974audi        Audi Q5                green 11/2021   2021     54690     195         265         Automatic     Petrol       2.4 l/100 km     165 g/km         58000  Sportback 45 TF

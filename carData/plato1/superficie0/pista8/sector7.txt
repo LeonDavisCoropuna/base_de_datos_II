@@ -1,0 +1,21 @@
+6027 audi        Audi A6                silver04/2011   2011     12800     125         170         Automatic     Petrol       7.7 l/100 km     179 g/km         190461 2.0 TFSI multit
+6028 audi        Audi A4                silver07/2011   2011     10450     88          120         Manual        Petrol       7.2 l/100 km     171 g/km         127200 "Avant 1.8 TFSI
+6029 audi        Audi A5                silver07/2011   2011     11490     155         211         Manual        Petrol       7.3 l/100 km     172 g/km         153900 2.0 TFSI q SB A
+6030 audi        Audi A4                silver04/2011   2011     9950      132         179         Automatic     Petrol       7.3 l/100 km     - (g/km)         218000 A4 Avant 2.0 TF
+6031 audi        Audi A5                silver03/2011   2011     19000     155         211         Automatic     Petrol       7.7 l/100 km     - (g/km)         98500  A5 Cabrio 2.0 T
+6032 audi        Audi A3                silver01/2011   2011     6000      77          105         Manual        Diesel       3.9 l/100 km     102 g/km         250000 1.6 TDI 102g Sp
+6033 audi        Audi A3                silver06/2011   2011     12499     92          125         Automatic     Petrol       5.9 l/100 km     138 g/km         106000 Sportback 1.4 T
+6034 audi        Audi A6                silver03/2011   2011     10990     140         190         Manual        Petrol       8.7 l/100 km     206 g/km         197200 2.8 FSI quattro
+6035 audi        Audi A6                silver10/2011   2011     15900     125         170         Automatic     Diesel       5.8 l/100 km     153 g/km         150000 2.0 TDI DPF mul
+6036 audi        Audi A3                silver04/2011   2011     16950     118         160         Automatic     Petrol       6.7 l/100 km     156 g/km         72174  1.8 TFSI Cabrio
+6037 audi        Audi A5                silver06/2011   2011     19499     132         179         Automatic     Petrol       6.5 l/100 km     152 g/km         85000  2.0 TFSI Sportb
+6038 audi        Audi A3                silver05/2011   2011     13299     77          105         Manual        Diesel       4.2 l/100 km     112 g/km         84101  Sportback TDI A
+6039 audi        Audi A7                silver11/2011   2011     22490     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         194100 Sportback 3.0 T
+6040 audi        Audi A3                silver11/2011   2011     10990     77          105         Automatic     Petrol       5.3 l/100 km     123 g/km         124000 Sportback 1.2 T
+6041 audi        Audi A5                silver03/2011   2011     14500     176         239         Automatic     Diesel       6.6 l/100 km     174 g/km         248000 3.0 TDI Sportba
+6042 audi        Audi A3                silver12/2011   2011     8990      66          90          Manual        Diesel       4.5 l/100 km     119 g/km         138022 Sportback 1.6 T
+6043 audi        Audi A5                silver04/2011   2011     12000     125         170         Manual        Diesel       6.5 l/100 km     134 g/km         238000 2.0 TDI ⏐ 170
+6044 audi        Audi A6                silver07/2011   2011     13300     150         204         Automatic     Diesel       5.3 l/100 km     140 g/km         205000 3.0 TDI*Lim*Aut
+6045 audi        Audi TT                silver04/2011   2011     13248     125         170         Manual        Diesel       5.3 l/100 km     140 g/km         166660 2.0 TDI QUATTRO
+6046 audi        Audi A3                silver02/2011   2011     7990      103         140         Manual        Diesel       4.4 l/100 km     115 g/km         233150 2.0 TDI DPF Amb
+6047 audi        Audi A3                silver05/2011   2011     7690      103         140         Manual        Diesel       4.4 l/100 km     115 g/km         221150 2.0 TDI Sportba

@@ -1,0 +1,25 @@
+11225audi        Audi A4                blue  07/2016   2016     23400     140         190         Automatic     Diesel       4.7 l/100 km     123 g/km         86700  Quattro Basis 2
+11226audi        Audi A1                blue  01/2016   2016     13990     70          95          Manual        Petrol       4.2 l/100 km     97 g/km          43000  1.0 TFSI ultra 
+11227audi        Audi TTS               blue  06/2016   2016     37990     272         370         Automatic     Petrol       7.3 l/100 km     0 g/km           45162  2.0 TFSI ABT qu
+11228audi        Audi A4                blue  06/2016   2016     14680     140         190         Automatic     Diesel       4.4 l/100 km     116 g/km         207345 Avant Autom*PAN
+11229audi        Audi SQ7               blue  12/2016   2016     42900     320         435         Automatic     Diesel                        0 g/km           129000 4.0 TDI Quattro
+11230audi        Audi RS Q3             blue  06/2016   2016     31500     320         435         Automatic     Petrol       8.6 l/100 km     - (g/km)         92500  Coupe 3.0 TDI S
+11231audi        Audi A5                blue  06/2016   2016     22890     160         218         Automatic     Diesel       6.1 l/100 km     - (g/km)         66523  SB 2.0 TDI DSG 
+11232audi        Audi A5                blue  01/2016   2016     17400     110         150         Automatic     Diesel       4.5 l/100 km     119 g/km         162000 A3 2.0 TDI Spor
+11233audi        Audi A3                blue  01/2016   2016     12100     110         150         Manual        Diesel       4.1 l/100 km     - (g/km)         164000 Avant 3.0 TDI q
+11234audi        Audi A6                blue  02/2016   2016     16250     160         218         Automatic     Diesel       5.3 l/100 km     138 g/km         205000 3.0TDI quattro*
+11235audi        Audi A6                blue  04/2016   2016     23970     200         272         Automatic     Diesel       5.3 l/100 km     138 g/km         159000 3.0 TDI quattro
+11236audi        Audi Q5                blue  08/2016   2016     28495     190         258         Automatic     Diesel       6.3 l/100 km     161 g/km         87200  Sportback quatt
+11237audi        Audi A3                blue  02/2016   2016     17890     110         150         Manual        Diesel       4.7 l/100 km     125 g/km         99000  Avant 2.0 TDI U
+11238audi        Audi A6                blue  07/2016   2016     17990     140         190         Automatic     Diesel       4.7 l/100 km     122 g/km         166051 Sportback 2.0 T
+11239audi        Audi A5                blue  07/2016   2016     19500     140         190         Automatic     Diesel       4.6 l/100 km     119 g/km         161005 2.0 TDI Sportba
+11240audi        Audi A6                blue  08/2016   2016     28948     140         190         Automatic     Diesel       5.2 l/100 km     136 g/km         120000 Lim. 2.0 TDI qu
+11241audi        Audi S3                blue  01/2016   2016     22300     221         300         Automatic     Petrol       6.9 l/100 km     - (g/km)         173215 S tronic       
+11242audi        Audi RS6               blue  09/2016   2016     62900     445         605         Automatic     Petrol       9.6 l/100 km     - (g/km)         97500  RS6 Performance
+11243audi        Audi A6                blue  06/2016   2016     37800     240         326         Automatic     Diesel       6.2 l/100 km     164 g/km         90000  Avant 3.0 TDI c
+11244audi        Audi A3                blue  11/2016   2016     17490     110         150         Manual        Diesel       4.4 l/100 km     110 g/km         97559  2.0 TDI Lim. de
+11245audi        Audi Q7                blue  01/2016   2016     39100     200         272         Automatic     Diesel       6.2 l/100 km     159 g/km         103622 3.0 V6 TDI quat
+11246audi        Audi A6                blue  05/2016   2016     23880     140         190         Automatic     Diesel       4.5 l/100 km     118 g/km         80000  Avant 2.0 TDI S
+11247audi        Audi A3                blue  12/2016   2016     19990     110         150         Manual        Petrol       4.7 l/100 km     109 g/km         52660  Limousine 1.4 T
+11248audi        Audi A3                blue  04/2016   2016     17900     110         150         Manual        Diesel       3.8 l/100 km     99 g/km          91000  Sportback Ambie
+11249audi        Audi A6                blue  02/2016   2016     23250     200         272         Automatic     Diesel       5.1 l/100 km     135 g/km         150000 Avant 3.0 TDI q

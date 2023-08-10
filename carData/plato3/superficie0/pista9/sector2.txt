@@ -1,0 +1,21 @@
+14532audi        Audi A3                blue  10/2018   2018     22700     110         150         Automatic     Petrol       5.1 l/100 km     117 g/km         90000  35 TFSI sport L
+14533audi        Audi A6                blue  08/2018   2018     29000     140         190         Automatic     Diesel       4.5 l/100 km     118 g/km         49985  Avant 2.0TDI Ul
+14534audi        Audi A6                blue  11/2018   2018     38980     210         286         Automatic     Diesel       5.9 l/100 km     155 g/km         98300  Avant 50 TDI qu
+14535audi        Audi A4 allroad        blue  01/2018   2018     30550     200         272         Automatic     Diesel       5.3 l/100 km     - (g/km)         87000  A4 allroad quat
+14536audi        Audi RS6               blue  03/2018   2018     86500     445         605         Automatic     Petrol       9.6 l/100 km     223 g/km         48550  4.0 TFSI tip. Q
+14537audi        Audi Q2                blue  12/2018   2018     21000     85          116         Automatic     Diesel       4.5 l/100 km     - (g/km)         85000  30 TDI S tronic
+14538audi        Audi A8                blue  03/2018   2018     58999     210         286         Automatic     Diesel       6.5 l/100 km     - (g/km)         37000  50 TDI quattro 
+14539audi        Audi A6 allroad        blue  03/2018   2018     36500     235         320         Automatic     Diesel       6.5 l/100 km     172 g/km         86200  3.0 TDI quattro
+14540audi        Audi A5                blue  06/2018   2018     26170     160         218         Automatic     Diesel       4.7 l/100 km     125 g/km         114662 3.0 TDI Navi|Pa
+14541audi        Audi A4                blue  07/2018   2018     17450     110         150         Manual        Diesel       4.3 l/100 km     113 g/km         150000 2.0 TDI Quattro
+14542audi        Audi S3                blue  05/2018   2018     34980     228         310         Automatic     Petrol       6.8 l/100 km     156 g/km         23000  Cabrio*LED*S-Si
+14543audi        Audi RS5               blue  02/2018   2018     60990     331         450         Automatic     Petrol       8.7 l/100 km     197 g/km         55300  RS 5 Coupé qu 
+14544audi        Audi Q7                blue  06/2018   2018     43900     200         272         Automatic     Diesel       6.4 l/100 km     168 g/km         93800  "3.0 TDI quattr
+14545audi        Audi A7                blue  09/2018   2018     61948     210         286         Automatic     Diesel       7.4 l/100 km     193 g/km         40544  50 TDI qu. S li
+14546audi        Audi A3                blue  02/2018   2018     33750     140         190         Automatic     Petrol       5.7 l/100 km     - (g/km)         42000  2.0 TFSI Sportb
+14547audi        Audi RS6               blue  06/2018   2018     74900     445         605         Automatic     Petrol       9.6 l/100 km     223 g/km         77449  Avant 4.0 TFSI 
+14548audi        Audi A8                blue  10/2018   2018     48999     210         286         Automatic     Diesel       5.8 l/100 km     152 g/km         174900 50 TDI quattro 
+14549audi        Audi A6                blue  01/2018   2018     32230     140         190         Automatic     Diesel       5.1 l/100 km     133 g/km         57646  Avant 2.0 TDI q
+14550audi        Audi A7                blue  10/2018   2018     40650     210         286         Automatic     Diesel       5.8 l/100 km     150 g/km         153441 50 TDI QU 2xS-L
+14551audi        Audi RS5               blue  08/2018   2018     61490     331         450         Automatic     Petrol       8.7 l/100 km     197 g/km         28900  Coupe quattro e
+14552audi        Audi A7                blue  06/2018   2018     59800     210         286         Automatic     Diesel                        - (g/km)         85000  50 TDI quattro 

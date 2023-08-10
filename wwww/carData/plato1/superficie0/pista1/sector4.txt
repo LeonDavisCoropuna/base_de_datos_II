@@ -1,0 +1,25 @@
+5350 audi        Audi A1                blue  11/2011   2011     7300      90          122         Manual        Petrol                        0 g/km           165450 Ambition 1.4 TF
+5351 audi        Audi A3                blue  11/2011   2011     8999      77          105         Automatic     Diesel       4.3 l/100 km     112 g/km         189000 1.6TDI*Sportbac
+5352 audi        Audi A1                blue  09/2011   2011     6990      90          122         Manual        Petrol       5.3 l/100 km     126 g/km         188200 Attraction  -Te
+5353 audi        Audi A6                blue  05/2011   2011     16800     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         230000 Lim. 3.0 TDI qu
+5354 audi        Audi A3                blue  04/2011   2011     7850      103         140         Manual        Diesel       5.1 l/100 km     135 g/km         135500 2.0 TDI Attract
+5355 audi        Audi A4                blue  06/2011   2011     7990      118         160         Manual        Petrol       7.2 l/100 km     171 g/km         199999 Avant Attractio
+5356 audi        Audi A3                blue  03/2011   2011     7490      77          105         Manual        Petrol       5.7 l/100 km     132 g/km         215000 Cabriolet 1.2 T
+5357 audi        Audi A1                blue  11/2011   2011     7800      63          86          Manual        Petrol       5 l/100 km       116 g/km         119000 1.2 TFSI Blueto
+5358 audi        Audi A1                blue  02/2011   2011     6900      63          86          Manual        Petrol       5 l/100 km       116 g/km         176000 1.2 TFSI Ambiti
+5359 audi        Audi A1                blue  10/2011   2011     5490      63          86          Manual        Petrol       5.1 l/100 km     121 g/km         248159 Ambition 1-2 TF
+5360 audi        Audi A1                blue  07/2011   2011     9900      63          86          Manual        Petrol       5.1 l/100 km     121 g/km         58000  1.2 TSI Attract
+5361 audi        Audi A4                blue  03/2011   2011     6370      100         136         Manual        Diesel       4.4 l/100 km     117 g/km         384128 Limo TDI*KLIMA*
+5362 audi        Audi A6                blue  02/2011   2011     7999      176         239         Automatic     Diesel       7.1 l/100 km     - (g/km)         316600 A6 Avant 3.0 TD
+5363 audi        Audi A1                blue  01/2011   2011     9999      77          105         Manual        Diesel       3.8 l/100 km     101 g/km         91761  Attraction (8X1
+5364 audi        Audi A5                blue  04/2011   2011     16950     155         211         Manual        Petrol       7.3 l/100 km     172 g/km         67930  Sportback 2-0 T
+5365 audi        Audi A5                blue  08/2011   2011     13000     120         163         Automatic     Diesel       6.4 l/100 km     - (g/km)         175000 2.7 TDI DPF mul
+5366 audi        Audi A6                blue  06/2011   2011     5390      125         170         Manual        Petrol                        - (g/km)         250100 Avant 2.0 TFSI 
+5367 audi        Audi Q5                blue  01/2011   2011     13900     199         271         Automatic     Petrol                        - (g/km)         151000 4X4 3x SLine / 
+5368 audi        Audi Q7                blue  10/2011   2011     22500     180         245         Automatic     Diesel       7.4 l/100 km     - (g/km)         80000  3.0 TDI DPF cle
+5369 audi        Audi A7                blue  12/2011   2011     18490     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         210000 3.0 TDI Quattro
+5370 audi        Audi A5                blue  05/2011   2011     9500      132         179         Manual        Petrol       6.5 l/100 km     - (g/km)         174800 A5 2.0 TFSI Spo
+5371 audi        Audi A3                blue  03/2011   2011     6990      118         160         Manual        Petrol       7.4 l/100 km     173 g/km         104000 1.8i 160PS Attr
+5372 audi        Audi Q5                blue  04/2011   2011     13500     176         239         Automatic     Diesel       7.5 l/100 km     199 g/km         186000 3.0 TDI quattro
+5373 audi        Audi A5                brown 06/2011   2011     10499     140         190         Automatic     Diesel       6.7 l/100 km     179 g/km         229022 2.7 TDI-S-LINE-
+5374 audi        Audi A5                brown 07/2011   2011     10980     125         170         Manual        Diesel       5.7 l/100 km     148 g/km         172000 2.0 TDI (125kW)

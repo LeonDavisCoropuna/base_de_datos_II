@@ -1,0 +1,25 @@
+2050 audi        Audi A4                grey  06/2002   2002     2900      75          102         Manual        Petrol       7.7 l/100 km     - (g/km)         215510 A4 1.6         
+2051 audi        Audi A4                grey  05/2002   2002     2200      96          131         Manual        LPG          8.2 l/100 km     197 g/km         282500 Lim. 2.0       
+2052 audi        Audi Allroad           grey  05/2002   2002     2000      132         179         Manual        Diesel       8.7 l/100 km     235 g/km         199000 Quattro 2.5 TDI
+2053 audi        Audi A6                grey  05/2002   2002     1000      132         179         Manual        Diesel       7.8 l/100 km     211 g/km         300000 Avant 2.5 TDI q
+2054 audi        Audi A6                grey  02/2002   2002     1390      132         179         Automatic     Diesel                        - (g/km)         329000 Lim. 2.5 TDI Sh
+2055 audi        Audi A2                black 04/2002   2002     6666      55          75          Manual        Diesel       4.3 l/100 km     - (g/km)         241000 1.4 TDI        
+2056 audi        Audi A6                black 06/2002   2002     5200      132         179         Manual        Diesel       7.8 l/100 km     - (g/km)         234500 A6 2.5 TDI quat
+2057 audi        Audi A6                black 03/2002   2002     4569      132         179         Manual        Diesel       8 l/100 km       216 g/km         330255 Avant 2.5TDI qu
+2058 audi        Audi A6                black 05/2002   2002     1550      114         155         Automatic     Diesel       6.9 l/100 km     186 g/km         256787 2.5 TDI        
+2059 audi        Audi A6                black 05/2002   2002     1900      125         170         Automatic     Petrol       9.9 l/100 km     238 g/km         194000 2.4            
+2060 audi        Audi A2                black 06/2002   2002     1950      81          110         Manual        Petrol       6 l/100 km       144 g/km         217000 1.6 FSI*HU 02/2
+2061 audi        Audi TT                black 12/2002   2002     7900      110         150         Manual        Petrol       8.2 l/100 km     197 g/km         126000 Roadster 1.8 T-
+2062 audi        Audi A3                black 01/2002   2002     2500      110         150         Manual        Petrol       7.8 l/100 km     - (g/km)         298091 A3 1.8 T Ambiti
+2063 audi        Audi A6                black 03/2002   2002     5990      220         299         Automatic     Petrol       13.2 l/100 km    317 g/km         275000 Avant 4.2 quatt
+2064 audi        Audi TT                black 01/2002   2002     4599      132         179         Manual        Petrol       8.1 l/100 km     - (g/km)         221500 TT Coupe 1.8 T 
+2065 audi        Audi A2                black 04/2002   2002     3300      55          75          Manual        Petrol       5.9 l/100 km     142 g/km         152892 1.4 TÜV 11/24 
+2066 audi        Audi A3                black 01/2002   2002     1150      75          102         Manual        Petrol       6.8 l/100 km     161 g/km         204551 1.6 Attraction 
+2067 audi        Audi A6                black 03/2002   2002     1499      132         179         Manual        Diesel       8 l/100 km       211 g/km         355000 2.5 TDI 132kW q
+2068 audi        Audi A6                black 06/2002   2002     5700      235         320         Manual        Petrol       11.7 l/100 km    - (g/km)         300300 A6 Avant 2.7 T 
+2069 audi        Audi A4                black 09/2002   2002     2500      96          131         Manual        Petrol       7.9 l/100 km     - (g/km)         270250 2.0 Lim        
+2070 audi        Audi A6                black 04/2002   2002     2999      114         155         Automatic     Diesel       7.1 l/100 km     192 g/km         347700 Lim. 2.5 TDI Au
+2071 audi        Audi TT                black 09/2002   2002     5900      132         179         Manual        Petrol                        - (g/km)         198858 Roadster 1.8T /
+2072 audi        Audi TT                black 05/2002   2002     8490      110         150         Manual        Petrol       8.3 l/100 km     197 g/km         153500 1.8 T Roadster+
+2073 audi        Audi A6 allroad        black 11/2002   2002     6980      132         179         Automatic     Diesel       9.7 l/100 km     262 g/km         305000 2-5TDI quattro 
+2074 audi        Audi A2                black 10/2002   2002     2950      55          75          Manual        Petrol       6 l/100 km       142 g/km         252000 1.4            

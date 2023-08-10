@@ -1,0 +1,25 @@
+525  alfa-romeo  Alfa Romeo Giulietta   black 08/2015   2015     11800     88          120         Manual        Petrol       6.1 l/100 km     144 g/km         98700  Turismo Tempoma
+526  alfa-romeo  Alfa Romeo MiTo        black 12/2015   2015     11799     77          105         Unknown       Petrol       4.2 l/100 km     100 g/km         35000  Junior (11.2014
+527  alfa-romeo  Alfa Romeo Giulietta   black 02/2015   2015     10950     129         175         Automatic     Diesel       4.3 l/100 km     - (g/km)         178000 Giulietta 2.0 J
+528  alfa-romeo  Alfa Romeo Giulietta   black 01/2015   2015     11990     77          105         Manual        Petrol       6.2 l/100 km     144 g/km         71598  1.4 TB 16V Turi
+529  alfa-romeo  Alfa Romeo Giulietta   black 12/2015   2015     17100     125         170         Manual        Petrol       5.7 l/100 km     127 g/km         72935  Giulietta 1.4 T
+530  alfa-romeo  Alfa Romeo MiTo        black 01/2015   2015     10999     103         140         Automatic     Petrol       5.6 l/100 km     133 g/km         90539  1.4 16V Turismo
+531  alfa-romeo  Alfa Romeo MiTo        black 09/2015   2015     6785      70          95          Manual        Diesel       3.4 l/100 km     89 g/km          126180 1.3 JTDM 16V KL
+532  alfa-romeo  Alfa Romeo Giulietta   white 07/2015   2015     11000     110         150         Manual        Diesel       4.2 l/100 km     110 g/km         80500  2.0 JTDM 16V Tu
+533  alfa-romeo  Alfa Romeo Giulietta   white 07/2015   2015     10900     110         150         Manual        Diesel       4.2 l/100 km     110 g/km         81000  2.0 JTDM 16V Tu
+534  alfa-romeo  Alfa Romeo Giulietta   white 11/2015   2015     13795     110         150         Manual        Petrol       5.7 l/100 km     135 g/km         86199  "Sprint *PDC-SH
+535  alfa-romeo  Alfa Romeo Giulietta   blue  01/2016   2016     17330     125         170         Manual        Petrol       5.7 l/100 km     135 g/km         36044  Turismo BREMBO-
+536  alfa-romeo  Alfa Romeo Giulia      blue  06/2016   2016     25999     132         179         Manual        Diesel       4.2 l/100 km     109 g/km         45000  Super          
+537  alfa-romeo  Alfa Romeo Giulia      blue  11/2016   2016     21950     132         179         Automatic     Diesel       4.2 l/100 km     109 g/km         67296  Super 2.2 JTDM 
+538  alfa-romeo  Alfa Romeo Giulia      bronze11/2016   2016     19990     132         179         Manual        Diesel       4.2 l/100 km     109 g/km         96847  Super 2.2 Diese
+539  alfa-romeo  Alfa Romeo 4C          yellow03/2016   2016     77350     177         241         Automatic     Petrol       6.9 l/100 km     161 g/km         18500  Spider 1750 TBI
+540  alfa-romeo  Alfa Romeo Giulia      grey  09/2016   2016     16499     132         179         Manual        Diesel       4.2 l/100 km     109 g/km         155470 Super 2.2 JTD *
+541  alfa-romeo  Alfa Romeo Giulietta   grey  06/2016   2016     15680     110         150         Manual        Petrol       5.5 l/100 km     127 g/km         117886 Super | NAVI | 
+542  alfa-romeo  Alfa Romeo Giulietta   grey  02/2016   2016     13490     125         170         Automatic     Petrol       5.5 l/100 km     127 g/km         67000  Turismo Automat
+543  alfa-romeo  Alfa Romeo Giulietta   grey  11/2016   2016     15450     125         170         Automatic     Petrol       5.5 l/100 km     127 g/km         64233  0.9 TwinAir Tur
+544  alfa-romeo  Alfa Romeo MiTo        grey  08/2016   2016     9900      77          105         Manual        Petrol       5.7 l/100 km     99 g/km          57000  1.4 TB 16V Supe
+545  alfa-romeo  Alfa Romeo Giulietta   grey  06/2016   2016     11500     88          120         Manual        Petrol       6.2 l/100 km     144 g/km         115000 1.4 TB 16V Turi
+546  alfa-romeo  Alfa Romeo Giulietta   grey  05/2016   2016     12900     88          120         Manual        Petrol       6.2 l/100 km     144 g/km         79000  2.2 Super Autom
+547  alfa-romeo  Alfa Romeo Giulia      grey  11/2016   2016     17990     110         150         Automatic     Diesel       4.2 l/100 km     109 g/km         116904 Veloce / Tüv N
+548  alfa-romeo  Alfa Romeo Giulietta   grey  09/2016   2016     24495     177         241         Automatic     Petrol       6.8 l/100 km     157 g/km         49500  Super-Automatik
+549  alfa-romeo  Alfa Romeo Giulia      grey  10/2016   2016     19998     132         179         Automatic     Diesel       4.2 l/100 km     109 g/km         115100 Super 2.2 JTDM 

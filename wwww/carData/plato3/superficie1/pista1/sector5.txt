@@ -1,0 +1,25 @@
+17875audi        Audi Q3                silver05/2019   2019     34850     140         190         Automatic     Petrol       7.5 l/100 km     171 g/km         23484  40 TFSI quattro
+17876audi        Audi SQ7               silver03/2019   2019     69990     320         435         Automatic     Diesel       7.6 l/100 km     199 g/km         82450  *4.0TDI*Quat*3x
+17877audi        Audi Q3                silver06/2019   2019     27500     110         150         Manual        Petrol                        - (g/km)         16700  Q3 35 TFSI     
+17878audi        Audi Q5                silver07/2019   2019     29600     140         190         Automatic     Diesel       5.6 l/100 km     149 g/km         170000 40 TDI S tronic
+17879audi        Audi Q5                silver10/2019   2019     43800     270         367         Automatic     Hybrid       2.1 l/100 km     - (g/km)         14400  Q5 55 TFSI e qu
+17880audi        Audi A4                silver09/2019   2019     26850     110         150         Automatic     Diesel       4.6 l/100 km     121 g/km         32000  Avant 35 TDI de
+17881audi        Audi A5                silver02/2019   2019     25495     140         190         Manual        Petrol       6 l/100 km       137 g/km         49300  40 TFSI 2.0/1-H
+17882audi        Audi Q5                silver08/2019   2019     34995     140         190         Automatic     Diesel       5.3 l/100 km     138 g/km         45100  2.0 TDI quattro
+17883audi        Audi A6                silver01/2019   2019     29888     200         272         Automatic     Diesel       5.5 l/100 km     142 g/km         87727  Avant 3-0 TDI q
+17884audi        Audi Q5                silver08/2019   2019     34844     140         190         Automatic     Diesel       5.6 l/100 km     149 g/km         59400  2.0 TDI 40 TDI 
+17885audi        Audi A6                silver09/2019   2019     40960     250         340         Automatic     Petrol       9.2 l/100 km     207 g/km         70690  55 3.0 TFSI qua
+17886audi        Audi A3                silver02/2019   2019     17490     85          116         Manual        Diesel                        118 g/km         86500  A3 Sportback 30
+17887audi        Audi A4                silver08/2019   2019     19990     110         150         Automatic     Diesel       4.6 l/100 km     121 g/km         119000 Avant 35 TDI 1.
+17888audi        Audi A3                silver10/2019   2019     27999     140         190         Automatic     Petrol       6.8 l/100 km     155 g/km         48586  Cabriolet 40TFS
+17889audi        Audi S6                silver08/2019   2019     52990     257         349         Automatic     Diesel       6.5 l/100 km     171 g/km         61800  Avant 3.0 TDI q
+17890audi        Audi A3                silver06/2019   2019     22980     135         184         Automatic     Diesel       6.3 l/100 km     "165             8 g/km"42078          
+17891audi        Audi Q5                silver12/2019   2019     37870     180         245         Automatic     Petrol       8.8 l/100 km     199 g/km         12340  Design 45TFSI q
+17892audi        Audi A5                silver10/2019   2019     37370     210         286         Automatic     Diesel       6 l/100 km       158 g/km         104649 Sportback 3.0 T
+17893audi        Audi S6                silver10/2019   2019     55980     257         349         Automatic     Diesel       8 l/100 km       210 g/km         70246  Avant 3.0 TDI q
+17894audi        Audi Q2                silver03/2019   2019     25470     140         190         Automatic     Petrol                        - (g/km)         26556  40 TFSI quattro
+17895audi        Audi A6                silver09/2019   2019     31991     200         272         Automatic     Diesel       5.3 l/100 km     138 g/km         102600 Avant 3.0 TDI q
+17896audi        Audi Q3                silver06/2019   2019     34950     169         230         Automatic     Petrol       7.6 l/100 km     173 g/km         32574  45 TFSI quattro
+17897audi        Audi A4                silver10/2019   2019     26499     140         190         Automatic     Diesel       5.2 l/100 km     - (g/km)         45230  40 TDI quattro 
+17898audi        Audi A4                silver06/2019   2019     32450     170         231         Automatic     Diesel       6.7 l/100 km     176 g/km         98118  AVANT 45TDi Q 3
+17899audi        Audi A4                silver08/2019   2019     25980     140         190         Automatic     Diesel       4.6 l/100 km     121 g/km         55047  40 TDI Avant PD

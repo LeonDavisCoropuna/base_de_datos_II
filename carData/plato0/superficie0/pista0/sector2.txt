@@ -1,0 +1,21 @@
+42   alfa-romeo  Alfa Romeo Spider      red   06/1999   1999     6500      106         144         Manual        Petrol       8.9 l/100 km     210 g/km         119500 1.8 Twin Spark 
+43   alfa-romeo  Alfa Romeo Spider      black 01/1999   1999     10900     141         192         Manual        Petrol       11.7 l/100 km    - (g/km)         193000 3-0 V 6     12V
+44   alfa-romeo  Alfa Romeo Spider      black 04/1999   1999     2800      114         155         Manual        Petrol       9.2 l/100 km     220 g/km         96500  2.0 Twin Spark 
+45   alfa-romeo  Alfa Romeo GTV         black 07/1999   1999     16500     162         220         Manual        Petrol       11.7 l/100 km    - (g/km)         130000 GTV 3.0 V6 24V 
+46   alfa-romeo  Alfa Romeo Spider      black 03/1999   1999     4990      114         155         Manual        Petrol       9.2 l/100 km     - (g/km)         107885 2.0 T.Spark LUS
+47   alfa-romeo  Alfa Romeo GTV         black 12/1999   1999     8900      106         144         Manual        Petrol       9.2 l/100 km     225 g/km         80723  16V 1-8 T.Spark
+48   alfa-romeo  Alfa Romeo 145         black 02/1999   1999     1100      88          120         Manual        Petrol       8.2 l/100 km     195 g/km         205000 1.6 Twin Spark 
+49   alfa-romeo  Alfa Romeo Spider      silver04/1999   1999     4200      110         150         Manual        Petrol       9.5 l/100 km     - (g/km)         177000 2.0 16V Twin Sp
+50   alfa-romeo  Alfa Romeo 156         silver03/1999   1999     2000      114         155         Manual        Petrol       8.5 l/100 km     - (g/km)         189300 2.0 16V Twin Sp
+51   alfa-romeo  Alfa Romeo 156         silver04/1999   1999     2750      114         155         Manual        Petrol       8.5 l/100 km     202 g/km         200000 2.0 16V Twin Sp
+52   alfa-romeo  Alfa Romeo Spider      silver04/1999   1999     8000      114         155         Manual        Petrol       9.2 l/100 km     220 g/km         119000 2.0 Twin Spark 
+53   alfa-romeo  Alfa Romeo Spider      blue  10/2000   2000     21800     141         192         Manual        Petrol       11 l/100 km      1 g/km           100000 3.0 12v Lusso c
+54   alfa-romeo  Alfa Romeo Spider      grey  06/2000   2000     3399      114         155         Manual        Petrol       9.2 l/100 km     - (g/km)         195000 2.0 Twin Spark 
+55   alfa-romeo  Alfa Romeo 156         grey  10/2000   2000     2990      88          120         Manual        Petrol       8.3 l/100 km     - (g/km)         182366 Sportwagon 1.6 
+56   alfa-romeo  Alfa Romeo Spider      grey  05/2000   2000     4299      106         144         Manual        Petrol       8.9 l/100 km     195 g/km         149212 1.8 Twin Spark*
+57   alfa-romeo  Alfa Romeo 145         red   01/2000   2000     3480      88          120         Manual        Petrol       11.7 l/100 km    - (g/km)         128000 *Klima*El. Fens
+58   alfa-romeo  Alfa Romeo Spider      black 04/2000   2000     4199      141         192         Manual        Petrol       11 l/100 km      265 g/km         168000 3.0 V6 L       
+59   alfa-romeo  Alfa Romeo GTV         black 05/2000   2000     2900      110         150         Manual        Petrol       9.5 l/100 km     - (g/km)         200000 GTV 2.0 Twin Sp
+60   alfa-romeo  Alfa Romeo Spider      black 06/2000   2000     5000      114         155         Manual        Petrol       9.2 l/100 km     220 g/km         116000 2.0 Twin Spark 
+61   alfa-romeo  Alfa Romeo 156         silver11/2000   2000     4000      103         140         Manual        Petrol       7.9 l/100 km     - (g/km)         149600 Sportwagon 1.8 
+62   alfa-romeo  Alfa Romeo 156         silver03/2000   2000     4490      114         155         Manual        Petrol       8.5 l/100 km     202 g/km         97500  2.0 T.Spark Sel

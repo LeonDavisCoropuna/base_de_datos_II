@@ -1,0 +1,25 @@
+8775 audi        Audi A4                grey  06/2014   2014     14800     150         204         Automatic     Diesel       4.9 l/100 km     129 g/km         200000 Lim 3.0 TDI Mul
+8776 audi        Audi A6                grey  01/2014   2014     32480     228         310         Automatic     Petrol       8.2 l/100 km     194 g/km         57000  Avant 3.0TFSI q
+8777 audi        Audi A6                grey  11/2014   2014     16900     150         204         Automatic     Diesel       5.8 l/100 km     154 g/km         215000 "3.0 TDI quattr
+8778 audi        Audi S8                grey  07/2014   2014     42599     382         519         Automatic     Petrol       9.6 l/100 km     220 g/km         104000 4.0 TFSI quattr
+8779 audi        Audi Q5                grey  08/2014   2014     21900     180         245         Automatic     Diesel       6.4 l/100 km     170 g/km         175000 3.0 TDI quattro
+8780 audi        Audi A4                grey  09/2014   2014     18300     125         170         Manual        Petrol       5.8 l/100 km     149 g/km         67500  A4 Avant 1.8 TF
+8781 audi        Audi TT RS             grey  02/2014   2014     41499     265         360         Automatic     Petrol       8.5 l/100 km     197 g/km         79000  plus Coupe S un
+8782 audi        Audi Q3                grey  11/2014   2014     19050     110         150         Automatic     Petrol       5.9 l/100 km     145 g/km         62423  1.4 TFSI Aut.*T
+8783 audi        Audi Q5                grey  04/2014   2014     18900     180         245         Automatic     Diesel       6.4 l/100 km     170 g/km         189000 3.0 TDI quattro
+8784 audi        Audi A6                grey  01/2014   2014     30849     230         313         Automatic     Diesel       6.4 l/100 km     170 g/km         86000  Avant 3.0*S-LIN
+8785 audi        Audi A5                grey  06/2014   2014     17690     165         224         Automatic     Petrol                        - (g/km)         172000 Sportback 2.0 T
+8786 audi        Audi A8                grey  01/2014   2014     24200     283         385         Automatic     Diesel       7.2 l/100 km     - (g/km)         215000 4.2 TDI DPF (cl
+8787 audi        Audi A3                grey  09/2014   2014     23200     110         150         Manual        Diesel       4.3 l/100 km     110 g/km         43000  A3 2.0 TDI Cabr
+8788 audi        Audi Q5                grey  08/2014   2014     22480     165         224         Automatic     Petrol       7.6 l/100 km     184 g/km         125764 2.0 TFSI quattr
+8789 audi        Audi A6                grey  05/2014   2014     17990     140         190         Automatic     Diesel       4.6 l/100 km     119 g/km         166050 Avant 2.0 TDI *
+8790 audi        Audi RS Q3             grey  03/2014   2014     28900     228         310         Automatic     Petrol       8.8 l/100 km     209 g/km         105408 2.5 TFSI AHK Pa
+8791 audi        Audi A3                grey  01/2014   2014     14780     77          105         Manual        Diesel       3.8 l/100 km     - (g/km)         80000  1.6 TDI BiXeno*
+8792 audi        Audi Q3                grey  02/2014   2014     17990     110         150         Manual        Petrol       5.9 l/100 km     140 g/km         69500  1.4 TFSI+1.Hand
+8793 audi        Audi A4                grey  10/2014   2014     17200     130         177         Automatic     Diesel       5.3 l/100 km     140 g/km         177787 S line Sportpak
+8794 audi        Audi Q3                grey  04/2014   2014     19990     103         140         Automatic     Diesel       5.7 l/100 km     151 g/km         117000 "2.0 TDI quattr
+8795 audi        Audi A5                grey  03/2014   2014     27980     180         245         Automatic     Diesel                        0 g/km           87611  Cabriolet 3.0 T
+8796 audi        Audi A5                grey  08/2014   2014     19990     125         170         Unknown       Petrol                        - (g/km)         102000 S-line         
+8797 audi        Audi A3                grey  05/2014   2014     19990     110         150         Manual        Diesel       4.2 l/100 km     111 g/km         68708  Cabriolet Attra
+8798 audi        Audi A3                grey  06/2014   2014     15990     92          125         Manual        Petrol                        - (g/km)         95704  Limo 1.4TFSI /X
+8799 audi        Audi Q3                grey  06/2014   2014     17900     110         150         Manual        Petrol       5.9 l/100 km     140 g/km         62511  1.4 TFSI SHZ PD

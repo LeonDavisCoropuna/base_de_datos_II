@@ -1,0 +1,25 @@
+8225 audi        Audi Q3                white 03/2013   2013     16500     125         170         Automatic     Petrol       7.3 l/100 km     173 g/km         73000  2.0 TFSI quattr
+8226 audi        Audi A3                white 08/2013   2013     13490     92          125         Automatic     Petrol       5.8 l/100 km     - (g/km)         175526 1.4 TFSI Sportb
+8227 audi        Audi A3                white 10/2013   2013     17200     110         150         Manual        Diesel                        - (g/km)         99700  2.0 TDI Sportba
+8228 audi        Audi SQ5               white 10/2013   2013     24990     230         313         Automatic     Diesel       6.8 l/100 km     180 g/km         164000 3.0 TDI quattro
+8229 audi        Audi Q5                white 05/2013   2013     19990     130         177         Automatic     Diesel       6 l/100 km       159 g/km         128816 2.0 TDI quattro
+8230 audi        Audi Q7                white 10/2013   2013     23990     180         245         Automatic     Diesel       7.4 l/100 km     196 g/km         171000 3.0*4x SHZ*AHK*
+8231 audi        Audi A6                white 01/2013   2013     21990     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         167081 Avant 3.0 TDI q
+8232 audi        Audi Q5                white 07/2013   2013     21950     165         224         Automatic     Petrol                        - (g/km)         64820  2.0 TFSI quattr
+8233 audi        Audi Q3                white 05/2013   2013     13990     125         170         Manual        Petrol       7.3 l/100 km     173 g/km         167237 2.0 TFSI Quattr
+8234 audi        Audi A3                white 09/2013   2013     19990     132         179         Automatic     Petrol       6.6 l/100 km     156 g/km         69700  Sportback Ambit
+8235 audi        Audi A3                white 07/2013   2013     19900     103         140         Automatic     Petrol       4.7 l/100 km     109 g/km         78173  Lim. *Navi*LED*
+8236 audi        Audi Q5                white 05/2013   2013     18000     130         177         Automatic     Diesel       6.1 l/100 km     159 g/km         180000 2.0 TDI quattro
+8237 audi        Audi Q3                white 11/2013   2013     22990     155         211         Automatic     Petrol       7.7 l/100 km     182 g/km         49800  2.0 TFSI quattr
+8238 audi        Audi A3                white 05/2013   2013     14997     103         140         Manual        Diesel       4.6 l/100 km     - (g/km)         107000 A3 Cabriolet 2.
+8239 audi        Audi A5                white 03/2013   2013     14000     130         177         Manual        Diesel       5.1 l/100 km     - (g/km)         192500 2.0 TDI Sportba
+8240 audi        Audi A4                white 07/2013   2013     15979     110         150         Manual        Diesel       4.7 l/100 km     125 g/km         104200 Avant Ambiente 
+8241 audi        Audi RS3               white 09/2013   2013     27500     250         340         Automatic     Petrol       9.1 l/100 km     - (g/km)         135000 2.0 TDI Ambient
+8242 audi        Audi A4                white 07/2013   2013     14900     110         150         Manual        Diesel       4.7 l/100 km     125 g/km         143000 2.0 TFSI quattr
+8243 audi        Audi Q5                white 05/2013   2013     12999     165         224         Automatic     Petrol       7.5 l/100 km     174 g/km         165000 Avant 3.0 TDI D
+8244 audi        Audi A6                white 03/2013   2013     22000     230         313         Automatic     Diesel       6.3 l/100 km     166 g/km         157000 Cabriolet*S-Lin
+8245 audi        Audi A5                white 04/2013   2013     16490     105         143         Manual        Diesel       4.7 l/100 km     125 g/km         164212 A3 1.4 TFSI cyl
+8246 audi        Audi A3                white 10/2013   2013     17000     103         140         Automatic     Petrol       4.7 l/100 km     - (g/km)         103000 A5 3.0 TDI Spor
+8247 audi        Audi A5                white 09/2013   2013     22299     180         245         Automatic     Diesel       5.7 l/100 km     - (g/km)         152500 "Avant 20"" Zol
+8248 audi        Audi A6                white 07/2013   2013     17800     130         177         Automatic     Diesel       5 l/100 km       132 g/km         179000 Cabriolet 2.0 T
+8249 audi        Audi A5                white 05/2013   2013     17890     130         177         Automatic     Diesel       4.9 l/100 km     130 g/km         150000 A6 Avant 3.0 TD

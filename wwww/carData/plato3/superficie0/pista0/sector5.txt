@@ -1,0 +1,25 @@
+15125audi        Audi A3                grey  06/2018   2018     21000     110         150         Manual        Petrol       5.1 l/100 km     - (g/km)         65000  1.5 TFSI cylind
+15126audi        Audi A5                grey  08/2018   2018     38700     160         218         Automatic     Diesel                        - (g/km)         36700  Coupe 3xS-Line*
+15127audi        Audi A4                grey  04/2018   2018     19995     140         190         Manual        Diesel       4.5 l/100 km     116 g/km         133805 2.0 TDI Avant s
+15128audi        Audi A5                grey  05/2018   2018     29000     185         252         Automatic     Petrol       6.2 l/100 km     - (g/km)         60000  Coupe 2.0 TFSI 
+15129audi        Audi SQ5               grey  08/2018   2018     43900     260         354         Automatic     Petrol                        - (g/km)         51200  "3.0 TFSI tiptr
+15130audi        Audi A7                grey  05/2018   2018     47444     250         340         Automatic     Petrol                        0 g/km           47000  Sportback 55 TF
+15131audi        Audi A6                grey  07/2018   2018     41000     240         326         Automatic     Diesel       6.4 l/100 km     169 g/km         61700  Avant 3.0 TDI c
+15132audi        Audi A4                grey  11/2018   2018     28500     140         190         Automatic     Diesel       6.5 l/100 km     171 g/km         78000  Avant 40 TDI S 
+15133audi        Audi A6                grey  10/2018   2018     39860     210         286         Automatic     Diesel       7.2 l/100 km     189 g/km         66551  50 TDI Q S LINE
+15134audi        Audi A4                grey  03/2018   2018     18499     140         190         Automatic     Petrol       6.1 l/100 km     139 g/km         171000 TFSI 2x S line 
+15135audi        Audi S5                grey  02/2018   2018     41990     260         354         Automatic     Petrol       7.5 l/100 km     - (g/km)         57500  Coupe 3.0 TFSI 
+15136audi        Audi A4                grey  09/2018   2018     23500     110         150         Automatic     Diesel       4.2 l/100 km     - (g/km)         137000 Avant 2.0 TDI S
+15137audi        Audi S4                grey  11/2018   2018     39999     260         354         Automatic     Petrol       7.5 l/100 km     170 g/km         37632  3.0 TFSI tiptro
+15138audi        Audi Q3                grey  01/2018   2018     24890     147         200         Automatic     Petrol                        - (g/km)         50993  QUATTRO PREMIUM
+15139audi        Audi A6                grey  12/2018   2018     35800     200         272         Automatic     Diesel       5.3 l/100 km     138 g/km         56700  3.0 TDI quattro
+15140audi        Audi A3                grey  03/2018   2018     18900     85          116         Manual        Diesel       4 l/100 km       104 g/km         166861 1.6 TDI Limousi
+15141audi        Audi A6                grey  09/2018   2018     41900     210         286         Automatic     Diesel       5.8 l/100 km     150 g/km         65068  50 TDI quattro 
+15142audi        Audi A3                grey  01/2018   2018     22500     140         190         Automatic     Petrol       6 l/100 km       137 g/km         70500  quattro sport S
+15143audi        Audi A5                grey  05/2018   2018     34790     185         252         Automatic     Petrol       6.7 l/100 km     151 g/km         38790  Cabrio 2.0 TFSI
+15144audi        Audi A6                grey  10/2018   2018     29880     210         286         Automatic     Diesel       5.9 l/100 km     155 g/km         192000 Avant 50 TDI qu
+15145audi        Audi Q2                grey  03/2018   2018     22320     140         190         Automatic     Petrol       6.4 l/100 km     146 g/km         71118  2.0 TFSI Sport 
+15146audi        Audi Q7                grey  10/2018   2018     46500     210         286         Automatic     Diesel       6.9 l/100 km     180 g/km         86540  50 TDI quattro 
+15147audi        Audi A4 allroad        grey  07/2018   2018     22750     120         163         Automatic     Diesel       5.1 l/100 km     134 g/km         137461 Quatt 2.0 TDI S
+15148audi        Audi Q5                grey  09/2018   2018     35899     140         190         Automatic     Diesel       5.3 l/100 km     138 g/km         63000  quattroAut.S-Li
+15149audi        Audi Q3                grey  03/2018   2018     21900     147         200         Automatic     Petrol       6.7 l/100 km     154 g/km         162100 2.0 TFSI quattr

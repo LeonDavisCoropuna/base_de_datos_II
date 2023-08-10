@@ -1,0 +1,25 @@
+7550 audi        Audi A5                grey  05/2013   2013     19860     180         245         Automatic     Diesel       5.9 l/100 km     154 g/km         151905 3.0TDI Str. qu.
+7551 audi        Audi S5                grey  03/2013   2013     20500     245         333         Automatic     Petrol       7.7 l/100 km     - (g/km)         205000 Sportback S tro
+7552 audi        Audi A3                grey  07/2013   2013     14980     90          122         Manual        Petrol       5.3 l/100 km     123 g/km         72714  SPORTBACK 1-4 T
+7553 audi        Audi Q7                grey  06/2013   2013     28990     180         245         Automatic     Diesel       7.4 l/100 km     196 g/km         175000 3.0 *PANO*ACC*M
+7554 audi        Audi A4                grey  03/2013   2013     15500     105         143         Manual        Diesel       4.7 l/100 km     - (g/km)         92416  A4 Avant 2.0 TD
+7555 audi        Audi A3                grey  08/2013   2013     13490     77          105         Manual        Diesel       3.8 l/100 km     99 g/km          106000 1.6 TDI Sportba
+7556 audi        Audi A3                grey  02/2013   2013     14000     110         150         Manual        Diesel       4.1 l/100 km     109 g/km         133856 Ambition       
+7557 audi        Audi A6                grey  03/2013   2013     12700     130         177         Manual        Diesel       5 l/100 km       132 g/km         235500 Avant 2.0 TDI D
+7558 audi        Audi A3                grey  08/2013   2013     14890     110         150         Manual        Diesel       4.2 l/100 km     111 g/km         119853 "Sportback 2.0 
+7559 audi        Audi A3                grey  10/2013   2013     12999     77          105         Manual        Petrol       4.9 l/100 km     116 g/km         110000 1.2 TFSi Ambiti
+7560 audi        Audi A4                grey  03/2013   2013     10700     130         177         Manual        Diesel       4.8 l/100 km     126 g/km         245500 Avant 2.0 TDI D
+7561 audi        Audi Q3                grey  06/2013   2013     21900     125         170         Manual        Petrol       7.3 l/100 km     174 g/km         107000 2.0 TFSI quattr
+7562 audi        Audi A7                grey  06/2013   2013     22500     230         313         Automatic     Diesel       6.3 l/100 km     - (g/km)         210000 A7 3.0 TDI quat
+7563 audi        Audi A5                grey  01/2013   2013     13999     125         170         Automatic     Petrol       5.8 l/100 km     137 g/km         200000 1.8 TFSI S-LINE
+7564 audi        Audi Q3                grey  11/2013   2013     22499     155         211         Automatic     Petrol       7.7 l/100 km     182 g/km         49000  2.0 TFSI quattr
+7565 audi        Audi A4                grey  08/2013   2013     11000     110         150         Manual        Diesel       4.7 l/100 km     125 g/km         199000 Ambiente Avant 
+7566 audi        Audi A5                grey  04/2013   2013     27500     150         204         Automatic     Diesel       4.9 l/100 km     129 g/km         108000 3.0 TDI Sportba
+7567 audi        Audi Q3                grey  04/2013   2013     15990     125         170         Manual        Petrol       7.3 l/100 km     174 g/km         83970  2.0 TFSI quattr
+7568 audi        Audi A4                grey  10/2013   2013     11955     88          120         Manual        Diesel       4.7 l/100 km     124 g/km         149000 Avant 2.0 TDI D
+7569 audi        Audi Q3                grey  11/2013   2013     15900     130         177         Automatic     Diesel       5.9 l/100 km     156 g/km         216000 2.0 TDI quattro
+7570 audi        Audi A3                grey  06/2013   2013     14999     90          122         Manual        Petrol       5.3 l/100 km     126 g/km         111000 Sportback 1.4 T
+7571 audi        Audi A7                grey  03/2013   2013     19000     150         204         Automatic     Diesel       5.1 l/100 km     135 g/km         236000 3.0 TDI S LINE 
+7572 audi        Audi A3                grey  11/2013   2013     16450     90          122         Automatic     Petrol       - (l/100 km)     - (g/km)         93900  1.4 TFSI Sportb
+7573 audi        Audi Q7                grey  03/2013   2013     21195     180         245         Automatic     Diesel       7.4 l/100 km     196 g/km         172500 3.0 TDI quattro
+7574 audi        Audi A7                grey  06/2013   2013     22500     230         313         Automatic     Diesel       6.3 l/100 km     - (g/km)         209212 3.0 TDI 313 PS 

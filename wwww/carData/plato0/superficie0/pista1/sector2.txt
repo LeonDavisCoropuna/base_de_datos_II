@@ -1,0 +1,25 @@
+300  alfa-romeo  Alfa Romeo 159         black 12/2009   2009     6949      147         200         Manual        Petrol       8 l/100 km       186 g/km         145000 Sportwagon 1.8 
+301  alfa-romeo  Alfa Romeo 159         black 09/2009   2009     6990      147         200         Manual        Petrol       8 l/100 km       - (g/km)         123000 159 Sportwagon 
+302  alfa-romeo  Alfa Romeo 159         black 07/2009   2009     9890      147         200         Manual        Petrol       8.1 l/100 km     189 g/km         92590  1.8 TB 16V Top 
+303  alfa-romeo  Alfa Romeo 159         black 04/2009   2009     8490      147         200         Manual        Petrol       8.1 l/100 km     189 g/km         127000 1.8 TBi 16V Tur
+304  alfa-romeo  Alfa Romeo 159         black 05/2009   2009     8950      147         200         Manual        Petrol       8.3 l/100 km     194 g/km         159200 Sportwagon 1.8 
+305  alfa-romeo  Alfa Romeo 159         black 03/2009   2009     6250      154         209         Manual        Diesel       6.9 l/100 km     181 g/km         160000 Sportwagon 2.4 
+306  alfa-romeo  Alfa Romeo 159         black 03/2009   2009     5900      136         185         Manual        Petrol       9.2 l/100 km     218 g/km         167000 2.2 JTS 16V ti 
+307  alfa-romeo  Alfa Romeo MiTo        black 09/2009   2009     3000      88          120         Manual        Diesel       4.6 l/100 km     - (g/km)         216142 1.6 JTDM       
+308  alfa-romeo  Alfa Romeo 147         black 11/2009   2009     4000      77          105         Manual        Petrol       8.2 l/100 km     - (g/km)         59101  1.6 TS 16V     
+309  alfa-romeo  Alfa Romeo Spider      black 04/2009   2009     14700     136         185         Manual        Petrol       9.2 l/100 km     218 g/km         77000  2.2 JTS 16V    
+310  alfa-romeo  Alfa Romeo Brera       black 12/2009   2009     13490     147         200         Manual        Petrol       8.1 l/100 km     189 g/km         149736 1.8 16V TBi    
+311  alfa-romeo  Alfa Romeo 159         black 03/2009   2009     4490      110         150         Manual        Diesel       6 l/100 km       159 g/km         171200 Sportwagon 1.9 
+312  alfa-romeo  Alfa Romeo MiTo        black 05/2009   2009     6950      88          120         Manual        Petrol       6.1 l/100 km     145 g/km         77000  1.4 Turismo/VOL
+313  alfa-romeo  Alfa Romeo MiTo        black 05/2009   2009     4699      88          120         Manual        Diesel       4.8 l/100 km     126 g/km         209030 1.6 120PS JTDm 
+314  alfa-romeo  Alfa Romeo MiTo        black 02/2009   2009     3950      70          95          Manual        Petrol       5.9 l/100 km     138 g/km         139223 Turismo        
+315  alfa-romeo  Alfa Romeo MiTo        black 04/2009   2009     5650      66          90          Manual        Diesel       4.5 l/100 km     119 g/km         102000 Turismo (145) D
+316  alfa-romeo  Alfa Romeo 147         black 04/2009   2009     1450      77          105         Manual        Petrol                        - (g/km)         248000 1-6 aus 2H.-sch
+317  alfa-romeo  Alfa Romeo MiTo        black 07/2009   2009     7650      114         155         Manual        Petrol       6.5 l/100 km     153 g/km         70850  1.4 T-jet 155PS
+318  alfa-romeo  Alfa Romeo MiTo        black 08/2009   2009     6590      88          120         Manual        Petrol       6.1 l/100 km     145 g/km         133500 Turismo RATENKA
+319  alfa-romeo  Alfa Romeo GT          silver07/2009   2009     9900      122         166         Manual        Petrol       8.7 l/100 km     207 g/km         107582 2              
+320  alfa-romeo  Alfa Romeo Brera       silver08/2009   2009     9999      136         185         Manual        Petrol       9.2 l/100 km     218 g/km         105000 2.2 JTS 16V    
+321  alfa-romeo  Alfa Romeo Spider      silver08/2009   2009     16990     147         200         Manual        Diesel       6.8 l/100 km     180 g/km         73000  2.4 JTD 20V Exc
+322  alfa-romeo  Alfa Romeo MiTo        white 07/2009   2009     5990      70          95          Manual        Petrol       5.9 l/100 km     138 g/km         136200 Turismo Tüv-- 
+323  alfa-romeo  Alfa Romeo Brera       white 02/2009   2009     14900     154         209         Manual        Diesel       6.8 l/100 km     - (g/km)         99000  Brera 2.4 JTDM 
+324  alfa-romeo  Alfa Romeo 159         white 04/2009   2009     5900      154         209         Manual        Diesel       6.9 l/100 km     181 g/km         190000 Sportwagon 2.4 

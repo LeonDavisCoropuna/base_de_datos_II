@@ -1,0 +1,25 @@
+0    alfa-romeo  Alfa Romeo GTV         red   10/1995   1995     1300      148         201         Manual        Petrol       10.9 l/100 km    260 g/km         160500 2.0 V6 TB      
+1    alfa-romeo  Alfa Romeo 164         black 02/1995   1995     24900     191         260         Manual        Petrol       8.2 l/100 km     - (g/km)         190000 Q4 Allrad- 3.2L
+2    alfa-romeo  Alfa Romeo Spider      black 02/1995   1995     5900      110         150         Unknown       Petrol       8.3 l/100 km     - (g/km)         129000 ALFA ROME 916  
+3    alfa-romeo  Alfa Romeo Spider      black 07/1995   1995     4900      110         150         Manual        Petrol       9.5 l/100 km     225 g/km         189500 2.0 16V Twin Sp
+4    alfa-romeo  Alfa Romeo 164         red   11/1996   1996     17950     132         179         Manual        Petrol       7.2 l/100 km     - (g/km)         96127  3.0i Super V6- 
+5    alfa-romeo  Alfa Romeo Spider      red   04/1996   1996     7900      110         150         Manual        Petrol       9.5 l/100 km     225 g/km         47307  2.0 16V Twin Sp
+6    alfa-romeo  Alfa Romeo 145         red   12/1996   1996     3500      110         150         Manual        Petrol       8.8 l/100 km     210 g/km         230000 Quadrifoglio   
+7    alfa-romeo  Alfa Romeo 164         black 07/1996   1996     5500      132         179         Manual        Petrol       13.4 l/100 km    320 g/km         168000 (3.0) V6 Super 
+8    alfa-romeo  Alfa Romeo Spider      black 07/1996   1996     8990      141         192         Manual        Petrol       11 l/100 km      265 g/km         168600 |HU:neu|Klimaan
+9    alfa-romeo  Alfa Romeo Spider      black 01/1996   1996     6976      110         150         Manual        Petrol       9.2 l/100 km     220 g/km         99000  2.0 T.Spark L *
+10   alfa-romeo  Alfa Romeo Spider      silver02/1996   1996     5499      141         192         Manual        Petrol       11.1 l/100 km    265 g/km         157000 3.0 V6 L       
+11   alfa-romeo  Alfa Romeo Spider      silver10/1996   1996     8499      110         150         Manual        Petrol       9.5 l/100 km     225 g/km         15550  2.0 spider     
+12   alfa-romeo  Alfa Romeo GTV         silver04/1996   1996     2290      110         150         Manual        Petrol       9.5 l/100 km     - (g/km)         333500 GTV 2.0 Twin Sp
+13   alfa-romeo  Alfa Romeo GTV         grey  05/1997   1997     15800     162         220         Manual        Petrol       11.7 l/100 km    125 g/km         177000 3.0 V6 24v     
+14   alfa-romeo  Alfa Romeo 155         grey  06/1997   1997     7950      88          120         Manual        Petrol       8.4 l/100 km     - (g/km)         101726 1.6l Twin Spark
+15   alfa-romeo  Alfa Romeo GTV         red   10/1997   1997     1300      148         201         Manual        Petrol       10.9 l/100 km    260 g/km         178000 2.0 V6 TB      
+16   alfa-romeo  Alfa Romeo GTV         red   03/1997   1997     6900      110         150         Manual        Petrol       9.2 l/100 km     225 g/km         110313 2.0 16V T.Spark
+17   alfa-romeo  Alfa Romeo GTV         red   01/1997   1997     16900     162         220         Manual        Petrol       11.7 l/100 km    - (g/km)         174000 GTV 3.0 V6 24V 
+18   alfa-romeo  Alfa Romeo GTV         red   03/1997   1997     9980      148         201         Manual        Petrol       11.7 l/100 km    - (g/km)         168791 2.0 V6 TB - Led
+19   alfa-romeo  Alfa Romeo 145         red   03/1997   1997     11990     88          120         Manual        Petrol       8.2 l/100 km     - (g/km)         124963 Scuola Sportiva
+20   alfa-romeo  Alfa Romeo Spider      red   02/1997   1997     11900     110         150         Manual        Petrol       9.2 l/100 km     225 g/km         39000  2.0 16V T.Spark
+21   alfa-romeo  Alfa Romeo Spider      red   04/1997   1997     5800      110         150         Manual        Petrol       9.5 l/100 km     225 g/km         124112 2.0 16V Twin Sp
+22   alfa-romeo  Alfa Romeo Spider      black 07/1997   1997     10500     141         192         Manual        Petrol       11.7 l/100 km    - (g/km)         194000 3-0  V6   12V  
+23   alfa-romeo  Alfa Romeo GTV         black 06/1997   1997     5777      162         220         Manual        Petrol       11.7 l/100 km    278 g/km         125000 3.0 V6 24V     
+24   alfa-romeo  Alfa Romeo Spider      black 07/1997   1997     2500      110         150         Manual        Petrol       9.5 l/100 km     225 g/km         130900 "2.0 16V Twin S

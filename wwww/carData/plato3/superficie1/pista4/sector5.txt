@@ -1,0 +1,25 @@
+18625audi        Audi A3                blue  05/2020   2020     24650     110         150         Automatic     Hybrid       2 l/100 km       47 g/km          99800  SPORTBACK*40*TF
+18626audi        Audi A4 allroad        blue  07/2020   2020     32995     140         190         Automatic     Diesel       5 l/100 km       132 g/km         75743  40 2.0 TDI quat
+18627audi        Audi e-tron            blue  10/2020   2020     46950     230         313         Automatic     Electric                      276 km Reichweite8471   "50 quattro  *V
+18628audi        Audi A6                blue  01/2020   2020     44700     210         286         Automatic     Diesel       5.8 l/100 km     150 g/km         46965  "Lim. 50 TDI qu
+18629audi        Audi Q5                blue  04/2020   2020     46880     180         245         Automatic     Petrol       9 l/100 km       203 g/km         22704  design 45 TFSI 
+18630audi        Audi A6                blue  07/2020   2020     28900     120         163         Automatic     Diesel       4.5 l/100 km     117 g/km         53000  Avant 35 TDI LE
+18631audi        Audi SQ5               blue  09/2020   2020     56890     255         347         Automatic     Diesel       6.8 l/100 km     177 g/km         30340  3.0 TDI quattro
+18632audi        Audi A4                blue  03/2020   2020     37480     180         245         Automatic     Petrol       6.8 l/100 km     155 g/km         28760  Avant 45 TFSI q
+18633audi        Audi TT                blue  03/2020   2020     36480     145         197         Automatic     Petrol       6.1 l/100 km     138 g/km         42080  Coupe 40 TFSI L
+18634audi        Audi S4                blue  04/2020   2020     52880     255         347         Automatic     Diesel       6.2 l/100 km     162 g/km         55900  TDI LED ACC Kam
+18635audi        Audi RS Q3             blue  05/2020   2020     52990     294         400         Automatic     Petrol       9.9 l/100 km     223 g/km         32200  2.5TFSI qua S-T
+18636audi        Audi A6                blue  09/2020   2020     54190     185         252         Automatic     Hybrid       1.9 l/100 km     44 g/km          37000  55 TFSI e quatt
+18637audi        Audi A4                blue  09/2020   2020     29280     140         190         Automatic     Diesel       5.3 l/100 km     140 g/km         47077  Avant 40 TDI Qu
+18638audi        Audi A3                blue  02/2020   2020     21900     85          116         Manual        Petrol       4.9 l/100 km     113 g/km         20700  sport 30 TFSI -
+18639audi        Audi Q5                blue  08/2020   2020     47348     210         286         Automatic     Diesel       8.4 l/100 km     220 g/km         49615  50 TDI qu. S Li
+18640audi        Audi SQ5               blue  02/2020   2020     55488     255         347         Automatic     Diesel                        - (g/km)         49165  Pano- HUD- AHK-
+18641audi        Audi A8                blue  10/2020   2020     79990     320         435         Automatic     Diesel       7.2 l/100 km     190 g/km         25600  60 TDI qu. |Mat
+18642audi        Audi S4                blue  02/2020   2020     43491     255         347         Automatic     Diesel       6.3 l/100 km     165 g/km         97600  Avant 3.0 TDI q
+18643audi        Audi S3                blue  04/2020   2020     35850     221         300         Automatic     Petrol       8.3 l/100 km     188 g/km         56325  TFSI S tronic A
+18644audi        Audi A3                blue  01/2020   2020     23990     110         150         Automatic     Petrol       5 l/100 km       115 g/km         35000  35 TFSI cod S l
+18645audi        Audi e-tron            blue  11/2020   2020     48700     230         313         Automatic     Electric                      0 g/km           22000  50 quattro adva
+18646audi        Audi Q7                blue  12/2020   2020     68280     250         340         Automatic     Hybrid       3 l/100 km       76 g/km          38500  55 TFSI e quatt
+18647audi        Audi Q3                blue  09/2020   2020     27000     110         150         Manual        Diesel       5.7 l/100 km     150 g/km         95000  35 TDI quattro 
+18648audi        Audi Q2                blue  07/2020   2020     28099     110         150         Automatic     Petrol       5.3 l/100 km     122 g/km         19999  Q2 35 TFSI S tr
+18649audi        Audi A3                blue  11/2020   2020     29480     110         150         Automatic     Petrol                        - (g/km)         27000  Sportback MHEV 

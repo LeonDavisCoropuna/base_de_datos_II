@@ -1,0 +1,25 @@
+15600audi        Audi A8                black 11/2018   2018     50850     250         340         Automatic     Petrol       8 l/100 km       182 g/km         72810  55 TFSI quattro
+15601audi        Audi RS4               black 07/2018   2018     52900     331         450         Automatic     Petrol       8.8 l/100 km     200 g/km         110000 Avant 2.9 TFSI 
+15602audi        Audi A3                black 11/2018   2018     14880     85          116         Manual        Petrol       4.8 l/100 km     117 g/km         115000 Sportback sport
+15603audi        Audi A5                black 07/2018   2018     29900     185         252         Automatic     Petrol                        - (g/km)         53129  2.0 TFSI Coupe 
+15604audi        Audi A4                black 09/2018   2018     19500     160         218         Automatic     Diesel       4.9 l/100 km     129 g/km         240000 Avant quattro s
+15605audi        Audi A6                black 02/2018   2018     41950     240         326         Automatic     Diesel       6 l/100 km       159 g/km         76000  Limo 3.0 TDI Co
+15606audi        Audi R8                black 07/2018   2018     124950    397         540         Automatic     Petrol       12.4 l/100 km    283 g/km         32251  Coupe RWS 1 of 
+15607audi        Audi A6                black 11/2018   2018     36900     210         286         Automatic     Diesel                        - (g/km)         84000  A6 50  3-0 TDI 
+15608audi        Audi A4                black 02/2018   2018     21850     125         170         Manual        Other        6.4 l/100 km     113 g/km         71466  g-tron 2.0 TFSI
+15609audi        Audi S7                black 02/2018   2018     52490     331         450         Automatic     Petrol                        - (g/km)         42922  Matrix Beam BOS
+15610audi        Audi A6                black 11/2018   2018     33000     150         204         Automatic     Diesel       4.9 l/100 km     129 g/km         140000 Avant 40 TDI ba
+15611audi        Audi A4                black 09/2018   2018     15950     110         150         Manual        Diesel       4.3 l/100 km     116 g/km         144515 Av. 2.0 TDI Spo
+15612audi        Audi A1                black 02/2018   2018     15390     70          95          Manual        Petrol       4.4 l/100 km     102 g/km         77100  Sportback Top A
+15613audi        Audi A6                black 03/2018   2018     32900     200         272         Automatic     Diesel       5.1 l/100 km     133 g/km         46150  Lim. 3.0 TDI qu
+15614audi        Audi S3                black 08/2018   2018     29900     279         379         Manual        Petrol       7 l/100 km       - (g/km)         68000  S3 Limousine TF
+15615audi        Audi A6                black 12/2018   2018     54999     210         286         Automatic     Diesel       5.9 l/100 km     155 g/km         124500 Audi A6 Avant S
+15616audi        Audi TT RS             black 02/2018   2018     46991     294         400         Automatic     Petrol       8.2 l/100 km     187 g/km         96700  "Coupe QUATTRO 
+15617audi        Audi A4                black 05/2018   2018     22444     110         150         Manual        Petrol                        0 g/km           40000  35 TFSI LIMO / 
+15618audi        Audi A3                black 02/2018   2018     13950     85          116         Manual        Diesel       4.2 l/100 km     109 g/km         146332 Sportback 1.6 T
+15619audi        Audi A6                black 07/2018   2018     47990     210         286         Automatic     Diesel                        - (g/km)         79000  50 TDI quattro 
+15620audi        Audi A3                black 03/2018   2018     19990     135         184         Automatic     Diesel       5.1 l/100 km     133 g/km         115429 quattro Sport *
+15621audi        Audi RS3               black 05/2018   2018     48000     368         500         Automatic     Petrol       8.1 l/100 km     - (g/km)         27950  ABT Sportback  
+15622audi        Audi A5                black 06/2018   2018     27500     140         190         Automatic     Petrol       5.6 l/100 km     - (g/km)         90000  Coupe 2.0 TFSI 
+15623audi        Audi S5                black 07/2018   2018     39990     260         354         Automatic     Petrol                        - (g/km)         66000  3.0 TFSI Sportb
+15624audi        Audi A3                black 12/2018   2018     15950     85          116         Manual        Diesel       4.1 l/100 km     109 g/km         139900 Sportback S Lin

@@ -1,0 +1,25 @@
+10325audi        Audi TT                grey  01/2015   2015     28350     169         230         Automatic     Petrol       6.4 l/100 km     - (g/km)         110000 Coupe 2.0 TFSI 
+10326audi        Audi S3                grey  02/2015   2015     34550     271         368         Automatic     Petrol       6.9 l/100 km     - (g/km)         145000 RS3 - 8V -400PS
+10327audi        Audi A3                grey  02/2015   2015     14800     81          110         Manual        Diesel       3.9 l/100 km     103 g/km         108996 Cabriolet Ambit
+10328audi        Audi A1                green 05/2015   2015     11950     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         63000  Sportback 1.2 T
+10329audi        Audi S5                green 11/2015   2015     34200     245         333         Automatic     Petrol       7.7 l/100 km     - (g/km)         53000  S tronic       
+10330audi        Audi RS7               green 05/2015   2015     61500     412         560         Automatic     Petrol       9.5 l/100 km     - (g/km)         48550  ceramik-carbon 
+10331audi        Audi A1                green 04/2015   2015     14990     85          116         Manual        Diesel       3.9 l/100 km     102 g/km         78613  Sportback sport
+10332audi        Audi A5                green 09/2015   2015     27980     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         91400  Cabriolet 3.0 T
+10333audi        Audi A6                green 02/2015   2015     15500     140         190         Automatic     Diesel       4.4 l/100 km     - (g/km)         261000 A6 2.0 TDI ultr
+10334audi        Audi A1                      05/2015   2015     11950     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         63000  Sportback 1.2 T
+10335audi        Audi A1                      05/2015   2015     11950     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         63000  Sportback 1.2 T
+10336audi        Audi A1                red   10/2015   2015     14899     70          95          Manual        Petrol       4.4 l/100 km     102 g/km         68500  Sportback sport
+10337audi        Audi A1                red   06/2015   2015     12490     66          90          Manual        Diesel       3.9 l/100 km     102 g/km         111222 Sportback 1.4TD
+10338audi        Audi A1                red   10/2015   2015     11490     70          95          Manual        Petrol       4.4 l/100 km     102 g/km         108095 """Sport"" 1.0 
+10339audi        Audi A1                red   12/2015   2015     15990     70          95          Manual        Petrol       4.4 l/100 km     102 g/km         93000  Sportback S Lin
+10340audi        Audi A3                red   11/2015   2015     13999     110         150         Automatic     Diesel       4.4 l/100 km     116 g/km         179680 Sportback S lin
+10341audi        Audi A3                red   04/2015   2015     17800     92          125         Manual        Petrol       5.6 l/100 km     127 g/km         87500  1.4 TFSI Cabrio
+10342audi        Audi A5                red   11/2015   2015     21500     140         190         Automatic     Diesel       4.5 l/100 km     - (g/km)         174000 2.0 TDI Sportba
+10343audi        Audi Q3                red   01/2015   2015     16400     130         177         Automatic     Diesel       5.9 l/100 km     - (g/km)         207528 2.0 TDI quattro
+10344audi        Audi TT                red   10/2015   2015     24890     169         230         Manual        Petrol       6 l/100 km       140 g/km         118748 Roadster 2.0 TF
+10345audi        Audi A1                red   11/2015   2015     25000     92          125         Manual        Petrol       4.9 l/100 km     115 g/km         115982 1.4 TFSI Sport 
+10346audi        Audi A3                red   06/2015   2015     12500     177         241         Automatic     Petrol       6.5 l/100 km     - (g/km)         97000  Limousine 1.8TF
+10347audi        Audi A1                red   01/2015   2015     17777     66          90          Manual        Diesel       3.8 l/100 km     - (g/km)         86500  A1 1.6 TDI Spor
+10348audi        Audi Q3                red   10/2015   2015     11998     110         150         Automatic     Diesel       7.7 l/100 km     - (g/km)         166000 Quattro- S- lin
+10349audi        Audi A1                red   11/2015   2015     13290     70          95          Manual        Petrol       4.4 l/100 km     102 g/km         92500  Sportback*Klima

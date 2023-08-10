@@ -1,0 +1,25 @@
+18800audi        Audi SQ5               grey  01/2020   2020     58950     255         347         Automatic     Diesel       6.8 l/100 km     177 g/km         40000  TDI quattro *20
+18801audi        Audi A6                grey  03/2020   2020     38980     180         245         Automatic     Petrol       6.7 l/100 km     152 g/km         77120  Av. 45 TFSI qua
+18802audi        Audi A3                grey  01/2020   2020     24470     110         150         Automatic     Hybrid       2 l/100 km       46 g/km          85900  Sportback 40 TF
+18803audi        Audi RS6               grey  10/2020   2020     108890    441         600         Automatic     Petrol       11.7 l/100 km    268 g/km         92850  RS6 Avant 4.0 T
+18804audi        Audi A4                grey  03/2020   2020     36950     180         245         Automatic     Petrol       6.7 l/100 km     153 g/km         19483  45TFSI quattro 
+18805audi        Audi A4                grey  03/2020   2020     36950     180         245         Automatic     Petrol       6.7 l/100 km     153 g/km         19483  45TFSI quattro 
+18806audi        Audi A3                grey  03/2020   2020     21995     150         204         Automatic     Hybrid       1.9 l/100 km     43 g/km          55088  Sportback 40 e-
+18807audi        Audi A3                grey  07/2020   2020     25790     150         204         Automatic     Hybrid       1.9 l/100 km     43 g/km          16772  Sportback e-tro
+18808audi        Audi A4                grey  01/2020   2020     27250     140         190         Automatic     Diesel       4.7 l/100 km     122 g/km         88900  Avant 40 TDI Ad
+18809audi        Audi A3                grey  02/2020   2020     26900     150         204         Automatic     Hybrid       2 l/100 km       46 g/km          39150  sport 40 e-tron
+18810audi        Audi A3                grey  03/2020   2020     29990     110         150         Automatic     Petrol       5.2 l/100 km     117 g/km         9599   Sportback 35 TF
+18811audi        Audi A4                grey  03/2020   2020     29990     140         190         Automatic     Petrol       6.6 l/100 km     150 g/km         52500  40 TFSI advance
+18812audi        Audi A4                grey  03/2020   2020     44940     180         245         Automatic     Petrol       5.7 l/100 km     129 g/km         17690  "S Line Edition
+18813audi        Audi A6 allroad        grey  01/2020   2020     57930     257         349         Automatic     Diesel       6.4 l/100 km     204 g/km         47882  A6 allroad 55TD
+18814audi        Audi A7                grey  11/2020   2020     50160     220         299         Automatic     Hybrid                        45 km Reichweite 23100  Sportback 50 TF
+18815audi        Audi A1                grey  05/2020   2020     29925     110         150         Automatic     Petrol       5.1 l/100 km     116 g/km         32897  35 TFSI Sportba
+18816audi        Audi A4                grey  12/2020   2020     46575     140         190         Automatic     Diesel       4.2 l/100 km     110 g/km         23     40 TDI S-tronic
+18817audi        Audi e-tron            grey  03/2020   2020     48920     230         313         Automatic     Electric                      277 km Reichweite82803  50 quattro adva
+18818audi        Audi SQ5               grey  03/2020   2020     57890     255         347         Automatic     Diesel       6.8 l/100 km     177 g/km         27450  3.0TDI V6 quatt
+18819audi        Audi A4 allroad        grey  05/2020   2020     44890     210         286         Automatic     Diesel       6.3 l/100 km     164 g/km         51150  50TDI Quattro A
+18820audi        Audi S6                grey  03/2020   2020     58870     257         349         Automatic     Diesel       8.1 l/100 km     211 g/km         111804 Avant 3.0+TDI+M
+18821audi        Audi A4                grey  03/2020   2020     60950     100         136         Automatic     Diesel       4.3 l/100 km     114 g/km         45500  Avant 30 TDI ad
+18822audi        Audi S6                grey  03/2020   2020     36890     257         349         Automatic     Diesel       6.5 l/100 km     171 g/km         85711  Avant TDI tiptr
+18823audi        Audi A6                grey  10/2020   2020     72480     150         204         Automatic     Diesel       4.6 l/100 km     122 g/km         95000  Avant 40TDI Qua
+18824audi        Audi Q8                grey  05/2020   2020     32900     210         286         Automatic     Diesel       6.8 l/100 km     179 g/km         92500  50 TDI qu.3x S 

@@ -1,0 +1,25 @@
+375  alfa-romeo  Alfa Romeo MiTo        red   06/2011   2011     7899      99          135         Manual        Petrol       5.6 l/100 km     129 g/km         65000  1.4 TB MultiAir
+376  alfa-romeo  Alfa Romeo Giulietta   red   05/2011   2011     8450      88          120         Manual        Petrol       6.4 l/100 km     149 g/km         103100 GIULIETTA 120PS
+377  alfa-romeo  Alfa Romeo Giulietta   red   03/2011   2011     9900      125         170         Manual        Petrol       6.4 l/100 km     134 g/km         67000  Turismo 1.Hand 
+378  alfa-romeo  Alfa Romeo MiTo        red   06/2011   2011     6950      77          105         Manual        Petrol       5.7 l/100 km     134 g/km         69000  "Super 2.HAND* 
+379  alfa-romeo  Alfa Romeo Giulietta   red   08/2011   2011     6400      88          120         Manual        Petrol       6.4 l/100 km     - (g/km)         144759 1.4 TB 16V Supe
+380  alfa-romeo  Alfa Romeo Giulietta   red   11/2011   2011     9300      125         170         Automatic     Diesel       4.5 l/100 km     - (g/km)         100000 2.0 JTDM 16V TC
+381  alfa-romeo  Alfa Romeo Giulietta   red   09/2011   2011     9790      88          120         Manual        Petrol       6.4 l/100 km     149 g/km         68000  1.4 TB 16V Supe
+382  alfa-romeo  Alfa Romeo MiTo        red   04/2011   2011     3999      62          84          Manual        Diesel       3.5 l/100 km     90 g/km          130000 1.3 JTDM 16V- K
+383  alfa-romeo  Alfa Romeo Giulietta   red   05/2011   2011     16950     173         235         Manual        Petrol       7.6 l/100 km     177 g/km         121000 1.8 TBi 16V Qua
+384  alfa-romeo  Alfa Romeo Giulietta   red   10/2011   2011     6390      77          105         Manual        Diesel       4.4 l/100 km     114 g/km         160000 1.6 JTDM 16V   
+385  alfa-romeo  Alfa Romeo 159         red   05/2011   2011     3400      125         170         Manual        Diesel       5.4 l/100 km     142 g/km         222000 Sportwagon 2.0 
+386  alfa-romeo  Alfa Romeo Spider      red   03/2011   2011     19999     147         200         Manual        Petrol       8.2 l/100 km     - (g/km)         116000 Spider 1.8 TBi 
+387  alfa-romeo  Alfa Romeo Giulietta   red   01/2011   2011     8500      88          120         Manual        Petrol       6.6 l/100 km     156 g/km         134000 Turismo        
+388  alfa-romeo  Alfa Romeo 159         red   08/2011   2011     6235      125         170         Manual        Diesel       5.4 l/100 km     142 g/km         177610 Sportwagon 2.0 
+389  alfa-romeo  Alfa Romeo Giulietta   black 12/2011   2011     5000      88          120         Manual        Petrol       6.4 l/100 km     152 g/km         197250 GIULIETTA 1.4 T
+390  alfa-romeo  Alfa Romeo 159         black 06/2011   2011     6999      147         200         Manual        Petrol       8.3 l/100 km     194 g/km         194197 Sportwagon Ti  
+391  alfa-romeo  Alfa Romeo MiTo        black 05/2011   2011     6485      99          135         Automatic     Petrol       5.6 l/100 km     133 g/km         88830  1.4 TB Multiair
+392  alfa-romeo  Alfa Romeo Giulietta   black 03/2011   2011     5500      88          120         Manual        Petrol       6.6 l/100 km     149 g/km         162499 Turismo *Leder/
+393  alfa-romeo  Alfa Romeo Giulietta   black 04/2011   2011     8950      88          120         Manual        Petrol       6.6 l/100 km     156 g/km         21200  Turismo (191) e
+394  alfa-romeo  Alfa Romeo Giulietta   black 07/2011   2011     7200      88          120         Manual        Petrol       6.4 l/100 km     149 g/km         84000  1.4 TB 16V     
+395  alfa-romeo  Alfa Romeo Giulietta   black 07/2011   2011     10890     125         170         Manual        Petrol       6.4 l/100 km     134 g/km         123100 1-7 TB Turismo 
+396  alfa-romeo  Alfa Romeo Giulietta   black 04/2011   2011     7999      125         170         Manual        Petrol       5.8 l/100 km     - (g/km)         135000 Giulietta 1.4 T
+397  alfa-romeo  Alfa Romeo MiTo        black 09/2011   2011     9000      125         170         Manual        Petrol       6 l/100 km       139 g/km         104450 QV 1.4 TB /BI-X
+398  alfa-romeo  Alfa Romeo Giulietta   black 12/2011   2011     13750     125         170         Automatic     Petrol       4.9 l/100 km     114 g/km         99590  1.4 TB 16V Mult
+399  alfa-romeo  Alfa Romeo Giulietta   black 01/2011   2011     7990      125         170         Manual        Petrol       5.8 l/100 km     134 g/km         153200 1.4 TB 16V Mult

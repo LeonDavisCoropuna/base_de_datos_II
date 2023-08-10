@@ -1,0 +1,21 @@
+16821audi        Audi A6                brown 06/2019   2019     31970     150         204         Automatic     Diesel       4.9 l/100 km     129 g/km         82850  Avant 40 TDI de
+16822audi        Audi A5                brown 07/2019   2019     39990     210         286         Automatic     Diesel       6.1 l/100 km     161 g/km         69350  50TDI qu sport 
+16823audi        Audi A6                brown 11/2019   2019     29980     150         204         Automatic     Diesel       6.1 l/100 km     159 g/km         117393 40 TDI quattro 
+16824audi        Audi Q5                brown 05/2019   2019     43730     210         286         Automatic     Diesel       6.2 l/100 km     162 g/km         71100  50 TDI quattro 
+16825audi        Audi A4                brown 05/2019   2019     29860     140         190         Automatic     Diesel       6.4 l/100 km     "168             5 g/km"93700          
+16826audi        Audi A6                brown 03/2019   2019     33980     150         204         Automatic     Diesel       4.5 l/100 km     146 g/km         36567  Lim. 40 TDI S t
+16827audi        Audi A4                brown 01/2019   2019     24400     140         190         Automatic     Diesel       4.6 l/100 km     121 g/km         92864  Avant 40 TDI Gl
+16828audi        Audi Q2                brown 04/2019   2019     30538     140         190         Automatic     Petrol       6.7 l/100 km     153 g/km         53400  40 TFSI quattro
+16829audi        Audi Q5                brown 07/2019   2019     36990     140         190         Automatic     Diesel       5.6 l/100 km     149 g/km         81521  40 quattro S Li
+16830audi        Audi Q8                brown 02/2019   2019     67990     210         286         Automatic     Diesel       6.6 l/100 km     172 g/km         59200  50 TDI qu. S Li
+16831audi        Audi A6                brown 08/2019   2019     44970     210         286         Automatic     Diesel       5.8 l/100 km     150 g/km         58000  50 TDI quattro*
+16832audi        Audi Q5                brown 02/2019   2019     33959     140         190         Automatic     Diesel       5.6 l/100 km     191 g/km         96480  40 TDI quattro 
+16833audi        Audi Q5                brown 04/2019   2019     42480     210         286         Automatic     Diesel       6.1 l/100 km     162 g/km         37500  50 TDI quattro 
+16834audi        Audi A6 allroad        brown 10/2019   2019     49880     257         349         Automatic     Diesel       6.6 l/100 km     172 g/km         124495 quattro 55 TDI 
+16835audi        Audi Q5                brown 11/2019   2019     33950     170         231         Automatic     Diesel       6.3 l/100 km     165 g/km         116430 45 TDI quattro 
+16836audi        Audi Q8                brown 04/2019   2019     66880     210         286         Automatic     Diesel       8.1 l/100 km     212 g/km         77000  S-Line 50 TDI Q
+16837audi        Audi A6                brown 08/2019   2019     45170     210         286         Automatic     Diesel       5.8 l/100 km     150 g/km         58000  50 TDI quattro*
+16838audi        Audi A6                brown 11/2019   2019     36970     150         204         Automatic     Diesel       4.9 l/100 km     129 g/km         42865  Avant 40 TDI S 
+16839audi        Audi A6                brown 07/2019   2019     39890     150         204         Automatic     Diesel       4.9 l/100 km     129 g/km         31000  Avant 40 TDI Sp
+16840audi        Audi A3                bronze03/2019   2019     23495     110         150         Manual        Petrol       5.3 l/100 km     120 g/km         33534  Sportback sport
+16841audi        Audi Q8                bronze06/2019   2019     60000     210         286         Automatic     Diesel       7.1 l/100 km     - (g/km)         108400 Q8 50 TDI quatt

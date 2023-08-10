@@ -1,0 +1,25 @@
+9350 audi        Audi A4                silver09/2014   2014     14499     130         177         Automatic     Diesel       4.8 l/100 km     127 g/km         133060 2-0 TDI Avant A
+9351 audi        Audi A4                silver07/2014   2014     16600     125         170         Automatic     Petrol       5.9 l/100 km     - (g/km)         81000  Avant 1.8 TFSI 
+9352 audi        Audi A4                silver06/2014   2014     21499     125         170         Manual        Petrol       6.1 l/100 km     145 g/km         115000 Avant Ambition 
+9353 audi        Audi TT                silver09/2014   2014     16990     135         184         Manual        Diesel       4.2 l/100 km     - (g/km)         104000 TT Coupe 2.0 TD
+9354 audi        Audi A3                silver04/2014   2014     12900     132         179         Manual        Petrol       5.8 l/100 km     135 g/km         69600  1.8 TFSI Ambien
+9355 audi        Audi A3                silver02/2014   2014     15900     77          105         Automatic     Diesel       3.9 l/100 km     102 g/km         181000 Sportback Ambie
+9356 audi        Audi A3                silver09/2014   2014     24940     110         150         Manual        Diesel       4.7 l/100 km     125 g/km         78100  Sportback Ambit
+9357 audi        Audi A4                silver08/2014   2014     11500     200         272         Automatic     Petrol       7.8 l/100 km     0 g/km           71849  AVANT 3.0TFSi Q
+9358 audi        Audi A4                silver12/2014   2014     15490     110         150         Unknown       Diesel       4.7 l/100 km     125 g/km         175000 Attraction Avan
+9359 audi        Audi A4                silver04/2014   2014     19100     125         170         Manual        Petrol       5.7 l/100 km     135 g/km         139000 Limousine Ambit
+9360 audi        Audi A4                silver11/2014   2014     16990     165         224         Automatic     Petrol       6 l/100 km       - (g/km)         111428 A4 Avant 2.0 TF
+9361 audi        Audi A3                silver10/2014   2014     14990     92          125         Manual        Petrol       5.3 l/100 km     126 g/km         27236  Lim. Ambiente 1
+9362 audi        Audi A3                silver07/2014   2014     18980     92          125         Manual        Petrol       5 l/100 km       - (g/km)         38000  1.4 TFSI Limous
+9363 audi        Audi A3                silver03/2014   2014     26990     103         140         Manual        Petrol       5 l/100 km       114 g/km         52000  1.4 TFSI Cabrio
+9364 audi        Audi A7                silver10/2014   2014     12950     245         333         Automatic     Petrol       7.6 l/100 km     176 g/km         121900 3.0TFSI qu S-tr
+9365 audi        Audi A3                silver04/2014   2014     13950     77          105         Automatic     Diesel       3.9 l/100 km     102 g/km         160000 1.6 TDI Limousi
+9366 audi        Audi A4                silver10/2014   2014     15490     110         150         Automatic     Diesel       4.7 l/100 km     125 g/km         99971  Avant 2.0 TDI  
+9367 audi        Audi A1                silver12/2014   2014     14500     90          122         Manual        Petrol       5.4 l/100 km     128 g/km         46400  Ambition Sportb
+9368 audi        Audi A3                silver03/2014   2014     13400     110         150         Automatic     Diesel       4.1 l/100 km     - (g/km)         238000 2.0 TDI Limousi
+9369 audi        Audi A4                silver08/2014   2014     12999     110         150         Automatic     Diesel       4.6 l/100 km     122 g/km         170000 Avant Ambiente 
+9370 audi        Audi Q3                silver12/2014   2014     16500     110         150         Manual        Petrol       5.9 l/100 km     137 g/km         80934  1.4 TFSI *PDC*B
+9371 audi        Audi Q3                silver04/2014   2014     23290     125         170         Automatic     Petrol       7.3 l/100 km     173 g/km         32000  2.0 TFSI S-LINE
+9372 audi        Audi A3                silver07/2014   2014     11900     77          105         Manual        Petrol       4.9 l/100 km     116 g/km         157993 Sportback Attra
+9373 audi        Audi A1                silver08/2014   2014     11400     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         74000  1.2 TFSI Attrac
+9374 audi        Audi Q5                silver02/2014   2014     22499     130         177         Automatic     Diesel       6 l/100 km       159 g/km         120000 2.0 TDI QUATTRO

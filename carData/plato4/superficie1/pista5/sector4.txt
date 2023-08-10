@@ -1,0 +1,21 @@
+20034audi        Audi A6                red   06/2021   2021     54220     210         286         Automatic     Diesel       7 l/100 km       182 g/km         30300  Avant S line 50
+20035audi        Audi A1                red   03/2021   2021     23950     70          95          Automatic     Petrol       6 l/100 km       137 g/km         376    Sportback 25 TF
+20036audi        Audi A3                red   04/2021   2021     28640     110         150         Manual        Petrol       5.9 l/100 km     "133             8 g/km"48650          
+20037audi        Audi Q2                red   09/2021   2021     28680     85          116         Automatic     Diesel       4.8 l/100 km     125 g/km         12237  30 TDI S Tronic
+20038audi        Audi e-tron            red   06/2021   2021     76950     300         408         Automatic     Electric                      369 km Reichweite6380   Sportback 55 S-
+20039audi        Audi A1                red   04/2021   2021     23333     81          110         Manual        Petrol       5 l/100 km       113 g/km         23800  Citycarver 30TF
+20040audi        Audi Q3                red   10/2021   2021     36815     110         150         Manual        Diesel       4.7 l/100 km     124 g/km         80207  Sportback 35 TD
+20041audi        Audi Q3                red   05/2021   2021     37090     110         150         Automatic     Petrol       5.8 l/100 km     137 g/km         5314   1.4 TFSI KLIMAA
+20042audi        Audi Q2                red   12/2021   2021     39480     110         150         Automatic     Diesel       4.2 l/100 km     111 g/km         7000   35 TDI S line A
+20043audi        Audi Q3                red   07/2021   2021     38980     110         150         Automatic     Petrol       5.8 l/100 km     133 g/km         38753  Sportback 35 1.
+20044audi        Audi A1                red   10/2021   2021     24750     81          110         Automatic     Petrol       5.9 l/100 km     133 g/km         24900  Sportback 30 TF
+20045audi        Audi A5                red   03/2021   2021     38879     140         190         Automatic     Diesel       4.5 l/100 km     119 g/km         31879  Sportback 40 TD
+20046audi        Audi RS Q8             red   02/2021   2021     44980     441         600         Automatic     Petrol       12.1 l/100 km    287 g/km         27113  quattro Dynamik
+20047audi        Audi A5                red   10/2021   2021     21987     150         204         Automatic     Petrol       6.3 l/100 km     143 g/km         25000  Cabriolet 40 TF
+20048audi        Audi A1                red   12/2021   2021     28440     70          95          Manual        Petrol       5.5 l/100 km     127 g/km         8940   Sportback 25TFS
+20049audi        Audi Q2                red   11/2021   2021     41410     110         150         Manual        Petrol       5.1 l/100 km     121 g/km         18000  35 1.5 TFSI S l
+20050audi        Audi A5                red   07/2021   2021     23884     110         150         Automatic     Petrol       6.7 l/100 km     153 g/km         14811  35 TFSI advance
+20051audi        Audi A1                red   09/2021   2021     39990     81          110         Manual        Petrol       5.4 l/100 km     123 g/km         25624  Sportback 30 TF
+20052audi        Audi A4                red   11/2021   2021     85490     150         204         Automatic     Diesel       5.4 l/100 km     141 g/km         25725  Avant 40 TDI ad
+20053audi        Audi SQ7               red   02/2021   2021     48950     373         507         Automatic     Petrol       12 l/100 km      276 g/km         59875  4.0 qu*HUD*306Â
+20054audi        Audi A6                red   06/2021   2021     29888     150         204         Automatic     Diesel       4.9 l/100 km     130 g/km         38999  40 TDI qu. S-li

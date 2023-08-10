@@ -1,0 +1,21 @@
+18543audi        Audi Q2                orange03/2019   2019     26490     85          116         Automatic     Diesel       4.5 l/100 km     118 g/km         32200  "sport 30 TDI S
+18544audi        Audi Q2                orange04/2019   2019     23090     85          116         Automatic     Diesel                        0 g/km           52220  30 TDI design S
+18545audi        Audi Q2                orange02/2019   2019     23990     85          116         Automatic     Petrol       5.4 l/100 km     149 g/km         58557  30 TFSI design 
+18546audi        Audi Q3                orange07/2019   2019     28880     110         150         Manual        Diesel                        - (g/km)         86471  35 TDI Q S LINE
+18547audi        Audi TT                orange04/2019   2019     35990     180         245         Automatic     Petrol       8.3 l/100 km     190 g/km         48456  Roadster TT Roa
+18548audi        Audi Q3                orange08/2019   2019     34880     140         190         Automatic     Petrol       8.7 l/100 km     197 g/km         53100  40 TFSI Q S LIN
+18549audi        Audi Q3                orange12/2019   2019     29880     110         150         Manual        Diesel       5.7 l/100 km     150 g/km         30000  35 TDI quattro 
+18550audi        Audi A3                gold  03/2019   2019     23495     110         150         Manual        Petrol       5.3 l/100 km     120 g/km         33534  Sportback sport
+18551audi        Audi A4                gold  01/2019   2019     24680     110         150         Automatic     Diesel       4.6 l/100 km     122 g/km         66650  35 TDI  S-Line|
+18552audi        Audi RS3               gold  08/2019   2019     51999     294         400         Automatic     Petrol       8.5 l/100 km     194 g/km         32500  Sportback 2.5 T
+18553audi        Audi A6 allroad        beige 03/2020   2020     49890     210         286         Automatic     Diesel       7.5 l/100 km     197 g/km         91641  A6 allroad 50 T
+18554audi        Audi A6                beige 06/2020   2020     36846     120         163         Automatic     Diesel                        - (g/km)         36650  Lim Design 35 T
+18555audi        Audi A6                beige 02/2020   2020     48980     210         286         Automatic     Diesel       5.9 l/100 km     194 g/km         32250  Avant 50 TDI qu
+18556audi        Audi e-tron            beige 02/2020   2020     49888     300         408         Automatic     Electric                      0 g/km           76602  55 quattro adva
+18557audi        Audi A6                beige 04/2020   2020     54900     210         286         Automatic     Diesel       5.8 l/100 km     151 g/km         62100  Avant Sport 50T
+18558audi        Audi e-tron            beige 01/2020   2020     55920     300         408         Automatic     Electric                      0 g/km           36600  55 quattro adva
+18559audi        Audi A3                beige 12/2020   2020     37990     110         150         Manual        Petrol       4.8 l/100 km     114 g/km         33128  Limousine advan
+18560audi        Audi A6                beige 04/2020   2020     59980     150         204         Automatic     Diesel       4.9 l/100 km     118 g/km         53220  "40 TDI Qu. S L
+18561audi        Audi A6                beige 10/2020   2020     38490     270         367         Automatic     Hybrid       1.9 l/100 km     43 g/km          26070  55 TFSI e quatt
+18562audi        Audi A6                beige 03/2020   2020     38490     180         245         Automatic     Petrol       6.5 l/100 km     177 g/km         47000  45 TFSI quattro
+18563audi        Audi A6                beige 08/2020   2020     38990     150         204         Automatic     Diesel       4.4 l/100 km     156 g/km         46000  40 TDI quattro 

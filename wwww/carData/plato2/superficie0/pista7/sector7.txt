@@ -1,0 +1,25 @@
+11925audi        Audi A1                red   04/2016   2016     14990     85          116         Automatic     Diesel       4 l/100 km       - (g/km)         105600 1.6 TDI S troni
+11926audi        Audi A1                red   02/2016   2016     17000     92          125         Manual        Petrol       5.1 l/100 km     118 g/km         49334  1.4 TFSI Sportb
+11927audi        Audi A1                red   01/2016   2016     14990     92          125         Manual        Petrol       5.2 l/100 km     123 g/km         81614  Sportback Sport
+11928audi        Audi A1                red   03/2016   2016     13490     85          116         Manual        Diesel       3.7 l/100 km     97 g/km          94653  1.6 TDI sport S
+11929audi        Audi A1                red   03/2016   2016     14999     92          125         Manual        Petrol       5.1 l/100 km     118 g/km         84533  1.4 TFSI Sportb
+11930audi        Audi A5                red   02/2016   2016     20990     140         190         Manual        Diesel       5.1 l/100 km     135 g/km         113121 A5 Cabrio 2.0 T
+11931audi        Audi A3                red   11/2016   2016     22065     140         190         Automatic     Petrol       6.3 l/100 km     144 g/km         113013 2.0 TFSI quattr
+11932audi        Audi A3                red   02/2016   2016     12990     132         179         Automatic     Petrol       6.6 l/100 km     156 g/km         53374  Sportback 1.8 T
+11933audi        Audi A1                red   05/2016   2016     129990    70          95          Manual        Petrol       4.4 l/100 km     102 g/km         47500  1.0 TFSI ultra 
+11934audi        Audi R8                red   08/2016   2016     23600     397         540         Automatic     Petrol       11.7 l/100 km    277 g/km         48800  Spyder Exclusiv
+11935audi        Audi A5                red   07/2016   2016     21990     140         190         Automatic     Diesel       5.1 l/100 km     - (g/km)         129000 2.0 TDI Sportba
+11936audi        Audi A4                red   05/2016   2016     65000     140         190         Automatic     Petrol       5.1 l/100 km     116 g/km         79500  2.0 TFSI ultra 
+11937audi        Audi RS6               red   02/2016   2016     14900     412         560         Automatic     Petrol       9.6 l/100 km     223 g/km         85500  Avant          
+11938audi        Audi A1                red   09/2016   2016     38950     70          95          Automatic     Petrol       4.6 l/100 km     107 g/km         114000 design*LED*Xeno
+11939audi        Audi RS Q3             red   07/2016   2016     38950     250         340         Automatic     Petrol       8.4 l/100 km     199 g/km         46000  RS Q3 2.5 TFSI 
+11940audi        Audi RS Q3             red   07/2016   2016     14500     250         340         Automatic     Petrol       8.4 l/100 km     199 g/km         46350  RS Q3 2.5 20V T
+11941audi        Audi A1                red   05/2016   2016     40988     92          125         Manual        Petrol       4.9 l/100 km     115 g/km         53100  1.4 TFSI sport-
+11942audi        Audi S4                red   11/2016   2016     14990     260         354         Automatic     Petrol       7.6 l/100 km     175 g/km         71500  3.0 TFSI/Black-
+11943audi        Audi Q2                red   06/2016   2016     21900     85          116         Manual        Diesel       4.4 l/100 km     114 g/km         171200 1.6 TDI *Navi*S
+11944audi        Audi A4                red   03/2016   2016     12450     185         252         Automatic     Petrol       6.4 l/100 km     147 g/km         109000 quattro Avant L
+11945audi        Audi A1                red   01/2016   2016     18990     70          95          Manual        Petrol       4.4 l/100 km     102 g/km         84000  Sportback *5 Si
+11946audi        Audi Q2                red   11/2016   2016     21950     85          116         Manual        Diesel       4.4 l/100 km     114 g/km         67642  1.6 TDI 3x S-Li
+11947audi        Audi A3                red   02/2016   2016     13990     110         150         Automatic     Hybrid       14.9 l/100 km    37 g/km          44000  A3 1.4 TFSI Spo
+11948audi        Audi A3                red   06/2016   2016     32999     92          125         Manual        Petrol       5.1 l/100 km     121 g/km         93200  Attraction*Klim
+11949audi        Audi RS3               red   01/2016   2016     32880     270         367         Automatic     Petrol       8.1 l/100 km     192 g/km         122500 Sportback Quatt

@@ -1,0 +1,25 @@
+11475audi        Audi Q3                blue  07/2016   2016     18000     110         150         Manual        Diesel       4.4 l/100 km     116 g/km         160000 2.0 TDI        
+11476audi        Audi A4                blue  01/2016   2016     15500     110         150         Manual        Diesel       4 l/100 km       - (g/km)         230000 A4 Avant 2.0 TD
+11477audi        Audi A1                blue  12/2016   2016     15520     92          125         Manual        Petrol       4.9 l/100 km     - (g/km)         36940  A1 1.4 TFSI spo
+11478audi        Audi A4                blue  04/2016   2016     19800     110         150         Automatic     Petrol       5.2 l/100 km     119 g/km         77000  A4 1.4 TFSI S t
+11479audi        Audi Q7                brown 11/2016   2016     39000     245         333         Automatic     Petrol       7.7 l/100 km     179 g/km         165226 3.0 TFSI quattr
+11480audi        Audi A1                brown 05/2016   2016     14699     66          90          Manual        Diesel       3.8 l/100 km     99 g/km          90000  sport 1.4 TDI u
+11481audi        Audi A6 allroad        brown 04/2016   2016     29990     200         272         Automatic     Diesel       5.6 l/100 km     149 g/km         64500  3.0 TDI        
+11482audi        Audi A6                brown 04/2016   2016     23000     200         272         Automatic     Diesel       5.3 l/100 km     - (g/km)         186000 A6 Avant 3.0 TD
+11483audi        Audi A3                brown 03/2016   2016     18670     110         150         Manual        Diesel       4.7 l/100 km     122 g/km         57122  2.0 TDI quat. A
+11484audi        Audi A1                brown 04/2016   2016     13500     66          90          Manual        Diesel       3.9 l/100 km     102 g/km         75000  1.4 TDI (ultra)
+11485audi        Audi Q5                brown 03/2016   2016     24990     190         258         Automatic     Diesel       6.3 l/100 km     167 g/km         167771 3.0 TDI QUATTRO
+11486audi        Audi A6 allroad        brown 12/2016   2016     22500     160         218         Automatic     Diesel       5.7 l/100 km     149 g/km         160000 3.0TDI quattro/
+11487audi        Audi A3                brown 02/2016   2016     18750     110         150         Automatic     Petrol       4.7 l/100 km     109 g/km         123000 Limousine 1.4 T
+11488audi        Audi A1                brown 01/2016   2016     35600     92          125         Automatic     Petrol       5.1 l/100 km     112 g/km         12658  1.4 TFSI Sport 
+11489audi        Audi A8                brown 03/2016   2016     42499     283         385         Automatic     Diesel       7.3 l/100 km     - (g/km)         167000 A8 4.2 TDI DPF 
+11490audi        Audi A5                brown 02/2016   2016     23490     140         190         Manual        Diesel       5.1 l/100 km     134 g/km         71510  CABRIO 2.0 TDI 
+11491audi        Audi Q7                brown 01/2016   2016     25999     200         272         Automatic     Diesel       6.2 l/100 km     163 g/km         164500 3.0 TDI quattro
+11492audi        Audi Q3                brown 04/2016   2016     23990     110         150         Automatic     Petrol       6.2 l/100 km     143 g/km         34200  S-LINE DSG KLIM
+11493audi        Audi Q5                brown 04/2016   2016     17500     140         190         Automatic     Diesel       5.7 l/100 km     151 g/km         72500  2.0 TDI quattro
+11494audi        Audi Q3                brown 10/2016   2016     39000     135         184         Manual        Diesel                        0 g/km           72964  2.0 TDI quattro
+11495audi        Audi A3                brown 03/2016   2016     25990     110         150         Manual        Petrol       4.7 l/100 km     111 g/km         108675 S line Sportpak
+11496audi        Audi Q7                brown 10/2016   2016     20800     245         333         Automatic     Petrol       7.7 l/100 km     179 g/km         168567 3.0 TFSI quattr
+11497audi        Audi A4 allroad        brown 12/2016   2016     19990     185         252         Automatic     Petrol       6.7 l/100 km     154 g/km         149980 quattro/Pano/Xe
+11498audi        Audi A4                brown 11/2016   2016     20900     110         150         Manual        Diesel       4 l/100 km       104 g/km         99891  Avant sport ult
+11499audi        Audi Q3                brown 01/2016   2016     29750     110         150         Manual        Diesel       4.4 l/100 km     117 g/km         82185  "2.0 TDI S Line

@@ -1,0 +1,25 @@
+8075 audi        Audi RS6               silver11/2013   2013     49890     412         560         Automatic     Petrol       9.8 l/100 km     232 g/km         120215 Avant-KERAMiK-D
+8076 audi        Audi A6 allroad        silver09/2013   2013     14999     180         245         Automatic     Diesel       6.3 l/100 km     167 g/km         210000 quattro 3.0 TDI
+8077 audi        Audi A4                silver10/2013   2013     12000     88          120         Manual        Petrol       7.2 l/100 km     171 g/km         132000 Lim. Attraction
+8078 audi        Audi Q5                silver05/2013   2013     19900     132         179         Manual        Petrol       7.5 l/100 km     172 g/km         162400 2.0 TFSI quattr
+8079 audi        Audi A6                silver08/2013   2013     13950     150         204         Automatic     Diesel       5.3 l/100 km     140 g/km         242736 Lim. 3.0 TDI   
+8080 audi        Audi S7                silver10/2013   2013     43499     397         540         Automatic     Petrol       9.6 l/100 km     225 g/km         93500  Liebhaberfahrze
+8081 audi        Audi A4                silver03/2013   2013     15999     125         170         Manual        Petrol       6.1 l/100 km     145 g/km         116000 S line Sportpak
+8082 audi        Audi A3                silver10/2013   2013     12000     90          122         Manual        Petrol       5.2 l/100 km     123 g/km         90000  Ambition (8V1) 
+8083 audi        Audi Q5                silver05/2013   2013     20948     130         177         Automatic     Diesel       6 l/100 km       159 g/km         150000 2.0 TDI quattro
+8084 audi        Audi A3                silver06/2013   2013     13980     110         150         Manual        Diesel                        0 g/km           146010 2.0 TDI Sportba
+8085 audi        Audi Q7                silver03/2013   2013     19999     180         245         Automatic     Diesel       7.4 l/100 km     195 g/km         258000 3.0 TDI (DPF) q
+8086 audi        Audi A4                silver10/2013   2013     15990     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         179500 Avant 3.0 TDI A
+8087 audi        Audi A4                silver03/2013   2013     11290     130         177         Manual        Diesel       5.3 l/100 km     140 g/km         213000 quattro Avant*M
+8088 audi        Audi A4                silver04/2013   2013     11990     130         177         Automatic     Diesel       6 l/100 km       156 g/km         199899 Allroad quattro
+8089 audi        Audi A6 allroad        silver08/2013   2013     17500     150         204         Automatic     Diesel       6.1 l/100 km     - (g/km)         185000 A6 allroad quat
+8090 audi        Audi A4                silver05/2013   2013     15990     125         170         Automatic     Petrol       5.7 l/100 km     135 g/km         81000  Lim. 1-8 TFSI A
+8091 audi        Audi A3                silver03/2013   2013     11700     90          122         Manual        Petrol       5.2 l/100 km     120 g/km         151370 1.4 TFSI Attrac
+8092 audi        Audi A4                silver08/2013   2013     14850     110         150         Manual        Diesel       4.7 l/100 km     124 g/km         165500 Avant 2.0 TDI D
+8093 audi        Audi A1                silver04/2013   2013     8650      66          90          Manual        Diesel       3.8 l/100 km     99 g/km          125000 1.6 TDI- sline-
+8094 audi        Audi A6                silver02/2013   2013     27449     230         313         Automatic     Diesel       6.4 l/100 km     170 g/km         126000 "Avant 3.0 ""S-
+8095 audi        Audi A4                silver02/2013   2013     15500     125         170         Automatic     Petrol       6 l/100 km       139 g/km         114000 1.8 TFSI Avant 
+8096 audi        Audi A4                silver01/2013   2013     11949     130         177         Manual        Diesel       5.3 l/100 km     140 g/km         225000 Avant 2.0 Ambie
+8097 audi        Audi A4                silver02/2013   2013     10950     150         204         Automatic     Diesel       5.1 l/100 km     135 g/km         281000 Avant Ambition 
+8098 audi        Audi A6                silver12/2013   2013     17900     180         245         Automatic     Diesel       5.9 l/100 km     - (g/km)         200000 Avant 3.0 TDI D
+8099 audi        Audi Q5                silver02/2013   2013     18999     130         177         Automatic     Diesel       6 l/100 km       159 g/km         115720 "2.0 TDI quattr

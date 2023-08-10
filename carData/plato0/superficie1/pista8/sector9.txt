@@ -1,0 +1,21 @@
+3969 audi        Audi TT                silver08/2008   2008     8950      118         160         Manual        Petrol       6.7 l/100 km     158 g/km         251021 Coupe 1.8 TFSI 
+3970 audi        Audi A6                silver09/2008   2008     9500      171         232         Automatic     Diesel       8.6 l/100 km     - (g/km)         196500 A6 Avant 3.0 TD
+3971 audi        Audi A6                silver03/2008   2008     3900      171         232         Automatic     Diesel       8.5 l/100 km     224 g/km         355000 3.0 TDI DPF qua
+3972 audi        Audi A4                silver04/2008   2008     11490     118         160         Manual        Petrol       7.1 l/100 km     - (g/km)         130000 1.8 TFSI Ambien
+3973 audi        Audi A4                silver04/2008   2008     8900      140         190         Automatic     Diesel       6.4 l/100 km     - (g/km)         150729 A4 2.7 TDI DPF 
+3974 audi        Audi A6 allroad        silver07/2008   2008     3000      171         232         Automatic     Diesel       8.8 l/100 km     - (g/km)         351700 A6 allroad quat
+3975 audi        Audi A4                silver10/2008   2008     8980      105         143         Automatic     Diesel       6 l/100 km       159 g/km         192800 2.0 TDI Avant A
+3976 audi        Audi A6                silver06/2008   2008     7000      130         177         Automatic     Petrol                        - (g/km)         225000 Business - Pake
+3977 audi        Audi A4                silver12/2008   2008     6750      140         190         Automatic     Diesel       6.5 l/100 km     170 g/km         238000 Ambiente Avant 
+3978 audi        Audi S6                silver07/2008   2008     21900     320         435         Automatic     Petrol       13.4 l/100 km    319 g/km         111096 Avant 5.2 quatt
+3979 audi        Audi A3                silver04/2008   2008     7950      75          102         Manual        Petrol                        - (g/km)         94975  1.6 - Klimaauto
+3980 audi        Audi A4                silver11/2008   2008     6400      118         160         Manual        Petrol       7.1 l/100 km     - (g/km)         200000 A4 Avant 1.8 TF
+3981 audi        Audi A6                silver07/2008   2008     5999      171         232         Manual        Diesel       8.1 l/100 km     - (g/km)         328500 ♥️Avant 3.0
+3982 audi        Audi A6 allroad        silver08/2008   2008     6950      171         232         Automatic     Diesel       8.8 l/100 km     - (g/km)         304000 quattro 3.0 TDI
+3983 audi        Audi A3                silver04/2008   2008     7250      118         160         Manual        Petrol       7.2 l/100 km     171 g/km         185000 1.8 TFSI Sportb
+3984 audi        Audi A6                silver08/2008   2008     8299      171         232         Automatic     Diesel       8.6 l/100 km     227 g/km         270000 Avant 3.0 TDI D
+3985 audi        Audi TT                silver07/2008   2008     15990     147         200         Manual        Petrol       7.8 l/100 km     186 g/km         74354  Roadster 2.0 TF
+3986 audi        Audi A3                silver11/2008   2008     9990      75          102         Manual        Petrol       7 l/100 km       167 g/km         120000 Cabriolet 1.6 A
+3987 audi        Audi A6                silver10/2008   2008     4500      132         179         Manual        Diesel       7.2 l/100 km     - (g/km)         370000 Avant 2.7 TDI D
+3988 audi        Audi A6                silver07/2008   2008     4699      132         179         Automatic     Diesel       7.5 l/100 km     199 g/km         347000 Avant 2.7 TDI D
+3989 audi        Audi Q7                silver08/2008   2008     8444      176         239         Automatic     Diesel       9.8 l/100 km     260 g/km         315000 3.0 TDI quattro

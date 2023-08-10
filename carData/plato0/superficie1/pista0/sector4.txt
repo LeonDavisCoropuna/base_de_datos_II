@@ -1,0 +1,21 @@
+2184 audi        Audi A4                grey  05/2003   2003     3750      96          131         Manual        Petrol       8 l/100 km       192 g/km         260000 Avant 2.0      
+2185 audi        Audi A2                grey  01/2003   2003     5480      55          75          Manual        Petrol       6 l/100 km       142 g/km         70967  1.4 | RENTNER-F
+2186 audi        Audi A6                grey  11/2003   2003     5500      120         163         Manual        Diesel       6.9 l/100 km     - (g/km)         282000 Avant 2.5 TDI  
+2187 audi        Audi A3                grey  02/2003   2003     1790      74          101         Manual        Diesel       5 l/100 km       135 g/km         341600 1.9 TDI DPF PDC
+2188 audi        Audi A6                grey  04/2003   2003     5500      120         163         Automatic     Diesel                        - (g/km)         253300 S Line Sport-Pl
+2189 audi        Audi A4                grey  07/2003   2003     4400      96          131         Manual        Diesel       5.7 l/100 km     154 g/km         222000 Avant 1.9 TDI*T
+2190 audi        Audi A3                grey  12/2003   2003     3990      103         140         Manual        Diesel       5.7 l/100 km     154 g/km         279889 2.0 TDI Ambitio
+2191 audi        Audi A3                grey  02/2003   2003     2300      75          102         Manual        Petrol       6.8 l/100 km     - (g/km)         235000 1.6 Attraction 
+2192 audi        Audi A4                grey  02/2003   2003     4200      96          131         Manual        Diesel       5.5 l/100 km     - (g/km)         244710 A4 1.9 TDI     
+2193 audi        Audi A4                grey  12/2003   2003     2400      132         179         Automatic     Diesel       7.6 l/100 km     - (g/km)         374550 2.5 TDI quattro
+2194 audi        Audi A4                grey  10/2003   2003     5000      75          102         Manual        Petrol       7.7 l/100 km     185 g/km         134500 1.6 scheckheftg
+2195 audi        Audi A3                grey  07/2003   2003     3000      75          102         Manual        Petrol       7 l/100 km       - (g/km)         182000 Avant 2.5 TDI q
+2196 audi        Audi A6                grey  09/2003   2003     4500      132         179         Manual        Diesel       9 l/100 km       243 g/km         360000 Avant 1.9 TDI  
+2197 audi        Audi A4                grey  02/2003   2003     2500      96          131         Manual        Diesel       5.6 l/100 km     151 g/km         305400 Quattro 2.5 TDI
+2198 audi        Audi Allroad           grey  12/2003   2003     4300      132         179         Manual        Diesel       8.7 l/100 km     235 g/km         417000 1.6 FSI Ambient
+2199 audi        Audi A3                black 02/2003   2003     3500      110         150         Manual        Petrol       7.2 l/100 km     - (g/km)         173000 A3 2.0 FSI Attr
+2200 audi        Audi A4                black 01/2003   2003     7790      125         170         Automatic     Petrol       9.7 l/100 km     233 g/km         115198 Cabriolet 2.4 A
+2201 audi        Audi A6                black 11/2003   2003     6999      162         220         Automatic     Petrol       9.8 l/100 km     235 g/km         162882 Lim. 3.0       
+2202 audi        Audi A2                black 08/2003   2003     3500      81          110         Manual        Petrol       6 l/100 km       144 g/km         115000 1.6 FSI        
+2203 audi        Audi A4                black 07/2003   2003     8100      162         220         Automatic     Petrol       11.4 l/100 km    274 g/km         246908 Cabriolet 3.0 q
+2204 audi        Audi A4                black 07/2003   2003     4900      125         170         Manual        Petrol       10 l/100 km      240 g/km         216000 2.4 Avant (8E) 

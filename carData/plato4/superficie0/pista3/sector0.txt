@@ -1,0 +1,21 @@
+17430audi        Audi A3                red   02/2019   2019     30960     110         150         Automatic     Petrol       5.3 l/100 km     121 g/km         15300  1.5 TFSI S-tron
+17431audi        Audi S6                red   12/2019   2019     59980     257         349         Automatic     Diesel       6.2 l/100 km     164 g/km         47100  Limousine 3.0 T
+17432audi        Audi A4                red   06/2019   2019     27880     140         190         Automatic     Petrol       5.9 l/100 km     157 g/km         28050  2.0 TFSI S-tron
+17433audi        Audi A4                red   04/2019   2019     30190     140         190         Automatic     Diesel                        - (g/km)         44467  Avant 40TDI S t
+17434audi        Audi A6                red   06/2019   2019     43990     170         231         Automatic     Diesel       5.7 l/100 km     150 g/km         67754  Avant 45 TDI qu
+17435audi        Audi S4                red   09/2019   2019     41480     255         347         Automatic     Diesel       6.3 l/100 km     165 g/km         90106  Avant TDI TIPTR
+17436audi        Audi A1                red   04/2019   2019     21690     85          116         Manual        Petrol       4.9 l/100 km     111 g/km         44036  Sportback 30 TF
+17437audi        Audi TT                red   06/2019   2019     34990     145         197         Automatic     Petrol       6.3 l/100 km     - (g/km)         34000  TT Roadster 40 
+17438audi        Audi A4                red   05/2019   2019     28150     140         190         Automatic     Petrol       6.9 l/100 km     155 g/km         38700  A4 Av 40 TFSI d
+17439audi        Audi A6                red   11/2019   2019     41965     210         286         Automatic     Diesel       7.2 l/100 km     "187             3 g/km"91586          
+17440audi        Audi SQ5               red   12/2019   2019     55950     255         347         Automatic     Diesel       6.8 l/100 km     177 g/km         69974  3.0 TDI quattro
+17441audi        Audi A3                red   05/2019   2019     19400     85          116         Manual        Diesel       4.2 l/100 km     - (g/km)         100400 A3 30 TDI Limou
+17442audi        Audi A4                red   04/2019   2019     27250     140         190         Automatic     Petrol       6 l/100 km       137 g/km         57700  sport 40 TFSI S
+17443audi        Audi RS3               red   07/2019   2019     55990     294         400         Automatic     Petrol       9.5 l/100 km     215 g/km         35635  RS3 Limousine 2
+17444audi        Audi S3                red   06/2019   2019     41980     221         300         Automatic     Petrol       7.3 l/100 km     165 g/km         16850  Cabriolet TFSI 
+17445audi        Audi A1                red   08/2019   2019     22980     85          116         Automatic     Petrol       4.9 l/100 km     111 g/km         61997  Sportback 30 TF
+17446audi        Audi SQ5               red   08/2019   2019     46850     255         347         Automatic     Diesel       8.2 l/100 km     214 g/km         104000 TDI qu. |Matrix
+17447audi        Audi A6 allroad        red   12/2019   2019     43385     210         286         Automatic     Diesel       5.8 l/100 km     152 g/km         129400 A6 Allroad 50 T
+17448audi        Audi A4                red   08/2019   2019     26290     140         190         Automatic     Petrol       6.9 l/100 km     157 g/km         43300  Sport 40 TFSI S
+17449audi        Audi A4                red   05/2019   2019     33999     170         231         Automatic     Diesel       5.5 l/100 km     145 g/km         41546  Avant 45 TDI qu
+17450audi        Audi Q3                red   07/2019   2019     29170     110         150         Manual        Petrol                        - (g/km)         32800  advanced 35 TFS
