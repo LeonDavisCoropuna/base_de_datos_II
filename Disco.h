@@ -29,7 +29,7 @@ public:
     Sector(string _route,int _capacidad){
         route = _route;
         capacidad = _capacidad;
-        //setMemoriaDisponible();
+        setMemoriaDisponible();
     }
     void setMemoriaDisponible(){
         uintmax_t fileSize = fs::file_size(route);
@@ -52,7 +52,7 @@ public:
         return data;
     }
     string getUbicacionIds(){
-        cout<<route<<endl;
+        //cout<<route<<endl;
         ifstream file(route);
         string data,linea;
         while(getline(file,linea)) data += linea.substr(0,5) +  route + '\n';
@@ -68,20 +68,19 @@ public:
     }
 };
 
-class Superficie{
+class Superficie {
 public:
     vector<Pista *> pistas;
-    Superficie(int numPistas){
-        pistas.resize(numPistas,0);
+    Superficie(int numPistas) {
+        pistas.resize(numPistas, nullptr);
     }
 };
 
-class Platos{
+class Platos {
 public:
     vector<Superficie *> superficies;
-
-    Platos(int numSuperficies){
-        superficies.resize(2,0);
+    Platos(int numSuperficies) {
+        superficies.resize(numSuperficies, nullptr);
     }
 };
 
@@ -98,7 +97,7 @@ public:
     vector<Platos *> platos;
     BPlusTree <int>*btree;
     Disco(string _tableName,int num_platos,int pista,int sector,int memoria,int _sectorBloque){
-        btree = new BPlusTree<int>(3);
+        btree = new BPlusTree<int>(10);
         nameDisk = _tableName;
         numPlatos = num_platos;
         numPista = pista;
@@ -170,26 +169,34 @@ public:
             }
         }
     }
-    void loadDisk(){
-        for(int i=0;i<numPlatos;i++){
-            platos[i] = new Platos(numPlatos);
-            for(int j=0;j<numSuperficies;j++){
-                platos[i]->superficies[j] = new Superficie(2);
-                for(int k=0;k<numPista;k++){
-                    platos[i]->superficies[j]->pistas[k] = new Pista(numPista);
-                    for(int m=0;m<numSector;m++){
+    void loadDisk() {
+        cout << "nnn: " << numPlatos << " " << numSuperficies << " " << numPista << " " << numSector << endl;
+        for (int i = 0; i < numPlatos; i++) {
+            if (!platos[i])
+                platos[i] = new Platos(numSuperficies);
+            for (int j = 0; j < numSuperficies; j++) {
+                if (!platos[i]->superficies[j])
+                    platos[i]->superficies[j] = new Superficie(numPista);
+
+                for (int k = 0; k < numPista; k++) {
+                    if (!platos[i]->superficies[j]->pistas[k])
+                        platos[i]->superficies[j]->pistas[k] = new Pista(numSector);
+
+                    for (int m = 0; m < numSector; m++) {
                         string route = nameDisk + "/plato" + std::to_string(i) + "/superficie" + std::to_string(j);
-                        string routeb  = "/pista" + std::to_string(k) + "/sector" + std::to_string(m) + ".txt";
-                        string r = route+routeb;
-                        platos[i]->superficies[j]->pistas[k]->sectores[m] = new Sector(r, memoriaSector);
-                        cout<<"QQQQQQQQQQQQQ: "<<r<<endl;
+                        string routeb = "/pista" + std::to_string(k) + "/sector" + std::to_string(m) + ".txt";
+                        string r = route + routeb;
+
+                        if (!platos[i]->superficies[j]->pistas[k]->sectores[m])
+                            platos[i]->superficies[j]->pistas[k]->sectores[m] = new Sector(r, memoriaSector);
+
                         route.clear();
                         routeb.clear();
                     }
                 }
             }
         }
-        //loadBPlusTree();
+        loadBPlusTree();
     }
     void createDisk(){
         // Utilizando la función del sistema para crear la carpeta en Windows
@@ -301,6 +308,7 @@ public:
         btree->bpt_print();
 
     }
+
 
 };
 

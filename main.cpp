@@ -9,13 +9,24 @@ using namespace std;
 
 void opt1(DiskManager *disk){
     int nroBloque;
-    cout<<"Numero de bloque: ";cin>>nroBloque;
-    cout<<"Bloqee: "<<nroBloque<<endl;
+    cout<<"Mostrar en que plato, superficie, pista y sector están los registros del bloque"<<endl;
+
+    cout<<"\tNumero de bloque: ";cin>>nroBloque;
+    cout<<"\tBloque: "<<nroBloque<<endl;
     string idsInfo = disk->mostrarInfoRegistroBloque(nroBloque);
     cout<<idsInfo<<endl;
 }
 
-void optCreate(Disco *disco){
+//Consular un registro
+void opt2(DiskManager *disk)
+{
+    cout<<"Consultar un registro:"<<endl;
+    int idRecord;
+    cout<<"\tId del Registro: ";cin>>idRecord;
+    disk->
+}
+
+void optCreate(Disco *&disco){
     int usar = 0;
     cout<<"Crear disco: 0"<<endl;
     cout<<"Usar disco: 1"<<endl;
@@ -27,7 +38,7 @@ void optCreate(Disco *disco){
         disco = new Disco(tableName);
     }
     else{
-        cout<<"Nombre de la tabla: ";getline(cin,tableName);
+        cout<<"Nombre de la tablas: ";getline(cin,tableName);
         int numPlatos,numPistas,numSectores,memoriaSector,sectorBloques;
         cout<<"N Platos?: ";cin>>numPlatos;
         cout<<"N Pistas?: ";cin>>numPistas;
@@ -45,18 +56,16 @@ void optCreate(Disco *disco){
 int main() {
 
     Disco *disco;
-    disco = new Disco("carData");
-
-    //optCreate(disco);
+    optCreate(disco);
     disco->loadDisk();
+    cout<<"FINN"<<endl;
     DiskManager *manager = new DiskManager(disco );
     manager->makingBlok();
     BufferManager *bufem = new BufferManager(4);
     DBMS *db = new DBMS(manager,bufem);
-    int nroBloque;
-    cout<<"Numero de bloque: ";cin>>nroBloque;
-    cout<<"Bloqee: "<<nroBloque<<endl;
-    manager->showDirectorio();
+
+    opt1(manager);
+    //manager->showDirectorio();
     //string idsInfo = manager->mostrarInfoRegistroBloque(nroBloque);
 /*
     //disco = new Disco("prueba");

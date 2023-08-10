@@ -63,6 +63,7 @@ public:
         return data;
     }
 
+    string mostrarInfoRegistroSolo(int )
 
 };
 
