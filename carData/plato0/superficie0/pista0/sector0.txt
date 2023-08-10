@@ -19,3 +19,7 @@
 18   alfa-romeo  Alfa Romeo GTV         red   03/1997   1997     9980      148         201         Manual        Petrol       11.7 l/100 km    - (g/km)         168791 2.0 V6 TB - Led
 19   alfa-romeo  Alfa Romeo 145         red   03/1997   1997     11990     88          120         Manual        Petrol       8.2 l/100 km     - (g/km)         124963 Scuola Sportiva
 20   alfa-romeo  Alfa Romeo Spider      red   02/1997   1997     11900     110         150         Manual        Petrol       9.2 l/100 km     225 g/km         39000  2.0 16V T.Spark
+<<<<<<< HEAD
+=======
+230 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+>>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3

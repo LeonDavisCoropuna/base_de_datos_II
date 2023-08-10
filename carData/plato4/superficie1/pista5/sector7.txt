@@ -7,3 +7,7 @@
 20103audi        Audi A4                black 01/2021   2021     33180     110         150         Automatic     Petrol       6 l/100 km       136 g/km         14000  Avant 35 TFSI a
 20104audi        Audi A3                black 04/2021   2021     25970     150         204         Automatic     Petrol                        59 km Reichweite 31210  40TFSI e Stroni
 20105audi        Audi A6 allroad        black 05/2021   2021     58990     180         245         Automatic     Diesel                        - (g/km)         56429  45TDI /HD Matri
+<<<<<<< HEAD
+=======
+230 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+>>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3

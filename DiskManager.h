@@ -99,7 +99,10 @@ public:
         // caso de bloque lleno
         string modifyIndfo = disk->getFreeSpace();
         cout<<"Bloque lleno:  "<<endl;
+<<<<<<< HEAD
         cout<<"sadsdaads: "<<modifyIndfo<<endl;
+=======
+>>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
         if(modifyIndfo.length()> 5)
         {
             vector<string> modify;

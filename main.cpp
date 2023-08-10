@@ -47,14 +47,19 @@ void opt3(DiskManager *disk)
     cout<<"Nuevo dato: ";    getline(cin,newData);
     disk->adcionarRegistroEnBloque(newData,nBloq);
 }
-
 //Eliminar registro
+/*
 void opt4(DBMS * &db)
 {
     int recordId;
     cout<<"Ingrese id del Registro a eliminar: ";cin>>recordId;
 
+<<<<<<< HEAD
     Item<int>* data= db->DM->disk->btree->searchItemById(recordId);
+=======
+    //Item<int>* data= db->manager->disk->btree->searchItemById(recordId);
+    //Item<int>* data = db
+>>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
     string values = data->route;
     std::stringstream ss(values); // Crea un stringstream con la cadena de entrada
     string idBlock, secBlock, lineSector;
@@ -68,7 +73,7 @@ void opt4(DBMS * &db)
 
 }
 
-
+*/
 
 /*________________________________________________________________________________________________________________________________*/
 
@@ -76,43 +81,33 @@ void opt4(DBMS * &db)
 
 /*________________________________________________________________________________________________________________________________*/
 
-// Consultar Registro - Proceso de llevar una página al buffer pool (10 ptos):
-/*
+// Consultar Registro
 
-1.1. Mostrar que el buffer pool está vacio - Mostrar capacidad libre y ocupado
-1.2. Buscar la posición del registro usando la estructura de la tabla de índices - Mostrar en pantalla como realiza la ubicación del registro
-1.3. Mostrar en que bloque, sector, pista se encuentra el registro.
-1.4. Recuperar bloque: Mostrar la estructura e información del bloque
-1.5. Mostrar que la página está en buffer pool - Mostrar capacidad libre y ocupado
-1.6. Mostrar los flags de las páginas (Estado de la página)
- */
+    void opt5(DBMS *db) {
+        cout << "Estado de buffer pool" << endl;
 
-void opt5(DBMS *db)
-{
-    cout<<"Estado de buffer pool"<<endl;
+        cout << db->BM->getStateBufferPool() << endl;
 
-    cout<<db->BM->getStateBufferPool()<<endl;
+        int idRecord;
+        cout << "Id del registro a buscar: ";
+        cin >> idRecord;
+        db->sql_Request(to_string(idRecord), 1);
 
-    int idRecord;
-    cout<<"Id del registro a buscar: "; cin>>idRecord;
-    db->sql_Request(to_string(idRecord),1);
-
-    cout<<"\nRegistro encontrado finalizado!"<<endl;
-}
+        cout << "\nRegistro encontrado finalizado!" << endl;
+    }
 
 // Consultar un rango de registro contiguos
-void opt6(DiskManager *disk)
-{
+    void opt5(DiskManager *disk) {
 
-}
+    }
 
 // Consultar un rango de registros no contiguos
-void opt7(DiskManager *disk)
-{
+    void opt6(DiskManager *disk) {
 
-}
+    }
 
 // Eliminar registro
+    void opt7(DiskManager *disk){}
 /*
  4.1. Mostrar que el registro se encuentra en una página del buffer pool o no.
 4.2. Buscar la posición del registro usando la estructura de la tabla de índices - Mostrar en pantalla como realiza la ubicación del registro
@@ -121,6 +116,7 @@ void opt7(DiskManager *disk)
 4.5. Mostrar que la página está en buffer pool - Mostrar capacidad libre y ocupado
 4.6. Mostrar los flags de las páginas (Estado de la página)
  */
+<<<<<<< HEAD
 void opt8(DBMS *db)
 {
     cout<<"Estado de buffer pool"<<endl;
@@ -133,50 +129,56 @@ void opt8(DBMS *db)
 
     cout<<"\nRegistro encontrado finalizado!"<<endl;
 }
+=======
+>>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
 
 
 //Adicionar registro
-void opt9(DiskManager *disk)
-{
+    void opt8(DiskManager *disk) {
 
-}
+    }
 
 // Manejo de buffer pool
-void opt10(DiskManager *disk)
-{
+    void opt9(DiskManager *disk) {
 
-}
+    }
 
 //Estructura de la tabla de indices
-void opt11(DiskManager *disk)
-{
+    void opt10(DiskManager *disk) {
 
-}
-void optCreate(Disco *&disco){
-    int usar = 0;
-    cout<<"Crear disco: 0"<<endl;
-    cout<<"Usar disco: 1"<<endl;
-    cout<<"Opt: ";cin>>usar;
-    cin.ignore();
-    string tableName = "";
-    if(usar){
-        cout<<"Nombre de la tabla: ";getline(cin,tableName);
-        disco = new Disco(tableName);
     }
-    else{
-        cout<<"Nombre de la tablas: ";getline(cin,tableName);
-        int numPlatos,numPistas,numSectores,memoriaSector,sectorBloques;
-        cout<<"N Platos?: ";cin>>numPlatos;
-        cout<<"N Pistas?: ";cin>>numPistas;
-        cout<<"N Sectores?: ";cin>>numSectores;
-        cout<<"Memoria por sector?: ";cin>>memoriaSector;
-        cout<<"N sectores por bloque?: ";cin>>sectorBloques;
-        disco = new Disco(tableName,numPlatos,numPistas,numSectores,memoriaSector,sectorBloques);
+    void optCreate(Disco *&disco) {
+        int usar = 0;
+        cout << "Crear disco: 0" << endl;
+        cout << "Usar disco: 1" << endl;
+        cout << "Opt: ";
+        cin >> usar;
+        cin.ignore();
+        string tableName = "";
+        if (usar) {
+            cout << "Nombre de la tabla: ";
+            getline(cin, tableName);
+            disco = new Disco(tableName);
+        } else {
+            cout << "Nombre de la tablas: ";
+            getline(cin, tableName);
+            int numPlatos, numPistas, numSectores, memoriaSector, sectorBloques;
+            cout << "N Platos?: ";
+            cin >> numPlatos;
+            cout << "N Pistas?: ";
+            cin >> numPistas;
+            cout << "N Sectores?: ";
+            cin >> numSectores;
+            cout << "Memoria por sector?: ";
+            cin >> memoriaSector;
+            cout << "N sectores por bloque?: ";
+            cin >> sectorBloques;
+            disco = new Disco(tableName, numPlatos, numPistas, numSectores, memoriaSector, sectorBloques);
 
-        disco->createDisk();
+            disco->createDisk();
+        }
+
     }
-
-}
 
 
 int main() {
@@ -190,10 +192,15 @@ int main() {
     BufferManager *bufem = new BufferManager(4);
     DBMS *db = new DBMS(manager,bufem);
 
+<<<<<<< HEAD
     //opt1(manager);
     opt3(manager);
 
     //opt8(db);
+=======
+    opt1(manager);
+    opt3(manager);
+>>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
     //manager->showDirectorio();
     //string idsInfo = manager->mostrarInfoRegistroBloque(nroBloque);
 /*

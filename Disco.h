@@ -116,8 +116,6 @@ public:
         btree = new BPlusTree<int>(10);
         currentIndexes.resize(4,0);
         ifstream infoTxt(nameDisk+"/info.txt");
-        ofstream archiveFreeSpace(nameDisk+"/freeSpace.txt");
-        archiveFreeSpace.close();
         string linea;
         getline(infoTxt,linea);
         stringstream ss(linea);
@@ -153,6 +151,7 @@ public:
         loadFreeSpace();
         if(!freeSpaceList.empty()){
             string top = freeSpaceList.front();
+<<<<<<< HEAD
             /* while (true)
              {
                  // Usando la función find()
@@ -164,12 +163,17 @@ public:
                  }
              }
              */
+=======
+>>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
 
             freeSpaceList.pop();
             return top;
         }
         else return "";
+<<<<<<< HEAD
 
+=======
+>>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
     }
     void updateFreeSpace(){
         ofstream free(nameDisk+"/freeSpace.txt");
@@ -206,7 +210,7 @@ public:
         }
     }
     void loadDisk() {
-        //cout << "nnn: " << numPlatos << " " << numSuperficies << " " << numPista << " " << numSector << endl;
+        cout << "nnn: " << numPlatos << " " << numSuperficies << " " << numPista << " " << numSector << endl;
         for (int i = 0; i < numPlatos; i++) {
             if (!platos[i])
                 platos[i] = new Platos(numSuperficies);
@@ -226,18 +230,13 @@ public:
                         if (!platos[i]->superficies[j]->pistas[k]->sectores[m])
                         {
                                 platos[i]->superficies[j]->pistas[k]->sectores[m] = new Sector(r, memoriaSector);
-
                         }
-
-
                         route.clear();
                         routeb.clear();
                     }
                 }
             }
         }
-        ofstream archiveFreeSpace(nameDisk+"/freeSpace.txt");
-        archiveFreeSpace.close();
         loadBPlusTree();
     }
     void createDisk(){
@@ -342,10 +341,19 @@ public:
             }
             fs::current_path(initialPath);
         }
+<<<<<<< HEAD
 
         //ofstream archivo (nameDisk+"/freeSpace.txt");
+=======
+        ofstream archivo (nameDisk+"/lastPlace.txt");
+        for (auto a: currentIndexes)
+        {
+            archivo<<a<<" ";
+        }
+        archivo<<endl;
+        //ofstream archivo (nameDisk+"freeSpace.txt");
+>>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
         //archivo<<"LAST PLACE: "<<currentIndexes[0]<<" "<<" "<<currentIndexes[1]<<" "<<currentIndexes[2]<<" "<<currentIndexes[3]<<endl;
-
 
     }
     void endProgram(){
@@ -353,12 +361,7 @@ public:
         btree->bpt_print(file);
         file.close();
 
-        ofstream archivo (nameDisk+"/lastPlace.txt");
-        for (auto a: currentIndexes)
-        {
-            archivo<<a<<" ";
-        }
-        archivo<<endl;
+
 
         //btree->bpt_print();
 
