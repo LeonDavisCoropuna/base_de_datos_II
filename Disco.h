@@ -151,7 +151,7 @@ public:
         loadFreeSpace();
         if(!freeSpaceList.empty()){
             string top = freeSpaceList.front();
-<<<<<<< HEAD
+
             /* while (true)
              {
                  // Usando la función find()
@@ -163,17 +163,12 @@ public:
                  }
              }
              */
-=======
->>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
 
             freeSpaceList.pop();
             return top;
         }
         else return "";
-<<<<<<< HEAD
 
-=======
->>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
     }
     void updateFreeSpace(){
         ofstream free(nameDisk+"/freeSpace.txt");
@@ -341,10 +336,10 @@ public:
             }
             fs::current_path(initialPath);
         }
-<<<<<<< HEAD
+
 
         //ofstream archivo (nameDisk+"/freeSpace.txt");
-=======
+
         ofstream archivo (nameDisk+"/lastPlace.txt");
         for (auto a: currentIndexes)
         {
@@ -352,7 +347,7 @@ public:
         }
         archivo<<endl;
         //ofstream archivo (nameDisk+"freeSpace.txt");
->>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
+
         //archivo<<"LAST PLACE: "<<currentIndexes[0]<<" "<<" "<<currentIndexes[1]<<" "<<currentIndexes[2]<<" "<<currentIndexes[3]<<endl;
 
     }

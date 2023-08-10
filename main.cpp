@@ -116,7 +116,7 @@ void opt4(DBMS * &db)
 4.5. Mostrar que la página está en buffer pool - Mostrar capacidad libre y ocupado
 4.6. Mostrar los flags de las páginas (Estado de la página)
  */
-<<<<<<< HEAD
+
 void opt8(DBMS *db)
 {
     cout<<"Estado de buffer pool"<<endl;
@@ -129,9 +129,6 @@ void opt8(DBMS *db)
 
     cout<<"\nRegistro encontrado finalizado!"<<endl;
 }
-=======
->>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
-
 
 //Adicionar registro
     void opt8(DiskManager *disk) {
@@ -192,15 +189,15 @@ int main() {
     BufferManager *bufem = new BufferManager(4);
     DBMS *db = new DBMS(manager,bufem);
 
-<<<<<<< HEAD
+
     //opt1(manager);
     opt3(manager);
 
     //opt8(db);
-=======
+
     opt1(manager);
-    opt3(manager);
->>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
+
+
     //manager->showDirectorio();
     //string idsInfo = manager->mostrarInfoRegistroBloque(nroBloque);
 /*
