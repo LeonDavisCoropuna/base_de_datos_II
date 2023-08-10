@@ -38,13 +38,13 @@ void opt2(DiskManager *manager)
 }
 
 //Adicionar registro
-void opt3(DiskManager *disk)
+void opt3(string newRecord, DiskManager *manager)
 {
-
+    manager->directorioBloques;
 }
 
 //Eliminar registro
-void opt3(DiskManager *disk)
+void opt4(DiskManager *disk)
 {
 
 }
@@ -58,44 +58,44 @@ void opt3(DiskManager *disk)
 /*________________________________________________________________________________________________________________________________*/
 
 // Consultar Registro
-void opt4(DiskManager *disk)
-{
-
-}
-
-// Consultar un rango de registro contiguos
 void opt5(DiskManager *disk)
 {
 
 }
 
-// Consultar un rango de registros no contiguos
+// Consultar un rango de registro contiguos
 void opt6(DiskManager *disk)
 {
 
 }
 
-// Eliminar registro
+// Consultar un rango de registros no contiguos
 void opt7(DiskManager *disk)
+{
+
+}
+
+// Eliminar registro
+void opt8(DiskManager *disk)
 {
 
 }
 
 
 //Adicionar registro
-void opt8(DiskManager *disk)
-{
-
-}
-
-// Manejo de buffer pool
 void opt9(DiskManager *disk)
 {
 
 }
 
-//Estructura de la tabla de indices
+// Manejo de buffer pool
 void opt10(DiskManager *disk)
+{
+
+}
+
+//Estructura de la tabla de indices
+void opt11(DiskManager *disk)
 {
 
 }
@@ -137,7 +137,9 @@ int main() {
     BufferManager *bufem = new BufferManager(4);
     DBMS *db = new DBMS(manager,bufem);
 
-    opt1(manager);
+    //opt1(manager);
+    opt2(manager);
+
     //manager->showDirectorio();
     //string idsInfo = manager->mostrarInfoRegistroBloque(nroBloque);
 /*

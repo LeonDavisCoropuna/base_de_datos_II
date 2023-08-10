@@ -96,8 +96,11 @@ public:
     queue <string> freeSpaceList;
     vector<Platos *> platos;
     BPlusTree <int>*btree;
+    std::vector<int> currentIndexes;
+
     Disco(string _tableName,int num_platos,int pista,int sector,int memoria,int _sectorBloque){
         btree = new BPlusTree<int>(10);
+        currentIndexes.resize(4,0);
         nameDisk = _tableName;
         numPlatos = num_platos;
         numPista = pista;
@@ -105,11 +108,17 @@ public:
         memoriaSector = memoria;
         sectorBloque = _sectorBloque;
         platos.resize(numPlatos,0);
+
+
     }
     Disco(string nameTable){
         nameDisk = nameTable;
         btree = new BPlusTree<int>(10);
-        ifstream infoTxt(nameTable+"/info.txt");
+        currentIndexes.resize(4,0);
+        ifstream infoTxt(nameDisk+"/info.txt");
+        infoTxt.close();
+        ofstream archiveFreeSpace(nameDisk+"/freeSpace.txt");
+        archiveFreeSpace.close();
         string linea;
         getline(infoTxt,linea);
         stringstream ss(linea);
@@ -132,6 +141,20 @@ public:
     string getFreeSpace(){
         loadFreeSpace();
         string top = freeSpaceList.front();
+
+       /* while (true)
+        {
+
+            // Usando la función find()
+            size_t posicion = top.find("LAST PLACE:");
+            if (posicion != std::string::npos) {
+                std::cout << "La subcadena '" << subcadena << "' se encuentra en la posición " << posicion << std::endl;
+            } else {
+                std::cout << "La subcadena no se encontró" << std::endl;
+            }
+        }
+        */
+
         freeSpaceList.pop();
         return top;
     }
@@ -170,7 +193,7 @@ public:
         }
     }
     void loadDisk() {
-        cout << "nnn: " << numPlatos << " " << numSuperficies << " " << numPista << " " << numSector << endl;
+        //cout << "nnn: " << numPlatos << " " << numSuperficies << " " << numPista << " " << numSector << endl;
         for (int i = 0; i < numPlatos; i++) {
             if (!platos[i])
                 platos[i] = new Platos(numSuperficies);
@@ -188,7 +211,11 @@ public:
                         string r = route + routeb;
 
                         if (!platos[i]->superficies[j]->pistas[k]->sectores[m])
-                            platos[i]->superficies[j]->pistas[k]->sectores[m] = new Sector(r, memoriaSector);
+                        {
+                                platos[i]->superficies[j]->pistas[k]->sectores[m] = new Sector(r, memoriaSector);
+
+                        }
+
 
                         route.clear();
                         routeb.clear();
@@ -196,6 +223,8 @@ public:
                 }
             }
         }
+        ofstream archiveFreeSpace(nameDisk+"/freeSpace.txt");
+        archiveFreeSpace.close();
         loadBPlusTree();
     }
     void createDisk(){
@@ -244,7 +273,7 @@ public:
     void createArchive(){
 
         std::vector<int> maxValues = {numPlatos, numSuperficies, numPista, numSector};
-        std::vector<int> currentIndexes(4, 0);
+
         fs::path initialPath = fs::current_path();
 
         ifstream file("files/"+nameDisk+".txt");
@@ -301,11 +330,24 @@ public:
             fs::current_path(initialPath);
         }
 
+        //ofstream archivo (nameDisk+"freeSpace.txt");
+        //archivo<<"LAST PLACE: "<<currentIndexes[0]<<" "<<" "<<currentIndexes[1]<<" "<<currentIndexes[2]<<" "<<currentIndexes[3]<<endl;
+
+
     }
     void endProgram(){
         ofstream file(nameDisk+"/bPlusTree.txt");
         btree->bpt_print(file);
-        btree->bpt_print();
+        file.close();
+
+        ofstream archivo (nameDisk+"/lastPlace.txt");
+        for (auto a: currentIndexes)
+        {
+            archivo<<a<<" ";
+        }
+        archivo<<endl;
+
+        //btree->bpt_print();
 
     }
 
