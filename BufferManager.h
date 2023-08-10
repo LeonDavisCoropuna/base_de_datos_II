@@ -121,6 +121,16 @@ public:
         return nullptr;
     }
     // Función para reemplazar una página en el buffer (política Clock)
+
+    string getStateBufferPool()
+    {
+        // buffer lleno
+        if(buffer.size() >= buffer_size)
+        {
+            return "BUFFER LLENO: "+ to_string(buffer.size()) + " frame usados de " + to_string(buffer_size);
+        }
+        return to_string(buffer.size()) + " frame usados de " + to_string(buffer_size);
+    }
     void writeDisk(Page *page){
         vector<ModifySector> registros;
         for(auto i: page->linkedList){

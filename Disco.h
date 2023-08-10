@@ -116,7 +116,6 @@ public:
         btree = new BPlusTree<int>(10);
         currentIndexes.resize(4,0);
         ifstream infoTxt(nameDisk+"/info.txt");
-        infoTxt.close();
         ofstream archiveFreeSpace(nameDisk+"/freeSpace.txt");
         archiveFreeSpace.close();
         string linea;

@@ -44,8 +44,22 @@ void opt3(string newRecord, DiskManager *manager)
 }
 
 //Eliminar registro
-void opt4(DiskManager *disk)
+void opt4(DBMS * &db)
 {
+    int recordId;
+    cout<<"Ingrese id del Registro a eliminar: ";cin>>recordId;
+
+    Item<int>* data= manager->disk->btree->searchItemById(recordId);
+    string values = data->route;
+    std::stringstream ss(values); // Crea un stringstream con la cadena de entrada
+    string idBlock, secBlock, lineSector;
+    ss>>idBlock;
+    ss>>secBlock;
+    ss>>lineSector;
+
+    db->BM->modifyPage(stoi(idBlock), 2, to_string(recordId));
+    db->BM->deletePage(stoi(idBlock));
+    cout<<"Registro eliminado con exito! "<<endl;
 
 }
 
@@ -57,10 +71,28 @@ void opt4(DiskManager *disk)
 
 /*________________________________________________________________________________________________________________________________*/
 
-// Consultar Registro
-void opt5(DiskManager *disk)
-{
+// Consultar Registro - Proceso de llevar una página al buffer pool (10 ptos):
+/*
 
+1.1. Mostrar que el buffer pool está vacio - Mostrar capacidad libre y ocupado
+1.2. Buscar la posición del registro usando la estructura de la tabla de índices - Mostrar en pantalla como realiza la ubicación del registro
+1.3. Mostrar en que bloque, sector, pista se encuentra el registro.
+1.4. Recuperar bloque: Mostrar la estructura e información del bloque
+1.5. Mostrar que la página está en buffer pool - Mostrar capacidad libre y ocupado
+1.6. Mostrar los flags de las páginas (Estado de la página)
+ */
+
+void opt5(DBMS *db)
+{
+    cout<<"Estado de buffer pool"<<endl;
+
+    cout<<db->BM->getStateBufferPool()<<endl;
+
+    int idRecord;
+    cout<<"Id del registro a buscar: "; cin>>idRecord;
+    db->sql_Request(to_string(idRecord),1);
+
+    cout<<"\nRegistro encontrado finalizado!"<<endl;
 }
 
 // Consultar un rango de registro contiguos
@@ -76,6 +108,14 @@ void opt7(DiskManager *disk)
 }
 
 // Eliminar registro
+/*
+ 4.1. Mostrar que el registro se encuentra en una página del buffer pool o no.
+4.2. Buscar la posición del registro usando la estructura de la tabla de índices - Mostrar en pantalla como realiza la ubicación del registro
+4.3. Mostrar en que bloque, sector, pista se encuentra el registro.
+4.4. Recuperar bloque: Mostrar la estructura e información del bloque
+4.5. Mostrar que la página está en buffer pool - Mostrar capacidad libre y ocupado
+4.6. Mostrar los flags de las páginas (Estado de la página)
+ */
 void opt8(DiskManager *disk)
 {
 
