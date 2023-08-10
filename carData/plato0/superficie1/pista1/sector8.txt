@@ -1,0 +1,21 @@
+2478 audi        Audi A2                black 09/2004   2004     6050      66          90          Manual        Diesel       4.3 l/100 km     - (g/km)         235000 A2 1.4 TDI     
+2479 audi        Audi A2                black 04/2004   2004     3200      55          75          Manual        Petrol       6 l/100 km       142 g/km         233000 1.4 (8Z)   Tüv
+2480 audi        Audi A3                black 11/2004   2004     3750      103         140         Manual        Diesel       5.7 l/100 km     154 g/km         269000 2-0 TDI  Sportb
+2481 audi        Audi A6                black 05/2004   2004     5000      120         163         Manual        Diesel       6.9 l/100 km     186 g/km         291450 Avant 2.5 TDI  
+2482 audi        Audi A6                black 04/2004   2004     6500      184         250         Manual        Petrol       11.7 l/100 km    281 g/km         265000 Avant 2.7 T qua
+2483 audi        Audi A4                black 02/2004   2004     2500      120         163         Manual        Petrol       8.2 l/100 km     - (g/km)         130842 A4 1.8 T       
+2484 audi        Audi A4                black 09/2004   2004     6890      125         170         Manual        Petrol                        0 g/km           236000 Cabriolet 2.4 *
+2485 audi        Audi A8                black 04/2004   2004     1699      202         275         Automatic     Diesel       9.8 l/100 km     260 g/km         234400 4.0 TDI quattro
+2486 audi        Audi A3                black 11/2004   2004     1999      77          105         Manual        Diesel       5.3 l/100 km     143 g/km         231692 1.9 TDI Attract
+2487 audi        Audi A3                black 10/2004   2004     3785      103         140         Manual        Diesel       5.7 l/100 km     154 g/km         222723 2.0 TDI Ambitio
+2488 audi        Audi A6                black 09/2004   2004     2000      165         224         Automatic     Diesel       8.6 l/100 km     232 g/km         321220 3.0 TDI quattro
+2489 audi        Audi A4                black 11/2004   2004     850       132         179         Manual        Diesel       7.8 l/100 km     207 g/km         292300 Avant 2.5 TDI q
+2490 audi        Audi A3                black 01/2004   2004     600       74          101         Manual        Petrol       7.4 l/100 km     - (g/km)         295125 A3 1.6 Attracti
+2491 audi        Audi A4                black 09/2004   2004     3399      120         163         Manual        Diesel       6.8 l/100 km     184 g/km         320418 2.5 TDI        
+2492 audi        Audi A6                black 09/2004   2004     1550      165         224         Automatic     Diesel       8.6 l/100 km     232 g/km         351000 Lim. 3.0 TDI qu
+2493 audi        Audi A4                silver04/2004   2004     3400      96          131         Manual        Petrol       7.9 l/100 km     - (g/km)         219000 2              
+2494 audi        Audi A4                silver04/2004   2004     3200      120         163         Manual        Petrol       8.7 l/100 km     208 g/km         270000 1.8 T Cabriolet
+2495 audi        Audi A6                silver10/2004   2004     2999      120         163         Automatic     Diesel       6.9 l/100 km     - (g/km)         340000 Avant 2.5 TDI  
+2496 audi        Audi A6                silver12/2004   2004     1900      132         179         Automatic     Diesel                        - (g/km)         371000 4X4 Allrad     
+2497 audi        Audi A8                silver03/2004   2004     5500      162         220         Automatic     Petrol       9.6 l/100 km     230 g/km         178000 3              
+2498 audi        Audi A4                silver01/2004   2004     3999      120         163         Manual        Petrol       8.5 l/100 km     204 g/km         221000 Cabriolet 1.8T*

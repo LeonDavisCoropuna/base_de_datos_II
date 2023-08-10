@@ -1,0 +1,21 @@
+2772 audi        Audi A6                silver06/2005   2005     7600      130         177         Manual        Petrol       9.7 l/100 km     231 g/km         174999 2.4            
+2773 audi        Audi A3                silver01/2005   2005     2900      85          116         Manual        Petrol       6.6 l/100 km     158 g/km         270000 1.6 FSI Ambient
+2774 audi        Audi A4                silver11/2005   2005     3799      103         140         Manual        Diesel       6.1 l/100 km     - (g/km)         283300 Avant 2.0 TDI D
+2775 audi        Audi TT                silver05/2005   2005     8999      132         179         Manual        Petrol       9.5 l/100 km     228 g/km         91000  1.8 quattro Cab
+2776 audi        Audi A3                silver03/2005   2005     2000      75          102         Manual        Petrol       7 l/100 km       - (g/km)         320500 1.6 Ambition   
+2777 audi        Audi A4                silver05/2005   2005     3950      96          131         Automatic     Petrol       8.1 l/100 km     194 g/km         265000 Avant 2.0 Autom
+2778 audi        Audi A6                silver06/2005   2005     4950      188         256         Automatic     Petrol       11.1 l/100 km    266 g/km         247950 Lim. 3.2 FSI qu
+2779 audi        Audi A4                silver06/2005   2005     2800      147         200         Manual        Petrol       8.8 l/100 km     - (g/km)         300000 A4 Avant 2.0 T 
+2780 audi        Audi A4                silver08/2005   2005     6300      96          131         Manual        Petrol       8.2 l/100 km     197 g/km         195000 2.0 Avant (8E) 
+2781 audi        Audi A2                silver05/2005   2005     4799      66          90          Manual        Diesel       4.3 l/100 km     - (g/km)         318000 A2 1.4 TDI- 90p
+2782 audi        Audi TT                silver07/2005   2005     11900     110         150         Manual        Petrol       8.3 l/100 km     197 g/km         104220 Roadster 1.8 T 
+2783 audi        Audi A6                silver04/2005   2005     4350      132         179         Manual        Diesel       7 l/100 km       187 g/km         350000 Avant 2.7 TDI  
+2784 audi        Audi TT                silver04/2005   2005     7650      110         150         Manual        Petrol       8.3 l/100 km     197 g/km         165000 1.8 T Cabrio *L
+2785 audi        Audi A6                silver07/2005   2005     2850      165         224         Automatic     Diesel       8.6 l/100 km     232 g/km         402000 Avant 3.0 TDI q
+2786 audi        Audi A3                silver05/2005   2005     4250      77          105         Manual        Diesel       4.9 l/100 km     - (g/km)         242000 1.9 TDI Ambient
+2787 audi        Audi A6                silver04/2005   2005     5500      165         224         Automatic     Diesel       7.9 l/100 km     212 g/km         330000 3.0 TDI quattro
+2788 audi        Audi A4                silver01/2005   2005     4500      85          116         Manual        Diesel       5.6 l/100 km     151 g/km         225000 1.9 TDI        
+2789 audi        Audi A6                silver09/2005   2005     3290      120         163         Automatic     Diesel       8.7 l/100 km     232 g/km         402440 2.7 TDI DPF  qu
+2790 audi        Audi A3                silver07/2005   2005     4900      75          102         Manual        Petrol       7.1 l/100 km     168 g/km         124500 1.6 Attraction 
+2791 audi        Audi A6                silver03/2005   2005     12300     165         224         Manual        Diesel       8 l/100 km       - (g/km)         135000 3.0 TDI DPF qua
+2792 audi        Audi A4                silver02/2005   2005     8850      120         163         Automatic     Petrol       8.6 l/100 km     206 g/km         142300 Cabriolet 1.8 T

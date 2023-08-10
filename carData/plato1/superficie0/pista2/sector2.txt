@@ -1,0 +1,21 @@
+4662 audi        Audi A6                white 09/2009   2009     5999      176         239         Automatic     Diesel       7.5 l/100 km     199 g/km         284960 3.0 TDI Kombi q
+4663 audi        Audi A4                white 09/2009   2009     11000     140         190         Automatic     Diesel       6.4 l/100 km     167 g/km         225000 2.7 TDI        
+4664 audi        Audi Q5                white 11/2009   2009     14790     176         239         Automatic     Diesel       7.5 l/100 km     199 g/km         170000 3.0 TDI quattro
+4665 audi        Audi A3                white 09/2009   2009     10600     147         200         Manual        Petrol       7.2 l/100 km     169 g/km         71000  Cabriolet 2.0 T
+4666 audi        Audi A8                beige 11/2010   2010     24980     273         371         Automatic     Petrol                        219 g/km         76800  4.2 FSI quattro
+4667 audi        Audi A5                beige 11/2010   2010     17290     176         239         Automatic     Diesel       6.8 l/100 km     179 g/km         106000 3.0 TDI quattro
+4668 audi        Audi Q5                beige 07/2010   2010     15997     132         179         Manual        Petrol                        0 g/km           128000 2.0 TFSI Quattr
+4669 audi        Audi A4                beige 05/2010   2010     12950     155         211         Manual        Petrol       6.6 l/100 km     154 g/km         101153 TSI Ambiente XE
+4670 audi        Audi Q5                beige 07/2010   2010     9999      132         179         Manual        Petrol       8.1 l/100 km     188 g/km         238200 2.0 TFSI quattr
+4671 audi        Audi Q5                beige 08/2010   2010     14950     125         170         Manual        Diesel       6.7 l/100 km     175 g/km         172000 2.0 TDI Quattro
+4672 audi        Audi A5                beige 07/2010   2010     10500     140         190         Manual        Diesel       6.2 l/100 km     - (g/km)         303000 Cabrio 2.7 TDI 
+4673 audi        Audi A4                beige 08/2010   2010     9900      88          120         Automatic     Petrol       7.2 l/100 km     169 g/km         99000  A4 1.8 TFSI mul
+4674 audi        Audi A6                blue  05/2010   2010     8400      176         239         Manual        Diesel       6.5 l/100 km     - (g/km)         399052 A6 Avant 3.0 TD
+4675 audi        Audi A3                blue  12/2010   2010     7299      75          102         Manual        Petrol       6.9 l/100 km     164 g/km         217000 Sportback 1.6 /
+4676 audi        Audi A3                blue  05/2010   2010     8300      103         140         Manual        Diesel       5.6 l/100 km     148 g/km         265000 Sportback 2.0 T
+4677 audi        Audi A5                blue  07/2010   2010     16800     155         211         Automatic     Petrol       7.7 l/100 km     - (g/km)         119000 A5 Cabrio 2.0 T
+4678 audi        Audi A3                blue  02/2010   2010     7500      92          125         Manual        Petrol       5.7 l/100 km     - (g/km)         163846 A3 1.4 TFSI Att
+4679 audi        Audi S4                blue  01/2010   2010     17900     245         333         Manual        Petrol       10.2 l/100 km    239 g/km         162000 Avant          
+4680 audi        Audi A3                blue  10/2010   2010     7999      103         140         Manual        Diesel       5.1 l/100 km     135 g/km         193000 Sportback 2.0 T
+4681 audi        Audi A3                blue  12/2010   2010     6730      103         140         Manual        Diesel       5 l/100 km       129 g/km         235025 SB 2.0TDI qu.Am
+4682 audi        Audi A4                blue  03/2010   2010     7500      140         190         Automatic     Diesel       6.5 l/100 km     - (g/km)         321000 A4 Avant 2.7 TD

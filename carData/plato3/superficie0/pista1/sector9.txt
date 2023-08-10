@@ -1,0 +1,21 @@
+12999audi        Audi A5                blue  02/2017   2017     27800     110         150         Automatic     Diesel       4.5 l/100 km     119 g/km         68260  2.0 TDI Sportba
+13000audi        Audi A6                blue  02/2017   2017     28890     140         190         Automatic     Diesel       5.2 l/100 km     - (g/km)         125136 A6 Avant 2.0 TD
+13001audi        Audi A6                blue  08/2017   2017     29350     185         252         Automatic     Petrol       6.9 l/100 km     157 g/km         85900  Avant 2.0 TFSI 
+13002audi        Audi A5                blue  05/2017   2017     45490     160         218         Automatic     Diesel       4.6 l/100 km     119 g/km         105000 Sportback quatt
+13003audi        Audi S5                blue  02/2017   2017     38880     260         354         Automatic     Petrol       7.3 l/100 km     166 g/km         79000  Coupé RS-SITZE
+13004audi        Audi Q7                blue  07/2017   2017     36460     160         218         Automatic     Diesel       6.2 l/100 km     161 g/km         97553  3.0 TDI ultra q
+13005audi        Audi A6 allroad        blue  08/2017   2017     25500     235         320         Automatic     Diesel       6.5 l/100 km     172 g/km         78400  3.0 TDI DACH- A
+13006audi        Audi A3                blue  09/2017   2017     27900     110         150         Automatic     Diesel       4.6 l/100 km     119 g/km         45098  Sportback 2.0 T
+13007audi        Audi Q3                blue  09/2017   2017     21400     135         184         Automatic     Diesel       5.2 l/100 km     136 g/km         79000  2.0 TDI quattro
+13008audi        Audi Q3                blue  03/2017   2017     31500     162         220         Automatic     Petrol       7.2 l/100 km     168 g/km         45000  sport quattro-S
+13009audi        Audi A4                blue  02/2017   2017     22999     110         150         Automatic     Diesel       4.1 l/100 km     - (g/km)         145000 A4 2.0 TDI S tr
+13010audi        Audi Q5                blue  06/2017   2017     15499     140         190         Automatic     Diesel       4.9 l/100 km     - (g/km)         92155  Q5 2.0 TDI quat
+13011audi        Audi Q5                blue  09/2017   2017     30225     140         190         Automatic     Diesel                        - (g/km)         100100 quattro sport/S
+13012audi        Audi Q7                blue  08/2017   2017     36800     200         272         Automatic     Diesel       5.9 l/100 km     - (g/km)         105000 3.0 TDI quattro
+13013audi        Audi A3                blue  06/2017   2017     25948     110         150         Manual        Petrol       5.2 l/100 km     119 g/km         18500  Cabrio 1.4 TFSI
+13014audi        Audi Q3                blue  03/2017   2017     179950    92          125         Manual        Petrol       6.1 l/100 km     141 g/km         63893  1.4 TFSI 125 sp
+13015audi        Audi A8                blue  01/2017   2017     42750     368         500         Automatic     Petrol       11 l/100 km      254 g/km         94371  6.3 W12 Securit
+13016audi        Audi S5                blue  09/2017   2017     38000     260         354         Automatic     Petrol       7.5 l/100 km     166 g/km         89218  Sportback 3.0 T
+13017audi        Audi A4                blue  06/2017   2017     34489     200         272         Automatic     Diesel       5.1 l/100 km     134 g/km         79100  Avant 3.0 TDI q
+13018audi        Audi Q5                blue  07/2017   2017     15800     185         252         Automatic     Petrol       6.8 l/100 km     154 g/km         49168  2.0 TFSI quattr
+13019audi        Audi A3                blue  03/2017   2017     23990     85          116         Manual        Petrol       4.7 l/100 km     109 g/km         99985  Lim. design    

@@ -1,0 +1,21 @@
+1218 alfa-romeo  Alfa Romeo Tonale      black 12/2022   2022     60475     132         179         Automatic     Hybrid                        60 km Reichweite 21     1.3 VGT Plug-In
+1219 alfa-romeo  Alfa Romeo Stelvio     black 12/2022   2022     49490     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A
+1220 alfa-romeo  Alfa Romeo Stelvio     black 12/2022   2022     49470     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A
+1221 alfa-romeo  Alfa Romeo Stelvio     black 12/2022   2022     49470     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A
+1222 alfa-romeo  Alfa Romeo Stelvio     black 12/2022   2022     49470     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A
+1223 alfa-romeo  Alfa Romeo Stelvio     black 12/2022   2022     49470     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A
+1224 alfa-romeo  Alfa Romeo Stelvio     black 12/2022   2022     49470     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A
+1225 alfa-romeo  Alfa Romeo Stelvio     black 12/2022   2022     49490     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A
+1226 alfa-romeo  Alfa Romeo Stelvio     black 12/2022   2022     49490     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A
+1227 alfa-romeo  Alfa Romeo Stelvio     black 10/2022   2022     55839     206         280         Automatic     Petrol       7.3 l/100 km     167 g/km         25     MY22 Veloce 2.0
+1228 alfa-romeo  Alfa Romeo Tonale      black 12/2022   2022     54990     206         280         Automatic     Hybrid                        69 km Reichweite 9      Veloce AWD 1.3 
+1229 alfa-romeo  Alfa Romeo Stelvio     black 10/2022   2022     55837     206         280         Automatic     Petrol       7.3 l/100 km     167 g/km         5      MY22 Veloce 2.0
+1230 alfa-romeo  Alfa Romeo Stelvio     black 01/2022   2022     54790     206         280         Automatic     Petrol       7.3 l/100 km     167 g/km         10     MY22 Veloce Q4 
+1231 alfa-romeo  Alfa Romeo Tonale      black 12/2022   2022     40999     118         160         Automatic     Petrol       5.9 l/100 km     135 g/km         100    VELOCE 1.5 VGT 
+1232 alfa-romeo  Alfa Romeo Stelvio     black 09/2022   2022     55990     154         209         Automatic     Diesel       6.3 l/100 km     165 g/km         50     MY22 Veloce 2.2
+1233 alfa-romeo  Alfa Romeo Stelvio     black 10/2022   2022     55990     154         209         Automatic     Diesel       6.3 l/100 km     165 g/km         50     MY22 Veloce 2.2
+1234 alfa-romeo  Alfa Romeo Tonale      black 12/2022   2022     39499     117         159         Automatic     Hybrid       5.9 l/100 km     135 g/km         5      VELOCE 1.5 VGT 
+1235 alfa-romeo  Alfa Romeo Tonale      black 12/2022   2022     39499     117         159         Automatic     Hybrid       5.9 l/100 km     135 g/km         5      VELOCE 1.5 VGT 
+1236 alfa-romeo  Alfa Romeo Tonale      black 12/2022   2022     51850     206         280         Automatic     Hybrid                        62 km Reichweite 7500   VELOCE 1.3T Plu
+1237 alfa-romeo  Alfa Romeo Giulia      silver06/2022   2022     42045     148         201         Automatic     Petrol       7.2 l/100 km     164 g/km         10     Sprint 2.0 Turb
+1238 alfa-romeo  Alfa Romeo Giulia      silver06/2022   2022     41845     148         201         Automatic     Petrol       7.2 l/100 km     164 g/km         10     Sprint 2.0 Turb

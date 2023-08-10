@@ -1,0 +1,21 @@
+1785 audi        Audi A6                silver11/1999   1999     3500      110         150         Manual        Petrol       8.4 l/100 km     202 g/km         176627 1.8 T          
+1786 audi        Audi A6                silver01/1999   1999     3300      142         193         Automatic     Petrol       10.8 l/100 km    259 g/km         290000 Avant 2.8 quatt
+1787 audi        Audi A6                silver03/1999   1999     1500      110         150         Manual        Petrol       8.4 l/100 km     202 g/km         305000 1.8 T          
+1788 audi        Audi A6                silver09/1999   1999     6999      110         150         Manual        Diesel       7 l/100 km       189 g/km         191795 Avant 2.5 TDI  
+1789 audi        Audi A6                silver11/1999   1999     2100      92          125         Manual        Petrol       8.6 l/100 km     206 g/km         110000 1.8            
+1790 audi        Audi TT                silver08/1999   1999     6500      132         179         Manual        Petrol       8.1 l/100 km     194 g/km         198000 Coupe 1.8 T    
+1791 audi        Audi A8                silver12/1999   1999     2590      132         179         Automatic     Diesel       8.9 l/100 km     240 g/km         285000 "2.5 TDI QUATTR
+1792 audi        Audi A4                silver07/1999   1999     4390      92          125         Manual        Petrol       8.5 l/100 km     - (g/km)         114500 A4 1.8         
+1793 audi        Audi A4                silver04/1999   1999     4900      66          90          Manual        Diesel                        - (g/km)         123000 1.9 TDI Klimaau
+1794 audi        Audi A4                silver10/1999   1999     4500      74          101         Manual        Petrol       8 l/100 km       - (g/km)         74000  1.6            
+1795 audi        Audi A6                silver06/1999   1999     6500      110         150         Manual        Diesel       7 l/100 km       189 g/km         120000 2.5 TDI Avant /
+1796 audi        Audi TT                silver08/1999   1999     26980     165         224         Manual        Petrol       9.4 l/100 km     226 g/km         36250  1.8 T Coupe // 
+1797 audi        Audi A4                silver06/1999   1999     5950      74          101         Manual        Petrol       8 l/100 km       - (g/km)         83105  A4 1.6         
+1798 audi        Audi A3                silver10/1999   1999     1500      75          102         Manual        Petrol       8 l/100 km       - (g/km)         186858 8L-  motor 1.6 
+1799 audi        Audi A3                silver06/1999   1999     1999      74          101         Manual        Petrol       7.6 l/100 km     - (g/km)         212000 1.6 TÜV & SERV
+1800 audi        Audi A4                silver02/1999   1999     1500      74          101         Manual        Petrol       8.2 l/100 km     197 g/km         238300 Lim. 1.6 *NSW*M
+1801 audi        Audi A4                silver08/1999   1999     2100      92          125         Automatic     Petrol       8.5 l/100 km     204 g/km         191797 1.8            
+1802 audi        Audi A4                silver03/1999   1999     2999      74          101         Manual        Petrol       8 l/100 km       - (g/km)         198500 A4 1.6         
+1803 audi        Audi TT                silver07/1999   1999     4900      132         179         Manual        Petrol       8.1 l/100 km     194 g/km         196500 Coupe 1.8 T    
+1804 audi        Audi TT                silver12/1999   1999     6800      132         179         Manual        Petrol       8.2 l/100 km     - (g/km)         162000 Roadster 1.8 T 
+1805 audi        Audi A3                silver01/1999   1999     2900      74          101         Manual        Petrol       6.6 l/100 km     184 g/km         170000 1.6 Attraction*

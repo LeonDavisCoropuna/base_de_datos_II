@@ -1,0 +1,21 @@
+504  alfa-romeo  Alfa Romeo Giulietta   white 07/2014   2014     13549     125         170         Manual        Petrol       5.7 l/100 km     135 g/km         54000  1.4l Turismo 17
+505  alfa-romeo  Alfa Romeo Giulietta   white 09/2014   2014     11550     125         170         Automatic     Petrol       4.9 l/100 km     114 g/km         158500 1.4 TB 16V Mult
+506  alfa-romeo  Alfa Romeo Giulietta   white 04/2014   2014     14990     173         235         Manual        Petrol       7.6 l/100 km     180 g/km         152445 Quadrifoglio Ve
+507  alfa-romeo  Alfa Romeo MiTo        white 04/2014   2014     6999      88          120         Manual        Diesel       4.3 l/100 km     112 g/km         141700 1.6 JTDM 16V Tu
+508  alfa-romeo  Alfa Romeo 4C          white 07/2014   2014     72990     177         241         Automatic     Petrol       6.8 l/100 km     157 g/km         16800  1.8 TBi 16V 240
+509  alfa-romeo  Alfa Romeo Giulietta   blue  11/2015   2015     9890      125         170         Manual        Petrol       5.7 l/100 km     135 g/km         151740 1-4 TB Navi Led
+510  alfa-romeo  Alfa Romeo Giulietta   blue  11/2015   2015     15700     154         209         Automatic     Diesel       4.3 l/100 km     114 g/km         90988  2.0 JTDM 16V TC
+511  alfa-romeo  Alfa Romeo Giulietta   grey  06/2015   2015     8900      110         150         Manual        Diesel       4.2 l/100 km     110 g/km         166000 2.0 JTDM 16V Tu
+512  alfa-romeo  Alfa Romeo Giulietta   grey  04/2015   2015     15999     177         241         Automatic     Petrol       7 l/100 km       166 g/km         75000  Quadrifoglio Ve
+513  alfa-romeo  Alfa Romeo Giulietta   grey  12/2015   2015     16990     177         241         Automatic     Petrol       7 l/100 km       166 g/km         101390 Quadrifoglio Ve
+514  alfa-romeo  Alfa Romeo Giulietta   grey  07/2015   2015     11000     77          105         Manual        Diesel       4 l/100 km       - (g/km)         110828 1.6 JTDM 16V   
+515  alfa-romeo  Alfa Romeo Giulietta   red   03/2015   2015     12999     129         175         Automatic     Diesel       4.4 l/100 km     117 g/km         117100 Turismo 2.0 JTD
+516  alfa-romeo  Alfa Romeo Giulietta   red   04/2015   2015     9800      110         150         Manual        Diesel       4.2 l/100 km     110 g/km         140000 Giulietta 2.0 J
+517  alfa-romeo  Alfa Romeo 4C          red   07/2015   2015     63900     177         241         Automatic     Petrol       6.8 l/100 km     157 g/km         72000  1750 TBi #1.Hd.
+518  alfa-romeo  Alfa Romeo 4C          red   02/2015   2015     77900     177         241         Automatic     Petrol       6.8 l/100 km     157 g/km         2300   1.8 TBi 16V    
+519  alfa-romeo  Alfa Romeo MiTo        red   02/2015   2015     8500      58          79          Manual        Petrol       5.6 l/100 km     133 g/km         27000  Turismo (145)/K
+520  alfa-romeo  Alfa Romeo 4C          red   08/2015   2015     72500     228         310         Automatic     Petrol                        - (g/km)         48000  Collezione*Navi
+521  alfa-romeo  Alfa Romeo Giulietta   red   04/2015   2015     16700     129         175         Automatic     Diesel       4.3 l/100 km     114 g/km         58900  Turismo 0.9 Twi
+522  alfa-romeo  Alfa Romeo MiTo        red   06/2015   2015     9980      77          105         Manual        Petrol       4.2 l/100 km     100 g/km         99100  Spider 334 of 5
+523  alfa-romeo  Alfa Romeo Giulietta   black 12/2015   2015     12290     110         150         Manual        Diesel       5.7 l/100 km     135 g/km         75387  Sprint         
+524  alfa-romeo  Alfa Romeo Giulietta   black 07/2015   2015     14300     125         170         Automatic     Petrol       5.1 l/100 km     119 g/km         87058  1.4 Turbo Sprin

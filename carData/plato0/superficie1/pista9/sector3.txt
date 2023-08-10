@@ -1,0 +1,21 @@
+4053 audi        Audi TT                white 10/2008   2008     11599     118         160         Manual        Petrol       6.9 l/100 km     161 g/km         243858 Roadster 1.8 TF
+4054 audi        Audi A5                white 10/2008   2008     10000     184         250         Manual        Petrol       7.3 l/100 km     169 g/km         244000 2.0 TFSI quattr
+4055 audi        Audi A3                white 08/2008   2008     9000      92          125         Manual        Petrol       6.2 l/100 km     147 g/km         183000 1.4 TFSI S Line
+4056 audi        Audi A4                white 12/2008   2008     8200      140         190         Automatic     Diesel       6.4 l/100 km     - (g/km)         271000 2.7 TDI DPF mul
+4057 audi        Audi A3                white 11/2008   2008     12490     103         140         Manual        Diesel       5.1 l/100 km     135 g/km         102391 Sportback 2.0 T
+4058 audi        Audi A4                white 12/2008   2008     6700      88          120         Manual        Diesel       5.1 l/100 km     - (g/km)         225000 A4 Avant 2.0 TD
+4059 audi        Audi TT                white 04/2008   2008     18500     147         200         Manual        Petrol       7.8 l/100 km     186 g/km         99999  Roadster 2.0 TF
+4060 audi        Audi TT                white 04/2008   2008     12990     147         200         Automatic     Petrol       7.8 l/100 km     186 g/km         162300 2.0 TFSI Roadst
+4061 audi        Audi A3                white 11/2008   2008     8490      103         140         Automatic     Diesel       5.9 l/100 km     159 g/km         225000 Sportback 2.0 T
+4062 audi        Audi A6                white 02/2008   2008     8500      125         170         Automatic     Petrol       8.2 l/100 km     - (g/km)         282000 Avant 2.0 TFSI 
+4063 audi        Audi A3                white 04/2008   2008     11900     147         200         Manual        Petrol       7.6 l/100 km     182 g/km         169800 Cabriolet Ambit
+4064 audi        Audi A6                white 12/2008   2008     7900      176         239         Automatic     Diesel       7.5 l/100 km     199 g/km         280000 3.0 TDI quattro
+4065 audi        Audi S3                white 08/2008   2008     7500      195         265         Manual        Petrol       9.1 l/100 km     - (g/km)         220000 BOSE / Tausch m
+4066 audi        Audi A4                white 05/2008   2008     8700      118         160         Manual        Petrol       7.1 l/100 km     164 g/km         182000 1.8 TFSI Ambien
+4067 audi        Audi A4                white 11/2008   2008     8000      176         239         Automatic     Diesel       7.2 l/100 km     186 g/km         226000 Avant 3.0 TDI D
+4068 audi        Audi A4                white 10/2008   2008     5500      132         179         Automatic     Petrol       7.3 l/100 km     172 g/km         265000 Ambiente Avant 
+4069 audi        Audi A4                white 11/2008   2008     8000      105         143         Automatic     Diesel       5.7 l/100 km     149 g/km         298000 2.0 TDI DPF mul
+4070 audi        Audi TT                white 06/2008   2008     21900     184         250         Manual        Petrol       10.4 l/100 km    250 g/km         81000  Coupe/Roadster 
+4071 audi        Audi A6 allroad        white 12/2008   2008     13499     176         239         Automatic     Diesel       7.2 l/100 km     189 g/km         170000 quattro 3.0 TDI
+4072 audi        Audi A4                white 01/2008   2008     5600      125         170         Manual        Diesel       5.8 l/100 km     154 g/km         356000 Avant 2.0 TDI S
+4073 audi        Audi A3                blue  11/2009   2009     3999      125         170         Manual        Diesel                        - (g/km)         327887 Leder Sportpake

@@ -1,0 +1,21 @@
+19992audi        Audi A5                green 06/2021   2021     57490     150         204         Automatic     Petrol       6.8 l/100 km     "154             8 g/km"30000          
+19993audi        Audi Q5                green 10/2021   2021     49540     150         204         Automatic     Diesel       5.4 l/100 km     142 g/km         39999  40 TDI quattro 
+19994audi        Audi A5                green 10/2021   2021     61770     210         286         Automatic     Diesel       6.1 l/100 km     161 g/km         12900  Sportback S lin
+19995audi        Audi A6                green 03/2021   2021     42950     170         231         Automatic     Diesel       7.1 l/100 km     "188             2 g/km"53071          
+19996audi        Audi A1                green 06/2021   2021     25490     81          110         Manual        Petrol       5.4 l/100 km     123 g/km         4300   Sportback 30 TF
+19997audi        Audi A1                green 03/2021   2021     20699     81          110         Manual        Petrol       4.9 l/100 km     112 g/km         12200  Sportback 30 TF
+19998audi        Audi A1                green 06/2021   2021     56680     70          95          Manual        Petrol       5.6 l/100 km     127 g/km         21384  25 TFSI advance
+19999audi        Audi Q5                green 04/2021   2021     44440     195         265         Automatic     Petrol       8.9 l/100 km     203 g/km         15000  S line 45 TFSI 
+20000audi        Audi Q5                green 03/2021   2021     60840     150         204         Automatic     Diesel       5.4 l/100 km     143 g/km         34750  40 TDI quattro 
+20001audi        Audi Q5                green 10/2021   2021     23499     270         367         Automatic     Hybrid                        56 km Reichweite 24442  55 TFSIe Q 2x S
+20002audi        Audi RS Q3             green 05/2021   2021     66460     294         400         Automatic     Petrol       8.8 l/100 km     201 g/km         37966  Sportback quatt
+20003audi        Audi A8                green 07/2021   2021     85980     338         460         Automatic     Petrol       11.1 l/100 km    253 g/km         43200  L 60 TFSI qu UP
+20004audi        Audi RS3               green 12/2021   2021     71890     294         400         Automatic     Petrol       8.3 l/100 km     190 g/km         6000   RS3 Sportback 2
+20005audi        Audi Q5                green 07/2021   2021     63477     195         265         Automatic     Petrol       8.9 l/100 km     202 g/km         8197   Sportback editi
+20006audi        Audi e-tron GT         green 08/2021   2021     96870     350         476         Automatic     Electric                      452 km Reichweite15713  +DYNAMIC+PANO+M
+20007audi        Audi A3                      03/2021   2021     27685     150         204         Automatic     Hybrid                        67 km Reichweite 22361  Sportback 40 TF
+20008audi        Audi A3                      03/2021   2021     27685     150         204         Automatic     Hybrid                        67 km Reichweite 22361  Sportback 40 TF
+20009audi        Audi TT RS             red   06/2021   2021     68800     346         470         Automatic     Petrol       8.7 l/100 km     199 g/km         9000   Roadster ABT 47
+20010audi        Audi Q3                red   07/2021   2021     35950     169         230         Automatic     Petrol                        - (g/km)         5758   45TFSI quattro 
+20011audi        Audi R8                red   11/2021   2021     149490    419         570         Automatic     Petrol       12.9 l/100 km    295 g/km         5082   V10 RWD perform
+20012audi        Audi TT                red   12/2021   2021     39490     145         197         Automatic     Petrol       5.8 l/100 km     132 g/km         16000  S line Competit

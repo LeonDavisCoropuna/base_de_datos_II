@@ -1,0 +1,21 @@
+9849 audi        Audi A1                blue  03/2015   2015     76980     110         150         Automatic     Petrol       4.7 l/100 km     109 g/km         85069  A1 1.4 TFSI Spo
+9850 audi        Audi RS4               blue  07/2015   2015     17990     331         450         Automatic     Petrol       10.7 l/100 km    254 g/km         15850  Individualfahrz
+9851 audi        Audi A1                blue  07/2015   2015     16890     92          125         Automatic     Petrol       5.1 l/100 km     117 g/km         38500  Sportback 1.4 T
+9852 audi        Audi A1                blue  12/2015   2015     19000     110         150         Automatic     Petrol       5 l/100 km       116 g/km         105950 1.4 TFSI sport 
+9853 audi        Audi A3                blue  11/2015   2015     16450     110         150         Automatic     Diesel       4.7 l/100 km     122 g/km         72300  A3 Sportback 2.
+9854 audi        Audi A5                blue  12/2015   2015     17300     180         245         Automatic     Diesel       6.1 l/100 km     - (g/km)         267000 3.0 TDI Sportba
+9855 audi        Audi A3                blue  01/2015   2015     16700     132         179         Automatic     Petrol       5.9 l/100 km     - (g/km)         121000 1.8 TFSI Sportb
+9856 audi        Audi A6                blue  02/2015   2015     17980     110         150         Manual        Diesel       4.2 l/100 km     109 g/km         180000 2.0 TDI ultra  
+9857 audi        Audi A3                blue  06/2015   2015     15500     92          125         Automatic     Petrol       5.1 l/100 km     118 g/km         94020  Sportback 1-4 T
+9858 audi        Audi A4                blue  07/2015   2015     26950     110         150         Manual        Diesel       4.6 l/100 km     119 g/km         161000 Avant 2.0 TDI q
+9859 audi        Audi A6                blue  05/2015   2015     16990     160         218         Automatic     Diesel       5 l/100 km       132 g/km         157000 3.0 TDI Quattro
+9860 audi        Audi Q3                blue  09/2015   2015     17990     110         150         Manual        Petrol       5.8 l/100 km     134 g/km         98500  design (8UG)   
+9861 audi        Audi A5                blue  04/2015   2015     21900     140         190         Manual        Diesel       5.1 l/100 km     - (g/km)         82880  A5 Cabrio 2.0 T
+9862 audi        Audi A6                blue  03/2015   2015     21850     132         179         Automatic     Petrol       6.4 l/100 km     149 g/km         136900 1.8 TFSI multit
+9863 audi        Audi A4                blue  06/2015   2015     22999     110         150         Automatic     Diesel       4.5 l/100 km     - (g/km)         135000 2.0 TDI DPF S l
+9864 audi        Audi A3                blue  01/2015   2015     20930     81          110         Automatic     CNG          5 kg/100 km      115 g/km         98674  1.4 TFSI g-tron
+9865 audi        Audi A7                blue  06/2015   2015     41500     245         333         Automatic     Petrol       7.7 l/100 km     - (g/km)         118000 3.0 TFSI quattr
+9866 audi        Audi A3                blue  05/2015   2015     15499     92          125         Manual        Petrol       5.3 l/100 km     126 g/km         136000 Ambition Lim. (
+9867 audi        Audi A6 allroad        blue  02/2015   2015     17900     160         218         Automatic     Diesel                        - (g/km)         252900 3-0 TDI quattro
+9868 audi        Audi Q3                blue  01/2015   2015     19900     103         140         Automatic     Diesel       5.7 l/100 km     151 g/km         99987  2.0 TDI quattro
+9869 audi        Audi Q7                blue  12/2015   2015     30000     180         245         Automatic     Diesel       7.4 l/100 km     - (g/km)         158000 3.0 TDI W12 Opt

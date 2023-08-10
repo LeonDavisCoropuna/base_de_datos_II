@@ -1,0 +1,21 @@
+14910audi        Audi Q2                yellow06/2018   2018     20985     110         150         Automatic     Petrol       5.5 l/100 km     125 g/km         86300  1.4 TFSI s-tron
+14911audi        Audi Q2                yellow07/2018   2018     24998     110         150         Manual        Petrol       5.5 l/100 km     124 g/km         48949  1.4 TFSI S-LINE
+14912audi        Audi A3                yellow12/2018   2018     19450     85          116         Manual        Petrol       4.7 l/100 km     108 g/km         43384  Sportback 1.0 T
+14913audi        Audi Q2                yellow08/2018   2018     21888     85          116         Manual        Diesel       4.4 l/100 km     114 g/km         54982  1.6 TDI 2x S-Li
+14914audi        Audi A3                yellow04/2018   2018     21380     85          116         Manual        Diesel                        - (g/km)         34750  Limousine sport
+14915audi        Audi A3                yellow12/2018   2018     25890     110         150         Automatic     Petrol       5 l/100 km       115 g/km         47445  Sportback sport
+14916audi        Audi Q2                yellow03/2018   2018     22888     85          116         Automatic     Petrol       5.4 l/100 km     123 g/km         73298  30TFSi DESIGN A
+14917audi        Audi A1                yellow12/2018   2018     18950     85          116         Manual        Petrol       5.7 l/100 km     "128             8 g/km"79749          
+14918audi        Audi Q2                yellow02/2018   2018     25980     140         190         Automatic     Petrol       6.4 l/100 km     146 g/km         104500 design 2.0 TFSI
+14919audi        Audi Q2                yellow08/2018   2018     21883     85          116         Manual        Diesel       4.4 l/100 km     114 g/km         52625  1.6 TDI 2x S li
+14920audi        Audi Q2                yellow12/2018   2018     20980     110         150         Manual        Petrol       5.5 l/100 km     124 g/km         43689  1.4 TFSI Alu Na
+14921audi        Audi A3                yellow06/2018   2018     22990     110         150         Manual        Petrol       5.2 l/100 km     119 g/km         29990  "Lim. 1.5 TSI S
+14922audi        Audi A4 allroad        yellow05/2018   2018     22490     120         163         Automatic     Diesel       5.1 l/100 km     134 g/km         250000 2.0 TDI Quattro
+14923audi        Audi Q2                yellow12/2018   2018     24890     110         150         Automatic     Petrol       5.7 l/100 km     129 g/km         57485  35 TFSI sport S
+14924audi        Audi A3                yellow03/2018   2018     147990    150         204         Automatic     Hybrid       1.5 l/100 km     35 g/km          29600  1.4 TFSI Sportb
+14925audi        Audi R8                yellow02/2018   2018     36450     449         610         Automatic     Petrol       12.3 l/100 km    287 g/km         46708  Coupe V10 plus 
+14926audi        Audi TTS               yellow04/2018   2018     79999     228         310         Automatic     Petrol                        - (g/km)         63000  Coupe 2.0 TFSI 
+14927audi        Audi TT RS             yellow06/2018   2018     43490     294         400         Automatic     Petrol       8.2 l/100 km     - (g/km)         26000  Coupe audi spor
+14928audi        Audi TTS               yellow03/2018   2018     21779     228         310         Automatic     Petrol       7.1 l/100 km     163 g/km         6950   TT Roadster 2.0
+14929audi        Audi A3                yellow06/2018   2018     23000     110         150         Manual        Petrol       5.2 l/100 km     119 g/km         39790  sport 1.5 TFSI 
+14930audi        Audi A1                yellow11/2018   2018     20875     85          116         Manual        Petrol       5.8 l/100 km     130 g/km         35000  30 TFSI Sportba

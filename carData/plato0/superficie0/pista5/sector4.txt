@@ -1,0 +1,21 @@
+1134 alfa-romeo  Alfa Romeo Tonale      red   12/2022   2022     41290     96          131         Automatic     Hybrid       6.1 l/100 km     139 g/km         2000   SPRINT 1.5 T 96
+1135 alfa-romeo  Alfa Romeo Tonale      red   12/2022   2022     41529     96          131         Automatic     Hybrid       5.8 l/100 km     140 g/km         15     SPECIALE 1.5 T 
+1136 alfa-romeo  Alfa Romeo Giulia      red   05/2022   2022     34870     140         190         Automatic     Diesel       4.8 l/100 km     134 g/km         21500  Alfa Romeo AT8 
+1137 alfa-romeo  Alfa Romeo Stelvio     red   06/2022   2022     52349     206         280         Automatic     Petrol       8.7 l/100 km     199 g/km         15     Veloce 2.0 280 
+1138 alfa-romeo  Alfa Romeo Giulia      red   12/2022   2022     53900     206         280         Automatic     Petrol       7.2 l/100 km     164 g/km         10     2.0 Turbo 16V 2
+1139 alfa-romeo  Alfa Romeo Giulia      red   04/2022   2022     55990     154         209         Automatic     Diesel       5.2 l/100 km     138 g/km         20     Veloce Schiebed
+1140 alfa-romeo  Alfa Romeo Stelvio     red   06/2022   2022     49870     206         280         Automatic     Petrol       8.5 l/100 km     189 g/km         2000   TI - 2.0T - 280
+1141 alfa-romeo  Alfa Romeo Stelvio     red   06/2022   2022     52999     206         280         Automatic     Petrol       8.8 l/100 km     199 g/km         15     VELOCE 2.0 280 
+1142 alfa-romeo  Alfa Romeo Stelvio     red   10/2022   2022     56700     206         280         Automatic     Petrol       7.4 l/100 km     170 g/km         900    Veloce 2.0 Turb
+1143 alfa-romeo  Alfa Romeo Stelvio     red   06/2022   2022     60999     206         280         Automatic     Petrol       7.3 l/100 km     167 g/km         25     Estrema 2.0 Tur
+1144 alfa-romeo  Alfa Romeo Tonale      red   12/2022   2022     40499     118         160         Automatic     Hybrid       5.9 l/100 km     135 g/km         5      VELOCE 1.5 VGT 
+1145 alfa-romeo  Alfa Romeo Giulia      red   04/2022   2022     49999     147         200         Automatic     Petrol       6.4 l/100 km     147 g/km         10     TI 2.0 MY22 Q4/
+1146 alfa-romeo  Alfa Romeo Tonale      red   07/2022   2022     40990     96          131         Automatic     Hybrid       5.7 l/100 km     129 g/km         2500   Speciale 1.5T 4
+1147 alfa-romeo  Alfa Romeo Giulia      red   03/2022   2022     48900     206         280         Automatic     Petrol       6.8 l/100 km     156 g/km         9000   Lusso Ti 2.0 Tu
+1148 alfa-romeo  Alfa Romeo Stelvio     red   06/2022   2022     62900     206         280         Manual        Petrol       7.4 l/100 km     170 g/km         10     Veloce Q4 MY22 
+1149 alfa-romeo  Alfa Romeo Stelvio     red   04/2022   2022     59990     206         280         Automatic     Petrol       7.2 l/100 km     165 g/km         50     Veloce Schiebed
+1150 alfa-romeo  Alfa Romeo Stelvio     red   06/2022   2022     55499     206         280         Automatic     Petrol       7.3 l/100 km     167 g/km         18950  MY22 Estrema 2.
+1151 alfa-romeo  Alfa Romeo Tonale      red   10/2022   2022     46390     118         160         Automatic     Hybrid       6.5 l/100 km     148 g/km         4478   1.5 VGT Hybrid 
+1152 alfa-romeo  Alfa Romeo Stelvio     red   12/2022   2022     48990     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A
+1153 alfa-romeo  Alfa Romeo Stelvio     red   12/2022   2022     48990     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A
+1154 alfa-romeo  Alfa Romeo Stelvio     red   12/2022   2022     48990     154         209         Automatic     Diesel       5.7 l/100 km     149 g/km         10     Ti Diesel 2.2 A

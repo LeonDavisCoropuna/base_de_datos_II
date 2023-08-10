@@ -1,0 +1,21 @@
+12159audi        Audi RS7               black 02/2016   2016     55999     412         560         Automatic     Petrol       9.5 l/100 km     225 g/km         76000  4.0 TFSI quattr
+12160audi        Audi A1                black 09/2016   2016     11500     66          90          Manual        Diesel       3.9 l/100 km     - (g/km)         115000 1.4 TDI (ultra)
+12161audi        Audi RS Q3             black 02/2016   2016     32990     250         340         Automatic     Petrol       8.4 l/100 km     199 g/km         90546  2.5 TFSI quattr
+12162audi        Audi A3                black 02/2016   2016     15870     92          125         Automatic     Petrol       4.9 l/100 km     114 g/km         116602 Sportback Attra
+12163audi        Audi A6                black 06/2016   2016     28600     140         190         Automatic     Diesel       5 l/100 km       131 g/km         135000 2.0 TDI avant  
+12164audi        Audi TT                black 01/2016   2016     24499     132         179         Manual        Petrol       5.8 l/100 km     - (g/km)         53183  Coupe 1.8 TFSI 
+12165audi        Audi Q3                black 03/2016   2016     20600     110         150         Automatic     Diesel       5 l/100 km       - (g/km)         99987  Q3 2.0 TDI quat
+12166audi        Audi A3                black 10/2016   2016     20995     110         150         Manual        Diesel       5 l/100 km       128 g/km         100000 "Sportback quat
+12167audi        Audi RS6               black 04/2016   2016     43998     445         605         Automatic     Petrol       9.6 l/100 km     223 g/km         169000 Avant 4.0 TFSI 
+12168audi        Audi TTS               black 05/2016   2016     40990     228         310         Automatic     Petrol       6.9 l/100 km     159 g/km         33484  Coupe quattro|2
+12169audi        Audi A3                black 07/2016   2016     17030     110         150         Manual        Petrol       5 l/100 km       110 g/km         108136 1.4 TFSI ACT Sp
+12170audi        Audi SQ5               black 06/2016   2016     28999     240         326         Automatic     Diesel       6.6 l/100 km     - (g/km)         106690 3.0 TDI competi
+12171audi        Audi A5                black 02/2016   2016     18000     140         190         Automatic     Diesel       5.1 l/100 km     135 g/km         122000 2.0 TDI (140kW)
+12172audi        Audi A1                black 03/2016   2016     15900     92          125         Automatic     Petrol       5.1 l/100 km     117 g/km         99950  Sportback 1.4TF
+12173audi        Audi Q3                black 05/2016   2016     16990     110         150         Manual        Diesel       4.4 l/100 km     117 g/km         200000 "2.0 TDI S-Line
+12174audi        Audi A4                black 06/2016   2016     26999     110         150         Manual        Diesel                        - (g/km)         109000 Avant 2.0 TDI s
+12175audi        Audi A6                black 02/2016   2016     14000     240         326         Automatic     Diesel       6.2 l/100 km     164 g/km         175000 Avant 3.0 TDI c
+12176audi        Audi A1                black 06/2016   2016     16900     85          116         Manual        Diesel       3.9 l/100 km     102 g/km         81750  sport S-Line Au
+12177audi        Audi A5                black 10/2016   2016     34550     160         218         Automatic     Diesel       6.1 l/100 km     162 g/km         281484 Sportback 3.0 T
+12178audi        Audi A6                black 11/2016   2016     19876     140         190         Automatic     Diesel       4.7 l/100 km     122 g/km         219000 Avant 2.0 TDI u
+12179audi        Audi TTS               black 05/2016   2016     22760     228         310         Automatic     Petrol       6.9 l/100 km     159 g/km         74984  Matrix*Virt.Coc

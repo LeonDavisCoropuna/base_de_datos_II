@@ -1,0 +1,21 @@
+9114 audi        Audi Q7                black 03/2014   2014     23900     180         245         Automatic     Diesel       7.4 l/100 km     196 g/km         179200 3.0 TDI quattro
+9115 audi        Audi A3                black 01/2014   2014     12800     77          105         Manual        Diesel       3.8 l/100 km     - (g/km)         170960 A3 1.6 TDI Limo
+9116 audi        Audi A4                black 12/2014   2014     18950     130         177         Automatic     Diesel       5.3 l/100 km     140 g/km         143000 Avant S line Sp
+9117 audi        Audi TT                black 04/2014   2014     16500     125         170         Automatic     Diesel       5.5 l/100 km     - (g/km)         175000 Coupe 2.0 TDI q
+9118 audi        Audi A6                black 11/2014   2014     19450     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         183000 Avant 3.0 TDI q
+9119 audi        Audi A4                black 11/2014   2014     13998     100         136         Manual        Diesel       4.2 l/100 km     109 g/km         144237 Avant 2.0 TDI+E
+9120 audi        Audi A3                black 08/2014   2014     12899     81          110         Automatic     Diesel       3.8 l/100 km     99 g/km          180000 1.6 TDI S troni
+9121 audi        Audi A3                black 12/2014   2014     13749     110         150         Manual        Petrol       4.6 l/100 km     106 g/km         156541 1.4 TFSI cylind
+9122 audi        Audi A4                black 11/2014   2014     15750     88          120         Manual        Diesel       4.7 l/100 km     123 g/km         114000 Avant Ambiente 
+9123 audi        Audi SQ5               black 06/2014   2014     26999     230         313         Automatic     Diesel       6.8 l/100 km     180 g/km         119000 Audi SQ5 3.0 TD
+9124 audi        Audi A4                black 05/2014   2014     11600     130         177         Automatic     Diesel       4.8 l/100 km     127 g/km         230000 "Avant 2-0 TDI 
+9125 audi        Audi Q3                black 12/2014   2014     15970     103         140         Manual        Diesel       5.2 l/100 km     137 g/km         90130  2.0 TDI Navi Xe
+9126 audi        Audi A3                black 05/2014   2014     13590     110         150         Manual        Diesel       4.2 l/100 km     111 g/km         125000 Sportback Ambit
+9127 audi        Audi A3                black 10/2014   2014     16930     110         150         Automatic     Diesel       4.5 l/100 km     119 g/km         123088 2.0 TDI S-troni
+9128 audi        Audi S4                black 09/2014   2014     26999     310         421         Automatic     Petrol       9.7 l/100 km     224 g/km         134244 3.0 TFSI Quattr
+9129 audi        Audi A6 allroad        black 06/2014   2014     18900     230         313         Automatic     Diesel       6.7 l/100 km     176 g/km         250000 quattro 3.0BiTD
+9130 audi        Audi A3                black 06/2014   2014     16986     132         179         Automatic     Petrol       6.6 l/100 km     156 g/km         142520 Cabriolet 1.8 T
+9131 audi        Audi RS4               black 09/2014   2014     44400     331         450         Automatic     Petrol       10.7 l/100 km    254 g/km         89999  "Avant 4.2 FSI 
+9132 audi        Audi Q3                black 06/2014   2014     18475     103         140         Automatic     Diesel       5.7 l/100 km     151 g/km         55000  2.0 TDI quattro
+9133 audi        Audi RS6               black 09/2014   2014     46990     412         560         Automatic     Petrol       9.8 l/100 km     232 g/km         164241 Avant quattro S
+9134 audi        Audi Q5                black 03/2014   2014     19500     130         177         Automatic     Diesel       6.1 l/100 km     - (g/km)         172000 2.0 TDI quattro

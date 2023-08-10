@@ -1,0 +1,21 @@
+1533 aston-martinAston Martin           silver04/2013   2013     159888    380         517         Automatic     Petrol       16.4 l/100 km    388 g/km         55000  V12 Vantage Roa
+1534 aston-martinAston Martin Vanquish  silver08/2013   2013     124800    421         572         Automatic     Petrol       14.4 l/100 km    335 g/km         52000  Coupé         
+1535 aston-martinAston Martin V8        white 03/2013   2013     77800     313         426         Manual        Petrol       12.6 l/100 km    295 g/km         37900  Roadster 4.7l S
+1536 aston-martinAston Martin Vantage   orange12/2013   2013     65999     313         426         Automatic     Petrol                        0 g/km           69000  Vantage V8 Spor
+1537 aston-martinAston Martin V8        blue  08/2014   2014     74999     321         436         Automatic     Petrol       12.9 l/100 km    299 g/km         78324  S 4.7l Sportshi
+1538 aston-martinAston Martin V8        grey  04/2014   2014     76007     321         436         Automatic     Petrol       13.8 l/100 km    321 g/km         52650  Vantage S Roads
+1539 aston-martinAston Martin           grey  12/2014   2014     179007    421         572         Automatic     Petrol                        - (g/km)         26400  Volante - Aston
+1540 aston-martinAston Martin Vanquish  black 02/2014   2014     149899    421         572         Automatic     Petrol       14.4 l/100 km    335 g/km         12000  Coupe          
+1541 aston-martinAston Martin DB9       white 05/2014   2014     94980     380         517         Automatic     Petrol       14.3 l/100 km    333 g/km         57133  6.0 Coupe *Carb
+1542 aston-martinAston Martin DB9       grey  11/2015   2015     295000    402         547         Automatic     Petrol       11.8 l/100 km    333 g/km         6500   GT * James Bond
+1543 aston-martinAston Martin Vanquish  black 03/2015   2015     199999    423         575         Automatic     Petrol                        - (g/km)         60000  Volante 8-Gang!
+1544 aston-martinAston Martin V8        black 05/2015   2015     77490     321         436         Automatic     Petrol                        - (g/km)         83000  SP10 4-7l|Carbo
+1545 aston-martinAston Martin Vanquish  black 07/2015   2015     139800    425         578         Automatic     Petrol                        - (g/km)         47600  V12.Vollcarbon.
+1546 aston-martinAston Martin Vantage   black 06/2015   2015     129900    422         574         Automatic     Petrol       14.7 l/100 km    343 g/km         18000  6.0 S~Scheckhef
+1547 aston-martinAston Martin V8        black 05/2015   2015     96990     321         436         Automatic     Petrol       17.2 l/100 km    296 g/km         26692  Vantage S Roads
+1548 aston-martinAston Martin Vantage   black 03/2015   2015     119000    421         572         Automatic     Petrol       14.7 l/100 km    343 g/km         47900  6.0 S Sportshif
+1549 aston-martinAston Martin Vanquish  black 02/2015   2015     179900    421         572         Automatic     Petrol       14.4 l/100 km    335 g/km         19056  Volante Volante
+1550 aston-martinAston Martin DB9       black 04/2015   2015     126941    381         518         Automatic     Petrol       14.3 l/100 km    333 g/km         28000  Coupe 6.0 V12 T
+1551 aston-martinAston Martin           silver05/2015   2015     168950    422         574         Automatic     Petrol                        0 g/km           37574  S Roadster*Dt-F
+1552 aston-martinAston Martin DB9       silver10/2015   2015     217900    403         548         Automatic     Petrol       14.3 l/100 km    333 g/km         1250   Bond Edition/1.
+1553 aston-martinAston Martin Rapide    grey  07/2016   2016     97941     412         560         Automatic     Petrol       14.3 l/100 km    332 g/km         39000  S 6.0 V12*8Gang

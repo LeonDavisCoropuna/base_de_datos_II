@@ -1,0 +1,21 @@
+15393audi        Audi A5                red   06/2018   2018     35975     160         218         Automatic     Diesel       4.8 l/100 km     124 g/km         52994  3.0 TDI qu. 3x 
+15394audi        Audi A1                red   04/2018   2018     17500     66          90          Manual        Diesel       3.9 l/100 km     - (g/km)         9200   A1 1.4 TDI (ult
+15395audi        Audi Q2                red   03/2018   2018     18900     85          116         Automatic     Diesel       4.3 l/100 km     114 g/km         141845 1.6 TDI S troni
+15396audi        Audi SQ5               red   02/2018   2018     44390     260         354         Automatic     Petrol       8.5 l/100 km     195 g/km         48821  3.0 TFSI quattr
+15397audi        Audi A1                red   11/2018   2018     16980     70          95          Manual        Petrol       4.4 l/100 km     102 g/km         40363  1.0 TFSI Sportb
+15398audi        Audi RS4               red   07/2018   2018     63775     331         450         Automatic     Petrol       8.8 l/100 km     200 g/km         56750  "Avant 2.9 TFSI
+15399audi        Audi S4                red   07/2018   2018     34900     260         354         Automatic     Petrol       7.6 l/100 km     175 g/km         142800 AVANT 3.0 TFSI 
+15400audi        Audi A5                red   04/2018   2018     33480     185         252         Automatic     Petrol       6.5 l/100 km     148 g/km         35970  2.0 TFSI Q S tr
+15401audi        Audi S3                red   06/2018   2018     31900     228         310         Automatic     Petrol       - (l/100 km)     0 g/km           89950  2.0 TFSI quattr
+15402audi        Audi Q2                red   02/2018   2018     25990     140         190         Automatic     Petrol       6.4 l/100 km     146 g/km         46800  quattro sport/S
+15403audi        Audi S5                red   05/2018   2018     45880     260         354         Automatic     Petrol       8 l/100 km       181 g/km         46000  3.0TFSI Quattro
+15404audi        Audi S6                red   06/2018   2018     47980     331         450         Automatic     Petrol       9.4 l/100 km     219 g/km         80500  Avant 4.0 TFSI 
+15405audi        Audi TTS               red   04/2018   2018     41620     228         310         Automatic     Petrol       7.1 l/100 km     163 g/km         19607  NAVI+ LED BuO A
+15406audi        Audi S4                red   05/2018   2018     45995     260         354         Automatic     Petrol       7.6 l/100 km     175 g/km         49260  Avant 3.0 TFSI 
+15407audi        Audi A4                red   05/2018   2018     29800     110         150         Automatic     Petrol       5.3 l/100 km     122 g/km         66000  1.4 TFSI S tron
+15408audi        Audi RS4               red   06/2018   2018     57790     331         450         Automatic     Petrol       8.8 l/100 km     200 g/km         73600  Avant 2.9 TFSI 
+15409audi        Audi S3                red   06/2018   2018     33333     228         310         Automatic     Petrol       6.4 l/100 km     148 g/km         52415  TFSI quattro 22
+15410audi        Audi A4                red   01/2018   2018     26990     140         190         Automatic     Petrol       5.9 l/100 km     0 g/km           97186  2.0 TFSI S-Tron
+15411audi        Audi A4                red   08/2018   2018     17995     110         150         Automatic     Petrol       5.7 l/100 km     131 g/km         36416  design virtual 
+15412audi        Audi A1                red   02/2018   2018     36900     70          95          Automatic     Petrol       4.6 l/100 km     107 g/km         56015  Sportback desig
+15413audi        Audi A6                red   03/2018   2018     19990     240         326         Automatic     Diesel       6.4 l/100 km     169 g/km         144108 Avant 3.0 TDI c

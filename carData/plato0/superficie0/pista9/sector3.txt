@@ -1,0 +1,21 @@
+1953 audi        Audi RS4               silver03/2001   2001     45000     280         381         Manual        Petrol       12 l/100 km      288 g/km         222200 Avant 2.7 quatt
+1954 audi        Audi A3                silver01/2001   2001     3490      74          101         Manual        Petrol       6.4 l/100 km     148 g/km         100000 * 4/5 türig* A
+1955 audi        Audi A2                silver07/2001   2001     999       55          75          Manual        Petrol       5.9 l/100 km     142 g/km         247705 1.4 euro 4 klim
+1956 audi        Audi RS4               silver03/2001   2001     57999     280         381         Manual        Petrol       11.9 l/100 km    286 g/km         124100 *AB 499€ Schi
+1957 audi        Audi A3                silver09/2001   2001     2900      75          102         Manual        Petrol       6.8 l/100 km     161 g/km         243635 1.6 Ambiente Kl
+1958 audi        Audi A2                silver12/2001   2001     3000      55          75          Manual        Petrol       6 l/100 km       142 g/km         157700 1.4 (8Z)       
+1959 audi        Audi A4                silver11/2001   2001     2950      114         155         Manual        Diesel       7 l/100 km       189 g/km         315000 2.5TDI Avant SC
+1960 audi        Audi TT                silver08/2001   2001     28990     165         224         Manual        Petrol       9.5 l/100 km     225 g/km         23300  Roadster 1.8 T 
+1961 audi        Audi TT                silver07/2001   2001     13900                             Manual        Other                         - (g/km)         154920 Roadster 1.8T q
+1962 audi        Audi A3                silver04/2001   2001     4980      75          102         Manual        Petrol       6.8 l/100 km     161 g/km         87300  1.6 5-tg. Klima
+1963 audi        Audi S3                silver06/2001   2001     18900     154         209         Manual        Petrol       9.2 l/100 km     218 g/km         134000 1.8 T quattro*R
+1964 audi        Audi A3                silver03/2001   2001     3950      75          102         Manual        Petrol       6.8 l/100 km     161 g/km         124900 1.6 Climatronic
+1965 audi        Audi A2                silver01/2001   2001     2950      55          75          Manual        Petrol       6.1 l/100 km     146 g/km         259000 1.4 *KLIMAAUT+P
+1966 audi        Audi A2                silver09/2001   2001     3950      55          75          Manual        Petrol       6 l/100 km       142 g/km         220000 1.4 / AC Auto. 
+1967 audi        Audi TT                silver06/2001   2001     6199      110         150         Manual        Petrol       8.2 l/100 km     - (g/km)         202000 Roadster 1.8 T 
+1968 audi        Audi A2                silver10/2001   2001     3000      55          75          Manual        Petrol       5.9 l/100 km     - (g/km)         130000 A2 1.4         
+1969 audi        Audi A2                silver10/2001   2001     6450      55          75          Manual        Petrol       6 l/100 km       142 g/km         200000 1.4 SHZ PANORAM
+1970 audi        Audi A2                silver03/2001   2001     2850      55          75          Manual        Petrol       6.1 l/100 km     146 g/km         207000 1.4 Sehr Sauber
+1971 audi        Audi A2                silver07/2001   2001     3580      55          75          Manual        Petrol       6 l/100 km       142 g/km         182601 1.4'TÜV/KLIMA/
+1972 audi        Audi A2                silver08/2001   2001     3998      55          75          Manual        Petrol       6 l/100 km       142 g/km         214900 1.4 (8Z) Open S
+1973 audi        Audi TT                silver01/2001   2001     4999      110         150         Manual        Petrol       8.2 l/100 km     - (g/km)         200000 TT Roadster 1.8

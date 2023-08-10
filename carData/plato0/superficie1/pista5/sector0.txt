@@ -1,0 +1,21 @@
+3150 audi        Audi A4                silver05/2006   2006     5490      96          131         Manual        Petrol       8.2 l/100 km     197 g/km         140000 Lim. 2.0       
+3151 audi        Audi A4                silver05/2006   2006     4999      96          131         Manual        Petrol       8.1 l/100 km     193 g/km         129000 2              
+3152 audi        Audi A3                silver09/2006   2006     8490      103         140         Manual        Diesel       5.7 l/100 km     154 g/km         182000 Sportback 2.0 T
+3153 audi        Audi A4                silver02/2006   2006     4999      150         204         Automatic     Diesel       8.5 l/100 km     229 g/km         255000 3.0 TDI quattro
+3154 audi        Audi A6                silver11/2006   2006     4990      118         160         Manual        Petrol       7.9 l/100 km     - (g/km)         189000 2.0 TFSI       
+3155 audi        Audi A8                silver02/2006   2006     18000     246         334         Automatic     LPG                           - (g/km)         174000 4.2 Quattro    
+3156 audi        Audi A4                silver05/2006   2006     4499      171         232         Manual        Diesel       7.9 l/100 km     212 g/km         252400 Avant 3.0 TDI q
+3157 audi        Audi TT                silver05/2006   2006     8500      120         163         Manual        Petrol       8.2 l/100 km     194 g/km         143122 Cabrio Leder Si
+3158 audi        Audi A3                silver11/2006   2006     5250      77          105         Manual        Diesel       4.9 l/100 km     132 g/km         186000 1.9 TDI Ambient
+3159 audi        Audi A4                silver08/2006   2006     6690      96          131         Manual        Petrol                        - (g/km)         113000 Lim. 2.0 Klimaa
+3160 audi        Audi A4                silver04/2006   2006     3999      75          102         Manual        Petrol       7.9 l/100 km     190 g/km         162882 1.6 Avant (8E) 
+3161 audi        Audi A3                silver02/2006   2006     4250      85          116         Manual        Petrol       6.6 l/100 km     - (g/km)         154000 1.6 FSI Ambient
+3162 audi        Audi TT                silver11/2006   2006     13500     184         250         Automatic     Petrol       9.4 l/100 km     - (g/km)         118000 TT Coupe 3.2 qu
+3163 audi        Audi Q7                silver08/2006   2006     15500     257         349         Automatic     Petrol       13.3 l/100 km    317 g/km         110598 4.2 FSI quattro
+3164 audi        Audi S4                silver03/2006   2006     13500     253         344         Automatic     Petrol       12.6 l/100 km    302 g/km         168000 4.2 tiptronic-M
+3165 audi        Audi A6                silver04/2006   2006     4200      130         177         Automatic     Petrol       9.6 l/100 km     - (g/km)         261000 A6 2.4 multitro
+3166 audi        Audi A4                silver01/2006   2006     6980      147         200         Automatic     Petrol       8.3 l/100 km     199 g/km         155635 Avant 2.0  1.Ha
+3167 audi        Audi A4                silver03/2006   2006     5800      188         256         Automatic     Petrol       9.5 l/100 km     - (g/km)         206600 3.2 FSI Quattro
+3168 audi        Audi A4                silver03/2006   2006     6499      147         200         Automatic     Petrol       8.3 l/100 km     - (g/km)         218000 Cabriolet 2.0 T
+3169 audi        Audi A6                silver04/2006   2006     4900      165         224         Automatic     Diesel                        - (g/km)         315000 Avant 3.0 TDI q
+3170 audi        Audi A4                silver05/2006   2006     9000      188         256         Manual        Petrol       8.5 l/100 km     - (g/km)         148160 Cabriolet 3.2 F

@@ -1,0 +1,21 @@
+14868audi        Audi A6 allroad        brown 04/2018   2018     47990     200         272         Automatic     Diesel                        0 g/km           71111  3.0 TDI 200kW K
+14869audi        Audi Q7                brown 01/2018   2018     27690     200         272         Automatic     Diesel       5.9 l/100 km     - (g/km)         98000  Q7 3.0 TDI quat
+14870audi        Audi A4                brown 12/2018   2018     40990     140         190         Automatic     Diesel       5.4 l/100 km     "143             2 g/km"68460          
+14871audi        Audi A5                brown 06/2018   2018     26250     140         190         Automatic     Petrol       5.5 l/100 km     126 g/km         105000 Sportback 2.0 T
+14872audi        Audi A6 allroad        brown 03/2018   2018     33780     200         272         Automatic     Diesel       5.6 l/100 km     149 g/km         84300  Allroad 3.0 TDI
+14873audi        Audi A5                brown 06/2018   2018     26250     140         190         Automatic     Petrol       5.5 l/100 km     126 g/km         105000 Sportback 2.0 T
+14874audi        Audi A4                brown 02/2018   2018     20700     110         150         Automatic     Diesel       4.2 l/100 km     110 g/km         119000 A4 Avant Sport 
+14875audi        Audi A6 allroad        brown 04/2018   2018     35990     200         272         Automatic     Diesel       5.6 l/100 km     149 g/km         68490  quattro 3.0 TDI
+14876audi        Audi A6                brown 08/2018   2018     34495     160         218         Automatic     Diesel       5.3 l/100 km     138 g/km         39000  Avant 3.0 TDI q
+14877audi        Audi A6 allroad        brown 03/2018   2018     25000     235         320         Automatic     Diesel       6.5 l/100 km     - (g/km)         150000 A6 allroad quat
+14878audi        Audi A5                brown 07/2018   2018     35270     185         252         Automatic     Petrol                        - (g/km)         72571  2.0 TFSI Q S LI
+14879audi        Audi Q5                brown 07/2018   2018     29690     120         163         Automatic     Diesel       4.9 l/100 km     129 g/km         54556  2.0 TDI Q. Matr
+14880audi        Audi A6                brown 07/2018   2018     45880     250         340         Automatic     Petrol                        - (g/km)         54469  55 TFSI Q S LIN
+14881audi        Audi A4                brown 05/2018   2018     26900     140         190         Automatic     Diesel       4.5 l/100 km     - (g/km)         54700  A4 Avant 2.0 TD
+14882audi        Audi A4                brown 11/2018   2018     23900     110         150         Automatic     Diesel       4.6 l/100 km     120 g/km         82000  Lim. 35 TDI spo
+14883audi        Audi A6 allroad        brown 07/2018   2018     39588     235         320         Automatic     Diesel       6.5 l/100 km     172 g/km         59900  3.0 TDI XENON P
+14884audi        Audi A6                brown 07/2018   2018     45500     240         326         Semi-automaticDiesel       6.2 l/100 km     164 g/km         104300 3.0 tdi Competi
+14885audi        Audi R8                brown 04/2018   2018     139990    449         610         Automatic     Petrol       13.6 l/100 km    - (g/km)         29000  R8 Spyder V10 p
+14886audi        Audi A6                brown 11/2018   2018     28980     140         190         Automatic     Diesel       4.7 l/100 km     122 g/km         85500  Avant 2.0 TDI u
+14887audi        Audi A4                brown 05/2018   2018     26000     110         150         Manual        Petrol       5.2 l/100 km     123 g/km         38000  1.4 TFSI       
+14888audi        Audi A4                brown 01/2018   2018     16980     140         190         Automatic     Diesel       4.7 l/100 km     123 g/km         175049 "Avant quattro 

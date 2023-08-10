@@ -1,0 +1,21 @@
+5460 audi        Audi A3                grey  06/2011   2011     9800      103         140         Automatic     Diesel       5.2 l/100 km     159 g/km         138000 8P Sportback 2.
+5461 audi        Audi A3                grey  10/2011   2011     10500     92          125         Manual        Petrol       6.1 l/100 km     145 g/km         124800 1.4 TFSI Attrac
+5462 audi        Audi A4                grey  09/2011   2011     7000      105         143         Manual        Diesel       5.2 l/100 km     - (g/km)         178000 A4 Avant 2.0 TD
+5463 audi        Audi A6 allroad        grey  03/2011   2011     15500     176         239         Automatic     Diesel       7.5 l/100 km     - (g/km)         280000 quattro 3.0 TDI
+5464 audi        Audi A6                grey  11/2011   2011     16640     150         204         Automatic     Diesel       5.1 l/100 km     133 g/km         166000 3.0 TDI DPF mul
+5465 audi        Audi A6                grey  03/2011   2011     10480     150         204         Automatic     Petrol       7.7 l/100 km     182 g/km         90000  Limousine 2.8 F
+5466 audi        Audi A6                grey  02/2011   2011     7700      100         136         Automatic     Diesel       7.1 l/100 km     192 g/km         189000 2.0 TDI Avant *
+5467 audi        Audi A3                grey  05/2011   2011     14000     92          125         Manual        Petrol       5.8 l/100 km     134 g/km         142000 1.4 TFSI Sportb
+5468 audi        Audi A6                grey  07/2011   2011     23950     150         204         Automatic     Diesel       5.3 l/100 km     140 g/km         190000 3.0 TDI Lim. (4
+5469 audi        Audi TTS               grey  12/2011   2011     10950     200         272         Automatic     Petrol       7.9 l/100 km     188 g/km         98670  2.0 TFSI Coupe 
+5470 audi        Audi A3                grey  06/2011   2011     21990     77          105         Automatic     Diesel       4.3 l/100 km     112 g/km         97000  1.6 TDI Attract
+5471 audi        Audi Q5                grey  12/2011   2011     17000     125         170         Automatic     Diesel       6.8 l/100 km     179 g/km         109856 2.0 TDI quattro
+5472 audi        Audi A4                grey  02/2011   2011     7790      105         143         Manual        Diesel       5.7 l/100 km     135 g/km         279000 Avant- 2.0 TDI-
+5473 audi        Audi A5                grey  07/2011   2011     13390     132         179         Manual        Petrol       6.5 l/100 km     154 g/km         172000 Sportback 2.0 T
+5474 audi        Audi A3                grey  06/2011   2011     12299     92          125         Manual        Petrol       5.7 l/100 km     135 g/km         86698  1.4 TFSI Ambiti
+5475 audi        Audi A6                grey  07/2011   2011     10850     176         239         Automatic     Diesel       7.1 l/100 km     - (g/km)         224958 Avant 3.0 TDI S
+5476 audi        Audi A3                grey  06/2011   2011     12980     118         160         Manual        Petrol       7.3 l/100 km     173 g/km         77226  1.8 TFSI Ambien
+5477 audi        Audi A6                grey  04/2011   2011     16550     130         177         Manual        Diesel       4.9 l/100 km     130 g/km         138300 2.0 TDI Lim. (4
+5478 audi        Audi A6 allroad        grey  02/2011   2011     13500     140         190         Automatic     Diesel       7.5 l/100 km     199 g/km         180000 quattro 2.7 TDI
+5479 audi        Audi R8                grey  12/2011   2011     71000     386         525         Automatic     Petrol       13.9 l/100 km    332 g/km         98000  Spyder 5.2 FSI 
+5480 audi        Audi A3                grey  07/2011   2011     11990     77          105         Automatic     Petrol       5.3 l/100 km     123 g/km         136400 Sportback 1.2 T

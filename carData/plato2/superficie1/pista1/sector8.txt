@@ -1,0 +1,21 @@
+10878audi        Audi A3                silver11/2015   2015     17498     110         150         Automatic     Diesel       4.4 l/100 km     115 g/km         76000  Ambition Lim. (
+10879audi        Audi A4                silver07/2015   2015     16700     100         136         Manual        Diesel       4 l/100 km       106 g/km         124900 2.0TDI Limo Led
+10880audi        Audi A4                silver05/2015   2015     20000     130         177         Automatic     Diesel       4.9 l/100 km     - (g/km)         184000 A4 Avant 2.0 TD
+10881audi        Audi A6                silver03/2015   2015     19999     235         320         Automatic     Diesel       6.2 l/100 km     164 g/km         216000 Avant 3.0 TDI q
+10882audi        Audi RS Q3             silver09/2015   2015     30990     250         340         Automatic     Petrol       8.4 l/100 km     199 g/km         114900 2.5 TFSI quattr
+10883audi        Audi Q5                silver01/2015   2015     26843     190         258         Automatic     Diesel       6.3 l/100 km     167 g/km         99000  3.0 TDI quattro
+10884audi        Audi Q3                silver03/2015   2015     18500     135         184         Automatic     Diesel       5.2 l/100 km     - (g/km)         117000 Q3 2.0 TDI quat
+10885audi        Audi A4                silver08/2015   2015     16850     140         190         Manual        Diesel       4.5 l/100 km     119 g/km         112087 2.0TDI Ambiente
+10886audi        Audi A7                silver06/2015   2015     31950     245         333         Automatic     Petrol       7.6 l/100 km     180 g/km         134986 3.0 TFSI quattr
+10887audi        Audi A3                silver01/2015   2015     13990     81          110         Manual        Diesel       3.8 l/100 km     101 g/km         131000 1.6Tdi Sportbac
+10888audi        Audi A6                silver02/2015   2015     20950     176         239         Automatic     Diesel       5.9 l/100 km     156 g/km         141000 3.0 TDI Diesel 
+10889audi        Audi A4                silver01/2015   2015     15990     110         150         Automatic     Diesel       4.7 l/100 km     125 g/km         114100 Avant Attractio
+10890audi        Audi A4                silver01/2015   2015     13590     140         190         Automatic     Diesel       5.1 l/100 km     135 g/km         197300 Ambition quattr
+10891audi        Audi A3                silver03/2015   2015     14940     92          125         Automatic     Petrol       4.9 l/100 km     114 g/km         100811 1.4 TFSI Attrac
+10892audi        Audi Q3                silver04/2015   2015     19990     130         177         Automatic     Diesel       5.9 l/100 km     156 g/km         124000 2.0 TDI quattro
+10893audi        Audi A7                silver03/2015   2015     27000     235         320         Automatic     Diesel       6.2 l/100 km     - (g/km)         223000 3.0 TDI quattro
+10894audi        Audi Q3                silver03/2015   2015     15900     110         150         Automatic     Petrol       6.2 l/100 km     143 g/km         173551 basis/1. Hand/E
+10895audi        Audi A7                silver07/2015   2015     26650     200         272         Automatic     Diesel       5.2 l/100 km     138 g/km         175200 Sportback 3.0 T
+10896audi        Audi Q3                silver12/2015   2015     27985     135         184         Automatic     Diesel       5.6 l/100 km     146 g/km         35090  2.0 TDI DSG Spo
+10897audi        Audi A6                silver08/2015   2015     20900     200         272         Automatic     Diesel       5.3 l/100 km     - (g/km)         197500 A6 Avant 3.0 TD
+10898audi        Audi Q3                silver01/2015   2015     19880     110         150         Automatic     Petrol       5.9 l/100 km     140 g/km         44083  1.4 TFSI / Bi-X

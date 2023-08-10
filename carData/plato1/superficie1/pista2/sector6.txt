@@ -1,0 +1,21 @@
+6846 audi        Audi A3                black 07/2012   2012     9190      77          105         Manual        Diesel       4.2 l/100 km     112 g/km         174783 1.6 TDI Sportba
+6847 audi        Audi Q5                black 06/2012   2012     15800     180         245         Automatic     Diesel       6.4 l/100 km     169 g/km         230000 3.0 TDI quattro
+6848 audi        Audi A3                black 08/2012   2012     16700     118         160         Automatic     Petrol       6.7 l/100 km     156 g/km         83500  S line Sportpak
+6849 audi        Audi TT                black 07/2012   2012     11180     118         160         Manual        Petrol       6.5 l/100 km     - (g/km)         179300 Roadster 1.8 TF
+6850 audi        Audi A8                black 06/2012   2012     25999     184         250         Automatic     Diesel       6.4 l/100 km     - (g/km)         121000 3.0 TDI DPF qua
+6851 audi        Audi A6                black 06/2012   2012     18999     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         249999 3.0 TDI quattro
+6852 audi        Audi A6                black 07/2012   2012     15500     130         177         Automatic     Diesel       5.1 l/100 km     135 g/km         206000 Avant          
+6853 audi        Audi Q3                black 07/2012   2012     16500     125         170         Manual        Petrol       7.3 l/100 km     - (g/km)         159000 2.0 TFSI quattr
+6854 audi        Audi A1                black 05/2012   2012     12000     105         143         Manual        Diesel       4.1 l/100 km     - (g/km)         129000 2.0 TDI S line 
+6855 audi        Audi A5                black 08/2012   2012     16499     180         245         Automatic     Diesel       5.9 l/100 km     - (g/km)         202000 Cabrio 3.0 TDI 
+6856 audi        Audi R8                black 03/2012   2012     76900     316         430         Automatic     Petrol       14.4 l/100 km    337 g/km         65000  Spyder 4.2 FSI 
+6857 audi        Audi A4                black 06/2012   2012     10750     130         177         Manual        Diesel       5.3 l/100 km     140 g/km         190000 2.0 TDI Avant A
+6858 audi        Audi A6                black 06/2012   2012     17999     132         179         Automatic     Petrol       6.4 l/100 km     149 g/km         109469 2.0 TFSI multit
+6859 audi        Audi Q7                black 05/2012   2012     21999     180         245         Automatic     Diesel       7.4 l/100 km     196 g/km         199800 3.0 TDI quattro
+6860 audi        Audi Cabriolet         black 01/2012   2012     15999     130         177         Manual        Diesel       6 l/100 km       - (g/km)         149750 A5 Cabriolet 2.
+6861 audi        Audi Q5                black 06/2012   2012     16900     105         143         Manual        Diesel       5.3 l/100 km     140 g/km         200000 "2.0 TDI ""S-li
+6862 audi        Audi A3                black 11/2012   2012     9900      92          125         Manual        Petrol       5.7 l/100 km     - (g/km)         167000 1.4 TFSI Ambien
+6863 audi        Audi A6                black 04/2012   2012     19690     132         179         Manual        Petrol       6.6 l/100 km     156 g/km         98000  Avant 2.0 TFSI 
+6864 audi        Audi A6                black 12/2012   2012     19799     230         313         Automatic     Diesel       7.8 l/100 km     - (g/km)         212000 A6 Avant 3.0 TD
+6865 audi        Audi A3                black 06/2012   2012     11000     77          105         Manual        Petrol       5.7 l/100 km     - (g/km)         114713 A3 Cabriolet 1.
+6866 audi        Audi A5                black 11/2012   2012     18890     125         170         Manual        Petrol       6.2 l/100 km     147 g/km         93000  1.8 TFSI 2X S L

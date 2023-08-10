@@ -1,0 +1,21 @@
+11823audi        Audi A4                grey  11/2016   2016     26960     200         272         Automatic     Diesel       5.4 l/100 km     142 g/km         125317 A4 3.0 TDI quat
+11824audi        Audi Q5                grey  07/2016   2016     26900     140         190         Automatic     Diesel       5.7 l/100 km     151 g/km         76532  2.0TDI Aut. qua
+11825audi        Audi A3                grey  10/2016   2016     16950     81          110         Manual        CNG          3.6 kg/100 km    98 g/km          82880  1.4TFSI g-tron 
+11826audi        Audi Q7                grey  09/2016   2016     39900     200         272         Automatic     Diesel       5.9 l/100 km     - (g/km)         130000 3.0 TDI quattro
+11827audi        Audi A5                grey  05/2016   2016     23890     140         190         Automatic     Diesel       5.1 l/100 km     135 g/km         106000 Sportback TDI Q
+11828audi        Audi SQ5               grey  06/2016   2016     34000     240         326         Automatic     Diesel       6.6 l/100 km     - (g/km)         167000 SQ5 3.0 TDI qua
+11829audi        Audi A3                grey  06/2016   2016     22900     110         150         Manual        Diesel       4.2 l/100 km     - (g/km)         79600  2.0 TDI Limousi
+11830audi        Audi A5                grey  06/2016   2016     22490     140         190         Manual        Diesel       5.1 l/100 km     135 g/km         93250  "Cabrio2.0TDIqu
+11831audi        Audi A3                grey  03/2016   2016     19270     110         150         Automatic     Petrol       4.7 l/100 km     110 g/km         74778  1.4 TFSI Ambien
+11832audi        Audi Q3                grey  04/2016   2016     24980     162         220         Automatic     Petrol       7.2 l/100 km     168 g/km         82900  2.0 quattro S L
+11833audi        Audi Q5                grey  08/2016   2016     26999     140         190         Automatic     Diesel       5.7 l/100 km     151 g/km         109000 2.0 TDI quattro
+11834audi        Audi TT                grey  01/2016   2016     29200     169         230         Automatic     Petrol       6.9 l/100 km     158 g/km         36000  2.0 TFS SLine R
+11835audi        Audi A6                grey  03/2016   2016     35999     240         326         Automatic     Diesel       6.4 l/100 km     169 g/km         105000 A6 Avant 3.0 TD
+11836audi        Audi Q3                grey  12/2016   2016     23900     135         184         Automatic     Diesel       5.2 l/100 km     - (g/km)         58000  Q3 2.0 TDI quat
+11837audi        Audi A6                grey  02/2016   2016     39900     240         326         Automatic     Diesel       6.2 l/100 km     164 g/km         138000 3.0 TDI compet.
+11838audi        Audi A3                grey  04/2016   2016     18990     110         150         Automatic     Petrol       4.7 l/100 km     111 g/km         90000  Sportback AT â€
+11839audi        Audi A5                grey  09/2016   2016     17995     140         190         Automatic     Diesel       5.1 l/100 km     135 g/km         168087 Sportback 2.0 T
+11840audi        Audi A4                grey  10/2016   2016     19980     110         150         Automatic     Petrol       5.8 l/100 km     137 g/km         68600  1.4 TFSI S-TRON
+11841audi        Audi A5                grey  08/2016   2016     21499     130         177         Automatic     Petrol       5.5 l/100 km     128 g/km         108000 TFSI Sport Edit
+11842audi        Audi S6                grey  07/2016   2016     40999     331         450         Automatic     Petrol       9.4 l/100 km     219 g/km         120000 Avant          
+11843audi        Audi A7                grey  01/2016   2016     29450     240         326         Automatic     Diesel       6.3 l/100 km     167 g/km         193747 Sportback 3.0 T

@@ -1,0 +1,10 @@
+20097audi        Audi e-tron GT         black 07/2021   2021     136780    440         598         Automatic     Electric                      466 km Reichweite35000  e-tron RS GT 5-
+20098audi        Audi A3                black 05/2021   2021     26870     150         204         Automatic     Hybrid                        59 km Reichweite 54080  advanced 40TFSI
+20099audi        Audi Q5                black 01/2021   2021     46990     220         299         Automatic     Hybrid                        45 km Reichweite 27250  TFSI e Design 5
+20100audi        Audi Q2                black 09/2021   2021     25490     81          110         Manual        Petrol       5.1 l/100 km     116 g/km         24533  Q2 30 TFSI S LI
+20101audi        Audi A3                black 03/2021   2021     31490     81          110         Automatic     Petrol                        0 g/km           25400  Sportback TFSI 
+20102audi        Audi A5                black 01/2021   2021     36900     150         204         Automatic     Diesel       4.5 l/100 km     132 g/km         44000  Sportback 40 TD
+20103audi        Audi A4                black 01/2021   2021     33180     110         150         Automatic     Petrol       6 l/100 km       136 g/km         14000  Avant 35 TFSI a
+20104audi        Audi A3                black 04/2021   2021     25970     150         204         Automatic     Petrol                        59 km Reichweite 31210  40TFSI e Stroni
+20105audi        Audi A6 allroad        black 05/2021   2021     58990     180         245         Automatic     Diesel                        - (g/km)         56429  45TDI /HD Matri
+230 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq

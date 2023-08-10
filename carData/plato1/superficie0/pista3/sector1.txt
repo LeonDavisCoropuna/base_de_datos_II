@@ -1,0 +1,21 @@
+4851 audi        Audi TT                grey  04/2010   2010     12450     147         200         Automatic     Petrol       7.8 l/100 km     186 g/km         130820 2.0 TFSI Roadst
+4852 audi        Audi A3                grey  09/2010   2010     7290      92          125         Manual        Petrol       5.7 l/100 km     135 g/km         167800 1.4 TFSI Ambiti
+4853 audi        Audi Q5                grey  09/2010   2010     13480     176         239         Automatic     Diesel       7.5 l/100 km     199 g/km         231172 3.0 TDI quattro
+4854 audi        Audi A5                grey  07/2010   2010     16990     176         239         Automatic     Diesel       6.8 l/100 km     179 g/km         141873 3.0 TDI quattro
+4855 audi        Audi A5                grey  04/2010   2010     13890     125         170         Manual        Petrol                        - (g/km)         97700  Sportback  Klim
+4856 audi        Audi A3                grey  10/2010   2010     7999      77          105         Manual        Diesel       4.2 l/100 km     - (g/km)         160500 1.6 TDI Sportba
+4857 audi        Audi Q5                grey  01/2010   2010     15900     155         211         Automatic     Petrol       8.5 l/100 km     197 g/km         169900 2.0 TFSI quattr
+4858 audi        Audi A3                red   06/2010   2010     11985     92          125         Automatic     Petrol       5.9 l/100 km     138 g/km         48256  Sportback 1.4 T
+4859 audi        Audi A1                red   12/2010   2010     7990      90          122         Manual        Petrol       5.3 l/100 km     126 g/km         156800 Ambition       
+4860 audi        Audi A3                red   06/2010   2010     13590     118         160         Manual        Petrol       6.7 l/100 km     158 g/km         88000  Sportback * Led
+4861 audi        Audi A1                red   11/2010   2010     7990      90          122         Manual        Petrol       5.3 l/100 km     126 g/km         180000 Ambition 1.4 |1
+4862 audi        Audi A1                red   10/2010   2010     10399     90          122         Manual        Petrol       5.2 l/100 km     123 g/km         98852  Attraction *SCH
+4863 audi        Audi A3                red   05/2010   2010     11450     77          105         Manual        Petrol       5.7 l/100 km     135 g/km         103000 Cabriolet Attra
+4864 audi        Audi A1                red   10/2010   2010     10500     90          122         Automatic     Petrol       5.3 l/100 km     122 g/km         189000 1.4 TFSI S tron
+4865 audi        Audi A3                red   11/2010   2010     5490      77          105         Manual        Diesel       4.2 l/100 km     112 g/km         289000 Sportback 1.6 T
+4866 audi        Audi A3                red   05/2010   2010     8699      75          102         Manual        Petrol       6.9 l/100 km     164 g/km         112000 1.6 Sportback A
+4867 audi        Audi A4                red   06/2010   2010     7985      105         143         Automatic     Diesel       6 l/100 km       159 g/km         172879 2.0 TDI Multitr
+4868 audi        Audi R8                black 11/2010   2010     69000     386         525         Automatic     Petrol       14.2 l/100 km    332 g/km         70500  Spyder 5.2 FSI 
+4869 audi        Audi A5                black 02/2010   2010     14990     155         211         Manual        Petrol       6.8 l/100 km     159 g/km         91000  Cabrio 2.0 TFSI
+4870 audi        Audi A3                black 12/2010   2010     8300      103         140         Manual        Diesel       4.4 l/100 km     115 g/km         175800 2.0 TDI DPF Amb
+4871 audi        Audi A6                black 06/2010   2010     11500     213         290         Automatic     Petrol       9.4 l/100 km     - (g/km)         211000 3.0 TFSI quattr

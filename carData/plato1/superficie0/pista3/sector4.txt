@@ -1,0 +1,21 @@
+4914 audi        Audi TTS               black 04/2010   2010     15699     200         272         Automatic     Petrol       8 l/100 km       - (g/km)         165000 TFSI 8J Quattro
+4915 audi        Audi A4                black 12/2010   2010     12599     176         239         Manual        Diesel       6.8 l/100 km     180 g/km         169000 S line Sportpak
+4916 audi        Audi A4 allroad        black 03/2010   2010     5995      176         239         Automatic     Diesel       7.1 l/100 km     189 g/km         219999 "QUATTRO 3.0 TD
+4917 audi        Audi A5                black 05/2010   2010     8500      155         211         Manual        Petrol       7.3 l/100 km     173 g/km         132482 Coupe 2.0 TFSI 
+4918 audi        Audi A3                black 04/2010   2010     13430     92          125         Automatic     Petrol       5.9 l/100 km     138 g/km         159670 1.4 TFSI Sportb
+4919 audi        Audi A6                black 06/2010   2010     17000     125         170         Manual        Diesel       5.8 l/100 km     154 g/km         215000 2.0 TDI Avant- 
+4920 audi        Audi A1                black 12/2010   2010     5600      90          122         Automatic     Petrol       5.3 l/100 km     126 g/km         110500 1.4 TFSI S-tron
+4921 audi        Audi A8                black 02/2010   2010     5590      273         371         Automatic     Petrol                        - (g/km)         149000 Benzin/Gas. Aus
+4922 audi        Audi A3                black 12/2010   2010     20999     92          125         Manual        Petrol       5.7 l/100 km     132 g/km         168000 1.4 TFSI       
+4923 audi        Audi A4                black 10/2010   2010     8500      105         143         Manual        Diesel       5.5 l/100 km     144 g/km         287000 Lim. Attraction
+4924 audi        Audi A8                black 10/2010   2010     13999     258         351         Automatic     Diesel       7.6 l/100 km     201 g/km         179600 4.2 TDI quattro
+4925 audi        Audi A3                black 02/2010   2010     11885     147         200         Manual        Petrol       7.2 l/100 km     171 g/km         188539 2.0 TFSI S line
+4926 audi        Audi A4                black 07/2010   2010     5900      140         190         Manual        Diesel       6.2 l/100 km     164 g/km         330000 S line Sportpak
+4927 audi        Audi A3                black 04/2010   2010     5990      92          125         Manual        Petrol       5.7 l/100 km     135 g/km         195000 1.4 TFSI Ambiti
+4928 audi        Audi A6                black 10/2010   2010     8999      100         136         Manual        Diesel       5.3 l/100 km     139 g/km         175000 2.0 TDIe DPF   
+4929 audi        Audi A4                black 02/2010   2010     5900      105         143         Manual        Diesel       5.7 l/100 km     149 g/km         359438 2.0 TDI Attract
+4930 audi        Audi A5                black 04/2010   2010     11499     176         239         Automatic     Diesel       6.6 l/100 km     174 g/km         255000 3.0 TDI quattro
+4931 audi        Audi A3                black 08/2010   2010     9900      103         140         Manual        Diesel       4.6 l/100 km     119 g/km         143000 Cabriolet 2.0 T
+4932 audi        Audi A3                black 06/2010   2010     9999      92          125         Automatic     Petrol       5.9 l/100 km     138 g/km         144000 Sportback 1.4 T
+4933 audi        Audi A5                black 12/2010   2010     12999     176         239         Automatic     Diesel       6.6 l/100 km     - (g/km)         200000 A5 3.0 TDI Quat
+4934 audi        Audi A3                black 12/2010   2010     7800      92          125         Manual        Petrol       6.1 l/100 km     145 g/km         155000 1.4 TFSI Ambiti

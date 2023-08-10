@@ -1,0 +1,21 @@
+2226 audi        Audi A6                black 06/2003   2003     2700      120         163         Manual        Diesel       6.9 l/100 km     186 g/km         175000 Coupe 1.8 T    
+2227 audi        Audi TT                black 08/2003   2003     5000      132         179         Manual        Petrol       8.1 l/100 km     194 g/km         100000 A4 Cabriolet 2.
+2228 audi        Audi A4                black 05/2003   2003     3800      120         163         Manual        Diesel       7.2 l/100 km     - (g/km)         192000 Avant 1.9 TDI A
+2229 audi        Audi A4                black 07/2003   2003     1199      96          131         Automatic     Diesel       5.8 l/100 km     156 g/km         379556 Coupe 1.8 T    
+2230 audi        Audi A4                black 06/2003   2003     4890      110         150         Automatic     Petrol       7.7 l/100 km     185 g/km         245121 Avant 2.0 FSI K
+2231 audi        Audi A6                black 08/2003   2003     3500      120         163         Manual        Diesel       6.9 l/100 km     186 g/km         217121 Avant 2.5 TDI  
+2232 audi        Audi A4                black 03/2003   2003     7499      140         190         Manual        Petrol       9.2 l/100 km     221 g/km         230000 Avant 1.8 T qua
+2233 audi        Audi TT                black 01/2003   2003     9850      110         150         Manual        Petrol       7.6 l/100 km     - (g/km)         100000 Liebhaber-Voll-
+2234 audi        Audi A4                black 05/2003   2003     2999      96          131         Manual        Petrol       8.2 l/100 km     197 g/km         168500 2.0 Avant (8E) 
+2235 audi        Audi A4                black 03/2003   2003     12345     96          131         Automatic     Petrol       7.9 l/100 km     - (g/km)         287892 2              
+2236 audi        Audi A4                black 04/2003   2003     15900     162         220         Manual        Petrol       9.7 l/100 km     233 g/km         90000  Cabriolet 3.0-T
+2237 audi        Audi A4                black 09/2003   2003     6500      120         163         Manual        Petrol                        - (g/km)         181000 cabrio         
+2238 audi        Audi A8                black 05/2003   2003     2999      206         280         Automatic     Petrol       11.9 l/100 km    286 g/km         399999 3.7 quattro NAV
+2239 audi        Audi TT                black 04/2003   2003     4999      110         150         Manual        Petrol       8.2 l/100 km     197 g/km         95238  1.8 T Coupe Spo
+2240 audi        Audi A4                black 04/2003   2003     3299      120         163         Automatic     Diesel       7.2 l/100 km     - (g/km)         275000 Cabriolet 2.5 T
+2241 audi        Audi A3                black 07/2003   2003     5200      75          102         Manual        Petrol       7 l/100 km       168 g/km         190700 1.6 Ambiente   
+2242 audi        Audi A2                black 11/2003   2003     1550      55          75          Manual        Petrol       5.9 l/100 km     - (g/km)         108000 A2 1.4         
+2243 audi        Audi A4                black 05/2003   2003     2570      120         163         Manual        Diesel       6.8 l/100 km     184 g/km         247000 2.5 TDI        
+2244 audi        Audi A4                black 07/2003   2003     3650      96          131         Manual        Petrol       8 l/100 km       - (g/km)         255000 A4 Avant 2.0   
+2245 audi        Audi A4                black 11/2003   2003     1900      96          131         Automatic     Petrol                        - (g/km)         218713 2              
+2246 audi        Audi A3                black 01/2003   2003     6590      74          101         Manual        Diesel       5 l/100 km       - (g/km)         398232 1.9 TDI Ambient

@@ -1,0 +1,21 @@
+6993 audi        Audi A1                black 09/2012   2012     9990      63          86          Manual        Petrol       5.1 l/100 km     121 g/km         82000  Sportb- Ambit. 
+6994 audi        Audi A4                silver12/2012   2012     13000     105         143         Manual        Diesel       4.7 l/100 km     124 g/km         135000 Avant 2.0 TDI D
+6995 audi        Audi A4 allroad        silver06/2012   2012     17990     180         245         Automatic     Diesel       6.2 l/100 km     164 g/km         178000 3.0 TDI S troni
+6996 audi        Audi Q7                silver06/2012   2012     22300     180         245         Automatic     Diesel       7.4 l/100 km     196 g/km         220000 3.0 TDI clean d
+6997 audi        Audi A4 allroad        silver10/2012   2012     12500     155         211         Manual        Petrol       7.2 l/100 km     171 g/km         194000 quattro 2.0 TFS
+6998 audi        Audi A7                silver05/2012   2012     26990     150         204         Automatic     Diesel       5.1 l/100 km     135 g/km         56000  3.0 TDI /S-LINE
+6999 audi        Audi A4                silver05/2012   2012     13999     105         143         Manual        Diesel       4.7 l/100 km     125 g/km         100000 Avant Ambition-
+7000 audi        Audi A4                silver07/2012   2012     14999     105         143         Automatic     Diesel       4.9 l/100 km     155 g/km         97400  Avant 2.0 TDI A
+7001 audi        Audi Q3                silver10/2012   2012     17490     130         177         Automatic     Diesel       5.9 l/100 km     156 g/km         116084 2.0 TDI Quattro
+7002 audi        Audi A3                silver01/2012   2012     12550     103         140         Manual        Diesel       5.3 l/100 km     140 g/km         99807  Cabriolet Ambit
+7003 audi        Audi A6                silver02/2012   2012     14480     132         179         Automatic     Petrol       6.5 l/100 km     154 g/km         155000 2.0 TFSI ASP pl
+7004 audi        Audi A3                silver09/2012   2012     11990     77          105         Automatic     Diesel       4.3 l/100 km     112 g/km         124000 Sportback 1.6 T
+7005 audi        Audi A4                silver05/2012   2012     11300     125         170         Automatic     Petrol       6.1 l/100 km     145 g/km         163000 Attraction Avan
+7006 audi        Audi A3                silver09/2012   2012     10999     77          105         Manual        Petrol                        - (g/km)         56000  1.2 TFSI Attrac
+7007 audi        Audi A6                silver02/2012   2012     25990     220         299         Automatic     Petrol       8.2 l/100 km     190 g/km         99980  Avant 3.0 TFSI 
+7008 audi        Audi A6                silver06/2012   2012     14900     130         177         Automatic     Diesel       5 l/100 km       132 g/km         160800 2.0 TDI Avant (
+7009 audi        Audi A4                silver05/2012   2012     14999     132         179         Automatic     Petrol       7.1 l/100 km     167 g/km         144863 2.0 TFSI multit
+7010 audi        Audi A4                silver08/2012   2012     12990     125         170         Manual        Petrol       6.1 l/100 km     145 g/km         150000 Avant Ambition 
+7011 audi        Audi A3                silver06/2012   2012     8490      66          90          Manual        Diesel       4.5 l/100 km     119 g/km         150000 SPORTBACK 1.6 T
+7012 audi        Audi A6                silver04/2012   2012     15200     130         177         Automatic     Diesel       5.1 l/100 km     - (g/km)         154000 A6 Avant 2.0 TD
+7013 audi        Audi Q3                silver11/2012   2012     15500     155         211         Automatic     Petrol       7.7 l/100 km     - (g/km)         113000 Q3 2.0 TFSI qua

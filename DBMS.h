@@ -27,23 +27,40 @@ public:
         DM->disk->updateFreeSpace();
         return data;
     }
+
+    void tiposBusqueda (int opc)
+    {
+        //
+        //if(opc==1)
+    }
+
     void sql_Request(string data,int opt)
     {
         // idRegistro       route                                            bloque
         // 100              titanic/plato2/superficie1/pista4/sector5           3
         Item <int> * item = DM->disk->btree->searchItemById(stoi(data));
+        cout<<"\tInformacion obtenida del arbol: "<<item->route<<endl;
+        cout<<"\t\t idBloque  sectorBloque numLineaSector"<endl;
+
+
         stringstream ss(item->route);
         int nroBloque;
         ss>>nroBloque;
         Bloque *bloq = DM->directorioBloques[nroBloque];
+        cout<<"\tBloque recuperado (id): "<<nroBloque<<endl;
 
         BM->insertPage(nroBloque,bloq);
         //BM->modifyPage(nroBloque,2);
+        cout<<"\tInsertadon en la pagina: "<<nroBloque<<endl;
 
         switch (opt) {
-            case 1:
+            case 1:{
                 //select
+
+
+
                 break;
+            }
             case 2: {
                 string freeSpaceDisk = getFreeSpace();
                 std::istringstream iss(freeSpaceDisk);

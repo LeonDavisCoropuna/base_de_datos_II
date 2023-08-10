@@ -1,0 +1,21 @@
+10962audi        Audi A3                white 02/2015   2015     22490     110         150         Automatic     Petrol       4.9 l/100 km     116 g/km         76500  Cabriolet S Lin
+10963audi        Audi RS4               white 04/2015   2015     51900     331         450         Automatic     Petrol       10.7 l/100 km    249 g/km         80000  SPORTABGAS*CARB
+10964audi        Audi A4                white 09/2015   2015     12890     110         150         Automatic     Diesel                        - (g/km)         203450 Avant Ambiente 
+10965audi        Audi TT                white 04/2015   2015     26999     169         230         Automatic     Petrol       6.9 l/100 km     158 g/km         112670 2.0TFSI 230PS R
+10966audi        Audi A8                white 08/2015   2015     38490     320         435         Automatic     Petrol       9.3 l/100 km     215 g/km         49000  4.0 TFSI quattr
+10967audi        Audi TTS               white 07/2015   2015     33200     228         310         Automatic     Petrol       6.7 l/100 km     159 g/km         92200  "Coupe S-tronic
+10968audi        Audi TT                white 06/2015   2015     20990     135         184         Manual        Diesel       4.7 l/100 km     124 g/km         121400 Coupe 2.0 TDI C
+10969audi        Audi A6                white 02/2015   2015     21500     140         190         Automatic     Diesel       4.6 l/100 km     - (g/km)         142000 A6 Avant 2.0 TD
+10970audi        Audi RS3               white 06/2015   2015     39890     353         480         Automatic     Petrol       8.1 l/100 km     192 g/km         60561  Sportback 2.5 T
+10971audi        Audi A4                white 08/2015   2015     21999     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         136854 Avant Ambiente 
+10972audi        Audi A7                white 11/2015   2015     27399     240         326         Automatic     Diesel       6.1 l/100 km     162 g/km         185000 Sportback 3.0 T
+10973audi        Audi A6                white 05/2015   2015     24890     160         218         Automatic     Diesel       5.3 l/100 km     138 g/km         161000 AVANT 3.0 TDI Q
+10974audi        Audi A4                white 08/2015   2015     24950     165         224         Automatic     Petrol       6.7 l/100 km     159 g/km         72331  Avant S LINE PL
+10975audi        Audi A7                white 06/2015   2015     24990     230         313         Automatic     Diesel       6.4 l/100 km     170 g/km         161000 Sportback 3.0 T
+10976audi        Audi Q5                white 02/2015   2015     22750     190         258         Automatic     Diesel       5.9 l/100 km     156 g/km         169000 3.0 TDI Quattro
+10977audi        Audi SQ5               white 12/2015   2015     17999     240         326         Automatic     Diesel       6.6 l/100 km     - (g/km)         280000 3.0 TDI quattro
+10978audi        Audi S1                white 09/2015   2015     25000     224         305         Manual        Petrol       7 l/100 km       162 g/km         53000  2.0 TDI design 
+10979audi        Audi Q3                white 06/2015   2015     16500     110         150         Manual        Diesel       4.5 l/100 km     117 g/km         99800  1.8 TFSI Ambiti
+10980audi        Audi A3                white 12/2015   2015     16670     132         179         Manual        Petrol       5.8 l/100 km     138 g/km         77831  4.2 TDI  quattr
+10981audi        Audi A8                white 05/2015   2015     32890     283         385         Automatic     Diesel       7.5 l/100 km     196 g/km         99900  Lim. S-Line Nav
+10982audi        Audi A4                white 11/2015   2015     16890     110         150         Manual        Diesel       4.4 l/100 km     117 g/km         96400  3.0 TDI quattro

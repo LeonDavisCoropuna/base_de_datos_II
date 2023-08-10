@@ -1,0 +1,21 @@
+4095 audi        Audi A6                blue  11/2009   2009     11400     140         190         Automatic     Diesel       6.5 l/100 km     172 g/km         287000 A6 2.7 TDI*Aut*
+4096 audi        Audi A3                blue  12/2009   2009     9599      110         150         Unknown       Diesel                        - (g/km)         122000 Audi A3 Busines
+4097 audi        Audi Q5                blue  02/2009   2009     13000     155         211         Automatic     Petrol       8.1 l/100 km     188 g/km         173304 2.0 TFSI quattr
+4098 audi        Audi A5                blue  09/2009   2009     13000     155         211         Automatic     Petrol       7.7 l/100 km     - (g/km)         155000 A5 Cabrio 2.0 T
+4099 audi        Audi A4                blue  09/2009   2009     10800     105         143         Automatic     Diesel       5 l/100 km       131 g/km         184000 2.0 TDI DPF S l
+4100 audi        Audi A3                blue  03/2009   2009     9000      92          125         Automatic     Petrol       5.3 l/100 km     - (g/km)         120000 A3 1.4 TFSI    
+4101 audi        Audi A5                blue  12/2009   2009     9499      176         239         Automatic     Diesel       6.6 l/100 km     174 g/km         295690 3.0 TDI Sportba
+4102 audi        Audi A4                blue  06/2009   2009     10990     118         160         Manual        Petrol       7.1 l/100 km     - (g/km)         197000 1.8 TFSI Ambiti
+4103 audi        Audi A6                blue  11/2009   2009     8900      140         190         Automatic     Diesel       7.1 l/100 km     189 g/km         306000 2.7 TDI DPF qua
+4104 audi        Audi A5                blue  12/2009   2009     9499      176         239         Automatic     Diesel       6.6 l/100 km     174 g/km         297750 3.0 TDI Sportba
+4105 audi        Audi A3                blue  03/2009   2009     8950      75          102         Manual        Petrol       7 l/100 km       167 g/km         173000 Cabriolet 1.6 K
+4106 audi        Audi A4                blue  10/2009   2009     9000      105         143         Manual        Diesel       5.2 l/100 km     - (g/km)         257778 A4 Avant 2.0 TD
+4107 audi        Audi A3                blue  07/2009   2009     8999      75          102         Manual        Petrol       6.9 l/100 km     164 g/km         106500 Sportback 1.6|2
+4108 audi        Audi A3                blue  06/2009   2009     8450      75          102         Manual        Petrol                        - (g/km)         81400  1.6 Attraction 
+4109 audi        Audi A6                blue  12/2009   2009     6200      140         190         Automatic     Diesel       6.5 l/100 km     172 g/km         390000 A6 Avant 2.7 TD
+4110 audi        Audi A6                blue  09/2009   2009     7998      140         190         Automatic     Diesel       7.1 l/100 km     189 g/km         268000 Avant 2.7 TDI D
+4111 audi        Audi A3                blue  04/2009   2009     6990      75          102         Manual        LPG          5.9 l/100 km     161 g/km         137000 1.6Attraction(8
+4112 audi        Audi A3                blue  11/2009   2009     5100      75          102         Manual        Petrol       6.8 l/100 km     162 g/km         215000 1.6 Ambition   
+4113 audi        Audi A3                blue  06/2009   2009     7300      92          125         Manual        Petrol       5.8 l/100 km     134 g/km         256800 1.4 TFSI Sportb
+4114 audi        Audi A3                blue  08/2009   2009     8450      66          90          Manual        Diesel       4.5 l/100 km     119 g/km         125000 Sportback 1.6 T
+4115 audi        Audi TT                grey  08/2009   2009     10950     118         160         Manual        Petrol       6.7 l/100 km     158 g/km         123000 Coupe 1.8 TFSI 

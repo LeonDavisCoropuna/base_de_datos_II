@@ -1,0 +1,21 @@
+2604 audi        Audi A6                blue  01/2005   2005     7490      188         256         Automatic     Petrol       11.1 l/100 km    266 g/km         267000 Lim. 3.2 FSI qu
+2605 audi        Audi A4                blue  06/2005   2005     3999      120         163         Manual        Diesel       6.9 l/100 km     - (g/km)         261473 A4 Avant 2.5 TD
+2606 audi        Audi A4                blue  09/2005   2005     6199      103         140         Manual        Diesel       5.9 l/100 km     158 g/km         158000 2.0 TDI TÜV Ne
+2607 audi        Audi A4                blue  05/2005   2005     8000      120         163         Manual        Petrol       8.2 l/100 km     - (g/km)         210000 Audi A4 B7 1.8T
+2608 audi        Audi A4                blue  03/2005   2005     5890      120         163         Manual        Petrol       8.7 l/100 km     208 g/km         166500 Cabriolet 1.8 T
+2609 audi        Audi A6                blue  10/2005   2005     5999      165         224         Automatic     Diesel       8.6 l/100 km     232 g/km         288591 3.0 TDI quattro
+2610 audi        Audi A4                blue  04/2005   2005     5490      147         200         Automatic     Petrol       8.3 l/100 km     199 g/km         246000 Avant 2.0 TFSI 
+2611 audi        Audi A6                blue  07/2005   2005     5499      130         177         Automatic     Petrol       9.6 l/100 km     229 g/km         195000 2.4 multitronic
+2612 audi        Audi S4                grey  08/2005   2005     8990      253         344         Automatic     LPG          12.4 l/100 km    298 g/km         153500 Avant 4.2 quatt
+2613 audi        Audi A3                grey  03/2005   2005     5500      110         150         Manual        Petrol       7.4 l/100 km     - (g/km)         174968 2.0 FSI Sportba
+2614 audi        Audi A6                grey  06/2005   2005     3900      130         177         Manual        LPG          9.8 l/100 km     233 g/km         270300 Avant 2.4      
+2615 audi        Audi A4                grey  01/2005   2005     7490      96          131         Automatic     Petrol       8.1 l/100 km     194 g/km         125000 Lim. 2.0 Top Zu
+2616 audi        Audi A4                grey  11/2005   2005     3500      120         163         Automatic     Diesel       6.9 l/100 km     186 g/km         260000 Avant 2.5 TDI m
+2617 audi        Audi A3                grey  09/2005   2005     5999      75          102         Manual        Petrol       7.3 l/100 km     175 g/km         213000 Sportback 1.6 T
+2618 audi        Audi A4                grey  07/2005   2005     2999      96          131         Automatic     Petrol       8 l/100 km       - (g/km)         218000 2.0 multitronic
+2619 audi        Audi A4                grey  05/2005   2005     4100      96          131         Automatic     Petrol       8.1 l/100 km     194 g/km         210876 2.0 Avant (8E)*
+2620 audi        Audi A3                grey  01/2005   2005     6999      147         200         Automatic     Petrol       7.9 l/100 km     190 g/km         218000 Sportback 2.0 T
+2621 audi        Audi A4                grey  01/2005   2005     4199      96          131         Manual        Petrol       8.2 l/100 km     197 g/km         245620 Lim. 2.0 TOP mi
+2622 audi        Audi A4                grey  12/2005   2005     6900      120         163         Manual        Petrol       8.7 l/100 km     208 g/km         157971 1.8 T Cabriolet
+2623 audi        Audi A3                grey  02/2005   2005     5650      103         140         Automatic     Diesel       5.9 l/100 km     159 g/km         327000 Sportback 2.0 T
+2624 audi        Audi A4                grey  03/2005   2005     8400      120         163         Automatic     Diesel       6.5 l/100 km     170 g/km         156990 Cabriolet 2.5 T

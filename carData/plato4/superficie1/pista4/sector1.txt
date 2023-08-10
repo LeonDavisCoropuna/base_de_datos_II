@@ -1,0 +1,21 @@
+19761audi        Audi A3                blue  06/2021   2021     30999     110         150         Automatic     Diesel       3.9 l/100 km     102 g/km         37500  Sportback 35 TD
+19762audi        Audi e-tron            blue  03/2021   2021     46890     230         313         Automatic     Electric                      280 km Reichweite14700  Sp. 50 quattro 
+19763audi        Audi e-tron            blue  01/2021   2021     56929     300         408         Automatic     Electric                      0 g/km           9850   ADVANCED 55 QUA
+19764audi        Audi A6                blue  04/2021   2021     59000     270         367         Automatic     Hybrid                        - (g/km)         28000  55 TFSI e quatt
+19765audi        Audi e-tron            blue  05/2021   2021     78950     370         503         Automatic     Electric                      347 km Reichweite11999  S Sportback qua
+19766audi        Audi Q4 e-tron         blue  05/2021   2021     59590     150         204         Automatic     Electric                      0 g/km           2734   40 e-tron s lin
+19767audi        Audi A3                blue  08/2021   2021     33000     110         150         Automatic     Petrol       6.2 l/100 km     140 g/km         10000  35 TFSI- S tron
+19768audi        Audi e-tron            blue  10/2021   2021     83900     370         503         Automatic     Electric                      352 km Reichweite7202   S quattro      
+19769audi        Audi A1                blue  09/2021   2021     26940     81          110         Automatic     Petrol       4.8 l/100 km     109 g/km         20222  Sportback Advan
+19770audi        Audi TT                blue  10/2021   2021     39790     145         197         Automatic     Petrol       5.8 l/100 km     132 g/km         6912   40 TFSI S troni
+19771audi        Audi Q5                blue  04/2021   2021     49980     150         204         Automatic     Diesel       5.3 l/100 km     139 g/km         32187  40 TDI Q Matrix
+19772audi        Audi e-tron            blue  08/2021   2021     62839     300         408         Automatic     Petrol                        0 g/km           17321  55 quattro *Mat
+19773audi        Audi A6                blue  03/2021   2021     39470     180         245         Automatic     Diesel       6 l/100 km       159 g/km         64728  Avant 45 TDI qu
+19774audi        Audi Q5                blue  12/2021   2021     46980     150         204         Automatic     Diesel       6.3 l/100 km     165 g/km         20900  S line S line 4
+19775audi        Audi A3                blue  12/2021   2021     31699     110         150         Automatic     Petrol       4.7 l/100 km     107 g/km         8200   Lim. 35 TFSI ad
+19776audi        Audi A6                blue  02/2021   2021     34980     120         163         Automatic     Diesel       4.6 l/100 km     120 g/km         46600  Lim. 35 TDI des
+19777audi        Audi Q4 e-tron         blue  09/2021   2021     60850     220         299         Automatic     Electric                      420 km Reichweite4425   50 quattro Matr
+19778audi        Audi A4                blue  03/2021   2021     38500     120         163         Automatic     Diesel                        - (g/km)         23000  Limousine advan
+19779audi        Audi Q2                blue  03/2021   2021     29980     110         150         Automatic     Petrol       6 l/100 km       137 g/km         18400  S line 35 TFSI 
+19780audi        Audi A1                blue  11/2021   2021     31815     152         207         Automatic     Petrol       6.5 l/100 km     149 g/km         4199   Sportback S lin
+19781audi        Audi A3                blue  06/2021   2021     31890     110         150         Automatic     Hybrid                        59 km Reichweite 27747  45 TFSI e S lin

@@ -1,0 +1,21 @@
+6405 audi        Audi A6                grey  09/2012   2012     27500     228         310         Automatic     Petrol       8.2 l/100 km     194 g/km         63200  3.0 TFSI quattr
+6406 audi        Audi A6                grey  05/2012   2012     18990     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         130800 Lim. 3.0 TDI Qu
+6407 audi        Audi A3                grey  06/2012   2012     12900     92          125         Manual        Petrol       6.1 l/100 km     145 g/km         95000  Sportback 1.4 T
+6408 audi        Audi Q5                grey  11/2012   2012     15800     130         177         Automatic     Diesel       6 l/100 km       159 g/km         184000 2.0 TDI QUATTRO
+6409 audi        Audi A6                grey  01/2012   2012     11400     150         204         Automatic     Diesel       5.7 l/100 km     149 g/km         319900 3.0 TDI quattro
+6410 audi        Audi A5                grey  12/2012   2012     11700     180         245         Manual        Diesel       5.8 l/100 km     - (g/km)         251563 A5 3.0 TDI Spor
+6411 audi        Audi A3                grey  08/2012   2012     8450      92          125         Manual        Petrol       6.1 l/100 km     145 g/km         99500  1.4 TFSI Attrac
+6412 audi        Audi A5                grey  09/2012   2012     14955     180         245         Automatic     Diesel       5.7 l/100 km     - (g/km)         191000 3.0 TDI Sportba
+6413 audi        Audi A3                grey  07/2012   2012     9600      147         200         Automatic     Petrol       7.3 l/100 km     168 g/km         132500 2.0 TFSI S tron
+6414 audi        Audi A4                grey  04/2012   2012     14999     125         170         Manual        Petrol       5.7 l/100 km     135 g/km         39000  Ambiente Scheck
+6415 audi        Audi Q3                grey  06/2012   2012     15500     130         177         Automatic     Diesel       5.9 l/100 km     156 g/km         119630 2.0 TDI quattro
+6416 audi        Audi A4                grey  02/2012   2012     11800     105         143         Manual        Diesel       5.5 l/100 km     144 g/km         152216 Ambiente Lim. (
+6417 audi        Audi A5                grey  06/2012   2012     19999     180         245         Automatic     Diesel       5.8 l/100 km     154 g/km         146000 Sportback 3.0 T
+6418 audi        Audi A4                grey  05/2012   2012     11500     125         170         Manual        Diesel       5.1 l/100 km     - (g/km)         145000 2.0 tdi Advance
+6419 audi        Audi A6                grey  06/2012   2012     19499     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         160000 3.0 TDI Quattro
+6420 audi        Audi A6                grey  11/2012   2012     15490     130         177         Manual        Diesel       4.9 l/100 km     130 g/km         185447 Lim. 2.0 TDI  S
+6421 audi        Audi A5                grey  01/2012   2012     19900     180         245         Automatic     Diesel       5.8 l/100 km     154 g/km         159000 Sportback 3.0 T
+6422 audi        Audi A5                grey  05/2012   2012     17500     150         204         Automatic     Diesel       4.9 l/100 km     - (g/km)         175000 3.0 TDI Sportba
+6423 audi        Audi A6                grey  09/2012   2012     16499     132         179         Automatic     Petrol                        - (g/km)         78724  2.0 TFSI- Limou
+6424 audi        Audi A7                grey  12/2012   2012     19950     230         313         Automatic     Diesel       6.4 l/100 km     170 g/km         215000 Sportback 3.0 T
+6425 audi        Audi A3                grey  10/2012   2012     13990     118         160         Manual        Petrol       6.8 l/100 km     161 g/km         87500  Cabrio S-Line P

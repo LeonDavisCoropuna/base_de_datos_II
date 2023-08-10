@@ -1,0 +1,21 @@
+231  alfa-romeo  Alfa Romeo Sportwagon  black 12/2007   2007     4950      147         200         Manual        Diesel       6.9 l/100 km     183 g/km         180000 2.4 JTDM 20Ve D
+232  alfa-romeo  Alfa Romeo 159         black 08/2007   2007     3800      147         200         Manual        Diesel       6.8 l/100 km     179 g/km         249000 Spider 2.2 JTS 
+233  alfa-romeo  Alfa Romeo Spider      black 07/2007   2007     9900      136         185         Manual        Petrol       9.4 l/100 km     221 g/km         193000 Sportwagon 1.9 
+234  alfa-romeo  Alfa Romeo 159         black 05/2007   2007     3650      110         150         Automatic     Diesel       7.2 l/100 km     190 g/km         260000 159 Sportwagon 
+235  alfa-romeo  Alfa Romeo 159         black 07/2007   2007     3500      110         150         Manual        Diesel       6.1 l/100 km     - (g/km)         203000 2.2 JTS 16V Exc
+236  alfa-romeo  Alfa Romeo Spider      black 10/2007   2007     10797     136         185         Manual        Petrol       9.4 l/100 km     221 g/km         156000 1.9 JTD 8V M-Je
+237  alfa-romeo  Alfa Romeo 147         black 12/2007   2007     2500      88          120         Manual        Diesel       5.8 l/100 km     - (g/km)         230000 2.4JTDM 20V DPF
+238  alfa-romeo  Alfa Romeo Spider      black 03/2007   2007     10700     147         200         Manual        Diesel       6.8 l/100 km     - (g/km)         166500 2.2 JTS 16V Exc
+239  alfa-romeo  Alfa Romeo Spider      black 04/2007   2007     15990     136         185         Manual        Petrol       9.4 l/100 km     221 g/km         126700 Sportwagon 1.9 
+240  alfa-romeo  Alfa Romeo 159         silver11/2007   2007     11500     191         260         Automatic     Petrol       12.3 l/100 km    - (g/km)         111000 159 Sportwagon 
+241  alfa-romeo  Alfa Romeo 159         silver07/2007   2007     3000      110         150         Manual        Diesel       6 l/100 km       - (g/km)         197000 1.9 JTDM 16V DP
+242  alfa-romeo  Alfa Romeo 159         silver03/2007   2007     1099      147         200         Automatic     Diesel       8.1 l/100 km     - (g/km)         200000 Sportwagon 2.4 
+243  alfa-romeo  Alfa Romeo 159         grey  02/2008   2008     7900      191         260         Manual        Petrol       12.2 l/100 km    289 g/km         117000 3.2 JTS V6 24V 
+244  alfa-romeo  Alfa Romeo Spider      grey  06/2008   2008     13500     147         200         Automatic     Diesel       7.9 l/100 km     - (g/km)         92500  Spider 2.4 JTDM
+245  alfa-romeo  Alfa Romeo Spider      grey  06/2008   2008     10020     134         182         Manual        Petrol       9.2 l/100 km     218 g/km         164300 2.2 JTS 16V    
+246  alfa-romeo  Alfa Romeo 159         grey  10/2008   2008     3600      110         150         Manual        Diesel       6 l/100 km       159 g/km         142000 Sportwagon 1.9 
+247  alfa-romeo  Alfa Romeo MiTo        red   07/2008   2008     4900      114         155         Manual        Petrol       6.5 l/100 km     153 g/km         158122 Turismo        
+248  alfa-romeo  Alfa Romeo MiTo        red   10/2008   2008     4400      114         155         Manual        Petrol       6.5 l/100 km     153 g/km         139000 Turismo~TEMPOMA
+249  alfa-romeo  Alfa Romeo Spider      red   05/2008   2008     15920     147         200         Manual        Diesel       6.8 l/100 km     - (g/km)         117000 Spider 2.4 JTDM
+250  alfa-romeo  Alfa Romeo MiTo        red   10/2008   2008     4500      70          95          Manual        Petrol       5.9 l/100 km     - (g/km)         140000 1.4            
+251  alfa-romeo  Alfa Romeo 147         black 11/2008   2008     3390      77          105         Manual        Petrol       8.2 l/100 km     196 g/km         138061 *Allwetterreife

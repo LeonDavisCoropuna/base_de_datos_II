@@ -1,0 +1,21 @@
+13650audi        Audi RS5               green 12/2017   2017     63200     331         450         Automatic     Petrol                        0 g/km           41000  Coupé 2-9 TFSI
+13651audi        Audi A3                      12/2017   2017     16830     81          110         Automatic     Petrol       5.4 l/100 km     124 g/km         100976 Sportback sport
+13652audi        Audi A3                      12/2017   2017     16830     81          110         Automatic     Petrol       5.4 l/100 km     124 g/km         100976 Sportback sport
+13653audi        Audi Q2                red   06/2017   2017     23990     110         150         Automatic     Petrol       5.2 l/100 km     119 g/km         72515  nza 1.4 TFSI LE
+13654audi        Audi A1                red   05/2017   2017     13750     60          82          Manual        Petrol       4.4 l/100 km     102 g/km         27527  Design         
+13655audi        Audi A6                red   06/2017   2017     38890     240         326         Automatic     Diesel       6 l/100 km       159 g/km         123552 Lim. COMP.*S LI
+13656audi        Audi S1                red   01/2017   2017     19780     170         231         Manual        Petrol       7.1 l/100 km     166 g/km         104412 2-0 quattro TFS
+13657audi        Audi A7                red   09/2017   2017     38450     240         326         Automatic     Diesel       6.3 l/100 km     167 g/km         103819 3.0TDI competit
+13658audi        Audi Q2                red   08/2017   2017     23690     140         190         Automatic     Diesel       4.9 l/100 km     128 g/km         90605  2-0 TDI Sport q
+13659audi        Audi A5                red   10/2017   2017     22900     140         190         Manual        Diesel       4.4 l/100 km     114 g/km         157300 Sportsback     
+13660audi        Audi A4                red   08/2017   2017     33880     160         218         Automatic     Diesel       4.9 l/100 km     129 g/km         14000  quattro sport 3
+13661audi        Audi A3                red   06/2017   2017     18900     85          116         Manual        Petrol       4.8 l/100 km     110 g/km         29100  Sportback  Navi
+13662audi        Audi RS5               red   10/2017   2017     62000     331         450         Automatic     Petrol       8.7 l/100 km     - (g/km)         34000  Vollausgestatte
+13663audi        Audi S6                red   02/2017   2017     42500     331         450         Automatic     Petrol       9.4 l/100 km     - (g/km)         96000  Avant          
+13664audi        Audi A5                red   02/2017   2017     29500     185         252         Automatic     Petrol       5.9 l/100 km     - (g/km)         67000  Coupe 2.0 TFSI 
+13665audi        Audi A4                red   02/2017   2017     21888     200         272         Automatic     Diesel       5.4 l/100 km     142 g/km         185922 AVANT 3.0TDi Q 
+13666audi        Audi RS3               red   01/2017   2017     37388     294         400         Automatic     Petrol       8.3 l/100 km     188 g/km         97500  RS3 Limousine P
+13667audi        Audi A5                red   07/2017   2017     23900     140         190         Automatic     Petrol       5.9 l/100 km     133 g/km         92827  Sportback 2.0 T
+13668audi        Audi A6                red   06/2017   2017     33500     240         326         Automatic     Diesel       6.4 l/100 km     164 g/km         196000 A6 Avant 3.0 TD
+13669audi        Audi A5                red   10/2017   2017     29488     140         190         Automatic     Diesel       4.5 l/100 km     117 g/km         64400  Sportback 2.0 T
+13670audi        Audi RS3               red   01/2017   2017     37388     294         400         Automatic     Petrol       8.3 l/100 km     188 g/km         97500  RS3 Limousine P

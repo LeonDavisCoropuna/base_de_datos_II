@@ -1,0 +1,21 @@
+3339 audi        Audi A6                black 12/2007   2007     11850     154         209         Automatic     Petrol       8.8 l/100 km     209 g/km         132451 Lim. 2.8 FSI*S 
+3340 audi        Audi A6                black 01/2007   2007     3300      154         209         Manual        Petrol       8.7 l/100 km     207 g/km         304000 Lim. 2.8 FSI   
+3341 audi        Audi A6                black 03/2007   2007     7500      171         232         Automatic     Diesel       8.5 l/100 km     - (g/km)         240000 3.0 TDI QUATTRO
+3342 audi        Audi A6                black 10/2007   2007     2999      132         179         Automatic     Diesel       7.7 l/100 km     206 g/km         331527 Avant 2.7 TDI-A
+3343 audi        Audi A8                black 09/2007   2007     7500      171         232         Semi-automaticDiesel       8.5 l/100 km     - (g/km)         274000 3-0 TDI V6 quat
+3344 audi        Audi A6                black 01/2007   2007     5999      257         349         Automatic     Petrol       11.2 l/100 km    267 g/km         225000 Avant 4.2 FSI q
+3345 audi        Audi A4                black 09/2007   2007     7500      125         170         Manual        Diesel       5.8 l/100 km     - (g/km)         160000 A4 Avant 2.0 TD
+3346 audi        Audi R8                black 06/2007   2007     66000     309         420         Automatic     Petrol       13.3 l/100 km    - (g/km)         77000  4.2 FSI quattro
+3347 audi        Audi A8                black 06/2007   2007     11499     171         232         Automatic     Diesel       8.7 l/100 km     231 g/km         234587 3.0 TDI quattro
+3348 audi        Audi A3                black 06/2007   2007     6499      118         160         Manual        Petrol       7.2 l/100 km     171 g/km         158760 1.8 TFSI Sportb
+3349 audi        Audi S3                black 05/2007   2007     9999      257         349         Manual        Petrol                        - (g/km)         201000 Quattro        
+3350 audi        Audi A3                black 12/2007   2007     12999     184         250         Automatic     Petrol       10 l/100 km      240 g/km         146000 3.2 S line Spor
+3351 audi        Audi A6                black 12/2007   2007     6990      132         179         Automatic     Diesel       8.6 l/100 km     229 g/km         247000 Lim. 2.7 TDI qu
+3352 audi        Audi A4                black 12/2007   2007     3500      85          116         Manual        Diesel       5.5 l/100 km     146 g/km         320000 Avant 1.9 TDI e
+3353 audi        Audi A4                black 12/2007   2007     13300     171         232         Automatic     Diesel       8.5 l/100 km     - (g/km)         169000 A4 Cabriolet 3.
+3354 audi        Audi S5                black 09/2007   2007     21000     260         354         Manual        Petrol       12.1 l/100 km    283 g/km         121000 A6 2.0 TDI DPF 
+3355 audi        Audi A6                black 09/2007   2007     6199      103         140         Manual        Diesel       6.3 l/100 km     - (g/km)         240000 Avant 2.7 TDI S
+3356 audi        Audi A6                black 02/2007   2007     5990      132         179         Automatic     Diesel       7.7 l/100 km     206 g/km         243000 2.0 TDI Sportba
+3357 audi        Audi A3                black 12/2007   2007     9999      103         140         Manual        Diesel       6 l/100 km       159 g/km         208761 TDI/S-LINE/LEDE
+3358 audi        Audi A3                black 12/2007   2007     6999      103         140         Manual        Diesel       5.5 l/100 km     - (g/km)         174000 Coupe/Roadster 
+3359 audi        Audi TT                black 09/2007   2007     7700      147         200         Manual        Petrol       7.7 l/100 km     183 g/km         198000 Avant 2.0 TDI  

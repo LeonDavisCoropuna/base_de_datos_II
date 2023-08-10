@@ -1,0 +1,21 @@
+15981audi        Audi A5                silver07/2018   2018     26800     185         252         Automatic     Petrol       5.9 l/100 km     133 g/km         126113 "Sportback spor
+15982audi        Audi Q7                silver10/2018   2018     45800     210         286         Automatic     Diesel       6.9 l/100 km     180 g/km         125000 3.0 TDI 50 quat
+15983audi        Audi A3                silver06/2018   2018     16488     85          116         Manual        Diesel       4.1 l/100 km     108 g/km         79423  Limousine sport
+15984audi        Audi A3                silver11/2018   2018     24900     85          116         Manual        Diesel       4.4 l/100 km     117 g/km         39561  Lim. 30 TDI bas
+15985audi        Audi A6                silver11/2018   2018     35890     170         231         Automatic     Diesel       5.9 l/100 km     155 g/km         69800  Avant 45 TDI qu
+15986audi        Audi A6                silver03/2018   2018     32100     240         326         Automatic     Diesel       6.2 l/100 km     164 g/km         161000 Avant 3.0 TDI c
+15987audi        Audi A3                silver08/2018   2018     21899     110         150         Manual        Petrol       5.1 l/100 km     117 g/km         54935  1.5 TFSI sport 
+15988audi        Audi Q5                silver05/2018   2018     36750     210         286         Automatic     Diesel       6.2 l/100 km     162 g/km         96000  3.0 TDI quattro
+15989audi        Audi A3                silver05/2018   2018     20780     150         204         Automatic     Hybrid                        38 g/km          133000 1.4  e-tron Pan
+15990audi        Audi A3                silver05/2018   2018     19440     110         150         Manual        Diesel       4.4 l/100 km     111 g/km         108500 Sport 2.0TDI Xe
+15991audi        Audi Q7                silver03/2018   2018     40799     170         231         Automatic     Diesel       7 l/100 km       181 g/km         120000 45 TDI quattro 
+15992audi        Audi A4                silver02/2018   2018     22990     200         272         Automatic     Diesel       5.2 l/100 km     137 g/km         154990 Lim.Quattro Spo
+15993audi        Audi A3                silver07/2018   2018     23890     150         204         Automatic     Hybrid       1.8 l/100 km     40 g/km          80000  Sportback e-tro
+15994audi        Audi A6                silver07/2018   2018     41750     210         286         Automatic     Diesel       7.1 l/100 km     187 g/km         49998  Lim 50 TDI qu S
+15995audi        Audi A4                silver06/2018   2018     25900     140         190         Automatic     Diesel                        0 g/km           88480  Lim 2.0 TDI*NAV
+15996audi        Audi S3                silver06/2018   2018     35000     228         310         Automatic     Petrol       6.4 l/100 km     - (g/km)         96000  Limousine S tro
+15997audi        Audi A4                silver12/2018   2018     21500     140         190         Automatic     Diesel       6.2 l/100 km     162 g/km         144933 Av 40 TDI qu sp
+15998audi        Audi A1                silver07/2018   2018     16900     70          95          Manual        Petrol       4.4 l/100 km     102 g/km         27900  Sportback 1.0 T
+15999audi        Audi Q3                silver08/2018   2018     21490     92          125         Manual        Petrol                        - (g/km)         34174  1.4 TFSI Sport 
+16000audi        Audi A4                silver06/2018   2018     22590     110         150         Automatic     Diesel       4.2 l/100 km     109 g/km         72100  Avant 2.0 TDI S
+16001audi        Audi Q2                silver12/2018   2018     21500     85          116         Manual        Petrol       5.1 l/100 km     117 g/km         64500  30 TFSI design 

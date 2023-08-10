@@ -1,0 +1,21 @@
+10941audi        Audi A3                silver03/2015   2015     18190     110         150         Manual        Diesel       4.2 l/100 km     111 g/km         89000  Lim. quattro de
+10942audi        Audi A4                silver09/2015   2015     25999     200         272         Automatic     Diesel       5.2 l/100 km     137 g/km         132300 2.0 TFSI sport 
+10943audi        Audi Q3                silver10/2015   2015     20950     132         179         Automatic     Petrol                        0 g/km           82363  1.6 TDI Sportba
+10944audi        Audi A3                silver09/2015   2015     16790     81          110         Manual        Diesel       4 l/100 km       105 g/km         67500  Cabriolet 1.8 T
+10945audi        Audi A5                silver04/2015   2015     24990     125         170         Manual        Petrol       6.2 l/100 km     143 g/km         65412  Sportback Attra
+10946audi        Audi A3                silver04/2015   2015     15110     81          110         Manual        Petrol       4.9 l/100 km     116 g/km         138620 1.2 TFSI S line
+10947audi        Audi A3                silver11/2015   2015     17880     81          110         Automatic     Petrol       4.8 l/100 km     110 g/km         76800  "Avant 3.0 TDI 
+10948audi        Audi A6                silver02/2015   2015     31500     265         360         Automatic     Diesel       6.4 l/100 km     169 g/km         149990 design quattro 
+10949audi        Audi A1                violet05/2015   2015     11950     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         63000  Sportback 1.2 T
+10950audi        Audi A3                violet03/2015   2015     13990     81          110         Automatic     Petrol       4.8 l/100 km     - (g/km)         75000  1.2 TFSI Sportb
+10951audi        Audi A3                violet03/2015   2015     15000     92          125         Manual        Petrol       5.2 l/100 km     - (g/km)         43000  A3 1.4 TFSI Lim
+10952audi        Audi A5                violet02/2015   2015     20490     165         224         Automatic     Petrol       6.7 l/100 km     155 g/km         99980  2.0 TFSI quattr
+10953audi        Audi A1                violet12/2015   2015     15990     110         150         Manual        Petrol       4.7 l/100 km     109 g/km         64047  1.4 TFSI*NAVI*P
+10954audi        Audi A1                violet03/2015   2015     18490     110         150         Manual        Petrol       4.7 l/100 km     109 g/km         52103  Sportback 1.4 T
+10955audi        Audi A1                white 05/2015   2015     11950     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         63000  Sportback 1.2 T
+10956audi        Audi A5                white 09/2015   2015     25950     180         245         Automatic     Diesel       6.4 l/100 km     167 g/km         84622  Cabrio 3.0 TDI 
+10957audi        Audi A3                white 11/2015   2015     14930     110         150         Manual        Diesel       3.8 l/100 km     101 g/km         135473 2.0TDI Ambition
+10958audi        Audi A3                white 11/2015   2015     14930     110         150         Manual        Diesel       3.8 l/100 km     101 g/km         135473 2.0TDI Ambition
+10959audi        Audi TT                white 06/2015   2015     28480     228         310         Automatic     Petrol       6.8 l/100 km     156 g/km         72000  Cabrio 2.0 TFSI
+10960audi        Audi A1                white 05/2015   2015     12490     85          116         Manual        Diesel                        - (g/km)         159063 Diesel Sportbac
+10961audi        Audi A5                white 09/2015   2015     21499     110         150         Manual        Diesel       4.7 l/100 km     125 g/km         69000  Cabriolet 2.0 T

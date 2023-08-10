@@ -1,0 +1,21 @@
+9660 audi        Audi A5                white 07/2014   2014     13900     125         170         Manual        Petrol       5.8 l/100 km     137 g/km         160520 Sportback 1.8 T
+9661 audi        Audi RS Q3             white 04/2014   2014     26780     301         409         Automatic     Petrol       8.8 l/100 km     209 g/km         70000  Rsq3 ABT|LEDER|
+9662 audi        Audi A3                white 04/2014   2014     13000     132         179         Automatic     Petrol       5.6 l/100 km     - (g/km)         160000 1.8 TFSI S tron
+9663 audi        Audi A1                white 09/2014   2014     9999      90          122         Manual        Petrol       5.3 l/100 km     124 g/km         126000 1.4 TFSI S line
+9664 audi        Audi S7                white 01/2014   2014     33990     412         560         Unknown       Petrol       9.6 l/100 km     228 g/km         97500  4.0 TFSI quattr
+9665 audi        Audi A7                white 10/2014   2014     20999     235         320         Automatic     Diesel       6.2 l/100 km     - (g/km)         185000 A7 3.0 TDI quat
+9666 audi        Audi A4                white 12/2014   2014     12200     125         170         Manual        Petrol       5.7 l/100 km     - (g/km)         125000 1.8 TFSI multit
+9667 audi        Audi Q5                white 04/2014   2014     15200     190         258         Automatic     Diesel       5.9 l/100 km     - (g/km)         180000 Q5 3.0 TDI (cle
+9668 audi        Audi S7                white 02/2014   2014     22500     309         420         Automatic     Petrol       9.6 l/100 km     228 g/km         153000 4.0 TFSI quattr
+9669 audi        Audi A1                beige 05/2015   2015     11950     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         63000  Sportback 1.2 T
+9670 audi        Audi A7                beige 04/2015   2015     24999     268         364         Automatic     Diesel       6.1 l/100 km     162 g/km         181900 Sportback 3.0 T
+9671 audi        Audi A4                beige 09/2015   2015     11500     110         150         Manual        Diesel       4.4 l/100 km     114 g/km         278000 2.0 TDI DPF cle
+9672 audi        Audi Q3                beige 11/2015   2015     20990     110         150         Manual        Petrol       5.5 l/100 km     127 g/km         21450  1.4 TFSI cylind
+9673 audi        Audi A6                beige 02/2015   2015     18300     160         218         Automatic     Diesel       5 l/100 km       132 g/km         211000 3.0 TDI quattro
+9674 audi        Audi A6                beige 02/2015   2015     24999     160         218         Automatic     Diesel       4.6 l/100 km     119 g/km         79900  Avant 3.0 TDI S
+9675 audi        Audi A8                beige 07/2015   2015     31000     190         258         Automatic     Diesel       5.9 l/100 km     - (g/km)         138000 A8 3.0 TDI DPF 
+9676 audi        Audi A6 allroad        blue  06/2015   2015     25000     200         272         Automatic     Diesel       5.6 l/100 km     - (g/km)         123000 A6 allroad quat
+9677 audi        Audi A6                blue  01/2015   2015     25990     200         272         Automatic     Diesel       5.3 l/100 km     138 g/km         71319  3.0 TDI Avant q
+9678 audi        Audi A6                blue  06/2015   2015     15990     160         218         Automatic     Diesel       5.3 l/100 km     138 g/km         203000 Avant 3.0TDI qu
+9679 audi        Audi A1                blue  11/2015   2015     11999     85          116         Automatic     Diesel       4.3 l/100 km     112 g/km         138100 1-6 TDI *1.Hand
+9680 audi        Audi A5                blue  07/2015   2015     18990     130         177         Manual        Diesel       4.6 l/100 km     120 g/km         129000 2.0 TDI Sportba

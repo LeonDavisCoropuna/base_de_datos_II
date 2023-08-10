@@ -1,0 +1,21 @@
+1365 alfa-romeo  Alfa Romeo Tonale      red   03/2023   2023     38990     96          131         Automatic     Hybrid       5.9 l/100 km     135 g/km         99     SPRINT 1.5 VGT 
+1366 alfa-romeo  Alfa Romeo Giulia      red   03/2023   2023     79950     375         510         Automatic     Petrol       10.2 l/100 km    206 g/km         15     Quadrifoglio 2-
+1367 alfa-romeo  Alfa Romeo Tonale      red   05/2023   2023     37700     96          131         Automatic     Hybrid       6.5 l/100 km     148 g/km         99     1.5 T Hybrid 96
+1368 alfa-romeo  Alfa Romeo Giulia      red   04/2023   2023     68440     206         280         Automatic     Petrol       8 l/100 km       190 g/km         1000   Veloce FACELIFT
+1369 alfa-romeo  Alfa Romeo Tonale      red   01/2023   2023     54990     206         280         Automatic     Hybrid                        60 km Reichweite 2000   VELOCE 1.3T Mul
+1370 alfa-romeo  Alfa Romeo Stelvio     red   02/2023   2023     67990     206         280         Automatic     Petrol       7.3 l/100 km     167 g/km         5000   2.0 Veloce Turb
+1371 alfa-romeo  Alfa Romeo Giulia      red   01/2023   2023     54995     206         280         Automatic     Petrol       7.3 l/100 km     167 g/km         99     Veloce Q4 Panod
+1372 alfa-romeo  Alfa Romeo Tonale      red   05/2023   2023     50574     206         280         Automatic     Hybrid                        65 km Reichweite 10     VELOCE  1.3T Mu
+1373 alfa-romeo  Alfa Romeo Giulia      red   04/2023   2023     84990     375         510         Automatic     Petrol       9.2 l/100 km     211 g/km         10     QUADRIFOGLIO - 
+1374 alfa-romeo  Alfa Romeo Tonale      red   05/2023   2023     39190     96          131         Automatic     Hybrid       5.9 l/100 km     135 g/km         99     SPRINT 1.5 VGT 
+1375 alfa-romeo  Alfa Romeo Giulia      red   02/2023   2023     56990     206         280         Automatic     Petrol       8 l/100 km       182 g/km         5500   GIULIA 2.0 TURB
+1376 alfa-romeo  Alfa Romeo Tonale      red   03/2023   2023     39190     96          131         Automatic     Hybrid       5.9 l/100 km     135 g/km         350    SPRINT 1.5 VGT 
+1377 alfa-romeo  Alfa Romeo Tonale      red   03/2023   2023     55490     152         207         Automatic     Hybrid       1.4 l/100 km     32 g/km          50     Plug-In-Hybrid 
+1378 alfa-romeo  Alfa Romeo Tonale      red   03/2023   2023     39190     96          131         Automatic     Hybrid       5.9 l/100 km     135 g/km         99     SPRINT 1.5 VGT 
+1379 alfa-romeo  Alfa Romeo Tonale      red   04/2023   2023     52490     206         280         Automatic     Hybrid                        60 km Reichweite 20     1.3 VGT Plug-In
+1380 alfa-romeo  Alfa Romeo Stelvio     black 01/2023   2023     68990     206         280         Automatic     Petrol       8.8 l/100 km     202 g/km         15     Competizione 2.
+1381 alfa-romeo  Alfa Romeo Giulia      black 05/2023   2023     60990     206         280         Automatic     Petrol       8.4 l/100 km     190 g/km         10     MY23 Turbo Q4 C
+1382 alfa-romeo  Alfa Romeo Stelvio     black 05/2023   2023     69570     206         280         Automatic     Petrol       9.2 l/100 km     209 g/km         10     2.0 Turbo 16V A
+1383 alfa-romeo  Alfa Romeo Stelvio     black 04/2023   2023     67987     206         280         Automatic     Petrol       7.2 l/100 km     165 g/km         50     Competizione MY
+1384 alfa-romeo  Alfa Romeo Tonale      black 03/2023   2023     60475     206         280         Automatic     Hybrid                        50 km Reichweite 5      VELOCE 1.3T  Mu
+1385 alfa-romeo  Alfa Romeo Tonale      black 01/2023   2023     33799     96          131         Automatic     Hybrid       5.9 l/100 km     135 g/km         5      SPRINT 1.5 130P

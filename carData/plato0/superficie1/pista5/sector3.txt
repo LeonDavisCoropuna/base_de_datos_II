@@ -1,0 +1,21 @@
+3213 audi        Audi A6                blue  10/2007   2007     4150      132         179         Automatic     Diesel       7.3 l/100 km     - (g/km)         349000 A6 Avant 2.7 TD
+3214 audi        Audi Q7                blue  06/2007   2007     13500     240         326         Automatic     Diesel       11.1 l/100 km    294 g/km         252000 4.2 TDI DPF qua
+3215 audi        Audi A4                blue  04/2007   2007     4200      132         179         Manual        Diesel       6.8 l/100 km     - (g/km)         322100 Avant 2.7 TDI D
+3216 audi        Audi A6                blue  03/2007   2007     4800      132         179         Manual        Diesel       6.7 l/100 km     192 g/km         323000 Avant 2.7 TDI D
+3217 audi        Audi A6                blue  05/2007   2007     4799      103         140         Automatic     Diesel       6.7 l/100 km     - (g/km)         294000 A6 2.0 TDI DPF 
+3218 audi        Audi A3                blue  04/2007   2007     5490      77          105         Manual        Diesel       4.9 l/100 km     130 g/km         182900 1.9 TDI ATTRACT
+3219 audi        Audi A4                blue  09/2007   2007     4700      132         179         Manual        Diesel       6.7 l/100 km     179 g/km         247650 3.0 TDI quattro
+3220 audi        Audi Q7                blue  01/2007   2007     5950      171         232         Automatic     Diesel       10.5 l/100 km    282 g/km         419000 Avant 2.7 TDI N
+3221 audi        Audi A4                blue  08/2007   2007     2490      132         179         Manual        Diesel       6.9 l/100 km     183 g/km         372633 Avant 2.7 TDI A
+3222 audi        Audi A6                blue  09/2007   2007     6800      171         232         Automatic     Diesel       8.5 l/100 km     224 g/km         287000 3.0 TDI DPF qua
+3223 audi        Audi TT                blue  08/2007   2007     7499      147         200         Manual        Petrol       7.7 l/100 km     183 g/km         242000 Coupe 2.0 TFSI 
+3224 audi        Audi A4                blue  05/2007   2007     3299      120         163         Automatic     Petrol       8.4 l/100 km     202 g/km         245000 Avant 1.8 T Aut
+3225 audi        Audi RS4               blue  05/2007   2007     34990     309         420         Manual        Petrol       13.5 l/100 km    - (g/km)         152618 Avant          
+3226 audi        Audi A6                blue  05/2007   2007     7900      130         177         Manual        Petrol       9.7 l/100 km     231 g/km         140000 2.4            
+3227 audi        Audi A4                blue  10/2007   2007     8300      140         190         Automatic     Diesel       6.4 l/100 km     - (g/km)         271000 2.7 TDI DPF mul
+3228 audi        Audi A3                blue  05/2007   2007     6790      75          102         Manual        Petrol                        - (g/km)         168000 Sportback 1.6 A
+3229 audi        Audi A3                blue  07/2007   2007     7800      118         160         Automatic     Petrol       7.5 l/100 km     179 g/km         137000 1.8 TFSI Sportb
+3230 audi        Audi Q7                blue  02/2007   2007     18995     257         349         Automatic     Petrol                        0 g/km           139000 4.2 V8 FSI quat
+3231 audi        Audi TT                blue  05/2007   2007     8700      147         200         Automatic     Petrol       7.7 l/100 km     183 g/km         214000 TT Coupe 2.0 TF
+3232 audi        Audi A4                blue  01/2007   2007     6006      75          102         Manual        Petrol       7.7 l/100 km     185 g/km         155000 1.6            
+3233 audi        Audi A4                blue  04/2007   2007     39950     162         220         Manual        Petrol       8.1 l/100 km     194 g/km         100000 2.0 T FSI DTM E

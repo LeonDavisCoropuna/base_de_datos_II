@@ -1,0 +1,21 @@
+19824audi        Audi A1                yellow11/2021   2021     29749     110         150         Automatic     Petrol       5 l/100 km       114 g/km         21405  Sportback 35 TF
+19825audi        Audi A1                yellow02/2021   2021     29000     110         150         Automatic     Petrol       4.9 l/100 km     112 g/km         22600  35 TFSI Sportba
+19826audi        Audi A1                yellow05/2021   2021     23500     81          110         Manual        Petrol       4.9 l/100 km     112 g/km         14246  Sportback 30 TF
+19827audi        Audi TTS               yellow03/2021   2021     47920     235         320         Automatic     Petrol       7.4 l/100 km     168 g/km         18611  Coupé 2.0 TFSI
+19828audi        Audi A3                yellow03/2021   2021     36450     110         150         Automatic     Diesel       4.8 l/100 km     126 g/km         7190   Sportback 35TDI
+19829audi        Audi A3                yellow03/2021   2021     35470     110         150         Automatic     Diesel       4.8 l/100 km     127 g/km         26500  S line 35TDI St
+19830audi        Audi A1                yellow03/2021   2021     22985     81          110         Automatic     Petrol       4.9 l/100 km     112 g/km         23952  30 TFSI S troni
+19831audi        Audi A1                yellow08/2021   2021     24887     81          110         Automatic     Petrol       4.8 l/100 km     109 g/km         18008  30 TFSI S line 
+19832audi        Audi A1                yellow03/2021   2021     24410     81          110         Manual        Petrol       5.7 l/100 km     128 g/km         7057   30 TFSI SHZ PDC
+19833audi        Audi A1                yellow03/2021   2021     21270     70          95          Manual        Petrol       5.7 l/100 km     "129             8 g/km"13189          
+19834audi        Audi A1                yellow12/2021   2021     25880     81          110         Manual        Petrol       5 l/100 km       119 g/km         8100   30 TFSI S line 
+19835audi        Audi A3                yellow02/2021   2021     23150     81          110         Manual        Petrol       4.7 l/100 km     108 g/km         24900  Sportback 30 TF
+19836audi        Audi A1                yellow07/2021   2021     26590     81          110         Automatic     Petrol       4.8 l/100 km     109 g/km         12423  Sportback 30 TF
+19837audi        Audi A1                yellow11/2021   2021     29949     110         150         Automatic     Petrol       5 l/100 km       114 g/km         21405  Sportback 35 TF
+19838audi        Audi A3                yellow12/2021   2021     31410     81          110         Manual        Petrol       5.8 l/100 km     132 g/km         19100  30 TFSI 2 x S l
+19839audi        Audi A1                yellow11/2021   2021     22090     70          95          Manual        Petrol                        - (g/km)         4150   citycarver 25 T
+19840audi        Audi A1                yellow10/2021   2021     28420     110         150         Automatic     Petrol       6.7 l/100 km     156 g/km         22001  35TFSI S-tronic
+19841audi        Audi A1                yellow11/2021   2021     25950     81          110         Automatic     Petrol       6.2 l/100 km     "141             2 g/km"10000          
+19842audi        Audi A1                yellow12/2021   2021     30950     152         207         Automatic     Petrol       6.6 l/100 km     "150             4 g/km"14608          
+19843audi        Audi Q5                yellow09/2021   2021     46980     150         204         Automatic     Diesel       5.4 l/100 km     142 g/km         20     40 TDI quattro 
+19844audi        Audi A1                yellow06/2021   2021     24710     81          110         Automatic     Petrol       4.9 l/100 km     112 g/km         12800  30 TFSI S troni
