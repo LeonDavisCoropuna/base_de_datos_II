@@ -1,0 +1,21 @@
+3297 audi        Audi A3                grey  06/2007   2007     3500      75          102         Automatic     Petrol       7.7 l/100 km     182 g/km         210000 1.6 Attraction 
+3298 audi        Audi A3                grey  11/2007   2007     5900      75          102         Manual        Petrol       7.1 l/100 km     168 g/km         123500 2.0 TDI automat
+3299 audi        Audi A4                grey  11/2007   2007     7399      103         140         Automatic     Diesel       6.4 l/100 km     173 g/km         200000 Roadster 2.0 TF
+3300 audi        Audi TT                grey  06/2007   2007     13999     147         200         Manual        Petrol       7.8 l/100 km     - (g/km)         87000  1.6 FSI Ambient
+3301 audi        Audi A3                grey  08/2007   2007     4250      85          116         Manual        Petrol       6.8 l/100 km     - (g/km)         205000 A3 1.6 Ambiente
+3302 audi        Audi A6                grey  03/2007   2007     8990      120         163         Automatic     Diesel       8.4 l/100 km     223 g/km         209000 2.7 TDI (DPF) t
+3303 audi        Audi TT                grey  08/2007   2007     7300      147         200         Manual        Petrol       7.7 l/100 km     183 g/km         265000 2.0 TFSI Coupe 
+3304 audi        Audi S5                grey  04/2007   2007     27999     260         354         Manual        Petrol       12.1 l/100 km    283 g/km         66000  Sportback 2.0 T
+3305 audi        Audi A3                grey  03/2007   2007     6480      125         170         Manual        Diesel       5.7 l/100 km     151 g/km         239000 Lim.2.0L/LPG 55
+3306 audi        Audi A4                grey  10/2007   2007     5500      96          131         Manual        LPG          8.1 l/100 km     - (g/km)         280000 1.4 TFSI Ambiti
+3307 audi        Audi S3                grey  07/2007   2007     15000     195         265         Manual        Petrol       9.1 l/100 km     217 g/km         164468 2.0 TDI Sportba
+3308 audi        Audi A3                grey  10/2007   2007     5985      92          125         Manual        Petrol       6.3 l/100 km     149 g/km         189500 2.7 TDI quattro
+3309 audi        Audi A3                grey  07/2007   2007     7299      103         140         Manual        Diesel       5.5 l/100 km     - (g/km)         199500 Q7 3.0 TDI DPF 
+3310 audi        Audi A6                grey  05/2007   2007     4700      132         179         Automatic     Diesel       8.7 l/100 km     232 g/km         368196 Sportback 1.9 T
+3311 audi        Audi Q7                grey  11/2007   2007     9750      176         239         Automatic     Diesel       9.1 l/100 km     - (g/km)         288200 quattro 3.0 TDI
+3312 audi        Audi A3                grey  10/2007   2007     6450      77          105         Manual        Diesel       4.9 l/100 km     130 g/km         198400 1.6 S Line Spor
+3313 audi        Audi A6 allroad        grey  02/2007   2007     6600      171         232         Automatic     Diesel       8.8 l/100 km     - (g/km)         253031 Avant 2.7 TDI D
+3314 audi        Audi A3                grey  07/2007   2007     3900      75          102         Manual        Petrol       7.1 l/100 km     169 g/km         288098 A6 Avant 2.7 TD
+3315 audi        Audi A6                grey  06/2007   2007     4000      132         179         Manual        Diesel       7.2 l/100 km     - (g/km)         360000 3.0 TDI DPF qua
+3316 audi        Audi A6                grey  07/2007   2007     4500      132         179         Automatic     Diesel                        - (g/km)         330000 A6 allroad quat
+3317 audi        Audi Q7                grey  01/2007   2007     12500     171         232         Automatic     Diesel       10.5 l/100 km    282 g/km         205320 Q7 3.0 TDI DPF 

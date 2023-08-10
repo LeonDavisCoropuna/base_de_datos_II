@@ -1,0 +1,21 @@
+4704 audi        Audi A4                blue  06/2010   2010     8200      118         160         Manual        Petrol       7.2 l/100 km     171 g/km         139001 "Avant 1.8T ""A
+4705 audi        Audi A3                blue  04/2010   2010     24970     75          102         Manual        Petrol       6.9 l/100 km     164 g/km         184968 Sportback 1.6 A
+4706 audi        Audi TT RS             blue  01/2010   2010     10999     250         340         Manual        Petrol       9.5 l/100 km     221 g/km         154500 2.5 TFSI quattr
+4707 audi        Audi A3                blue  08/2010   2010     8980      118         160         Manual        Petrol       6.7 l/100 km     - (g/km)         97000  A3 Cabriolet 1.
+4708 audi        Audi A1                blue  12/2010   2010     7500      77          105         Manual        Diesel       3.8 l/100 km     101 g/km         112710 1.6 TDI | 8 Fac
+4709 audi        Audi A4                brown 12/2010   2010     6900      140         190         Automatic     Diesel       6.2 l/100 km     164 g/km         248000 Avant 2.7 TDI D
+4710 audi        Audi A5                brown 03/2010   2010     14490     155         211         Automatic     Petrol       7.8 l/100 km     179 g/km         158400 Cabriolet 2.0 T
+4711 audi        Audi A1                brown 11/2010   2010     7480      63          86          Manual        Petrol       5.1 l/100 km     121 g/km         156209 S Line |Xenon|N
+4712 audi        Audi A5                brown 10/2010   2010     14900     155         211         Manual        Petrol       6.5 l/100 km     152 g/km         104000 2.0 TFSI Sportb
+4713 audi        Audi A5                brown 08/2010   2010     22500     176         239         Automatic     Diesel                        - (g/km)         99950  S line Sport / 
+4714 audi        Audi Q5                brown 09/2010   2010     19990     125         170         Automatic     Diesel       7 l/100 km       184 g/km         108000 2.0 TDI quattro
+4715 audi        Audi A4 allroad        brown 08/2010   2010     15950     125         170         Manual        Diesel       6.4 l/100 km     169 g/km         124000 quattro 2.0 TDI
+4716 audi        Audi Q7                brown 05/2010   2010     17770     176         239         Automatic     Diesel       7.4 l/100 km     239 g/km         194899 3.0 TDI quattro
+4717 audi        Audi A1                brown 11/2010   2010     8800      63          86          Manual        Petrol       5 l/100 km       - (g/km)         99000  A1 1.2 TFSI Att
+4718 audi        Audi A1                brown 11/2010   2010     10000     63          86          Manual        Petrol       5 l/100 km       - (g/km)         95000  A1 1.2 TFSI Att
+4719 audi        Audi A1                brown 11/2010   2010     11790     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         76000  1.2/I.HD/76Tkm/
+4720 audi        Audi Q7                brown 07/2010   2010     15000     176         239         Automatic     Diesel       8.9 l/100 km     234 g/km         250000 3.0 TDI DPF cle
+4721 audi        Audi A5                brown 03/2010   2010     13950     132         179         Automatic     Petrol       7.4 l/100 km     174 g/km         155000 Cabriolet 2.0 T
+4722 audi        Audi Q7                brown 04/2010   2010     22900     176         239         Automatic     Diesel       9.8 l/100 km     260 g/km         166500 3.0 TDI clean d
+4723 audi        Audi A1                brown 11/2010   2010     12980     77          105         Manual        Diesel       3.8 l/100 km     101 g/km         75683  1.6 TDI AMBITIO
+4724 audi        Audi A4                grey  07/2010   2010     7300      118         160         Manual        Petrol       7.1 l/100 km     - (g/km)         199842 1.8 B 8 Attract

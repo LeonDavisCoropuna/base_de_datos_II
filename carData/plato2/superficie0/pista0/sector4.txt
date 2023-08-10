@@ -1,0 +1,21 @@
+8484 audi        Audi A4                brown 03/2014   2014     22499     150         204         Manual        Diesel       5.1 l/100 km     135 g/km         39000  Avant Attractio
+8485 audi        Audi A5                brown 03/2014   2014     23499     125         170         Manual        Petrol       6.2 l/100 km     143 g/km         69000  Cabrio 1.8 TFSI
+8486 audi        Audi Q5                brown 02/2014   2014     27430     190         258         Automatic     Diesel       6.3 l/100 km     167 g/km         83500  3.0TDI quattro 
+8487 audi        Audi A5                brown 03/2014   2014     20950     125         170         Manual        Petrol       6.2 l/100 km     147 g/km         35267  Cabriolet 1.8 T
+8488 audi        Audi Q5                brown 08/2014   2014     21350     165         224         Automatic     Petrol       7.6 l/100 km     180 g/km         110000 2.0 TFSI Quattr
+8489 audi        Audi A1                brown 10/2014   2014     12900     105         143         Manual        Diesel       4.1 l/100 km     109 g/km         121000 Ambition/Klimaa
+8490 audi        Audi Q5                brown 07/2014   2014     24880     130         177         Automatic     Diesel       6 l/100 km       159 g/km         92496  2.0 TDI quattro
+8491 audi        Audi A4                brown 09/2014   2014     14900     125         170         Automatic     Petrol       5.9 l/100 km     137 g/km         156700 Avant 1.8 TFSI 
+8492 audi        Audi Q3                brown 04/2014   2014     18000     103         140         Manual        Diesel       5.2 l/100 km     - (g/km)         82000  2.0 TDI        
+8493 audi        Audi A3                brown 03/2014   2014     13499     77          105         Automatic     Petrol       5 l/100 km       115 g/km         122000 Sportback (A3 S
+8494 audi        Audi A1                brown 05/2014   2014     14250     90          122         Manual        Petrol       5.4 l/100 km     126 g/km         69960  1.4 TFSI Sportb
+8495 audi        Audi A1                brown 08/2014   2014     10490     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         108000 Ambition*Klima*
+8496 audi        Audi A3                brown 03/2014   2014     19990     103         140         Manual        Petrol       5 l/100 km       0 g/km           75428  Cabrio 1.4 TFSI
+8497 audi        Audi A1                brown 06/2014   2014     12999     63          86          Manual        Petrol       5 l/100 km       116 g/km         42250  1.2 TFSI Sportb
+8498 audi        Audi A6 allroad        brown 05/2014   2014     21499     230         313         Automatic     Diesel       6.7 l/100 km     - (g/km)         233000 quattro 3.0 TDI
+8499 audi        Audi A1                brown 01/2014   2014     11699     63          86          Manual        Petrol       5.1 l/100 km     118 g/km         99246  1.2TFSI 86PS Sp
+8500 audi        Audi A3                brown 10/2014   2014     15999     110         150         Manual        Petrol       4.7 l/100 km     109 g/km         116000 Sportback Ambit
+8501 audi        Audi A4                brown 05/2014   2014     14800     130         177         Automatic     Diesel       5.3 l/100 km     140 g/km         210000 Avant 2.0 TDI Q
+8502 audi        Audi Q3                brown 06/2014   2014     17999     130         177         Automatic     Diesel       5.9 l/100 km     156 g/km         102000 2.0 TDI quattro
+8503 audi        Audi A3                brown 04/2014   2014     18500     132         179         Automatic     Petrol                        - (g/km)         75300  Sportback Ambie
+8504 audi        Audi A5                brown 09/2014   2014     18000     130         177         Automatic     Petrol       6.2 l/100 km     - (g/km)         62200  A5 Cabrio 1.8 T

@@ -1,0 +1,21 @@
+1827 audi        Audi A3                blue  10/2000   2000     1250      74          101         Manual        Petrol                        - (g/km)         150000 1.6 -Sportsitze
+1828 audi        Audi A6                blue  08/2000   2000     6999      110         150         Manual        Diesel       7.9 l/100 km     213 g/km         43000  NAVI quattro 1.
+1829 audi        Audi S3                blue  06/2000   2000     9990      185         252         Manual        Petrol       9.2 l/100 km     221 g/km         274000 1.8T quattro   
+1830 audi        Audi A6                blue  10/2000   2000     4900      121         165         Manual        Petrol       10.9 l/100 km    262 g/km         136000 2.4 quattro    
+1831 audi        Audi A6                blue  01/2000   2000     3950      121         165         Manual        Petrol       10.1 l/100 km    242 g/km         204500 Lim. 2.4 (121kW
+1832 audi        Audi A3                blue  10/2000   2000     1150      75          102         Manual        Petrol       6.8 l/100 km     163 g/km         184440 1.6 Ambiente   
+1833 audi        Audi 80                blue  07/2000   2000     9500      128         174         Manual        Petrol       10.8 l/100 km    - (g/km)         249641 Audi 80 Cabriol
+1834 audi        Audi Cabriolet         blue  07/2000   2000     9500      128         174         Manual        Petrol       10.8 l/100 km    256 g/km         249641 Audi 80 Cabrio 
+1835 audi        Audi A3                blue  09/2000   2000     800       75          102         Manual        Petrol       6.8 l/100 km     - (g/km)         190000 A3 1.6 Attracti
+1836 audi        Audi A6                blue  03/2000   2000     2990      92          125         Automatic     Petrol                        - (g/km)         192000 Limo.1.8 Automa
+1837 audi        Audi A6                blue  09/2000   2000     1500      121         165         Manual        Petrol       9.9 l/100 km     238 g/km         185000 Avant 2.4      
+1838 audi        Audi TT                blue  03/2000   2000     5800      132         179         Manual        Petrol       8.1 l/100 km     194 g/km         131000 Coupe 1.8 T    
+1839 audi        Audi A4                blue  02/2000   2000     490       85          116         Manual        Diesel       5.3 l/100 km     143 g/km         350000 Avant 1.9 TDI  
+1840 audi        Audi A4                blue  12/2000   2000     4500      142         193         Manual        Petrol       10.4 l/100 km    250 g/km         223000 2.8 quattro    
+1841 audi        Audi TT                black 05/2000   2000     3900      132         179         Manual        Petrol                        - (g/km)         350000 Coupe 1.8T  Bla
+1842 audi        Audi TT                black 10/2000   2000     4880      132         179         Manual        Petrol       8.1 l/100 km     194 g/km         180000 Avant 4.2 quatt
+1843 audi        Audi S6                black 03/2000   2000     9300      250         340         Automatic     Petrol       12.3 l/100 km    341 g/km         271400 Roadster 1.8 T 
+1844 audi        Audi TT                black 12/2000   2000     7450      132         179         Manual        Petrol       8.2 l/100 km     - (g/km)         163784 S6 Avant 4.2 qu
+1845 audi        Audi S6                black 04/2000   2000     4500      250         340         Automatic     Petrol       14.2 l/100 km    - (g/km)         394000 A3 1.8 T Ambiti
+1846 audi        Audi A3                black 03/2000   2000     3200      110         150         Manual        Petrol       7.8 l/100 km     - (g/km)         272000 TT Roadster 1.8
+1847 audi        Audi TT                black 07/2000   2000     9700      132         179         Manual        Petrol       8.2 l/100 km     - (g/km)         117000 1.6 Ambition   

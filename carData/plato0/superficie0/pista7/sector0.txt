@@ -1,0 +1,21 @@
+1470 aston-martinAston Martin V8        blue  09/2007   2007     49007     283         385         Manual        Petrol       15 l/100 km      358 g/km         31350  Vantage Roadste
+1471 aston-martinAston Martin V8        grey  05/2007   2007     69950     283         385         Manual        Petrol       17.2 l/100 km    358 g/km         51250  4.3l           
+1472 aston-martinAston Martin V8        green 03/2007   2007     56941     283         385         Manual        Petrol       17.2 l/100 km    406 g/km         49000  Vantage Coupé 
+1473 aston-martinAston Martin V8        green 06/2007   2007     69950     283         385         Manual        Petrol       17.2 l/100 km    - (g/km)         36000  Vantage        
+1474 aston-martinAston Martin DB9       green 12/2007   2007     55950     335         455         Automatic     Petrol       16.5 l/100 km    394 g/km         72795  Coupe Touchtron
+1475 aston-martinAston Martin V8        black 07/2007   2007     46890     283         385         Automatic     Petrol       13.8 l/100 km    321 g/km         41300  V8 Vantage Road
+1476 aston-martinAston Martin V8        silver10/2007   2007     59900     283         385         Automatic     Petrol       15 l/100 km      358 g/km         39500  Vantage Roadste
+1477 aston-martinAston Martin Vantage   white 06/2007   2007     57990     283         385         Manual        Petrol       18.7 l/100 km    360 g/km         57998  ROADSTER 4.3 LE
+1478 aston-martinAston Martin V8        grey  06/2008   2008     79950     313         426         Manual        Petrol       13.2 l/100 km    312 g/km         25536  4.7l D-Fzg.TOP 
+1479 aston-martinAston Martin V8        grey  04/2008   2008     54980     283         385         Automatic     Petrol                        - (g/km)         53300  Roadster 4.3l S
+1480 aston-martinAston Martin DB9       red   05/2008   2008     59850     336         457         Automatic     Petrol                        - (g/km)         49883  Volante - Primu
+1481 aston-martinAston Martin V8        black 01/2008   2008     49990     283         385         Automatic     Petrol                        - (g/km)         98416  4.3l /98TKM/Xen
+1482 aston-martinAston Martin DB9       black 08/2008   2008     72900     350         476         Automatic     Petrol       16.4 l/100 km    389 g/km         46094  Volante 6.0    
+1483 aston-martinAston Martin V8        black 06/2008   2008     59999     313         426         Automatic     Petrol       13.2 l/100 km    312 g/km         89000  Vantage Roadste
+1484 aston-martinAston Martin V8        black 06/2008   2008     56999     313         426         Automatic     Petrol       13.2 l/100 km    312 g/km         83088  Roadster 4.7l S
+1485 aston-martinAston Martin DB9       black 07/2008   2008     61490     350         476         Manual        Petrol       16.4 l/100 km    389 g/km         44000  Volante        
+1486 aston-martinAston Martin V8        black 08/2008   2008     60000     283         385         Automatic     Petrol       17.2 l/100 km    406 g/km         69512  Vantage Sportsh
+1487 aston-martinAston Martin DB9       silver07/2008   2008     53000     336         457         Automatic     Petrol       16.5 l/100 km    394 g/km         54300  Aston Martin DB
+1488 aston-martinAston Martin DBS       silver09/2008   2008     168007    380         517         Manual        Petrol       15.6 l/100 km    368 g/km         17305  6.0 V12*SCHALTE
+1489 aston-martinAston Martin V8        silver05/2008   2008     69007     283         385         Manual        Petrol                        0 g/km           51818  Roadster *6 Gan
+1490 aston-martinAston Martin V8        silver05/2008   2008     69900     298         405         Automatic     Petrol                        - (g/km)         71271  N400 Edtion Nü

@@ -1,0 +1,21 @@
+3612 audi        Audi A6                beige 07/2008   2008     6890      130         177         Manual        Petrol       9.7 l/100 km     233 g/km         223000 Lim. 2.4 V6 130
+3613 audi        Audi A5                beige 06/2008   2008     12000     195         265         Manual        Petrol       9.1 l/100 km     214 g/km         199500 3.2 FSI quattro
+3614 audi        Audi A4                beige 01/2008   2008     4850      120         163         Automatic     Petrol       8.3 l/100 km     199 g/km         224000 Avant 1.8 T mul
+3615 audi        Audi TT                beige 09/2008   2008     18240     147         200         Automatic     Petrol       7.8 l/100 km     186 g/km         115263 Roadster 2.0 TF
+3616 audi        Audi A6 allroad        blue  01/2008   2008     4500      171         232         Automatic     Diesel       8.8 l/100 km     235 g/km         295000 quattro 3.0 TDI
+3617 audi        Audi A4                blue  11/2008   2008     10999     132         179         Automatic     Petrol       7.3 l/100 km     172 g/km         152500 Avant S-Line Ba
+3618 audi        Audi A5                blue  07/2008   2008     7999      125         170         Manual        Petrol       7.1 l/100 km     169 g/km         193350 1.8 TFSI       
+3619 audi        Audi A3                blue  11/2008   2008     11390     118         160         Automatic     Petrol       6.7 l/100 km     156 g/km         114000 Cabriolet 1.8 T
+3620 audi        Audi A4                blue  10/2008   2008     7499      118         160         Automatic     Petrol       7.4 l/100 km     174 g/km         243000 Ambiente Lim. (
+3621 audi        Audi TT                blue  07/2008   2008     9000      118         160         Manual        Petrol       6.4 l/100 km     - (g/km)         152000 Coupe 1.8 TFSI 
+3622 audi        Audi A6                blue  11/2008   2008     14500     213         290         Automatic     Petrol       9.5 l/100 km     225 g/km         169215 Avant 3.0 TFSI 
+3623 audi        Audi A4                blue  03/2008   2008     4500      147         200         Manual        Petrol       7.8 l/100 km     186 g/km         264000 2.0 T FSI Avant
+3624 audi        Audi A6                blue  02/2008   2008     9500      125         170         Automatic     Petrol       8.2 l/100 km     - (g/km)         103000 A6 Avant 2.0 TF
+3625 audi        Audi A3                blue  04/2008   2008     4490      125         170         Automatic     Diesel       5.9 l/100 km     156 g/km         313400 2.0 TDI Ambient
+3626 audi        Audi A3                blue  09/2008   2008     6500      92          125         Manual        Petrol       5.8 l/100 km     134 g/km         155000 Sportback 1.4 t
+3627 audi        Audi A5                blue  11/2008   2008     9800      132         179         Automatic     Petrol       7.1 l/100 km     - (g/km)         198000 2.0 TFSI multit
+3628 audi        Audi A6                blue  02/2008   2008     4000      132         179         Automatic     Diesel       7.3 l/100 km     194 g/km         321666 2.7 TDI DPF mul
+3629 audi        Audi A4                blue  01/2008   2008     3700      75          102         Manual        Petrol       7.7 l/100 km     - (g/km)         213000 1.6            
+3630 audi        Audi A4                blue  05/2008   2008     10990     120         163         Manual        Petrol       8.7 l/100 km     208 g/km         145368 Cabriolet 1.8 T
+3631 audi        Audi A6                blue  06/2008   2008     8500      130         177         Manual        Petrol       11.1 l/100 km    266 g/km         217167 2.4 quattro Ava
+3632 audi        Audi A4                blue  09/2008   2008     5300      105         143         Manual        Diesel       5.7 l/100 km     149 g/km         250000 2.0 TDI Attract

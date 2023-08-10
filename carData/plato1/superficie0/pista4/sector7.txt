@@ -1,0 +1,21 @@
+5187 audi        Audi A6                silver08/2010   2010     8500      140         190         Automatic     Diesel       6.5 l/100 km     172 g/km         281000 Avant 2.7 TDI D
+5188 audi        Audi A5                silver03/2010   2010     14500     176         239         Automatic     Diesel       6.6 l/100 km     - (g/km)         151000 3.0 TDI DPF qua
+5189 audi        Audi A3                silver01/2010   2010     7990      118         160         Manual        Petrol       7.2 l/100 km     171 g/km         189000 Sportback 1.8 T
+5190 audi        Audi A1                silver12/2010   2010     6950      77          105         Manual        Diesel       3.8 l/100 km     99 g/km          146000 1.6 TDI S line 
+5191 audi        Audi Q5                silver01/2010   2010     13900     132         179         Manual        Petrol       8.4 l/100 km     195 g/km         88000  2.0 TFSI quattr
+5192 audi        Audi A4                silver07/2010   2010     11500     88          120         Automatic     Petrol       7.1 l/100 km     - (g/km)         80000  B8 Limousine   
+5193 audi        Audi A5                silver03/2010   2010     9490      132         179         Manual        Petrol       6.5 l/100 km     154 g/km         158600 Sportback 2.0 T
+5194 audi        Audi A5                silver05/2010   2010     14000     140         190         Automatic     Diesel       6.5 l/100 km     - (g/km)         102000 2.7 TDI Sportba
+5195 audi        Audi A4                silver07/2010   2010     7550      105         143         Manual        Diesel       5.7 l/100 km     149 g/km         230000 Avant Ambition 
+5196 audi        Audi Q5                silver04/2010   2010     9999      155         211         Manual        Petrol       8.4 l/100 km     195 g/km         106700 2.0 TFSI Quattr
+5197 audi        Audi A6                silver12/2010   2010     5999      140         190         Automatic     Diesel       6.5 l/100 km     172 g/km         199650 2.7 TDI Avant (
+5198 audi        Audi A7                silver11/2010   2010     10980     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         141748 3.0 TDI quattro
+5199 audi        Audi A1                silver12/2010   2010     6999      77          105         Manual        Diesel       3.8 l/100 km     99 g/km          195400 1.6 TDI Attract
+5200 audi        Audi A3                silver11/2010   2010     5950      77          105         Manual        Petrol       5.5 l/100 km     127 g/km         190000 1.2 TFSI Attrac
+5201 audi        Audi A5                silver05/2010   2010     11800     118         160         Manual        Petrol       7.4 l/100 km     172 g/km         92000  Cabrio 1.8 TFSI
+5202 audi        Audi Q5                silver03/2010   2010     14490     105         143         Manual        Diesel       6.5 l/100 km     172 g/km         135000 2.0 TDI Quattro
+5203 audi        Audi A3                silver04/2010   2010     8250      92          125         Manual        Petrol       5.7 l/100 km     132 g/km         149751 "1.4 TFSI S lin
+5204 audi        Audi A4                silver06/2010   2010     5500      88          120         Manual        Petrol                        0 g/km           238000 Avant 1.8 TFSI 
+5205 audi        Audi A1                silver08/2010   2010     6450      77          105         Manual        Diesel       3.8 l/100 km     99 g/km          194750 1.6 TDI Attract
+5206 audi        Audi A3                silver05/2010   2010     9990      118         160         Manual        Petrol       6.6 l/100 km     - (g/km)         119000 1.8 TFSI Sportb
+5207 audi        Audi TT                silver04/2010   2010     17900     147         200         Manual        Petrol       7.7 l/100 km     183 g/km         60000  Roadster 2.0 TF

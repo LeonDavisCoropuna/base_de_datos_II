@@ -1,0 +1,21 @@
+84   alfa-romeo  Alfa Romeo 156         red   06/2002   2002     3000      122         166         Manual        Petrol       8.9 l/100 km     212 g/km         154000 Sportwagon 2.0 
+85   alfa-romeo  Alfa Romeo 156         black 03/2002   2002     1490      123         167         Manual        Diesel       8.5 l/100 km     - (g/km)         148648 2.4 JTD        
+86   alfa-romeo  Alfa Romeo             black 10/2002   2002     1999      88          120         Manual        Petrol       8.2 l/100 km     194 g/km         95000  147 1.6 T.Spark
+87   alfa-romeo  Alfa Romeo 166         black 03/2002   2002     8900      110         150         Manual        Petrol       9.7 l/100 km     - (g/km)         158000 166 2.0 Twin Sp
+88   alfa-romeo  Alfa Romeo             black 02/2002   2002     2450      77          105         Manual        Petrol       8.2 l/100 km     196 g/km         147243 "Alfa 147 1.6 T
+89   alfa-romeo  Alfa Romeo Spider      black 06/2002   2002     5800      110         150         Manual        Petrol       8.5 l/100 km     - (g/km)         127466 2.0 Leder Klima
+90   alfa-romeo  Alfa Romeo 156         silver06/2002   2002     1500      103         140         Manual        Petrol       8.5 l/100 km     202 g/km         135000 1.8 16V Twin Sp
+91   alfa-romeo  Alfa Romeo 147         silver06/2002   2002     1400      88          120         Manual        Petrol       8.2 l/100 km     194 g/km         160000 5p 1.6 ts Disti
+92   alfa-romeo  Alfa Romeo Spider      silver03/2002   2002     5490      110         150         Manual        Petrol       9.2 l/100 km     218 g/km         146250 2.0 16V T.Spark
+93   alfa-romeo  Alfa Romeo 156         blue  05/2003   2003     699       122         166         Manual        Petrol       8.9 l/100 km     211 g/km         266981 Sportwagon 2.0 
+94   alfa-romeo  Alfa Romeo 147         blue  10/2003   2003     599       77          105         Manual        Petrol       7.2 l/100 km     192 g/km         153000 T.Spark ECO Pro
+95   alfa-romeo  Alfa Romeo 147         grey  07/2003   2003     3800      110         150         Automatic     Petrol       8.9 l/100 km     211 g/km         80000  2.0 Twin Spark 
+96   alfa-romeo  Alfa Romeo Alfa 6      grey  05/2003   2003     2499      77          105         Manual        Petrol       8.1 l/100 km     192 g/km         100000 1.6 T.Spark ECO
+97   alfa-romeo  Alfa Romeo 156         grey  02/2003   2003     1250      110         150         Manual        Diesel       6.7 l/100 km     - (g/km)         232800 156 Sportwagon 
+98   alfa-romeo  Alfa Romeo 147         black 01/2003   2003     17500     184         250         Manual        Petrol       12.1 l/100 km    287 g/km         138500 3.2 V6 24V GTA 
+99   alfa-romeo  Alfa Romeo Spider      black 03/2003   2003     5900      110         150         Manual        Petrol       8.5 l/100 km     - (g/km)         112000 2.0 16V Automat
+100  alfa-romeo  Alfa Romeo 156         black 08/2003   2003     4490      122         166         Automatic     Petrol       8.9 l/100 km     211 g/km         111078 3.2 V6 24V GTA 
+101  alfa-romeo  Alfa Romeo 147         black 03/2003   2003     17999     184         250         Manual        Petrol       12.1 l/100 km    287 g/km         99700  Spider 2.0 JTS 
+102  alfa-romeo  Alfa Romeo Spider      black 06/2003   2003     5200      122         166         Manual        Petrol       9.2 l/100 km     - (g/km)         159000 1.6 Twin Spark 
+103  alfa-romeo  Alfa Romeo 147         black 07/2003   2003     2000      77          105         Manual        Petrol       8.1 l/100 km     192 g/km         104357 1. T.Spark Dist
+104  alfa-romeo  Alfa Romeo Alfa 6      black 07/2003   2003     2000      88          120         Manual        Petrol       8.2 l/100 km     194 g/km         125000 2.0 T.Spark Dis

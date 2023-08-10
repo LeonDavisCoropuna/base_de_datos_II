@@ -1,0 +1,21 @@
+1638 aston-martinAston Martin V8        green 10/2021   2021     177990    375         510         Automatic     Petrol                        - (g/km)         9719   4.0 V8 Roadster
+1639 aston-martinAston Martin DBX       red   04/2021   2021     158941    405         551         Automatic     Petrol       14.3 l/100 km    323 g/km         26000  4.0 V8*Sportexh
+1640 aston-martinAston Martin DB11      black 06/2021   2021     189900    375         510         Automatic     Petrol       9.9 l/100 km     230 g/km         4000   V8 Volante     
+1641 aston-martinAston Martin DBS       black 08/2021   2021     319000    533         725         Automatic     Petrol       12.4 l/100 km    285 g/km         6400   Superleggera Co
+1642 aston-martinAston Martin V8        black 04/2021   2021     139850    375         510         Automatic     Petrol                        236 g/km         6900   Vantage 4.0 V8 
+1643 aston-martinAston Martin DBX       black 04/2021   2021     159900    405         551         Automatic     Petrol       7 l/100 km       269 g/km         7000   *22 Zoll*Elegan
+1644 aston-martinAston Martin V8        black 03/2021   2021     144900    375         510         Automatic     Petrol       10.7 l/100 km    244 g/km         6945   Vantage Coupe U
+1645 aston-martinAston Martin V8        black 03/2021   2021     168900    375         510         Automatic     Petrol       10.3 l/100 km    236 g/km         4985   Cabriolet / Ein
+1646 aston-martinAston Martin V8        black 03/2021   2021     179000    375         510         Automatic     Petrol                        - (g/km)         2815   4.0 V8 Roadster
+1647 aston-martinAston Martin DBX       black 01/2021   2021     162900    405         551         Automatic     Petrol                        - (g/km)         11871  V8 Volante TECH
+1648 aston-martinAston Martin DB11      black 07/2021   2021     179000    375         510         Automatic     Petrol       9.9 l/100 km     230 g/km         10000  Superleggera Co
+1649 aston-martinAston Martin DB11      silver08/2021   2021     179900    375         510         Automatic     Petrol       9.9 l/100 km     230 g/km         19500  V8 Coupé Skyfa
+1650 aston-martinAston Martin DBX       white 03/2021   2021     199890    405         551         Automatic     Petrol       14.3 l/100 km    269 g/km         550    White Stone - O
+1651 aston-martinAston Martin DBS       white 11/2021   2021     279980    533         725         Automatic     Petrol                        - (g/km)         7211   5.2 V12 Superle
+1652 aston-martinAston Martin DB11      white 03/2021   2021     187900    375         510         Automatic     Petrol                        - (g/km)         7500   Volante//Garant
+1653 aston-martinAston Martin DBX       white 08/2021   2021     188800    405         551         Automatic     Petrol       10.9 l/100 km    269 g/km         11800  4.0 V8 - ELEGAN
+1654 aston-martinAston Martin           blue  08/2022   2022     434980    515         700         Automatic     Petrol       13.8 l/100 km    315 g/km         482    Coupe Carbon An
+1655 aston-martinAston Martin           blue  08/2022   2022     434980    515         700         Automatic     Petrol       13.8 l/100 km    315 g/km         482    Coupe Carbon An
+1656 aston-martinAston Martin V8        blue  07/2022   2022     199900    375         510         Automatic     Petrol       11.6 l/100 km    263 g/km         12050  DB11  Volante I
+1657 aston-martinAston Martin Vantage   blue  06/2022   2022     1170000   515         700         Automatic     Petrol       11.4 l/100 km    298 g/km         80     V12 Speedster 1
+1658 aston-martinAston Martin V8        blue  09/2022   2022     174900    375         510         Automatic     Petrol       10.5 l/100 km    245 g/km         2200   Vantage Roadste

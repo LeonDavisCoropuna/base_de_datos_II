@@ -1,0 +1,21 @@
+924  alfa-romeo  Alfa Romeo Stelvio     white 03/2020   2020     41950     154         209         Automatic     Diesel                        175 g/km         39427  B-Tech/Veloce 2
+925  alfa-romeo  Alfa Romeo Stelvio     white 08/2020   2020     28450     140         190         Automatic     Diesel       6.5 l/100 km     171 g/km         115000 Business Q4 2.2
+926  alfa-romeo  Alfa Romeo Stelvio     white 12/2020   2020     43490     154         209         Automatic     Diesel       5.7 l/100 km     150 g/km         30500  Veloce Q4 XENON
+927  alfa-romeo  Alfa Romeo Stelvio     white 06/2020   2020     38890     206         280         Automatic     Petrol       8 l/100 km       186 g/km         23800  "2.0 Turbo Q4 "
+928  alfa-romeo  Alfa Romeo Stelvio     white 12/2020   2020     41890     154         209         Automatic     Diesel       5.5 l/100 km     144 g/km         56996  2.2 Diesel 16V 
+929  alfa-romeo  Alfa Romeo Stelvio     white 08/2020   2020     36900     140         190         Automatic     Diesel       5.7 l/100 km     167 g/km         67805  2.2 JTDM Busine
+930  alfa-romeo  Alfa Romeo Stelvio     white 06/2020   2020     38990     206         280         Automatic     Petrol                        0 g/km           30316  Super 2.0Turbo 
+931  alfa-romeo  Alfa Romeo Giulietta   white 12/2020   2020     23900     88          120         Automatic     Diesel       4.9 l/100 km     130 g/km         43900  1.6 JTDm TCT Sp
+932  alfa-romeo  Alfa Romeo Stelvio     white 04/2020   2020     37900     154         209         Automatic     Diesel       5.7 l/100 km     150 g/km         70100  Veloce Q4 2.2 J
+933  alfa-romeo  Alfa Romeo Giulia      blue  10/2021   2021     59790     206         280         Automatic     Petrol       6.7 l/100 km     154 g/km         10     Veloce KOMFORT/
+934  alfa-romeo  Alfa Romeo Stelvio     blue  12/2021   2021     71090     206         280         Automatic     Petrol       7.3 l/100 km     167 g/km         490    Veloce Q4 ASSIS
+935  alfa-romeo  Alfa Romeo Giulia      blue  09/2021   2021     70800     375         510         Automatic     Petrol       9.2 l/100 km     228 g/km         21373  Quadrifoglio Ca
+936  alfa-romeo  Alfa Romeo Stelvio     blue  04/2021   2021     44750     154         209         Automatic     Diesel       5.7 l/100 km     150 g/km         66000  Lusso Ti Q4    
+937  alfa-romeo  Alfa Romeo Giulia      blue  02/2021   2021     36650     140         190         Automatic     Diesel       4.8 l/100 km     126 g/km         50935  2.2 Diesel AT8 
+938  alfa-romeo  Alfa Romeo Stelvio     blue  04/2021   2021     44890     206         280         Automatic     Petrol       7 l/100 km       158 g/km         34500  Lusso Ti 2.0 16
+939  alfa-romeo  Alfa Romeo Stelvio     yellow11/2021   2021     52490     206         280         Automatic     Petrol       7.4 l/100 km     168 g/km         26000  GT Junior Q4   
+940  alfa-romeo  Alfa Romeo Stelvio     grey  07/2021   2021     72690     375         510         Automatic     Petrol       10 l/100 km      229 g/km         45000  Quadrifoglio Q4
+941  alfa-romeo  Alfa Romeo Giulia      grey  06/2021   2021     43985     154         209         Automatic     Diesel       4.8 l/100 km     125 g/km         16643  Veloce 2.2 Dies
+942  alfa-romeo  Alfa Romeo Stelvio     grey  08/2021   2021     52990     206         280         Automatic     Petrol       7.4 l/100 km     170 g/km         22500  Veloce Ti Q4 NA
+943  alfa-romeo  Alfa Romeo Stelvio     grey  12/2021   2021     55990     206         280         Automatic     Petrol       7.4 l/100 km     170 g/km         6759   VELOCE TI 2.0 T
+944  alfa-romeo  Alfa Romeo Giulia      grey  04/2021   2021     38850     140         190         Automatic     Diesel       4.9 l/100 km     142 g/km         39990  GIULIA 2.2 190P

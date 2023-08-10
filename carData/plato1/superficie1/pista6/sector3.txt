@@ -1,0 +1,21 @@
+7623 audi        Audi A8                grey  03/2013   2013     32000     258         351         Automatic     Diesel       7.5 l/100 km     - (g/km)         126000 A8 4.2 TDI DPF 
+7624 audi        Audi A6                grey  06/2013   2013     16850     150         204         Automatic     Diesel       5.8 l/100 km     152 g/km         236500 Avant 3.0 TDI D
+7625 audi        Audi A6 allroad        grey  11/2013   2013     13800     230         313         Automatic     Diesel       6.7 l/100 km     - (g/km)         325000 quattro 3.0 TDI
+7626 audi        Audi A3                grey  09/2013   2013     17980     135         184         Automatic     Diesel       4.9 l/100 km     130 g/km         113510 Sportback 2-0 T
+7627 audi        Audi A7                grey  05/2013   2013     17990     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         229900 3.0 TDI quattro
+7628 audi        Audi A6                grey  02/2013   2013     14500     180         245         Automatic     Diesel       5.9 l/100 km     - (g/km)         270000 Avant 3.0 TDI D
+7629 audi        Audi Q3                grey  02/2013   2013     17429     125         170         Automatic     Petrol       7.3 l/100 km     173 g/km         95231  2.0 TFSI quattr
+7630 audi        Audi A4                grey  04/2013   2013     11990     125         170         Manual        Petrol       6.1 l/100 km     145 g/km         145000 Avant Ambition 
+7631 audi        Audi A3                grey  06/2013   2013     18390     103         140         Manual        Petrol                        - (g/km)         61842  1.4 TFSI S LINE
+7632 audi        Audi A6 allroad        grey  11/2013   2013     27000     235         320         Automatic     Diesel       6.5 l/100 km     - (g/km)         170000 quattro 3.0 TDI
+7633 audi        Audi A3                red   03/2013   2013     11000     77          105         Manual        Diesel       3.8 l/100 km     - (g/km)         150000 A3 1.6 TDI Spor
+7634 audi        Audi A1                red   08/2013   2013     10400     90          122         Manual        Petrol       5.3 l/100 km     126 g/km         107000 Navi- Sitzheiz-
+7635 audi        Audi A1                red   09/2013   2013     11100     66          90          Manual        Diesel       3.8 l/100 km     - (g/km)         79400  1.6 TDI Ambitio
+7636 audi        Audi A3                red   09/2013   2013     13480     90          122         Manual        Petrol                        - (g/km)         124500 Sportback Bi-Xe
+7637 audi        Audi A1                red   09/2013   2013     13500     90          122         Automatic     Petrol       5.3 l/100 km     122 g/km         95233  A1 1.4 TFSI S t
+7638 audi        Audi A6                red   04/2013   2013     19789     150         204         Automatic     Diesel       5.7 l/100 km     149 g/km         122545 3.0 TDI quattro
+7639 audi        Audi A1                red   06/2013   2013     11200     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         87900  Attraction Spor
+7640 audi        Audi A1                red   03/2013   2013     11570     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         97000  Sportback 1.2 T
+7641 audi        Audi A1                red   12/2013   2013     11900     90          122         Manual        Petrol       5.4 l/100 km     128 g/km         93000  Admired Sportba
+7642 audi        Audi A4                red   09/2013   2013     20800     165         224         Automatic     Petrol       6 l/100 km       - (g/km)         120200 A4 Avant 2.0 TF
+7643 audi        Audi A1                red   08/2013   2013     11990     90          122         Manual        Petrol       5.4 l/100 km     128 g/km         120600 Sportback Ambit

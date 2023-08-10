@@ -1,0 +1,21 @@
+19467audi        Audi A3                silver12/2020   2020     31290     110         150         Automatic     Petrol       4.8 l/100 km     111 g/km         41112  35 TFSI S troni
+19468audi        Audi A3                silver12/2020   2020     27950     110         150         Automatic     Diesel       4.6 l/100 km     124 g/km         33890  Sportback 35 TD
+19469audi        Audi A4                silver02/2020   2020     29750     140         190         Automatic     Diesel       5.3 l/100 km     139 g/km         93642  Avant 40 TDi q.
+19470audi        Audi A3                silver06/2020   2020     25690     150         204         Automatic     Hybrid       1.6 l/100 km     37 g/km          15215  "Sportback e-tr
+19471audi        Audi A1                silver03/2020   2020     18480     70          95          Manual        Petrol       4.7 l/100 km     106 g/km         54218  25 TFSI basis K
+19472audi        Audi A6                silver01/2020   2020     40970     210         286         Automatic     Diesel       7.2 l/100 km     189 g/km         77977  sport 50 TDI qu
+19473audi        Audi Q3                silver02/2020   2020     44630     140         190         Automatic     Diesel       7 l/100 km       183 g/km         63400  S-line Edt One 
+19474audi        Audi A3                silver05/2020   2020     24940     110         150         Automatic     Hybrid       2 l/100 km       46 g/km          55042  Sportback sport
+19475audi        Audi A5                silver04/2020   2020     28850     110         150         Automatic     Petrol       6.7 l/100 km     151 g/km         39220  35 TFSI S troni
+19476audi        Audi A4                silver01/2020   2020     28990     140         190         Automatic     Diesel       5.9 l/100 km     154 g/km         121900 advanced 40 TDI
+19477audi        Audi Q3                silver02/2020   2020     49800     140         190         Automatic     Diesel       5.7 l/100 km     149 g/km         40918  40 2.0 TDI quat
+19478audi        Audi A5                silver05/2020   2020     31850     110         150         Automatic     Petrol       7.1 l/100 km     162 g/km         60772  35 TFSI S troni
+19479audi        Audi A4                silver10/2020   2020     41490     180         245         Automatic     Petrol       7.5 l/100 km     170 g/km         36400  Avant 45 TFSI q
+19480audi        Audi RS6               silver03/2020   2020     123750    441         600         Automatic     Petrol                        0 g/km           33210  Avant Matrix Pa
+19481audi        Audi A6                silver06/2020   2020     44410     210         286         Automatic     Diesel       5.9 l/100 km     155 g/km         79450  50 TDI quattro 
+19482audi        Audi Q2                silver08/2020   2020     26685     110         150         Automatic     Petrol       5.4 l/100 km     128 g/km         29000  35 TFSI LED*NAV
+19483audi        Audi A6                silver03/2020   2020     41780     150         204         Automatic     Diesel       6.2 l/100 km     162 g/km         40000  "sport 40TDI S 
+19484audi        Audi A3                silver08/2020   2020     27990     110         150         Automatic     Diesel       4.7 l/100 km     122 g/km         52600  35 TDI Sportbac
+19485audi        Audi A4                silver05/2020   2020     32590     210         286         Automatic     Diesel       6.1 l/100 km     160 g/km         121650 50 quattro 3.0 
+19486audi        Audi A4                silver01/2020   2020     26894     100         136         Automatic     Diesel       4 l/100 km       103 g/km         42242  30 TDI S tronic
+19487audi        Audi Q2                silver10/2020   2020     25488     85          116         Manual        Petrol       5.1 l/100 km     138 g/km         24337  30 TFSI 116 Des

@@ -1,0 +1,21 @@
+18942audi        Audi TT RS             green 03/2020   2020     54997     294         400         Automatic     Petrol                        182 g/km         117500 TFSI quattro RS
+18943audi        Audi Q5                green 06/2020   2020     41450     270         367         Automatic     Hybrid                        45 km Reichweite 65287  55TFSIe 2x S LI
+18944audi        Audi A6 allroad        green 02/2020   2020     45500     170         231         Automatic     Diesel       5.8 l/100 km     152 g/km         54514  quattro 45 TDI 
+18945audi        Audi Q5                green 06/2020   2020     46289     185         252         Automatic     Hybrid                        45 km Reichweite 42335  55 TFSIe QU*S-T
+18946audi        Audi RS3               green 12/2020   2020     49789     294         400         Automatic     Petrol       9.5 l/100 km     215 g/km         10910  Sportback Navi-
+18947audi        Audi S5                green 03/2020   2020     53450     255         347         Automatic     Diesel       7.1 l/100 km     186 g/km         82328  Sportback 3.0 T
+18948audi        Audi A1                green 05/2020   2020     23730     110         150         Automatic     Petrol       6.2 l/100 km     142 g/km         49967  35 TFSI PDC LED
+18949audi        Audi A6 allroad        green 12/2020   2020     52790     210         286         Automatic     Diesel       7.5 l/100 km     197 g/km         48600  A6 allroad 50TD
+18950audi        Audi SQ5               green 02/2020   2020     49980     255         347         Automatic     Diesel       6.8 l/100 km     177 g/km         56005  3.0 TDI quattro
+18951audi        Audi S6                green 02/2020   2020     57990     257         349         Automatic     Diesel       7.9 l/100 km     207 g/km         47509  TDI quattro MAT
+18952audi        Audi A1                green 10/2020   2020     25320     110         150         Automatic     Petrol                        - (g/km)         24199  35 TFSI *Audi p
+18953audi        Audi A6                green 09/2020   2020     50250     185         252         Automatic     Hybrid       1.9 l/100 km     42 g/km          29718  50 TFSI e quatt
+18954audi        Audi A5                green 07/2020   2020     28890     164         223         Automatic     Diesel       4.5 l/100 km     - (g/km)         23500  Sportback 40 TD
+18955audi        Audi A1                green 06/2020   2020     58450     147         200         Automatic     Petrol       7 l/100 km       159 g/km         56937  40 TFSI S line 
+18956audi        Audi A6                green 12/2020   2020     49748     270         367         Automatic     Hybrid                        50 km Reichweite 40415  Av. 55 TFSI e q
+18957audi        Audi SQ5               green 01/2020   2020     58887     255         347         Automatic     Diesel       6.8 l/100 km     177 g/km         39908  3.0 TDI quattro
+18958audi        Audi S5                green 04/2020   2020     57930     255         347         Automatic     Diesel       7 l/100 km       182 g/km         46400  Sportback 3.0 T
+18959audi        Audi A5                green 02/2020   2020     44840     180         245         Automatic     Petrol       7.9 l/100 km     "178             8 g/km"29600          
+18960audi        Audi A5                green 08/2020   2020     42790     140         190         Automatic     Diesel       6 l/100 km       158 g/km         51700  "40 TDI 2x S li
+18961audi        Audi RS Q3             green 02/2020   2020     59990     294         400         Automatic     Petrol       10.1 l/100 km    231 g/km         50828  Sportback 2.5 T
+18962audi        Audi RS4               green 08/2020   2020     74000     331         450         Automatic     Petrol       9.6 l/100 km     218 g/km         46000  Avant quattro t

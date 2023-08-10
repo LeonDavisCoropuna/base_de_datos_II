@@ -1,0 +1,21 @@
+7119 audi        Audi Q3                white 03/2012   2012     15444     130         177         Automatic     Diesel       5.9 l/100 km     156 g/km         143000 2.0 TDI quattro
+7120 audi        Audi R8                white 02/2012   2012     67490     316         430         Automatic     Petrol       14.2 l/100 km    337 g/km         65948  4.2 FSI quattro
+7121 audi        Audi Q3                white 11/2012   2012     14500     103         140         Manual        Diesel       5.2 l/100 km     - (g/km)         147000 2.0 TDI        
+7122 audi        Audi A5                white 10/2012   2012     22490     180         245         Automatic     Diesel       5.8 l/100 km     154 g/km         89958  3.0 TDI quattro
+7123 audi        Audi S5                white 01/2012   2012     23900     245         333         Automatic     Petrol       7.7 l/100 km     179 g/km         120000 S tronic       
+7124 audi        Audi S5                white 07/2012   2012     24999     260         354         Automatic     Petrol       10.7 l/100 km    249 g/km         89923  "COUPÉ 4.2 FSI
+7125 audi        Audi A1                white 10/2012   2012     8999      90          122         Manual        Petrol       5.3 l/100 km     126 g/km         166000 Attraction (8X1
+7126 audi        Audi A5                white 01/2012   2012     14980     180         245         Automatic     Diesel       5.7 l/100 km     151 g/km         276686 Coupe 3.0TDI qu
+7127 audi        Audi A3                white 04/2012   2012     15999     92          125         Manual        Petrol       6.1 l/100 km     145 g/km         85080  1.4 TFSI Cabrio
+7128 audi        Audi Q3                white 08/2012   2012     18999     155         211         Automatic     Petrol       7.7 l/100 km     182 g/km         138905 2.0 TFSI QUATTR
+7129 audi        Audi A1                white 10/2012   2012     10500     63          86          Manual        Petrol       5.1 l/100 km     121 g/km         93100  Attraction (8X1
+7130 audi        Audi A1                white 09/2012   2012     7790      63          86          Manual        Petrol       5 l/100 km       - (g/km)         156000 A1 1.2 TFSI Att
+7131 audi        Audi A1                white 02/2012   2012     10499     90          122         Manual        Petrol       5.3 l/100 km     - (g/km)         159000 1.4 TFSI Ambiti
+7132 audi        Audi A6                white 07/2012   2012     13770     130         177         Automatic     Diesel       4.9 l/100 km     130 g/km         358961 Lim.Automatik- 
+7133 audi        Audi Q3                white 02/2012   2012     17000     125         170         Automatic     Petrol       7.7 l/100 km     - (g/km)         85200  Q3 2.0 TFSI qua
+7134 audi        Audi A5                white 03/2012   2012     16900     180         245         Automatic     Diesel       5.7 l/100 km     149 g/km         217000 "3.0TDI V6 Quat
+7135 audi        Audi A1                white 06/2012   2012     8800      90          122         Manual        Petrol       5.3 l/100 km     - (g/km)         200496 1.4 TFSI S line
+7136 audi        Audi A6                white 03/2012   2012     20950     150         204         Automatic     Diesel       5.8 l/100 km     154 g/km         134663 Avant 3.0 TDI q
+7137 audi        Audi A6                white 04/2012   2012     17998     132         179         Manual        Petrol       6.6 l/100 km     - (g/km)         95000  A6 Avant 2.0 TF
+7138 audi        Audi A1                white 06/2012   2012     14890     105         143         Manual        Diesel       4.1 l/100 km     109 g/km         113690 Sportback AMBIT
+7139 audi        Audi A6                white 05/2012   2012     19999     150         204         Automatic     Petrol       8 l/100 km       190 g/km         137000 Avant 2.8 FSI q

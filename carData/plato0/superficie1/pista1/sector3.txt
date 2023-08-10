@@ -1,0 +1,21 @@
+2373 audi        Audi A6                grey  07/2004   2004     4000      188         256         Automatic     Petrol       11.1 l/100 km    266 g/km         142000 3.2 FSI Quattro
+2374 audi        Audi A6                grey  09/2004   2004     8000      130         177         Automatic     Petrol       9.6 l/100 km     229 g/km         210000 2.4 multitronic
+2375 audi        Audi A6                grey  06/2004   2004     1900      130         177         Manual        Petrol       9.4 l/100 km     229 g/km         124560 2.4 4f206C 6V  
+2376 audi        Audi A4                grey  11/2004   2004     8990      96          131         Manual        Petrol       8 l/100 km       - (g/km)         202300 Avant 2.0      
+2377 audi        Audi S4                grey  10/2004   2004     3900      253         344         Automatic     Petrol       12.4 l/100 km    298 g/km         247000 Avant 4.2 quatt
+2378 audi        Audi A4                grey  03/2004   2004     2500      96          131         Automatic     Petrol       7.9 l/100 km     190 g/km         160000 2.0 Automatik  
+2379 audi        Audi A4                grey  05/2004   2004     5800      96          131         Manual        Petrol       8.2 l/100 km     197 g/km         239000 Avant 2.0/Klima
+2380 audi        Audi A6                grey  04/2004   2004     3550      125         170         Manual        Petrol       9 l/100 km       238 g/km         273988 2.4            
+2381 audi        Audi A4                grey  07/2004   2004     6900      140         190         Manual        Petrol       8.5 l/100 km     - (g/km)         156000 A4 Cabriolet 1.
+2382 audi        Audi A6                grey  09/2004   2004     2200      125         170         Automatic     Petrol       9.8 l/100 km     235 g/km         267000 Avant 2.4 Benzi
+2383 audi        Audi A6                grey  09/2004   2004     3800      130         177         Automatic     Petrol       9.6 l/100 km     229 g/km         293521 2.4 multitronic
+2384 audi        Audi A3                grey  01/2004   2004     3480      103         140         Manual        Diesel       5.7 l/100 km     154 g/km         285532 2.0 TDI Ambitio
+2385 audi        Audi A8                grey  02/2004   2004     4800      202         275         Automatic     Diesel       9.6 l/100 km     259 g/km         283157 4.0 TDI quattro
+2386 audi        Audi A3                grey  03/2004   2004     2700      75          102         Manual        Petrol       7.3 l/100 km     175 g/km         248000 1.6 Attraction/
+2387 audi        Audi A3                grey  04/2004   2004     3690      75          102         Manual        Petrol       7.3 l/100 km     175 g/km         206900 1.6 Ambiente TÃ
+2388 audi        Audi A4                grey  04/2004   2004     2300      96          131         Automatic     Diesel       5.8 l/100 km     156 g/km         271328 1.9 TDI (96kW) 
+2389 audi        Audi A6                grey  11/2004   2004     6990      188         256         Automatic     Petrol       11.1 l/100 km    266 g/km         207000 3.2 FSI quattro
+2390 audi        Audi A3                grey  01/2004   2004     2800      75          102         Manual        Petrol       7 l/100 km       - (g/km)         184000 1.6 Ambiente   
+2391 audi        Audi A6                grey  03/2004   2004     1599      120         163         Manual        Diesel       7.1 l/100 km     192 g/km         315000 2.5 TDI Avant (
+2392 audi        Audi A4                grey  04/2004   2004     1800      96          131         Manual        Petrol       7.9 l/100 km     - (g/km)         195000 2              
+2393 audi        Audi A6                grey  07/2004   2004     2399      120         163         Automatic     Diesel       7.1 l/100 km     192 g/km         340000 2.5 TDI Navi*Xe

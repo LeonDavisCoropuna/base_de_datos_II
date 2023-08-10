@@ -1,0 +1,21 @@
+18711audi        Audi A6                brown 03/2020   2020     49890     270         367         Automatic     Hybrid       1.9 l/100 km     43 g/km          63300  55 TFSI e q. S-
+18712audi        Audi A4                brown 05/2020   2020     29990     110         150         Automatic     Petrol       6 l/100 km       129 g/km         47100  35 TFSI S-troni
+18713audi        Audi A4 allroad        brown 04/2020   2020     39940     210         286         Automatic     Diesel       6.1 l/100 km     160 g/km         107219 qu 50 TDI AHK A
+18714audi        Audi A6                brown 12/2020   2020     46448     220         299         Automatic     Hybrid       1.6 l/100 km     35 g/km          9642   50 TFSI e qu. s
+18715audi        Audi A6                brown 04/2020   2020     49960     210         286         Automatic     Diesel       5.8 l/100 km     150 g/km         52721  50 TDI quattro 
+18716audi        Audi A6                brown 03/2020   2020     37980     170         231         Automatic     Diesel       5.9 l/100 km     155 g/km         89783  Avant design 45
+18717audi        Audi A6                brown 05/2020   2020     36950     150         204         Automatic     Diesel       4.4 l/100 km     116 g/km         76470  Avant 40 TDI qu
+18718audi        Audi A5                brown 05/2020   2020     45900     180         245         Automatic     Petrol       7 l/100 km       160 g/km         68060  A5 Cabrio S lin
+18719audi        Audi Q7                brown 12/2020   2020     59980     210         286         Automatic     Diesel       8 l/100 km       209 g/km         43500  50 TDI qu S tro
+18720audi        Audi Q5                brown 01/2020   2020     36370     170         231         Automatic     Diesel       8 l/100 km       208 g/km         87036  45 quattro CAM 
+18721audi        Audi Q5                brown 01/2020   2020     44850     210         286         Automatic     Diesel       8.4 l/100 km     221 g/km         66014  50 TDI quattro 
+18722audi        Audi A6                brown 03/2020   2020     41900     210         286         Automatic     Diesel       5.9 l/100 km     155 g/km         141000 Avant 50 TDI Qu
+18723audi        Audi Q5                brown 09/2020   2020     39947     270         367         Automatic     Hybrid                        45 km Reichweite 48680  "55 TFSI e qu. 
+18724audi        Audi A3                bronze12/2020   2020     128780    110         150         Manual        Petrol       4.8 l/100 km     114 g/km         33128  Limousine advan
+18725audi        Audi Q7                yellow03/2020   2020     64880     270         367         Automatic     Hybrid       3 l/100 km       69 g/km          50316  55 TFSI e quatt
+18726audi        Audi A1                yellow01/2020   2020     18970     85          116         Manual        Petrol       4.9 l/100 km     111 g/km         28715  Sportback 30 TF
+18727audi        Audi A1                yellow02/2020   2020     28950     110         150         Automatic     Petrol       5.1 l/100 km     116 g/km         18167  Sportback 35 TF
+18728audi        Audi A1                yellow12/2020   2020     24440     81          110         Automatic     Petrol       6.1 l/100 km     138 g/km         17900  Sportback S lin
+18729audi        Audi A3                yellow12/2020   2020     31970     110         150         Automatic     Hybrid                        65 km Reichweite 37095  Sportback 40 TF
+18730audi        Audi TT                yellow06/2020   2020     35970     180         245         Automatic     Petrol       6.7 l/100 km     171 g/km         38000  45 TFSI°S-Line
+18731audi        Audi RS3               yellow10/2020   2020     52200     294         400         Automatic     Petrol       8.5 l/100 km     - (g/km)         33800  Limousine Quatt

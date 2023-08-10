@@ -1,0 +1,21 @@
+4767 audi        Audi A3                grey  11/2010   2010     6600      103         140         Manual        Diesel                        - (g/km)         289900 2.0 TDI Ambitio
+4768 audi        Audi A3                grey  11/2010   2010     8800      143         194         Automatic     Diesel       5.9 l/100 km     156 g/km         258400 Sportback 2.0 T
+4769 audi        Audi A3                grey  02/2010   2010     12980     155         211         Manual        Petrol       7.3 l/100 km     170 g/km         116800 1.8 TFSI S-Line
+4770 audi        Audi A4                grey  03/2010   2010     8500      88          120         Manual        Petrol       7.2 l/100 km     171 g/km         172000 S line Sportpak
+4771 audi        Audi Q5                grey  10/2010   2010     18750     176         239         Automatic     Diesel       7.5 l/100 km     - (g/km)         119000 Q5 3.0 TDI quat
+4772 audi        Audi A4 allroad        grey  04/2010   2010     15850     155         211         Automatic     Petrol       8.1 l/100 km     189 g/km         92110  2.0 TFSI (155 k
+4773 audi        Audi TT                grey  09/2010   2010     17999     155         211         Automatic     Petrol       7.2 l/100 km     - (g/km)         115000 Coupe 2.0 TFSI 
+4774 audi        Audi A6                grey  08/2010   2010     8499      140         190         Automatic     Diesel       7.1 l/100 km     189 g/km         245000 2.7 TDI DPF qua
+4775 audi        Audi A5                grey  02/2010   2010     11000     176         239         Manual        Diesel       6.6 l/100 km     - (g/km)         236000 3.0 TDI DPF qua
+4776 audi        Audi S4                grey  12/2010   2010     18900     245         333         Automatic     Petrol       9.7 l/100 km     224 g/km         136500 Avant 3.0 TFSI 
+4777 audi        Audi A4                grey  10/2010   2010     13800     118         160         Automatic     Petrol       7.6 l/100 km     179 g/km         125000 Ceramic Sport B
+4778 audi        Audi A7                grey  11/2010   2010     19999     220         299         Automatic     Petrol       8.2 l/100 km     190 g/km         172000 3.0 TFSI quattr
+4779 audi        Audi Q5                grey  05/2010   2010     14500     176         239         Automatic     Diesel       7.5 l/100 km     - (g/km)         217000 3.0 TDI quattro
+4780 audi        Audi A3                grey  07/2010   2010     7690      118         160         Manual        Petrol       6.8 l/100 km     174 g/km         206839 1.8 TFSI Cabrio
+4781 audi        Audi A3                grey  02/2010   2010     7950      103         140         Manual        Diesel       5.1 l/100 km     135 g/km         257771 Sportback 2.0 T
+4782 audi        Audi A4                grey  10/2010   2010     13800     118         160         Automatic     Petrol       7.5 l/100 km     179 g/km         125000 Ceramic Sport B
+4783 audi        Audi Q7                grey  07/2010   2010     9900      176         239         Automatic     Diesel       8.9 l/100 km     236 g/km         297000 3.0 TDI clean d
+4784 audi        Audi A6                grey  11/2010   2010     20900     176         239         Automatic     Diesel       7.5 l/100 km     199 g/km         234441 Allroad quattro
+4785 audi        Audi Q5                grey  01/2010   2010     11500     176         239         Automatic     Diesel       7.5 l/100 km     - (g/km)         149000 3.0 TDI quattro
+4786 audi        Audi A5                grey  04/2010   2010     8200      176         239         Automatic     Diesel       6.6 l/100 km     174 g/km         212000 3.0 TDI Sportba
+4787 audi        Audi A4                grey  08/2010   2010     12980     140         190         Automatic     Diesel       7 l/100 km       - (g/km)         330000 Audi A4 B8 Avan

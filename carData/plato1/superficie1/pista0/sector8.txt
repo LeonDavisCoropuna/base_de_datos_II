@@ -1,0 +1,21 @@
+6468 audi        Audi A4                grey  07/2012   2012     21999     155         211         Automatic     Petrol       7.5 l/100 km     174 g/km         47000  Limo 3x S line 
+6469 audi        Audi A1                grey  12/2012   2012     13450     90          122         Manual        Petrol       5.4 l/100 km     126 g/km         85000  S line Sportpak
+6470 audi        Audi A3                grey  07/2012   2012     11499     77          105         Manual        Diesel       4.3 l/100 km     114 g/km         142000 Cabriolet Attra
+6471 audi        Audi A3                grey  08/2012   2012     8750      77          105         Manual        Diesel       4.2 l/100 km     - (g/km)         169600 A3 1.6 TDI Spor
+6472 audi        Audi A6                grey  02/2012   2012     16599     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         194000 Avant 3.0 TDI q
+6473 audi        Audi A6                grey  11/2012   2012     16990     130         177         Automatic     Diesel       5 l/100 km       132 g/km         144376 Avant 2.0 TDI*N
+6474 audi        Audi A6                grey  12/2012   2012     19700     230         313         Automatic     Diesel       6.4 l/100 km     - (g/km)         206000 Avant 3.0 TDI V
+6475 audi        Audi A8                grey  07/2012   2012     22990     309         420         Automatic     Petrol       9.4 l/100 km     223 g/km         242700 4.0 TFSI quattr
+6476 audi        Audi A4                grey  01/2012   2012     7990      100         136         Manual        Diesel                        - (g/km)         248000 Avant 2-0 TDI L
+6477 audi        Audi Q3                grey  03/2012   2012     14750     103         140         Manual        Diesel       5.2 l/100 km     138 g/km         112000 2.0 TDI aus 1.H
+6478 audi        Audi TT                grey  08/2012   2012     23960     155         211         Manual        Petrol       6.7 l/100 km     159 g/km         37700  Roadster 2.0 TF
+6479 audi        Audi Q7                grey  07/2012   2012     16950     180         245         Automatic     Diesel       7.4 l/100 km     195 g/km         248000 3.0 TDI DPF cle
+6480 audi        Audi A6 allroad        grey  12/2012   2012     12985     230         313         Automatic     Diesel       6.7 l/100 km     178 g/km         274024 A6 allroad 3.0 
+6481 audi        Audi Q3                grey  04/2012   2012     16300     125         170         Manual        Petrol       7.3 l/100 km     - (g/km)         132500 2.0 TFSI quattr
+6482 audi        Audi A6                grey  05/2012   2012     28949     230         313         Automatic     Diesel       6.4 l/100 km     170 g/km         132000 "Avant 3.0 ""S-
+6483 audi        Audi A5                grey  03/2012   2012     15500     180         245         Automatic     Diesel       5.7 l/100 km     - (g/km)         234422 Audi A5 Coupe 3
+6484 audi        Audi Q5                grey  10/2012   2012     21298     180         245         Automatic     Diesel       6.4 l/100 km     170 g/km         137391 3.0 TDI quattro
+6485 audi        Audi A6                grey  12/2012   2012     19600     230         313         Automatic     Diesel       6.4 l/100 km     - (g/km)         207000 A6 Avant 3.0 TD
+6486 audi        Audi TT                grey  04/2012   2012     17999     118         160         Manual        Petrol       6.5 l/100 km     154 g/km         74300  Roadster 1.8 TF
+6487 audi        Audi A7                grey  06/2012   2012     17400     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         264858 3.0 TDI quattro
+6488 audi        Audi Q5                grey  12/2012   2012     12899     132         179         Manual        Petrol       8.4 l/100 km     195 g/km         238000 2.0 TFSI quattr

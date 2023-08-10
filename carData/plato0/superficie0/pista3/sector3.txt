@@ -1,0 +1,21 @@
+693  alfa-romeo  Alfa Romeo Giulia      black 06/2018   2018     61999     375         510         Automatic     Petrol       9.2 l/100 km     214 g/km         42000  Quadrifoglio*CA
+694  alfa-romeo  Alfa Romeo Giulietta   black 10/2018   2018     28200     177         241         Automatic     Petrol       6.8 l/100 km     - (g/km)         22000  1.8 TBi 16V TCT
+695  alfa-romeo  Alfa Romeo Stelvio     black 05/2018   2018     21900     110         150         Automatic     Diesel       4.7 l/100 km     124 g/km         108989 Super 2WD 2.2 J
+696  alfa-romeo  Alfa Romeo Stelvio     black 06/2018   2018     31490     147         200         Automatic     Petrol       7 l/100 km       161 g/km         31619  Super Q4 #Assis
+697  alfa-romeo  Alfa Romeo Stelvio     black 08/2018   2018     26280     206         280         Automatic     Petrol       7 l/100 km       161 g/km         94829  2.0 Turbo Super
+698  alfa-romeo  Alfa Romeo Giulia      black 02/2018   2018     21900     110         150         Automatic     Diesel       4.2 l/100 km     109 g/km         91455  Super Diesel Au
+699  alfa-romeo  Alfa Romeo Stelvio     black 12/2018   2018     54900     375         510         Automatic     Petrol       9 l/100 km       210 g/km         69000  Quadrifoglio Q4
+700  alfa-romeo  Alfa Romeo Stelvio     black 06/2018   2018     31800     206         280         Automatic     Petrol       7 l/100 km       161 g/km         57200  SUPER Q4 (630) 
+701  alfa-romeo  Alfa Romeo Stelvio     black 03/2018   2018     29800     154         209         Automatic     Diesel       5.5 l/100 km     144 g/km         89500  Super 2.2 Diese
+702  alfa-romeo  Alfa Romeo Stelvio     black 06/2018   2018     33900     147         200         Unknown       Petrol       7 l/100 km       161 g/km         36500  2.0Turbo 16V - 
+703  alfa-romeo  Alfa Romeo Giulietta   black 05/2018   2018     14990     110         150         Manual        Petrol       5.5 l/100 km     127 g/km         102665 Super 1.4 TB Mu
+704  alfa-romeo  Alfa Romeo Giulietta   black 12/2018   2018     17900     88          120         Manual        Petrol       7.2 l/100 km     164 g/km         74000  E6D-TEMP Super 
+705  alfa-romeo  Alfa Romeo Stelvio     black 12/2018   2018     34980     147         200         Automatic     Petrol       7 l/100 km       161 g/km         18750  Super 2.0 Turbo
+706  alfa-romeo  Alfa Romeo Stelvio     black 08/2018   2018     33333     206         280         Automatic     Petrol       7 l/100 km       - (g/km)         68115  2.0 Turbo 16V A
+707  alfa-romeo  Alfa Romeo Stelvio     black 01/2018   2018     60900     375         510         Unknown       Petrol       9 l/100 km       210 g/km         49000  Quadrifoglio Q4
+708  alfa-romeo  Alfa Romeo Stelvio     black 01/2018   2018     36990     147         200         Automatic     Petrol       7 l/100 km       161 g/km         44500  Super Q4 VELOCE
+709  alfa-romeo  Alfa Romeo MiTo        black 03/2018   2018     13890     57          77          Manual        Petrol       5.6 l/100 km     130 g/km         35000  Sport-35tkm-TÃœ
+710  alfa-romeo  Alfa Romeo Stelvio     black 06/2018   2018     53900     375         510         Automatic     Petrol       10.3 l/100 km    210 g/km         60750  Quadrifoglio MY
+711  alfa-romeo  Alfa Romeo MiTo        silver08/2018   2018     15990     57          77          Manual        Petrol       5.6 l/100 km     130 g/km         25460  1.4 Urban Schie
+712  alfa-romeo  Alfa Romeo Stelvio     violet04/2018   2018     24950     154         209         Automatic     Diesel       4.8 l/100 km     127 g/km         150000 Super Q4*XEN*TL
+713  alfa-romeo  Alfa Romeo MiTo        white 08/2018   2018     17250     125         170         Automatic     Petrol       5.4 l/100 km     124 g/km         41143  1.4 TCT VeloceÂ

@@ -1,0 +1,21 @@
+2856 audi        Audi A4                blue  04/2006   2006     12500     171         232         Manual        Diesel       7.6 l/100 km     204 g/km         200500 3.0 TDI DPF qua
+2857 audi        Audi A3                blue  09/2006   2006     4050      75          102         Manual        Petrol       7.1 l/100 km     168 g/km         224000 1.6 Ambition   
+2858 audi        Audi A3                blue  01/2006   2006     3900      85          116         Manual        Petrol       6.6 l/100 km     - (g/km)         248000 1.6 FSI Sportba
+2859 audi        Audi A4                blue  02/2006   2006     7000      147         200         Automatic     Petrol       8.1 l/100 km     - (g/km)         270000 Avant 2.0 T FSI
+2860 audi        Audi A6                blue  09/2006   2006     5100      130         177         Automatic     Petrol       9.6 l/100 km     - (g/km)         338000 Avant 2.4  7 Ge
+2861 audi        Audi A4                blue  09/2006   2006     7990      85          116         Manual        Diesel       5.8 l/100 km     157 g/km         97223  1.9 TDI Scheckh
+2862 audi        Audi A3                blue  02/2006   2006     3500      77          105         Manual        Diesel       4.9 l/100 km     129 g/km         325523 1.9 TDI DPF Amb
+2863 audi        Audi A6                blue  05/2006   2006     3950      188         256         Automatic     Petrol       9.6 l/100 km     229 g/km         262400 A6 3.2 FSI mult
+2864 audi        Audi A6                blue  09/2006   2006     3280      132         179         Manual        Diesel       7.2 l/100 km     191 g/km         311000 2.7 TDI Lim. (4
+2865 audi        Audi A4                blue  05/2006   2006     7999      171         232         Automatic     Diesel       8.5 l/100 km     229 g/km         200000 Avant 3.0 TDI q
+2866 audi        Audi A3                blue  06/2006   2006     2850      103         140         Manual        Diesel       5.5 l/100 km     - (g/km)         240000 A3 2.0 TDI Ambi
+2867 audi        Audi A6 allroad        blue  10/2006   2006     9990      188         256         Automatic     Petrol       11 l/100 km      262 g/km         171000 quattro 3.2 FSI
+2868 audi        Audi A6 allroad        blue  07/2006   2006     22222     171         232         Automatic     Diesel       8.8 l/100 km     235 g/km         157888 quattro 3.0 TDI
+2869 audi        Audi A4                blue  10/2006   2006     4100      96          131         Automatic     Petrol       8 l/100 km       - (g/km)         200780 2.0 multitronic
+2870 audi        Audi A6                blue  07/2006   2006     4950      132         179         Manual        Diesel       7.2 l/100 km     191 g/km         299212 2.7 TDI Avant L
+2871 audi        Audi A3                blue  03/2006   2006     5980      85          116         Manual        Petrol       6.8 l/100 km     163 g/km         147987 Sportback 1.6 F
+2872 audi        Audi S6                blue  12/2006   2006     35000     320         435         Automatic     Petrol       13 l/100 km      - (g/km)         210000 Avant          
+2873 audi        Audi A4                blue  04/2006   2006     18000     162         220         Manual        Petrol       8.1 l/100 km     194 g/km         144300 2.0 T FSI DTM E
+2874 audi        Audi A6                blue  07/2006   2006     7990      132         179         Automatic     Diesel       7.5 l/100 km     229 g/km         180000 Lim. 2.7 TDI qu
+2875 audi        Audi A6                blue  09/2006   2006     6770      188         256         Automatic     Petrol       9.9 l/100 km     238 g/km         207751 Avant 3.2 FSI *
+2876 audi        Audi A4                blue  09/2006   2006     4100      75          102         Manual        Petrol       7.7 l/100 km     - (g/km)         202285 A4 1.6         

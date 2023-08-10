@@ -1,0 +1,21 @@
+5229 audi        Audi Q5                white 11/2010   2010     199900    155         211         Automatic     Petrol       8.5 l/100 km     197 g/km         131200 2.0 TFSI QUATTR
+5230 audi        Audi R8                white 10/2010   2010     19900     455         619         Automatic     Petrol       13.9 l/100 km    326 g/km         4200   "5.2 FSI R tron
+5231 audi        Audi S3                white 05/2010   2010     11490     195         265         Automatic     Petrol       8.3 l/100 km     193 g/km         125000 Panorama+ Bi Xe
+5232 audi        Audi A1                white 11/2010   2010     18190     90          122         Manual        Petrol       5.3 l/100 km     126 g/km         71129  1.4TFSI Ambi Cl
+5233 audi        Audi A5                white 03/2010   2010     15500     155         211         Manual        Petrol       7.3 l/100 km     172 g/km         86000  2.0 TFSI Sportb
+5234 audi        Audi S3                white 10/2010   2010     18990     281         382         Manual        Petrol       8.5 l/100 km     - (g/km)         234000 Sportback ca. 7
+5235 audi        Audi Q5                white 07/2010   2010     9999      125         170         Automatic     Diesel       6.8 l/100 km     179 g/km         102000 Quattro Navi Xe
+5236 audi        Audi A1                white 12/2010   2010     22500     63          86          Manual        Petrol       5 l/100 km       - (g/km)         96000  A1 1.2 TFSI Att
+5237 audi        Audi TT                white 12/2010   2010     10500     155         211         Manual        Petrol       6.6 l/100 km     154 g/km         88000  Coupe 2.0 TFSI 
+5238 audi        Audi TT                white 04/2010   2010     14950     118         160         Manual        Petrol       6.9 l/100 km     161 g/km         83000  Coupe/Roadster 
+5239 audi        Audi Q5                white 11/2010   2010     14000     176         239         Automatic     Diesel       7.5 l/100 km     - (g/km)         240000 3.0 TDI quattro
+5240 audi        Audi A1                white 12/2010   2010     9999      63          86          Manual        Petrol       5 l/100 km       - (g/km)         94500  A1 1.2 TFSI- Xe
+5241 audi        Audi A1                white 10/2010   2010     6900      77          105         Manual        Diesel       3.8 l/100 km     - (g/km)         243000 A1 1.6 TDI Ambi
+5242 audi        Audi A1                white 11/2010   2010     9990      63          86          Manual        Petrol       5.1 l/100 km     121 g/km         87000  Attraction| 1.H
+5243 audi        Audi TT                white 03/2010   2010     14950     118         160         Manual        Petrol       6.9 l/100 km     - (g/km)         180000 Roadster 1.8 TF
+5244 audi        Audi A4                white 05/2010   2010     13999     195         265         Manual        Petrol       9.4 l/100 km     223 g/km         134000 S line Sportpak
+5245 audi        Audi S5                white 03/2010   2010     22599     245         333         Automatic     Petrol       9.7 l/100 km     - (g/km)         106000 Cabrio S tronic
+5246 audi        Audi TTS               white 03/2010   2010     17800     200         272         Manual        Petrol       8.1 l/100 km     - (g/km)         186350 Coupe          
+5247 audi        Audi A5                white 11/2010   2010     14750     195         265         Automatic     Petrol       9.2 l/100 km     213 g/km         204000 3.2 FSI quattro
+5248 audi        Audi A6                white 08/2010   2010     9990      213         290         Automatic     Petrol       9.4 l/100 km     219 g/km         198491 3.0 TFSI quattr
+5249 audi        Audi A3                white 09/2010   2010     5999      77          105         Manual        Petrol       5.5 l/100 km     127 g/km         159050 1.2 TFSI Sportb

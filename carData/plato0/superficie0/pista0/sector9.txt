@@ -1,0 +1,21 @@
+189  alfa-romeo  Alfa Romeo Brera       red   04/2006   2006     8550      136         185         Manual        Petrol       9.4 l/100 km     223 g/km         87000  2.2 JTS 16V Sky
+190  alfa-romeo  Alfa Romeo 159         red   04/2006   2006     3500      110         150         Manual        Diesel       6 l/100 km       - (g/km)         248000 159 1.9 JTDM 16
+191  alfa-romeo  Alfa Romeo 159         red   07/2006   2006     3999      88          120         Manual        Diesel       5.9 l/100 km     157 g/km         186000 1.9 JTDM 8V Dis
+192  alfa-romeo  Alfa Romeo 147         red   07/2006   2006     1100      77          105         Manual        Petrol       8.2 l/100 km     196 g/km         150000 1.6 Twin Spark 
+193  alfa-romeo  Alfa Romeo 159         black 03/2006   2006     4500      136         185         Manual        Petrol                        - (g/km)         130000 Distintive     
+194  alfa-romeo  Alfa Romeo 159         black 02/2006   2006     900       136         185         Manual        Petrol       9.4 l/100 km     221 g/km         230000 2.2 JTS 16V Pro
+195  alfa-romeo  Alfa Romeo 159         black 06/2006   2006     2250      110         150         Manual        Diesel       6 l/100 km       159 g/km         215000 1.9 JTDM 16V Pr
+196  alfa-romeo  Alfa Romeo 147         black 11/2006   2006     1990      110         150         Manual        Diesel       5.9 l/100 km     157 g/km         185000 1.9 JTD 16V M-J
+197  alfa-romeo  Alfa Romeo GTV         black 05/2006   2006     13600     121         165         Manual        Petrol                        - (g/km)         44000  2-0 JTS Medio F
+198  alfa-romeo  Alfa Romeo Brera       black 05/2006   2006     6999      136         185         Manual        Petrol       9.4 l/100 km     221 g/km         139486 2.2 JTS 16V*TÜ
+199  alfa-romeo  Alfa Romeo Brera       black 04/2006   2006     7999      136         185         Manual        Petrol       9.4 l/100 km     - (g/km)         153000 2.2 JTS 16V Sky
+200  alfa-romeo  Alfa Romeo 156         black 06/2006   2006     2190      122         166         Manual        Petrol                        - (g/km)         156000 2.0 JTS Edition
+201  alfa-romeo  Alfa Romeo 159         black 09/2006   2006     5159      191         260         Manual        Petrol       11.5 l/100 km    273 g/km         225000 3.2 JTS V6 24V 
+202  alfa-romeo  Alfa Romeo             black 09/2006   2006     3550      88          120         Manual        Petrol       8.2 l/100 km     194 g/km         177000 "147 1.6 TS "" 
+203  alfa-romeo  Alfa Romeo 159         black 06/2006   2006     5500      118         160         Manual        Petrol       8.7 l/100 km     205 g/km         170000 1.9 JTS 16V Pro
+204  alfa-romeo  Alfa Romeo Brera       black 04/2006   2006     10000     136         185         Manual        Petrol       9.4 l/100 km     - (g/km)         150000 2.2 JTS 16V Sky
+205  alfa-romeo  Alfa Romeo 147         black 07/2006   2006     1250      77          105         Manual        Petrol       8.2 l/100 km     196 g/km         85000  1.6 16V TS ECO 
+206  alfa-romeo  Alfa Romeo 159         black 02/2006   2006     1795      136         185         Manual        Petrol       9.4 l/100 km     221 g/km         198000 2.2 JTS 16V    
+207  alfa-romeo  Alfa Romeo 159         silver07/2006   2006     1250      147         200         Automatic     Diesel                        0 g/km           242000 Sportwagon 2.4 
+208  alfa-romeo  Alfa Romeo Sportwagon  silver06/2006   2006     1999      110         150         Manual        Diesel       6.1 l/100 km     162 g/km         193000 1.9 JTDM 16V Di
+209  alfa-romeo  Alfa Romeo GTV         silver10/2006   2006     8990      122         166         Manual        Petrol       7.6 l/100 km     - (g/km)         80000  GTV 2.0 JTS    

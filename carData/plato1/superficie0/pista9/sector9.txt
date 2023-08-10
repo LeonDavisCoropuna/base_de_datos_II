@@ -1,0 +1,21 @@
+6279 audi        Audi A5                brown 04/2012   2012     17900     130         177         Manual        Diesel       5.4 l/100 km     143 g/km         84990  Cabriolet 2.0 T
+6280 audi        Audi A6                brown 11/2012   2012     26000     180         245         Automatic     Diesel       5.9 l/100 km     - (g/km)         192000 Avant 3.0 TDI D
+6281 audi        Audi A5                brown 02/2012   2012     14300     125         170         Manual        Petrol       6.2 l/100 km     143 g/km         104000 Cabrio 1.8 TFSI
+6282 audi        Audi A4                brown 10/2012   2012     11600     150         204         Automatic     Diesel                        - (g/km)         184000 Avant 3.0 TDI S
+6283 audi        Audi A4                brown 05/2012   2012     14999     150         204         Automatic     Diesel       5.1 l/100 km     135 g/km         140503 Avant Ambiente 
+6284 audi        Audi A5                brown 04/2012   2012     21490     200         272         Automatic     Petrol       7.5 l/100 km     - (g/km)         115000 Cabrio 3.0 TFSI
+6285 audi        Audi A1                brown 10/2012   2012     7990      77          105         Manual        Diesel       3.8 l/100 km     101 g/km         186681 1.6 TDI  Ambiti
+6286 audi        Audi A5                brown 04/2012   2012     17400     125         170         Manual        Petrol       6.2 l/100 km     147 g/km         78896  Cabriolet 1.8 T
+6287 audi        Audi A6                brown 08/2012   2012     12999     150         204         Automatic     Diesel       5.8 l/100 km     - (g/km)         272000 A6 Avant 3.0TDI
+6288 audi        Audi A5                brown 04/2012   2012     18200     155         211         Automatic     Petrol       7.4 l/100 km     174 g/km         72000  Cabriolet 2-0 T
+6289 audi        Audi A4                brown 03/2012   2012     11000     125         170         Manual        Diesel       5.5 l/100 km     - (g/km)         150000 A4 Avant 2.0 TD
+6290 audi        Audi A3                brown 06/2012   2012     9000      90          122         Manual        Petrol       5.2 l/100 km     - (g/km)         194300 1.4 TFSI Ambien
+6291 audi        Audi A5                brown 09/2012   2012     18490     155         211         Automatic     Petrol       7.4 l/100 km     174 g/km         92000  Cabriolet 2.0 T
+6292 audi        Audi A3                brown 05/2012   2012     12999     92          125         Manual        Petrol       6 l/100 km       - (g/km)         117000 A3 Cabriolet 1.
+6293 audi        Audi A1                brown 03/2012   2012     8500      90          122         Manual        Petrol       5.3 l/100 km     124 g/km         167500 1.4 TFSI Ambiti
+6294 audi        Audi Q5                brown 03/2012   2012     15500     176         239         Automatic     Diesel       7.5 l/100 km     - (g/km)         245000 Q5 3.0 TDI quat
+6295 audi        Audi Q3                brown 09/2012   2012     14990     125         170         Manual        Petrol       7.3 l/100 km     173 g/km         132170 2.0 TFSI *quatt
+6296 audi        Audi A5                brown 03/2012   2012     17990     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         171000 Cabriolet 3.0 T
+6297 audi        Audi A6                brown 02/2012   2012     11500     130         177         Automatic     Diesel       5.1 l/100 km     - (g/km)         240000 Avant 2.0 TDI D
+6298 audi        Audi Q5                brown 12/2012   2012     19950     180         245         Automatic     Diesel       6.4 l/100 km     169 g/km         199000 3-0 TDI quattro
+6299 audi        Audi A6                brown 05/2012   2012     17400     150         204         Automatic     Diesel       5.1 l/100 km     133 g/km         192000 3.0 TDI DPF mul

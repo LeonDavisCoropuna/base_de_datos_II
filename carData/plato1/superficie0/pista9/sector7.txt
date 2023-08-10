@@ -1,0 +1,21 @@
+6237 audi        Audi Q3                blue  08/2012   2012     21799     130         177         Automatic     Diesel       5.9 l/100 km     156 g/km         83000  2.0 TDI quattro
+6238 audi        Audi A6                blue  05/2012   2012     17900     230         313         Automatic     Diesel       6.4 l/100 km     170 g/km         207418 Avant 3.0 TDI q
+6239 audi        Audi A3                blue  07/2012   2012     6399      103         140         Manual        Diesel       4.4 l/100 km     - (g/km)         249000 2.0 TDI Sportba
+6240 audi        Audi A5                blue  11/2012   2012     16990     155         211         Automatic     Petrol       7.5 l/100 km     174 g/km         133877 Sportback 2.0 T
+6241 audi        Audi S6                blue  08/2012   2012     18999     374         508         Automatic     Petrol       9.7 l/100 km     230 g/km         289744 4.0 TFSI Quattr
+6242 audi        Audi A4                blue  10/2012   2012     12990     130         177         Automatic     Diesel       4.8 l/100 km     127 g/km         160115 Avant Ambiente 
+6243 audi        Audi A4                blue  04/2012   2012     13200     105         143         Automatic     Diesel       4.5 l/100 km     - (g/km)         174000 2.0 TDI DPF Att
+6244 audi        Audi A5                blue  10/2012   2012     19990     155         211         Manual        Petrol       7 l/100 km       166 g/km         113294 Sportback 2.0 T
+6245 audi        Audi A5                blue  05/2012   2012     14790     130         177         Manual        Diesel       4.6 l/100 km     120 g/km         158200 2.0 TDI Sportba
+6246 audi        Audi A6                blue  01/2012   2012     11900     150         204         Automatic     Diesel       5.1 l/100 km     - (g/km)         290000 3.0 TDI DPF mul
+6247 audi        Audi A4 allroad        blue  07/2012   2012     13980     130         177         Manual        Diesel       6.1 l/100 km     153 g/km         195200 quattro 2.0 TDI
+6248 audi        Audi A4                blue  07/2012   2012     11990     88          120         Manual        Petrol       6.6 l/100 km     156 g/km         95350  Avant Attractio
+6249 audi        Audi A1                blue  06/2012   2012     13490     90          122         Automatic     Petrol       5.3 l/100 km     126 g/km         105366 1.4 TFSI S tron
+6250 audi        Audi A3                blue  05/2012   2012     8999      103         140         Manual        Diesel       5.1 l/100 km     135 g/km         222485 Sportback 2.0 T
+6251 audi        Audi A4                blue  10/2012   2012     12900     155         211         Automatic     Petrol       7 l/100 km       159 g/km         165000 2.0 TFSI quattr
+6252 audi        Audi A5                blue  05/2012   2012     23980     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         66100  Cabrio 3.0 TDI 
+6253 audi        Audi A4                blue  08/2012   2012     11800     88          120         Manual        Petrol       6.6 l/100 km     156 g/km         133600 Ambiente Avant 
+6254 audi        Audi A5                blue  07/2012   2012     17450     180         245         Manual        Diesel       5.8 l/100 km     - (g/km)         170000 3.0 TDI Sportba
+6255 audi        Audi A1                blue  05/2012   2012     7490      63          86          Manual        Petrol       5.1 l/100 km     121 g/km         163000 Attraction TÜV
+6256 audi        Audi S6                blue  07/2012   2012     34900     309         420         Automatic     Petrol       9.7 l/100 km     230 g/km         136500 Avant 4.0 TFSI 
+6257 audi        Audi TT RS             blue  04/2012   2012     16250     250         340         Automatic     Petrol       9.5 l/100 km     225 g/km         92000  - BOSE - Perlef

@@ -1,0 +1,21 @@
+5292 audi        Audi Q5                white 01/2010   2010     17490     155         211         Automatic     Petrol       8.6 l/100 km     199 g/km         165728 2.0 TFSI Quattr
+5293 audi        Audi A5                white 09/2010   2010     16870     176         239         Automatic     Diesel       6.8 l/100 km     179 g/km         155519 3.0 TDI quattro
+5294 audi        Audi A5                white 01/2010   2010     19999     228         310         Automatic     Petrol       7.5 l/100 km     175 g/km         118000 2.0 TFSI quattr
+5295 audi        Audi A4                white 06/2010   2010     9950      140         190         Automatic     Diesel       6.2 l/100 km     - (g/km)         218000 Avant 2.7 TDI D
+5296 audi        Audi A3                blue  10/2011   2011     9900      103         140         Manual        Diesel       5.1 l/100 km     135 g/km         119000 2.0 TDI Ambitio
+5297 audi        Audi A1                blue  8999      Manual   6-Gang    2011        126 g/km    Manual        110.250 km   Petrol           04/2011                 1.4 TFSI Ambiti
+5298 audi        Audi TT                blue  05/2011   2011     9290      118         160         Manual        Petrol       6.4 l/100 km     152 g/km         184574 1.8 TFSI Coupe*
+5299 audi        Audi A3                blue  02/2011   2011     9499      77          105         Manual        Diesel       4.2 l/100 km     112 g/km         114860 1.6 TDI Ambitio
+5300 audi        Audi A3                blue  05/2011   2011     11990     103         140         Automatic     Diesel       5.6 l/100 km     148 g/km         205013 2.0 TDI *Leder*
+5301 audi        Audi A6                blue  11/2011   2011     10900     150         204         Manual        Diesel       5.3 l/100 km     140 g/km         192350 Avant 3.0 V6 *A
+5302 audi        Audi A4                blue  11/2011   2011     8250      118         160         Manual        Petrol       7.2 l/100 km     - (g/km)         143000 Avant 1.8 TFSI 
+5303 audi        Audi A3                blue  11/2011   2011     11900     125         170         Manual        Diesel       5.6 l/100 km     148 g/km         291100 Sportback 2.0 T
+5304 audi        Audi TT                blue  11/2011   2011     12500     155         211         Manual        Petrol       6.6 l/100 km     156 g/km         157000 "2.0 TFSI Coupe
+5305 audi        Audi A4                blue  11/2011   2011     20999     155         211         Manual        Petrol       7.3 l/100 km     173 g/km         159000 Lim. Ambition q
+5306 audi        Audi Q7                blue  08/2011   2011     18000     180         245         Automatic     Diesel       7.4 l/100 km     195 g/km         143000 3.0 TDI DPF qua
+5307 audi        Audi TT                blue  06/2011   2011     7200      155         211         Automatic     Petrol       7.1 l/100 km     - (g/km)         128000 Coupe 2.0 TFSI 
+5308 audi        Audi A4                blue  02/2011   2011     17190     125         170         Manual        Diesel       5.7 l/100 km     149 g/km         277000 Avant 2.0 TDI D
+5309 audi        Audi Q5                blue  03/2011   2011     10980     199         271         Unknown       Petrol       9.3 l/100 km     220 g/km         133658 3.2 FSI Quattro
+5310 audi        Audi A3                blue  03/2011   2011     9990      147         200         Manual        Petrol       7.2 l/100 km     171 g/km         156937 Sportback 2.0 T
+5311 audi        Audi A3                blue  04/2011   2011     11000     77          105         Automatic     Diesel       4.3 l/100 km     112 g/km         159120 Sportback 1.6 T
+5312 audi        Audi A4                blue  05/2011   2011     6980      88          120         Manual        Petrol       7.2 l/100 km     171 g/km         110000 Attraction Avan

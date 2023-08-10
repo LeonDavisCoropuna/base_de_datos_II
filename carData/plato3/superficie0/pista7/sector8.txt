@@ -1,0 +1,21 @@
+14238audi        Audi Q3                silver10/2017   2017     19941     110         150         Automatic     Petrol       5.8 l/100 km     135 g/km         91750  1.4 TFSI cod S 
+14239audi        Audi Q3                silver01/2017   2017     18980     110         150         Manual        Petrol       5.8 l/100 km     134 g/km         66170  1.4 TFSI SPORT 
+14240audi        Audi A4                silver08/2017   2017     18990     140         190         Automatic     Diesel       4.4 l/100 km     116 g/km         137000 Avant  2.0 TDI 
+14241audi        Audi A3                silver09/2017   2017     14450     85          116         Manual        Diesel       4 l/100 km       106 g/km         110775 1.6 TDI Sportba
+14242audi        Audi Q2                silver05/2017   2017     18890     110         150         Automatic     Petrol       5.2 l/100 km     119 g/km         99950  1.4TFSI S-Trc S
+14243audi        Audi S8                silver07/2017   2017     52900     445         605         Automatic     Petrol       10 l/100 km      - (g/km)         82000  Plus inkl. Voll
+14244audi        Audi A6                silver06/2017   2017     30980     185         252         Automatic     Petrol                        - (g/km)         93821  2.0 TFSI quattr
+14245audi        Audi A4                silver06/2017   2017     17490     140         190         Automatic     Diesel       4.7 l/100 km     123 g/km         131624 Avant quattro s
+14246audi        Audi A3                silver09/2017   2017     21990     110         150         Manual        Diesel       4.4 l/100 km     111 g/km         75000  2-0 TDi Euro6- 
+14247audi        Audi A3                silver04/2017   2017     39999     110         150         Automatic     Hybrid       1.8 l/100 km     40 g/km          63703  Sportback e-tro
+14248audi        Audi SQ7               silver03/2017   2017     19900     320         435         Automatic     Diesel       7.6 l/100 km     199 g/km         275000 "4.0 TDI*Luft*7
+14249audi        Audi A3                silver07/2017   2017     23990     110         150         Automatic     Hybrid       1.8 l/100 km     40 g/km          67000  Sportback e-tro
+14250audi        Audi Q3                silver09/2017   2017     28990     92          125         Manual        Petrol       6.1 l/100 km     136 g/km         64169  1.4 TFSI Xenon 
+14251audi        Audi A4                silver07/2017   2017     18600     185         252         Automatic     Petrol       5.9 l/100 km     0 g/km           64217  Avant 2.0 TFSI 
+14252audi        Audi A3                silver07/2017   2017     17800     110         150         Automatic     Diesel       4.7 l/100 km     122 g/km         117000 2.0 Tdi S troni
+14253audi        Audi A3                silver02/2017   2017     20995     110         150         Manual        Petrol       5 l/100 km       112 g/km         90892  1.4 TFSI ACT*NA
+14254audi        Audi A6                silver04/2017   2017     17995     110         150         Automatic     Diesel       4.4 l/100 km     114 g/km         119450 2.0 TDI Avant u
+14255audi        Audi A4                silver11/2017   2017     61970     110         150         Manual        Diesel       4 l/100 km       104 g/km         142000 2.0 TDi Avant *
+14256audi        Audi SQ7               silver11/2017   2017     40800     320         435         Automatic     Diesel       7.6 l/100 km     199 g/km         76000  4.0 TDI quattro
+14257audi        Audi A5                silver10/2017   2017     36990     185         252         Automatic     Petrol       5.9 l/100 km     136 g/km         33100  "Sb qu. *S-LINE
+14258audi        Audi A5                silver06/2017   2017     28990     185         252         Automatic     Petrol       6.3 l/100 km     144 g/km         49986  SPORTBACK 2.0 T

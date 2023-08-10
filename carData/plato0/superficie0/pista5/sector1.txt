@@ -1,0 +1,21 @@
+1071 alfa-romeo  Alfa Romeo Tonale      grey  12/2022   2022     40850     96          131         Automatic     Petrol       6.2 l/100 km     140 g/km         5      MHEV SPECIALE 1
+1072 alfa-romeo  Alfa Romeo Tonale      grey  06/2022   2022     43400     96          131         Automatic     Petrol       5.8 l/100 km     140 g/km         5900   SPECIALE 1.5 T 
+1073 alfa-romeo  Alfa Romeo Tonale      grey  08/2022   2022     36699     96          131         Automatic     Hybrid       5 l/100 km       139 g/km         5      MHEV SPECIALE 1
+1074 alfa-romeo  Alfa Romeo Tonale      grey  09/2022   2022     42249     117         159         Automatic     Hybrid       5.9 l/100 km     135 g/km         10     VELOCE 1.5 VGT 
+1075 alfa-romeo  Alfa Romeo Stelvio     grey  06/2022   2022     85490     375         510         Automatic     Petrol       10 l/100 km      229 g/km         20     Quadrifoglio Sc
+1076 alfa-romeo  Alfa Romeo Stelvio     grey  04/2022   2022     84490     375         510         Automatic     Petrol       10 l/100 km      229 g/km         20     Quadrifoglio Gl
+1077 alfa-romeo  Alfa Romeo Stelvio     grey  07/2022   2022     80990     375         510         Automatic     Petrol       10 l/100 km      229 g/km         50     Quadrifoglio MY
+1078 alfa-romeo  Alfa Romeo Giulia      grey  06/2022   2022     83290     375         510         Automatic     Petrol       9 l/100 km       206 g/km         20     Quadrifoglio- S
+1079 alfa-romeo  Alfa Romeo Tonale      grey  12/2022   2022     50890     206         280         Automatic     Hybrid       1.4 l/100 km     32 g/km          2500   1.3 VGT Plug-In
+1080 alfa-romeo  Alfa Romeo Giulia      grey  06/2022   2022     43249     154         209         Automatic     Diesel       5.5 l/100 km     145 g/km         17800  VELOCE 2.2 Dies
+1081 alfa-romeo  Alfa Romeo Tonale      grey  12/2022   2022     29970     115         156         Automatic     Petrol       5.9 l/100 km     134 g/km         5      SUPER 1.5 T 130
+1082 alfa-romeo  Alfa Romeo Stelvio     grey  03/2022   2022     78899     375         510         Automatic     Petrol       11.8 l/100 km    267 g/km         25     Quadrifoglio Q4
+1083 alfa-romeo  Alfa Romeo             grey  06/2022   2022     39900     96          131         Automatic     Petrol       6.2 l/100 km     130 g/km         18500  Tonale EDIZIONE
+1084 alfa-romeo  Alfa Romeo Giulia      grey  09/2022   2022     47499     147         200         Automatic     Petrol       7.1 l/100 km     160 g/km         500    -Sprint 2.0 Tur
+1085 alfa-romeo  Alfa Romeo Giulia      grey  01/2022   2022     57900     206         280         Automatic     Petrol       7.3 l/100 km     167 g/km         8500   MY21 VELOCE TI 
+1086 alfa-romeo  Alfa Romeo Giulia      grey  08/2022   2022     52990     206         280         Automatic     Petrol       8 l/100 km       182 g/km         50     MY22 Veloce Ass
+1087 alfa-romeo  Alfa Romeo Tonale      grey  12/2022   2022     29970     115         156         Automatic     Petrol       5.9 l/100 km     134 g/km         12     SUPER 1.5 T 130
+1088 alfa-romeo  Alfa Romeo Giulia      grey  02/2022   2022     54490     154         209         Automatic     Diesel       6.9 l/100 km     156 g/km         50     2.2D Veloce 16V
+1089 alfa-romeo  Alfa Romeo Tonale      grey  10/2022   2022     43940     96          131         Automatic     Hybrid       6.2 l/100 km     140 g/km         200    1.5 Speciale 48
+1090 alfa-romeo  Alfa Romeo Stelvio     grey  11/2022   2022     54990     154         209         Automatic     Diesel       6.3 l/100 km     165 g/km         50     MY22 Veloce 2.2
+1091 alfa-romeo  Alfa Romeo Tonale      grey  12/2022   2022     29970     115         156         Automatic     Petrol       5.9 l/100 km     134 g/km         10     SUPER 1.5 T 130

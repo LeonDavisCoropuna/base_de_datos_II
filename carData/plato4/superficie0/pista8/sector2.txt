@@ -1,0 +1,21 @@
+18522audi        Audi Q3                orange03/2019   2019     26980     110         150         Automatic     Petrol                        - (g/km)         63700  advanced 35 TFS
+18523audi        Audi Q2                orange03/2019   2019     22300     85          116         Manual        Diesel       4.9 l/100 km     128 g/km         14799  30 TDI design-1
+18524audi        Audi Q2                orange02/2019   2019     24990     110         150         Automatic     Petrol       5.7 l/100 km     129 g/km         16500  35 TFSI sport K
+18525audi        Audi Q3                orange06/2019   2019     33880     140         190         Automatic     Petrol       7.5 l/100 km     171 g/km         21854  40 TFSI Quattro
+18526audi        Audi Q2                orange04/2019   2019     25990     140         190         Automatic     Petrol       6.4 l/100 km     146 g/km         28423  40 TFSI S troni
+18527audi        Audi Q3                orange05/2019   2019     35260     169         230         Automatic     Petrol       7.5 l/100 km     171 g/km         57151  45 TFSI design 
+18528audi        Audi Q3                orange07/2019   2019     28990     110         150         Automatic     Petrol       6.3 l/100 km     145 g/km         23960  35 TFSI Virtual
+18529audi        Audi Q2                orange01/2019   2019     21980     85          116         Automatic     Petrol       6.6 l/100 km     149 g/km         21906  design 30 TFSI 
+18530audi        Audi Q8                orange10/2019   2019     77990     210         286         Automatic     Diesel       8.5 l/100 km     "226             5 g/km"51142          
+18531audi        Audi Q2                orange03/2019   2019     22430     85          116         Manual        Petrol       5.4 l/100 km     122 g/km         31233  30 TFSI design 
+18532audi        Audi Q2                orange04/2019   2019     22950     85          116         Automatic     Petrol       6.4 l/100 km     145 g/km         58300  sport TFSi MMI 
+18533audi        Audi Q2                orange03/2019   2019     21560     85          116         Manual        Petrol       5.1 l/100 km     117 g/km         39554  "1.0 TFSI DESIG
+18534audi        Audi Q8                orange05/2019   2019     66888     210         286         Automatic     Diesel       8.4 l/100 km     "221             5 g/km"73513          
+18535audi        Audi Q2                orange05/2019   2019     28980     110         150         Automatic     Petrol       5.4 l/100 km     128 g/km         34958  35 TFSI sport S
+18536audi        Audi Q2                orange05/2019   2019     28980     110         150         Automatic     Petrol       5.4 l/100 km     128 g/km         34958  35 TFSI sport S
+18537audi        Audi Q2                orange04/2019   2019     22890     85          116         Automatic     Diesel                        0 g/km           52220  30 TDI design S
+18538audi        Audi Q3                orange08/2019   2019     29990     110         150         Automatic     Petrol       7.5 l/100 km     169 g/km         53443  35 TFSI S Troni
+18539audi        Audi Q3                orange05/2019   2019     27900     110         150         Automatic     Diesel       4.9 l/100 km     128 g/km         101487 35 2.0 TDI adva
+18540audi        Audi Q3                orange03/2019   2019     32480     110         150         Automatic     Petrol       7.4 l/100 km     168 g/km         56570  "35 TFSI advanc
+18541audi        Audi Q2                orange03/2019   2019     21750     85          116         Manual        Diesel       4.6 l/100 km     121 g/km         72668  30 TDi design L
+18542audi        Audi Q3                orange03/2019   2019     27950     110         150         Automatic     Petrol       6.3 l/100 km     149 g/km         84934  "35 TFSI advanc

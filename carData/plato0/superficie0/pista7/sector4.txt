@@ -1,0 +1,21 @@
+1554 aston-martinAston Martin Vanquish  grey  08/2016   2016     167800    423         575         Automatic     Petrol                        - (g/km)         8845   V12/MY17/8-Gang
+1555 aston-martinAston Martin DB11      grey  12/2016   2016     184000    447         608         Automatic     Petrol                        - (g/km)         33333  "5.2 V12 Launch
+1556 aston-martinAston Martin Vantage   grey  03/2016   2016     171900    421         572         Automatic     Petrol       14.7 l/100 km    343 g/km         28000  Roadster       
+1557 aston-martinAston Martin           red   09/2016   2016     179888    422         574         Automatic     Petrol       14.7 l/100 km    343 g/km         6000   V12 Vantage Roa
+1558 aston-martinAston Martin Vantage   black 04/2016   2016     193850    421         572         Automatic     Petrol                        - (g/km)         19000  S Roadster Spor
+1559 aston-martinAston Martin Vantage   silver09/2016   2016     238000    420         571         Manual        Petrol       17 l/100 km      395 g/km         95     S | Manual- new
+1560 aston-martinAston Martin DB11      blue  10/2017   2017     169900    447         608         Automatic     Petrol       11.4 l/100 km    265 g/km         12000  V12 Launch Edit
+1561 aston-martinAston Martin DB11      grey  03/2017   2017     155000    447         608         Automatic     Petrol                        - (g/km)         13000  5.2 V12 AMR*EDI
+1562 aston-martinAston Martin Vanquish  grey  02/2017   2017     175007    423         575         Automatic     Petrol       12.8 l/100 km    298 g/km         16511  V12   8-Gang Au
+1563 aston-martinAston Martin DB9       grey  03/2017   2017     179900    403         548         Automatic     Petrol       14.3 l/100 km    333 g/km         6888   6.0 Volante GT 
+1564 aston-martinAston Martin DB11      grey  01/2017   2017     100000    447         608         Automatic     Petrol       11.4 l/100 km    - (g/km)         67000  DB11 V12 Coupe 
+1565 aston-martinAston Martin DB11      green 10/2017   2017     160000    447         608         Automatic     Petrol       11.4 l/100 km    265 g/km         22800  V12 Coupe      
+1566 aston-martinAston Martin Vanquish  black 12/2017   2017     170007    423         575         Automatic     Petrol       12.8 l/100 km    298 g/km         13557  V12 MwSt. 8-Gan
+1567 aston-martinAston Martin DB9       black 07/2017   2017     152900    402         547         Automatic     Petrol       14.3 l/100 km    333 g/km         15025  GT 6.0 Coupe   
+1568 aston-martinAston Martin Vanquish  black 06/2017   2017     185900    444         604         Automatic     Petrol                        - (g/km)         46733  S  V12 *CARBON*
+1569 aston-martinAston Martin Vanquish  black 09/2017   2017     219900    444         604         Automatic     Petrol       13.1 l/100 km    302 g/km         24610  S Onyx Black- E
+1570 aston-martinAston Martin Vantage   silver06/2017   2017     300000    420         571         Manual        Petrol       17 l/100 km      - (g/km)         9750   Handschalter - 
+1571 aston-martinAston Martin V8        white 03/2017   2017     89850     321         436         Automatic     Petrol                        0 g/km           10000  Vantage S V8*Ca
+1572 aston-martinAston Martin Vanquish  white 06/2017   2017     269007    443         602         Automatic     Petrol       12.8 l/100 km    298 g/km         23800  Volante S      
+1573 aston-martinAston Martin Rapide    white 03/2017   2017     119777    412         560         Automatic     Petrol                        - (g/km)         30000  Rapide 6.0 S To
+1574 aston-martinAston Martin DB11      blue  04/2018   2018     124990    375         510         Automatic     Petrol       9.9 l/100 km     230 g/km         26661  4.0 V8 Coupé  

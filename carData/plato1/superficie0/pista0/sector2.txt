@@ -1,0 +1,21 @@
+4242 audi        Audi A4                grey  10/2009   2009     10250     118         160         Automatic     Petrol       7.4 l/100 km     174 g/km         94500  Ambiente       
+4243 audi        Audi Q5                grey  03/2009   2009     10000     176         239         Automatic     Diesel       7.5 l/100 km     199 g/km         220000 3.0 TDI quattro
+4244 audi        Audi A4                grey  07/2009   2009     6290      155         211         Automatic     Petrol                        - (g/km)         212284 2.0 TFSI quattr
+4245 audi        Audi Q5                grey  06/2009   2009     10900     125         170         Automatic     Diesel       6.8 l/100 km     179 g/km         226000 2.0 TDI quattro
+4246 audi        Audi Q5                grey  09/2009   2009     9990      176         239         Automatic     Diesel       7.5 l/100 km     199 g/km         267700 3.0 TDI QUATTRO
+4247 audi        Audi A3                grey  03/2009   2009     10950     147         200         Automatic     Petrol       7.4 l/100 km     171 g/km         114000 2.0 TFSI Aut.S 
+4248 audi        Audi A8                grey  07/2009   2009     9990      171         232         Automatic     Diesel       8.7 l/100 km     231 g/km         191000 3.0 TDI quattro
+4249 audi        Audi A6                grey  03/2009   2009     11990     125         170         Automatic     Petrol       8.5 l/100 km     204 g/km         122000 "Lim 2.0 TFSI A
+4250 audi        Audi A6                grey  01/2009   2009     5300      125         170         Automatic     Diesel       5.8 l/100 km     153 g/km         179850 2.7 TDI DPF  au
+4251 audi        Audi A5                grey  10/2009   2009     7985      140         190         Automatic     Diesel       5.8 l/100 km     169 g/km         254093 A5 SB 2.7 TDI M
+4252 audi        Audi A6                grey  11/2009   2009     7990      176         239         Automatic     Diesel       7.5 l/100 km     199 g/km         209488 Avant 3.0 TDI q
+4253 audi        Audi A5                grey  09/2009   2009     5490      118         160         Automatic     Petrol       7.2 l/100 km     169 g/km         224410 Coupe 1.8 TFSI 
+4254 audi        Audi A5                grey  06/2009   2009     14850     155         211         Manual        Petrol       6.8 l/100 km     - (g/km)         104000 Cabrio 2.0 TFSI
+4255 audi        Audi Q7                grey  09/2009   2009     16999     240         326         Automatic     Diesel       11.1 l/100 km    294 g/km         252121 4.2 TDI quattro
+4256 audi        Audi A3                grey  10/2009   2009     5300      103         140         Manual        Diesel       4.4 l/100 km     - (g/km)         253000 2.0 TDI DPF Att
+4257 audi        Audi A6                grey  10/2009   2009     12950     162         220         Automatic     Petrol       9.1 l/100 km     214 g/km         161686 Avant 2.8 V6 FS
+4258 audi        Audi A3                grey  03/2009   2009     11980     118         160         Manual        Petrol       7.3 l/100 km     174 g/km         125000 Cabriolet Ambit
+4259 audi        Audi A3                grey  02/2009   2009     5990      92          125         Automatic     Petrol       5.9 l/100 km     138 g/km         206600 1.4 TFSI Ambiti
+4260 audi        Audi S3                grey  12/2009   2009     19000     195         265         Manual        Petrol       8.5 l/100 km     199 g/km         123000 *Motor erst 4k 
+4261 audi        Audi A4 allroad        grey  11/2009   2009     8500      176         239         Automatic     Diesel       7.2 l/100 km     189 g/km         239923 quattro 3.0 TDI
+4262 audi        Audi A4                grey  07/2009   2009     12999     88          120         Manual        Petrol       7.2 l/100 km     169 g/km         174811 Avant 1.8 TFSI 

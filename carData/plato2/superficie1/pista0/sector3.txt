@@ -1,0 +1,21 @@
+10563audi        Audi RS6               black 06/2015   2015     52980     412         560         Automatic     Petrol       9.6 l/100 km     223 g/km         169172 4.0 TFSI  quatt
+10564audi        Audi A4                black 12/2015   2015     17360     125         170         Manual        Petrol       6.5 l/100 km     154 g/km         99800  1.8 TFSI Avant 
+10565audi        Audi A4                black 03/2015   2015     18990     180         245         Automatic     Diesel       6.3 l/100 km     - (g/km)         158900 Avant 3.0 TDI D
+10566audi        Audi A4                black 03/2015   2015     9500      110         150         Manual        Diesel       5.3 l/100 km     140 g/km         226000 Avant Attractio
+10567audi        Audi RS6               black 10/2015   2015     48000     412         560         Automatic     Petrol       9.6 l/100 km     - (g/km)         200000 Audi RS6 avant 
+10568audi        Audi A5                black 11/2015   2015     19310     106         144         Manual        Petrol       5.8 l/100 km     141 g/km         23622  1.8 TFSI*PDC*SH
+10569audi        Audi A3                black 08/2015   2015     15500     110         150         Automatic     Diesel       4.5 l/100 km     - (g/km)         125000 2.0 TDI Sportba
+10570audi        Audi A5                black 10/2015   2015     21980     130         177         Automatic     Petrol       5.5 l/100 km     128 g/km         52500  A5 Coupe S line
+10571audi        Audi A6 allroad        black 01/2015   2015     20000     180         245         Automatic     Diesel       6.3 l/100 km     - (g/km)         134000 A6 allroad quat
+10572audi        Audi RS3               black 11/2015   2015     35990     270         367         Automatic     Petrol       8.1 l/100 km     192 g/km         69572  2.5 TFSI quattr
+10573audi        Audi Q3                black 07/2015   2015     18490     135         184         Automatic     Diesel       5.6 l/100 km     146 g/km         138500 QUATTRO*SLINE*T
+10574audi        Audi Q3                black 06/2015   2015     17980     110         150         Automatic     Petrol       6.2 l/100 km     143 g/km         132000 1-4 TFSI sport 
+10575audi        Audi TT                black 01/2015   2015     27888     169         230         Automatic     Petrol       6.4 l/100 km     149 g/km         31155  Coupé 2-0 TFSI
+10576audi        Audi A3                black 05/2015   2015     16850     110         150         Automatic     Diesel       4.4 l/100 km     116 g/km         103000 2-0 TDI Sportba
+10577audi        Audi A3                black 05/2015   2015     15200     110         150         Automatic     Diesel       4.4 l/100 km     - (g/km)         140000 A3 2.0 TDI Spor
+10578audi        Audi S8                black 06/2015   2015     36990     382         519         Automatic     Petrol       9.6 l/100 km     220 g/km         129999 4.0 TFSI quattr
+10579audi        Audi A7                black 04/2015   2015     27999     200         272         Automatic     Diesel       5.2 l/100 km     138 g/km         137000 3.0 TDI 200kW q
+10580audi        Audi A3                black 03/2015   2015     13980     90          122         Manual        Petrol                        0 g/km           80300  Sportback 1.4 T
+10581audi        Audi A6                black 03/2015   2015     17500     140         190         Manual        Diesel       4.6 l/100 km     119 g/km         153500 Avant 2.0 TDI 1
+10582audi        Audi A3                black 07/2015   2015     13999     110         150         Automatic     Diesel       4.4 l/100 km     116 g/km         207300 Sportback Sport
+10583audi        Audi SQ5               black 02/2015   2015     26900     230         313         Automatic     Diesel       6.8 l/100 km     180 g/km         122300 3.0 TDI V6 quat

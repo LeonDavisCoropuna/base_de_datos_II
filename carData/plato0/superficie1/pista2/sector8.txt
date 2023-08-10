@@ -1,0 +1,21 @@
+2688 audi        Audi A4                black 06/2005   2005     4000      188         256         Automatic     Petrol       10.7 l/100 km    257 g/km         313000 Avant 3.2 FSI q
+2689 audi        Audi A3                black 11/2005   2005     3999      75          102         Manual        Petrol       7.1 l/100 km     168 g/km         245314 1.6 Attraction 
+2690 audi        Audi A6                black 05/2005   2005     5500      132         179         Manual        Diesel       7.2 l/100 km     - (g/km)         288827 A6 Avant 2.7 TD
+2691 audi        Audi A6                black 07/2005   2005     4499      165         224         Automatic     Diesel       8 l/100 km       215 g/km         436000 Avant 3.0 TDI q
+2692 audi        Audi A6                black 10/2005   2005     7000      165         224         Automatic     Diesel       8.5 l/100 km     - (g/km)         255000 Avant 3.0 TDI t
+2693 audi        Audi A6                black 06/2005   2005     2950      125         170         Manual        LPG          9.9 l/100 km     - (g/km)         400000 A6 Avant 2.4   
+2694 audi        Audi A3                black 03/2005   2005     4990      75          102         Manual        Petrol       7.3 l/100 km     175 g/km         235000 Sportback 1.6 A
+2695 audi        Audi A2                black 11/2005   2005     4000      55          75          Manual        Petrol       5.9 l/100 km     - (g/km)         247230 A2 1.4         
+2696 audi        Audi A6                black 10/2005   2005     7890      125         170         Manual        Petrol       8.2 l/100 km     197 g/km         146000 2.0 TFSI Avant 
+2697 audi        Audi A8                black 12/2005   2005     5500      240         326         Automatic     Diesel       9.4 l/100 km     - (g/km)         396000 4.2 TDI DPF qua
+2698 audi        Audi A3                black 11/2005   2005     3900      110         150         Manual        Petrol       7.4 l/100 km     - (g/km)         177000 A3 2.0 FSI / S-
+2699 audi        Audi A3                black 12/2005   2005     3800      75          102         Manual        Petrol       7.3 l/100 km     175 g/km         178000 1.6 Attraction 
+2700 audi        Audi A3                black 05/2005   2005     5400      110         150         Manual        Petrol       7.6 l/100 km     182 g/km         180000 Sportback 2.0 F
+2701 audi        Audi A3                black 06/2005   2005     3300      110         150         Manual        Petrol       7.4 l/100 km     - (g/km)         226000 2.0 FSI Attract
+2702 audi        Audi A3                black 04/2005   2005     2990      103         140         Manual        Diesel       5.7 l/100 km     154 g/km         310000 Sportback TDI A
+2703 audi        Audi A6                black 10/2005   2005     4900      165         224         Automatic     Diesel       8.6 l/100 km     232 g/km         256000 Avant 3.0 TDI q
+2704 audi        Audi A3                black 02/2005   2005     4490      103         140         Manual        Diesel       5.5 l/100 km     148 g/km         239600 2.0 TDI//Attrac
+2705 audi        Audi A3                black 04/2005   2005     5200      103         140         Automatic     Diesel       5.6 l/100 km     151 g/km         222000 2.0 TDI       A
+2706 audi        Audi A4                black 04/2005   2005     5490      120         163         Automatic     Diesel       6.9 l/100 km     186 g/km         256000 Avant 2.5 TDI m
+2707 audi        Audi A8                black 01/2005   2005     6200      202         275         Automatic     Diesel       9.6 l/100 km     259 g/km         251200 4.0 TDI quattro
+2708 audi        Audi A4                black 05/2005   2005     7999      140         190         Automatic     Petrol       8.6 l/100 km     - (g/km)         107556 1.8 T          

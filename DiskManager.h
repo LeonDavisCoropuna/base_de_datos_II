@@ -84,10 +84,9 @@ public:
 
     void adcionarRegistroEnBloque(string data, int idBloque)
     {
-
-
         for (auto a: directorioBloques[idBloque]->sectores)
         {
+            cout<<a->memoriaDisponible<<endl;
             if(a->memoriaDisponible > data.length()) {
                 ofstream archivo(a->route, ios::app);
                 archivo << data << endl;
@@ -98,24 +97,25 @@ public:
         }
 
         // caso de bloque lleno
-
         string modifyIndfo = disk->getFreeSpace();
-        if(modifyIndfo.size()> 1)
+        cout<<"Bloque lleno:  "<<endl;
+        cout<<"sadsdaads: "<<modifyIndfo<<endl;
+        if(modifyIndfo.length()> 5)
         {
             vector<string> modify;
             string temp;
             stringstream is(modifyIndfo);
             while(is>>temp)
                 modify.push_back(temp);
-
+            cout<<"Insertado en un bloque con espacio"<<endl;
             string ruta =  disk->nameDisk+"/plato"+ modify[0]+"/superficie"+modify[1]+"/pista"+modify[2]+"/";
             ofstream file(ruta +"sector"+modify[3]+".txt",ios::app);
             file<<data<<endl;
-
         }
         else
         {
-           string ruta =  disk->nameDisk+"/plato"+ to_string(disk->currentIndexes[0])+"/superficie"+to_string(disk->currentIndexes[1])+"/pista"+to_string(disk->currentIndexes[2])+"/";
+            cout<<"No hay registros eliminados\nInsertando al final: "<<endl;
+            string ruta =  disk->nameDisk+"/plato"+ to_string(disk->currentIndexes[0])+"/superficie"+to_string(disk->currentIndexes[1])+"/pista"+to_string(disk->currentIndexes[2])+"/";
 
             ofstream file(ruta+ "sector"+to_string(disk->currentIndexes[3])+".txt",ios::app);
             file<<data<<endl;

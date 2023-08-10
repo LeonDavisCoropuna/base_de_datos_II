@@ -1,0 +1,21 @@
+10290audi        Audi SQ5               grey  09/2015   2015     29995     240         326         Automatic     Diesel       6.6 l/100 km     174 g/km         96965  3.0 TDI Competi
+10291audi        Audi A3                grey  04/2015   2015     16000     92          125         Manual        Petrol       5.2 l/100 km     - (g/km)         126000 A3 1.4 TFSI Lim
+10292audi        Audi A6                grey  02/2015   2015     19999     140         190         Automatic     Diesel       4.5 l/100 km     114 g/km         157000 A6 Avant 2.0 TD
+10293audi        Audi A4                grey  12/2015   2015     19850     140         190         Automatic     Diesel       4.4 l/100 km     116 g/km         165000 Avant Sport Nav
+10294audi        Audi A6                grey  02/2015   2015     21790     240         326         Automatic     Diesel       6.2 l/100 km     164 g/km         324000 "Avant 3.0 TDI 
+10295audi        Audi A6                grey  10/2015   2015     13999     160         218         Automatic     Diesel       5.3 l/100 km     138 g/km         295000 Avant 3.0 TDI q
+10296audi        Audi TT                grey  09/2015   2015     29900     169         230         Automatic     Petrol       6.9 l/100 km     158 g/km         55500  Roadster 2.0 TF
+10297audi        Audi A4                grey  05/2015   2015     14000     100         136         Manual        Diesel       4.2 l/100 km     - (g/km)         169000 A4 Avant 2.0 TD
+10298audi        Audi A3                grey  09/2015   2015     18890     110         150         Manual        Diesel                        - (g/km)         103990 TDi quattro Amb
+10299audi        Audi A4                grey  12/2015   2015     21490     140         190         Automatic     Petrol       5.6 l/100 km     128 g/km         68950  2.0 TFSI AT*Nav
+10300audi        Audi A5                grey  12/2015   2015     25490     160         218         Automatic     Diesel       6.1 l/100 km     162 g/km         144000 3.0 TDI quattro
+10301audi        Audi SQ5               grey  06/2015   2015     27850     230         313         Automatic     Diesel       6.8 l/100 km     179 g/km         160000 3.0 TDI quattro
+10302audi        Audi A4                grey  06/2015   2015     23820     125         170         Automatic     Petrol       6.1 l/100 km     145 g/km         44422  Avant Pano Xeno
+10303audi        Audi Q3                grey  04/2015   2015     18444     103         140         Manual        Diesel                        0 g/km           107000 2.0 TDI QUATTRO
+10304audi        Audi TT                grey  06/2015   2015     25440     169         230         Automatic     Petrol       6.5 l/100 km     - (g/km)         106000 Roadster 2.0 TF
+10305audi        Audi A4                grey  11/2015   2015     25980     140         190         Automatic     Diesel       4.4 l/100 km     116 g/km         92000  Avant TDI sport
+10306audi        Audi Q3                grey  01/2015   2015     21890     130         177         Automatic     Diesel       5.9 l/100 km     156 g/km         125000 2.0 TDI quattro
+10307audi        Audi RS3               grey  08/2015   2015     31600     338         460         Automatic     Petrol       8.1 l/100 km     192 g/km         178500 Sportback 2.5 T
+10308audi        Audi A5                grey  04/2015   2015     23750     180         245         Automatic     Diesel       6.4 l/100 km     167 g/km         146000 Cabrio 3.0 TDI 
+10309audi        Audi A5                grey  12/2015   2015     26380     180         245         Automatic     Diesel       5.9 l/100 km     156 g/km         73447  3.0 TDI Q 2x S 
+10310audi        Audi Q7                grey  06/2015   2015     31999     200         272         Automatic     Diesel       6.2 l/100 km     163 g/km         286000 3.0 TDI Quattro

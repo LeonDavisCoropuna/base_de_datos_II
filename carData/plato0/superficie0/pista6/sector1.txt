@@ -1,0 +1,21 @@
+1281 alfa-romeo  Alfa Romeo Stelvio     white 07/2022   2022     63899     154         209         Automatic     Diesel       5.5 l/100 km     144 g/km         10000  2.2 Diesel 16V 
+1282 alfa-romeo  Alfa Romeo Stelvio     white 09/2022   2022     56985     206         280         Automatic     Petrol       9.1 l/100 km     206 g/km         100    Veloce 2.0 Turb
+1283 alfa-romeo  Alfa Romeo Stelvio     white 03/2022   2022     63900     206         280         Unknown       Petrol       7.4 l/100 km     178 g/km         4500   MY21 VELOCE 2.0
+1284 alfa-romeo  Alfa Romeo Giulia      white 01/2022   2022     44999     154         209         Automatic     Diesel       5.5 l/100 km     145 g/km         48963  2.2 Diesel 16V 
+1285 alfa-romeo  Alfa Romeo Stelvio     white 05/2022   2022     63900     206         280         Automatic     Petrol       7.4 l/100 km     170 g/km         7300   MY21 VELOCE 2.0
+1286 alfa-romeo  Alfa Romeo Stelvio     white 08/2022   2022     53785     206         280         Automatic     Petrol       9.1 l/100 km     206 g/km         13000  Veloce 2.0 Turb
+1287 alfa-romeo  Alfa Romeo Tonale      white 10/2022   2022     44790     118         160         Automatic     Petrol       6.1 l/100 km     139 g/km         3194   Ti 1.5 118kW (1
+1288 alfa-romeo  Alfa Romeo Giulia      white 11/2022   2022     59990     206         280         Automatic     Petrol       8.1 l/100 km     184 g/km         10     ESTREMA - 2.0 -
+1289 alfa-romeo  Alfa Romeo Giulia      white 10/2022   2022     59690     206         280         Automatic     Petrol       8.1 l/100 km     184 g/km         9999   ESTREMA - 2.0 -
+1290 alfa-romeo  Alfa Romeo Stelvio     white 06/2022   2022     67590     206         280         Automatic     Petrol       7.3 l/100 km     167 g/km         10     Ti MY22 EL.PANO
+1291 alfa-romeo  Alfa Romeo Giulia      white 04/2022   2022     51990     206         280         Automatic     Petrol       7.2 l/100 km     164 g/km         5      Veloce Q4 PANOR
+1292 alfa-romeo  Alfa Romeo Stelvio     white 04/2022   2022     48990     206         280         Automatic     Petrol       7.2 l/100 km     165 g/km         50     Ti 2.0 Turbo 28
+1293 alfa-romeo  Alfa Romeo Giulia      white 01/2022   2022     45985     154         209         Automatic     Diesel       5.5 l/100 km     145 g/km         18000  Veloce 2.2 Dies
+1294 alfa-romeo  Alfa Romeo Giulia      white 01/2022   2022     51490     154         209         Automatic     Diesel       5.5 l/100 km     145 g/km         10     MY22 Veloce 2.2
+1295 alfa-romeo  Alfa Romeo Stelvio     white 01/2022   2022     45899     154         209         Automatic     Diesel       5.5 l/100 km     - (g/km)         27000  Stelvio 2.2 Die
+1296 alfa-romeo  Alfa Romeo Tonale      white 12/2022   2022     58950     206         280         Automatic     Hybrid                        60 km Reichweite 3000   VELOCE 1.3T Mul
+1297 alfa-romeo  Alfa Romeo Giulia      gold  04/2022   2022     52685     206         280         Automatic     Petrol       7.2 l/100 km     184 g/km         7583   Veloce 2.0 Turb
+1298 alfa-romeo  Alfa Romeo Giulia      gold  12/2022   2022     77490     375         510         Automatic     Petrol       10 l/100 km      206 g/km         50     Quadrifoglio V6
+1299 alfa-romeo  Alfa Romeo Stelvio     gold  03/2022   2022     74900     375         510         Automatic     Petrol       9.8 l/100 km     222 g/km         8500   Quadrifoglio Q4
+1300 alfa-romeo  Alfa Romeo Giulia      gold  06/2022   2022     79990     375         510         Automatic     Petrol       9 l/100 km       206 g/km         3120   Quadrifoglio- A
+1301 alfa-romeo  Alfa Romeo Giulia      gold  06/2022   2022     85990     375         510         Automatic     Petrol       9 l/100 km       206 g/km         3120   Quadrifoglio Ak

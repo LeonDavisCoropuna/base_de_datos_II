@@ -17,8 +17,8 @@ void opt1(DiskManager *disk){
     cout<<idsInfo<<endl;
 }
 
-//Consular un registro
-void opt2(DiskManager *manager)
+
+void opt2(DiskManager *manager) //Consular un registro
 {
     cout<<"Consultar un registro:"<<endl;
     int idRecord;
@@ -38,9 +38,14 @@ void opt2(DiskManager *manager)
 }
 
 //Adicionar registro
-void opt3(string newRecord, DiskManager *manager)
+void opt3(DiskManager *disk)
 {
-    manager->directorioBloques;
+    int nBloq;
+    string newData;
+    cout<<"Numero de bloque: ";cin>>nBloq;
+    cin.ignore();
+    cout<<"Nuevo dato: ";    getline(cin,newData);
+    disk->adcionarRegistroEnBloque(newData,nBloq);
 }
 
 //Eliminar registro
@@ -49,7 +54,7 @@ void opt4(DBMS * &db)
     int recordId;
     cout<<"Ingrese id del Registro a eliminar: ";cin>>recordId;
 
-    Item<int>* data= manager->disk->btree->searchItemById(recordId);
+    Item<int>* data= db->DM->disk->btree->searchItemById(recordId);
     string values = data->route;
     std::stringstream ss(values); // Crea un stringstream con la cadena de entrada
     string idBlock, secBlock, lineSector;
@@ -116,9 +121,17 @@ void opt7(DiskManager *disk)
 4.5. Mostrar que la página está en buffer pool - Mostrar capacidad libre y ocupado
 4.6. Mostrar los flags de las páginas (Estado de la página)
  */
-void opt8(DiskManager *disk)
+void opt8(DBMS *db)
 {
+    cout<<"Estado de buffer pool"<<endl;
 
+    cout<<db->BM->getStateBufferPool()<<endl;
+
+    int idRecord;
+    cout<<"Id del registro a eliminar: "; cin>>idRecord;
+    db->sql_Request(to_string(idRecord),3);
+
+    cout<<"\nRegistro encontrado finalizado!"<<endl;
 }
 
 
@@ -178,8 +191,9 @@ int main() {
     DBMS *db = new DBMS(manager,bufem);
 
     //opt1(manager);
-    opt2(manager);
+    opt3(manager);
 
+    //opt8(db);
     //manager->showDirectorio();
     //string idsInfo = manager->mostrarInfoRegistroBloque(nroBloque);
 /*

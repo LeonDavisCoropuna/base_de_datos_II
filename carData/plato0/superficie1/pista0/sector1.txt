@@ -1,0 +1,21 @@
+2121 audi        Audi A6                silver04/2002   2002     2100      125         170         Automatic     Petrol       9.8 l/100 km     235 g/km         245043 Lim. 2.4 Aut.*N
+2122 audi        Audi A4                silver10/2002   2002     1950      96          131         Automatic     Petrol       8 l/100 km       192 g/km         215300 AVANT 2.0 /KLIM
+2123 audi        Audi A6                blue  04/2003   2003     6500      125         170         Automatic     Petrol       9.9 l/100 km     238 g/km         156700 2.4            
+2124 audi        Audi A4                blue  03/2003   2003     4895      162         220         Manual        Petrol       9.7 l/100 km     233 g/km         203900 Cabriolet 3.0 S
+2125 audi        Audi TT                blue  08/2003   2003     4990      110         150         Manual        Petrol       8.2 l/100 km     197 g/km         248000 Coupe 1.8 LEDER
+2126 audi        Audi A6                blue  10/2003   2003     5999      125         170         Automatic     Petrol       10.9 l/100 km    262 g/km         118151 2.4 quattro --A
+2127 audi        Audi A3                blue  12/2003   2003     2200      75          102         Manual        Petrol       7.3 l/100 km     175 g/km         236500 1.6 Ambition Kl
+2128 audi        Audi A4                blue  01/2003   2003     2000      110         150         Manual        Petrol       7.1 l/100 km     - (g/km)         230000 2.0 FSI        
+2129 audi        Audi A6                blue  04/2003   2003     2800      125         170         Manual        Petrol       9.9 l/100 km     238 g/km         213000 2.4            
+2130 audi        Audi A4                blue  09/2003   2003     3350      96          131         Automatic     Petrol       8.1 l/100 km     194 g/km         264654 2.0 Lim. (8E)  
+2131 audi        Audi A4                blue  04/2003   2003     6990      125         170         Manual        Petrol       9.7 l/100 km     233 g/km         144000 2.4 Cabriolet (
+2132 audi        Audi A3                blue  09/2003   2003     5200      75          102         Automatic     Petrol                        - (g/km)         132221 1.6 Automat. PD
+2133 audi        Audi A4                blue  05/2003   2003     4850      120         163         Manual        Petrol                        - (g/km)         198500 Cabriolet 1.8 T
+2134 audi        Audi A6                blue  12/2003   2003     3000      120         163         Automatic     Diesel       6.9 l/100 km     186 g/km         321000 2.5 TDI        
+2135 audi        Audi TT                blue  02/2003   2003     3450      110         150         Manual        Petrol       8.2 l/100 km     197 g/km         350000 1.8 T Coupe 1A 
+2136 audi        Audi A4                blue  09/2003   2003     1800      120         163         Manual        Diesel       6.9 l/100 km     - (g/km)         310000 Avant 2.5 TDI  
+2137 audi        Audi TT                blue  09/2003   2003     6290      110         150         Manual        Petrol       8.3 l/100 km     197 g/km         176958 Coupe/Roadster 
+2138 audi        Audi A3                blue  02/2003   2003     750       75          102         Manual        Petrol       6.8 l/100 km     - (g/km)         232400 A3 1.6 Ambition
+2139 audi        Audi A2                blue  03/2003   2003     3999      81          110         Manual        Petrol       6 l/100 km       144 g/km         189000 1.6 FSI 110PS 5
+2140 audi        Audi A4                blue  04/2003   2003     4300      96          131         Manual        Diesel       5.6 l/100 km     151 g/km         230000 Avant 1.9 TDI  
+2141 audi        Audi A2                blue  10/2003   2003     5499      66          90          Manual        Diesel       4.3 l/100 km     114 g/km         366227 1.4 TDI  Advanc

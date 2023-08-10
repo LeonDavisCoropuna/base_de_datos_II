@@ -127,6 +127,18 @@ public:
         ss>>memoriaSector;
         ss>>sectorBloque;
         platos.resize(numPlatos,0);
+        loadLastPlace();
+    }
+    void loadLastPlace()
+    {
+        ifstream archivo(nameDisk+"/lastPlace.txt");
+        string linea;
+        getline( archivo, linea);
+        stringstream ss(linea);
+        ss>>currentIndexes[0];
+        ss>>currentIndexes[1];
+        ss>>currentIndexes[2];
+        ss>>currentIndexes[3];
 
     }
     void loadFreeSpace(){
@@ -139,23 +151,25 @@ public:
     }
     string getFreeSpace(){
         loadFreeSpace();
-        string top = freeSpaceList.front();
+        if(!freeSpaceList.empty()){
+            string top = freeSpaceList.front();
+            /* while (true)
+             {
+                 // Usando la función find()
+                 size_t posicion = top.find("LAST PLACE:");
+                 if (posicion != std::string::npos) {
+                     std::cout << "La subcadena '" << subcadena << "' se encuentra en la posición " << posicion << std::endl;
+                 } else {
+                     std::cout << "La subcadena no se encontró" << std::endl;
+                 }
+             }
+             */
 
-       /* while (true)
-        {
-
-            // Usando la función find()
-            size_t posicion = top.find("LAST PLACE:");
-            if (posicion != std::string::npos) {
-                std::cout << "La subcadena '" << subcadena << "' se encuentra en la posición " << posicion << std::endl;
-            } else {
-                std::cout << "La subcadena no se encontró" << std::endl;
-            }
+            freeSpaceList.pop();
+            return top;
         }
-        */
+        else return "";
 
-        freeSpaceList.pop();
-        return top;
     }
     void updateFreeSpace(){
         ofstream free(nameDisk+"/freeSpace.txt");
@@ -329,7 +343,7 @@ public:
             fs::current_path(initialPath);
         }
 
-        //ofstream archivo (nameDisk+"freeSpace.txt");
+        //ofstream archivo (nameDisk+"/freeSpace.txt");
         //archivo<<"LAST PLACE: "<<currentIndexes[0]<<" "<<" "<<currentIndexes[1]<<" "<<currentIndexes[2]<<" "<<currentIndexes[3]<<endl;
 
 

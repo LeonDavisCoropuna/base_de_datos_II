@@ -1,0 +1,21 @@
+4578 audi        Audi A4                silver09/2009   2009     21950     176         239         Manual        Diesel       6.8 l/100 km     176 g/km         68000  Avant 3.0 TDI D
+4579 audi        Audi A6                silver06/2009   2009     9500      125         170         Automatic     Petrol       7.8 l/100 km     - (g/km)         145000 Avant 2.0 TFSI 
+4580 audi        Audi A5                silver06/2009   2009     16800     155         211         Manual        Petrol       6.8 l/100 km     - (g/km)         34500  A5 Cabrio 2.0 T
+4581 audi        Audi A3                silver08/2009   2009     8000      92          125         Manual        Petrol       5.7 l/100 km     132 g/km         118000 1.4 TFSI Attrac
+4582 audi        Audi A6                silver11/2009   2009     11748     100         136         Manual        Diesel       6.6 l/100 km     177 g/km         128000 2.0 TDI *S-LINE
+4583 audi        Audi A6                silver09/2009   2009     9500      176         239         Automatic     Diesel       7.1 l/100 km     - (g/km)         266500 3.0 TDI DPF qua
+4584 audi        Audi A3                silver02/2009   2009     8700      118         160         Manual        Petrol       6.6 l/100 km     - (g/km)         105000 A3 1.8 TFSI Spo
+4585 audi        Audi A6                silver05/2009   2009     7950      132         179         Automatic     Diesel       7.7 l/100 km     206 g/km         237000 2.7 TDI Avant S
+4586 audi        Audi A3                silver08/2009   2009     4999      103         140         Manual        Diesel       4.4 l/100 km     115 g/km         249999 2.0 TDI DPF Eur
+4587 audi        Audi A4                silver01/2009   2009     8490      103         140         Manual        Diesel       6.4 l/100 km     172 g/km         172000 Cabriolet 2.0 T
+4588 audi        Audi A4                silver06/2009   2009     9999      155         211         Automatic     Petrol       7.5 l/100 km     174 g/km         99846  Lim. 2.0 TFSI A
+4589 audi        Audi A3                silver11/2009   2009     8000      75          102         Manual        Petrol       6.9 l/100 km     164 g/km         69500  1.6 Attraction 
+4590 audi        Audi A6                silver08/2009   2009     5600      140         190         Automatic     Diesel       6.5 l/100 km     - (g/km)         285000 A6 Avant 2.7 TD
+4591 audi        Audi A4                silver10/2009   2009     8490      118         160         Manual        Petrol       7.6 l/100 km     176 g/km         67909  1.8 TFSI quattr
+4592 audi        Audi A4                silver12/2009   2009     7699      132         179         Automatic     Petrol       7.3 l/100 km     172 g/km         183500 Avant Ambiente/
+4593 audi        Audi A4                silver05/2009   2009     5199      118         160         Manual        Petrol       7.2 l/100 km     - (g/km)         198000 A4 Avant 1.8 TF
+4594 audi        Audi A5                silver02/2009   2009     6899      132         179         Manual        Petrol       6.4 l/100 km     152 g/km         200000 Coupe 2.0 TFSI/
+4595 audi        Audi A4                silver07/2009   2009     6900      88          120         Manual        Petrol       7.2 l/100 km     171 g/km         146450 Ambiente Lim. +
+4596 audi        Audi A4                silver07/2009   2009     6490      105         143         Automatic     Diesel       6 l/100 km       159 g/km         174000 Avant Attractio
+4597 audi        Audi A4                silver07/2009   2009     6800      88          120         Automatic     Petrol       7.2 l/100 km     169 g/km         132879 1.8 TFSI multit
+4598 audi        Audi A5                silver08/2009   2009     18990     155         211         Manual        Petrol       6.8 l/100 km     159 g/km         65000  Cabrio 2.0 TFSI

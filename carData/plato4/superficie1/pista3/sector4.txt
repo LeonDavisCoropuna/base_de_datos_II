@@ -1,0 +1,21 @@
+19614audi        Audi Q7                white 09/2020   2020     62900     250         340         Automatic     Petrol                        212 g/km         5550   55 TFSI quattro
+19615audi        Audi A4                white 10/2020   2020     33990     140         190         Automatic     Petrol                        - (g/km)         24300  40 TFSI S troni
+19616audi        Audi A1                white 02/2020   2020     17490     85          116         Automatic     Petrol       4.9 l/100 km     111 g/km         135000 Sportback 30 TF
+19617audi        Audi A6 allroad        white 01/2020   2020     46590     257         349         Automatic     Diesel       6.4 l/100 km     168 g/km         146000 quattro 55 TDI 
+19618audi        Audi A1                white 04/2020   2020     21980     85          116         Automatic     Petrol       4.9 l/100 km     111 g/km         30300  30 TFSI  Sportb
+19619audi        Audi A1                white 02/2020   2020     22999     70          95          Manual        Petrol       4.7 l/100 km     106 g/km         2700   Sportback 25 TF
+19620audi        Audi A4                white 03/2020   2020     38490     120         163         Automatic     Diesel       4.1 l/100 km     108 g/km         42848  Avant S line 35
+19621audi        Audi A5                white 12/2020   2020     33490     195         265         Automatic     Petrol       6.8 l/100 km     168 g/km         36000  45 TFSI quattro
+19622audi        Audi A3                white 12/2020   2020     34900     110         150         Automatic     Diesel       3.9 l/100 km     101 g/km         75900  35 TDI S lineNa
+19623audi        Audi SQ5               white 12/2020   2020     69900     260         354         Automatic     Petrol       8.5 l/100 km     - (g/km)         23700  3.0 TFSI LUFTFA
+19624audi        Audi A6                white 12/2020   2020     39000     185         252         Automatic     Hybrid                        - (g/km)         59000  50 TFSI e quatt
+19625audi        Audi A4                white 07/2020   2020     33990     185         252         Automatic     Petrol                        - (g/km)         8000   2.0Tfsi quattro
+19626audi        Audi A4                white 03/2020   2020     32950     140         190         Automatic     Diesel       6.3 l/100 km     167 g/km         105000 Avant S line AH
+19627audi        Audi SQ8               white 07/2020   2020     97960     320         435         Automatic     Diesel       8.9 l/100 km     234 g/km         48300  TDI quattro MAT
+19628audi        Audi Q5                white 12/2020   2020     49990     210         286         Automatic     Diesel       6.2 l/100 km     162 g/km         25990  50 TDI quattro 
+19629audi        Audi A3                white 07/2020   2020     23979     150         204         Automatic     Hybrid                        320 km Reichweite39004  "Sportback 40 T
+19630audi        Audi A4                white 09/2020   2020     32450     140         190         Automatic     Diesel       4.6 l/100 km     153 g/km         24506  40 TDI S tronic
+19631audi        Audi S6                white 04/2020   2020     50777     257         349         Automatic     Diesel                        0 g/km           123000 Avant 3.0 TDI Q
+19632audi        Audi S6                white 02/2020   2020     55890     257         349         Automatic     Diesel       6.5 l/100 km     171 g/km         92276  Avant 3.0TDI qu
+19633audi        Audi Q2                white 02/2020   2020     29990     110         150         Automatic     Petrol       5.2 l/100 km     - (g/km)         27650  35 TFSI sport S
+19634audi        Audi A6                white 09/2020   2020     59980     270         367         Automatic     Hybrid       2.1 l/100 km     0 g/km           29970  Avant 55 TFSI e
