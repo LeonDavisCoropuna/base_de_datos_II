@@ -18,12 +18,23 @@ void opt1(DiskManager *disk){
 }
 
 //Consular un registro
-void opt2(DiskManager *disk)
+void opt2(DiskManager *manager)
 {
     cout<<"Consultar un registro:"<<endl;
     int idRecord;
     cout<<"\tId del Registro: ";cin>>idRecord;
-    disk->
+    Item<int>* data= manager->disk->btree->searchItemById(idRecord);
+    string values = data->route;
+    std::stringstream ss(values); // Crea un stringstream con la cadena de entrada
+    string idBlock, secBlock, lineSector;
+    ss>>idBlock;
+    ss>>secBlock;
+    ss>>lineSector;
+
+    string info = manager->mostrarInfoRegistroSolo(stoi(idBlock), stoi(secBlock), stoi(lineSector));
+
+    cout<<info<<endl;
+
 }
 
 //Adicionar registro
@@ -53,38 +64,38 @@ void opt4(DiskManager *disk)
 }
 
 // Consultar un rango de registro contiguos
-void opt3(DiskManager *disk)
+void opt5(DiskManager *disk)
 {
 
 }
 
 // Consultar un rango de registros no contiguos
-void opt3(DiskManager *disk)
+void opt6(DiskManager *disk)
 {
 
 }
 
 // Eliminar registro
-void opt3(DiskManager *disk)
+void opt7(DiskManager *disk)
 {
 
 }
 
 
 //Adicionar registro
-void opt3(DiskManager *disk)
+void opt8(DiskManager *disk)
 {
 
 }
 
 // Manejo de buffer pool
-void opt3(DiskManager *disk)
+void opt9(DiskManager *disk)
 {
 
 }
 
 //Estructura de la tabla de indices
-void opt3(DiskManager *disk)
+void opt10(DiskManager *disk)
 {
 
 }

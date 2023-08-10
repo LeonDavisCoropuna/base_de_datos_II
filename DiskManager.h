@@ -63,7 +63,22 @@ public:
         return data;
     }
 
-    string mostrarInfoRegistroSolo(int )
+    string mostrarInfoRegistroSolo(int block, int sectBlock, int lineSector)
+    {
+        string data = directorioBloques[block]->sectores[sectBlock]->route;
+        fstream fileOpen(disk->nameDisk + data);
+        string linea;
+        getline(fileOpen, linea);
+        int recordSize = fileOpen.tellg();
+
+        fileOpen.seekg(ios::beg);
+
+        fileOpen.seekp((recordSize)*(lineSector - 1), std::ios::beg);
+        getline(fileOpen, linea);
+
+        fileOpen.close();
+        return data + linea;
+    }
 
 };
 
