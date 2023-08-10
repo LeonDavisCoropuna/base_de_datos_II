@@ -26,6 +26,68 @@ void opt2(DiskManager *disk)
     disk->
 }
 
+//Adicionar registro
+void opt3(DiskManager *disk)
+{
+
+}
+
+//Eliminar registro
+void opt3(DiskManager *disk)
+{
+
+}
+
+
+
+/*________________________________________________________________________________________________________________________________*/
+
+//Preguntas Buffer Manger
+
+/*________________________________________________________________________________________________________________________________*/
+
+// Consultar Registro
+void opt4(DiskManager *disk)
+{
+
+}
+
+// Consultar un rango de registro contiguos
+void opt3(DiskManager *disk)
+{
+
+}
+
+// Consultar un rango de registros no contiguos
+void opt3(DiskManager *disk)
+{
+
+}
+
+// Eliminar registro
+void opt3(DiskManager *disk)
+{
+
+}
+
+
+//Adicionar registro
+void opt3(DiskManager *disk)
+{
+
+}
+
+// Manejo de buffer pool
+void opt3(DiskManager *disk)
+{
+
+}
+
+//Estructura de la tabla de indices
+void opt3(DiskManager *disk)
+{
+
+}
 void optCreate(Disco *&disco){
     int usar = 0;
     cout<<"Crear disco: 0"<<endl;
