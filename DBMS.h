@@ -40,7 +40,7 @@ public:
         // 100              titanic/plato2/superficie1/pista4/sector5           3
         Item <int> * item = DM->disk->btree->searchItemById(stoi(data));
         cout<<"\tInformacion obtenida del arbol: "<<item->route<<endl;
-        cout<<"\t\t idBloque  sectorBloque numLineaSector"<endl;
+        cout<<"\t\t idBloque  sectorBloque numLineaSector"<<endl;
 
 
         stringstream ss(item->route);

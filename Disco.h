@@ -139,23 +139,11 @@ public:
         loadFreeSpace();
         if(!freeSpaceList.empty()){
             string top = freeSpaceList.front();
-            /* while (true)
-             {
-                 // Usando la función find()
-                 size_t posicion = top.find("LAST PLACE:");
-                 if (posicion != std::string::npos) {
-                     std::cout << "La subcadena '" << subcadena << "' se encuentra en la posición " << posicion << std::endl;
-                 } else {
-                     std::cout << "La subcadena no se encontró" << std::endl;
-                 }
-             }
-             */
 
             freeSpaceList.pop();
             return top;
         }
         else return "";
-
     }
     void updateFreeSpace(){
         ofstream free(nameDisk+"/freeSpace.txt");
