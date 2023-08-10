@@ -38,18 +38,15 @@ void opt2(DiskManager *manager)
 }
 
 //Adicionar registro
-void opt3(string newRecord, DiskManager *manager)
+void opt3(DiskManager *disk)
 {
-    manager->directorioBloques;
+    int nBloq;
+    string newData;
+    cout<<"Numero de bloque: ";cin>>nBloq;
+    cin.ignore();
+    cout<<"Nuevo dato: ";    getline(cin,newData);
+    disk->adcionarRegistroEnBloque(newData,nBloq);
 }
-
-//Eliminar registro
-void opt4(DiskManager *disk)
-{
-
-}
-
-
 
 /*________________________________________________________________________________________________________________________________*/
 
@@ -58,44 +55,44 @@ void opt4(DiskManager *disk)
 /*________________________________________________________________________________________________________________________________*/
 
 // Consultar Registro
-void opt5(DiskManager *disk)
+void opt4(DiskManager *disk)
 {
 
 }
 
 // Consultar un rango de registro contiguos
-void opt6(DiskManager *disk)
+void opt5(DiskManager *disk)
 {
 
 }
 
 // Consultar un rango de registros no contiguos
-void opt7(DiskManager *disk)
+void opt6(DiskManager *disk)
 {
 
 }
 
 // Eliminar registro
-void opt8(DiskManager *disk)
+void opt7(DiskManager *disk)
 {
 
 }
 
 
 //Adicionar registro
-void opt9(DiskManager *disk)
+void opt8(DiskManager *disk)
 {
 
 }
 
 // Manejo de buffer pool
-void opt10(DiskManager *disk)
+void opt9(DiskManager *disk)
 {
 
 }
 
 //Estructura de la tabla de indices
-void opt11(DiskManager *disk)
+void opt10(DiskManager *disk)
 {
 
 }
@@ -137,9 +134,8 @@ int main() {
     BufferManager *bufem = new BufferManager(4);
     DBMS *db = new DBMS(manager,bufem);
 
-    //opt1(manager);
-    opt2(manager);
-
+    opt1(manager);
+    opt3(manager);
     //manager->showDirectorio();
     //string idsInfo = manager->mostrarInfoRegistroBloque(nroBloque);
 /*
