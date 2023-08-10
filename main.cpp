@@ -6,10 +6,16 @@
 #include "BufferManager.h"
 #include "BTree.h"
 using namespace std;
-int main() {
 
-    Disco *disco;
-/*
+void opt1(DiskManager *disk){
+    int nroBloque;
+    cout<<"Numero de bloque: ";cin>>nroBloque;
+    cout<<"Bloqee: "<<nroBloque<<endl;
+    string idsInfo = disk->mostrarInfoRegistroBloque(nroBloque);
+    cout<<idsInfo<<endl;
+}
+
+void optCreate(Disco *disco){
     int usar = 0;
     cout<<"Crear disco: 0"<<endl;
     cout<<"Usar disco: 1"<<endl;
@@ -32,19 +38,46 @@ int main() {
 
         disco->createDisk();
     }
-    */
-    disco = new Disco("titanic",5,5,10,3000,5);
-    disco->createDisk();
-    disco->loadDisk();
-    disco->btree->bpt_print();
-    //disco->btree->remove(43);
 
-    Item<int> noddde = disco->btree->searchItemById(44);
-    cout<<noddde.key<<"-"<<noddde.route;
-     /*
-    Node <int> *nodde = disco->btree->searchItemByRange(44);
-    for(int i=0;i<nodde->size;i++)
-        cout<<nodde->item[i].key<<"-";
+}
+
+
+int main() {
+
+    Disco *disco;
+    disco = new Disco("carData");
+
+    //optCreate(disco);
+    disco->loadDisk();
+    DiskManager *manager = new DiskManager(disco );
+    manager->makingBlok();
+    BufferManager *bufem = new BufferManager(4);
+    DBMS *db = new DBMS(manager,bufem);
+    int nroBloque;
+    cout<<"Numero de bloque: ";cin>>nroBloque;
+    cout<<"Bloqee: "<<nroBloque<<endl;
+    manager->showDirectorio();
+    //string idsInfo = manager->mostrarInfoRegistroBloque(nroBloque);
+/*
+    //disco = new Disco("prueba");
+    disco->loadDisk();
+    DiskManager *manager = new DiskManager(disco );
+    manager->makingBlok();
+    BufferManager *bufem = new BufferManager(4);
+    DBMS *db = new DBMS(manager,bufem);
+    int x;
+    while(cin>>x && x < 60){
+        string data;
+        getline(cin,data);
+        db->sql_Request("841 Aldito Martinez Tu causaaaa ",2);
+        Item <int> *w = disco->btree->searchItemById(x);
+        cout<<w->key<<" -> "<<w->route<<endl;
+    }
+    */
+    /*
+   Node <int> *nodde = disco->btree->searchItemByRange(44);
+   for(int i=0;i<nodde->size;i++)
+       cout<<nodde->item[i].key<<"-";
 */
 /*
     Disco *disco = new Disco("titanic");
@@ -57,7 +90,6 @@ int main() {
     BufferManager *bufem = new BufferManager(4);
     DBMS *db = new DBMS(manager,bufem);
     // 1 select, 2 insert, 3 delete
-
     db->sql_Request("841",3);
 
     db->sql_Request("133",3);
@@ -86,6 +118,7 @@ int main() {
     }
     bTree.print();
 */
+    disco->endProgram();
 
     return 0;
 }

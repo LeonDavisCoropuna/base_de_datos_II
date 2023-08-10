@@ -29,7 +29,7 @@ public:
     Sector(string _route,int _capacidad){
         route = _route;
         capacidad = _capacidad;
-        setMemoriaDisponible();
+        //setMemoriaDisponible();
     }
     void setMemoriaDisponible(){
         uintmax_t fileSize = fs::file_size(route);
@@ -49,6 +49,13 @@ public:
         while(getline(file,linea)){
             data += linea.substr(0,sizeKey) + " ";
         }
+        return data;
+    }
+    string getUbicacionIds(){
+        cout<<route<<endl;
+        ifstream file(route);
+        string data,linea;
+        while(getline(file,linea)) data += linea.substr(0,5) +  route + '\n';
         return data;
     }
 };
@@ -91,7 +98,7 @@ public:
     vector<Platos *> platos;
     BPlusTree <int>*btree;
     Disco(string _tableName,int num_platos,int pista,int sector,int memoria,int _sectorBloque){
-        btree = new BPlusTree<int>(10);
+        btree = new BPlusTree<int>(3);
         nameDisk = _tableName;
         numPlatos = num_platos;
         numPista = pista;
@@ -102,7 +109,7 @@ public:
     }
     Disco(string nameTable){
         nameDisk = nameTable;
-
+        btree = new BPlusTree<int>(10);
         ifstream infoTxt(nameTable+"/info.txt");
         string linea;
         getline(infoTxt,linea);
@@ -137,6 +144,7 @@ public:
         }
     }
     void makeBPlusTree(string id,int lineaSector,int secBloc,int bloque){
+
         try{
             Item<int> item = {stoi(id),to_string(bloque)+" "+ to_string(secBloc) + " " + to_string(lineaSector)};
             btree->insert(item);
@@ -145,9 +153,22 @@ public:
             std::cerr << "Error de argumento: " << e.what() << std::endl;
         }
     };
-    void generateBPlusTreeFile(){
-        ofstream  btreeFile(nameDisk+"/bPlusTree.txt");
-        //btree->print(btreeFile);
+    void loadBPlusTree(){
+        std::ifstream  btreeFile(nameDisk+"/bPlusTree.txt");
+        string linea;
+        int bloque;
+        string numBloque,secBloque,lineSector;
+        while(std::getline(btreeFile,linea)){
+            if(linea.length()>0){
+                stringstream ss(linea);
+                ss>>bloque;
+                ss>>numBloque;
+                ss>>secBloque;
+                ss>>lineSector;
+                Item<int> item = {bloque,numBloque+" " +secBloque+" " +lineSector};
+                btree->insert(item);
+            }
+        }
     }
     void loadDisk(){
         for(int i=0;i<numPlatos;i++){
@@ -157,13 +178,18 @@ public:
                 for(int k=0;k<numPista;k++){
                     platos[i]->superficies[j]->pistas[k] = new Pista(numPista);
                     for(int m=0;m<numSector;m++){
-                        string route = nameDisk+"/plato"+ to_string(i)+"/superficie"+to_string(j)+"/pista"+to_string(k)+"/sector"+
-                                                                                                                        to_string(m)+".txt";                        string routeB = "/pista"+to_string(k)+"/sector"+ to_string(m)+".txt";
-                        platos[i]->superficies[j]->pistas[k]->sectores[m] = new Sector(route,memoriaSector);
+                        string route = nameDisk + "/plato" + std::to_string(i) + "/superficie" + std::to_string(j);
+                        string routeb  = "/pista" + std::to_string(k) + "/sector" + std::to_string(m) + ".txt";
+                        string r = route+routeb;
+                        platos[i]->superficies[j]->pistas[k]->sectores[m] = new Sector(r, memoriaSector);
+                        cout<<"QQQQQQQQQQQQQ: "<<r<<endl;
+                        route.clear();
+                        routeb.clear();
                     }
                 }
             }
         }
+        //loadBPlusTree();
     }
     void createDisk(){
         // Utilizando la función del sistema para crear la carpeta en Windows
@@ -267,6 +293,12 @@ public:
             }
             fs::current_path(initialPath);
         }
+
+    }
+    void endProgram(){
+        ofstream file(nameDisk+"/bPlusTree.txt");
+        btree->bpt_print(file);
+        btree->bpt_print();
 
     }
 

@@ -31,7 +31,10 @@ public:
     {
         // idRegistro       route                                            bloque
         // 100              titanic/plato2/superficie1/pista4/sector5           3
-        int nroBloque = 1; //esto retorna el bTree
+        Item <int> * item = DM->disk->btree->searchItemById(stoi(data));
+        stringstream ss(item->route);
+        int nroBloque;
+        ss>>nroBloque;
         Bloque *bloq = DM->directorioBloques[nroBloque];
 
         BM->insertPage(nroBloque,bloq);
@@ -50,10 +53,11 @@ public:
                 iss >> bloq;
                 iss >> bloqSector;
                 iss >> lineSector;
-
                 string dataInsert = bloqSector + "#" + lineSector + "#" + data;
                 cout<<dataInsert<<endl;
                 BM->modifyPage(stoi(bloq), 1, dataInsert);
+                Item<int> item = {stoi(data.substr(0,5)),{bloq + " " + bloqSector + " " + lineSector}};
+                DM->disk->btree->insert(item);
                 BM->deletePage(stoi(bloq));
                 break;
             }

@@ -54,6 +54,14 @@ public:
             cout<<i->data;
         }
     }
+    string mostrarInfoRegistroBloque(int nroBloque){
+        Bloque *bloq = directorioBloques[nroBloque];
+        string data = "";
+        for(auto i: bloq->sectores){
+            data += i->getUbicacionIds();
+        }
+        return data;
+    }
 
 
 };

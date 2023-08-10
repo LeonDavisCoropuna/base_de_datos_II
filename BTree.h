@@ -6,7 +6,7 @@
 #define BD2_BPLUSTREE_H
 
 #include <iostream>
-
+#include <fstream>
 template <typename T>
 struct Item{
     T key;
@@ -71,9 +71,10 @@ public:
         }
         else{
             Node<T>* cursor = node; // cursor finding key
-
+            std::cout<<"Proceso busqueda: "<<std::endl;
             while(!cursor->is_leaf){ // until cusor pointer arrive leaf
                 for(int i=0; i<cursor->size; i++){ //in this index node, find what we want key
+                    std::cout<<"["<<key<<"<"<<cursor->item[i].key<<"]"<<std::endl;
                     if(key < cursor->item[i].key){ //find some range, and let find their child also.
                         cursor = cursor->children[i];
                         break;
@@ -86,12 +87,15 @@ public:
             }
 
             //search for the key if it exists in leaf node.
+            std::cout<<"[Iterar keys del nodo]"<<std::endl;
             for(int i=0; i<cursor->size; i++){
+                std::cout<<"["<<key<<" == "<<cursor->item[i].key<<"?]"<<std::endl;
                 if(cursor->item[i].key == key){
+                    std::cout<<"[Encontrado!]"<<std::endl;
                     return cursor;
                 }
             }
-
+            std::cout<<"[NO Encontrado :( ]"<<std::endl;
             return nullptr;
         }
     }
@@ -213,6 +217,7 @@ public:
         return node;
     }
     void InsertPar(Node<T>* par,Node<T>* child, Item <T> data){
+
         //overflow check
         Node<T>* cursor = par;
         if(cursor->size < this->degree-1){//not overflow, just insert in the correct position
@@ -289,6 +294,7 @@ public:
         }
     }
     void insert(Item<T> data) {
+
         if(this->root == nullptr){ //if the tree is empty
             this->root = new Node<T>(this->degree);
             this->root->is_leaf = true;
@@ -300,6 +306,7 @@ public:
 
             //move to leaf node
             T aux = data.key;
+
             cursor = BPlusTreeRangeSearch(cursor, aux);
 
             //overflow check
@@ -406,7 +413,7 @@ public:
         for(int i=del_index; i<cursor->size-1;i++){
             cursor->item[i] = cursor->item[i+1];
         }
-        cursor->item[cursor->size-1] =0;
+        cursor->item[cursor->size-1] = {0,""};
         cursor->size--;
 
         //if cursor is root, and there are no more data -> clean!
@@ -448,7 +455,7 @@ public:
                     cursor->children[cursor->size-1] = nullptr;
 
                     //sibling property edit
-                    leftsibling->item[leftsibling->size-1] = 0;
+                    leftsibling->item[leftsibling->size-1] = {0,""};
                     leftsibling->size--;
                     leftsibling->children[leftsibling->size] = leftsibling->children[leftsibling->size+1]; //cursor
                     leftsibling->children[leftsibling->size+1]= nullptr;
@@ -485,7 +492,7 @@ public:
                     for(int i=0; i<rightsibling->size-1;i++){
                         rightsibling->item[i] = rightsibling->item[i+1];
                     }
-                    rightsibling->item[rightsibling->size-1] =0;
+                    rightsibling->item[rightsibling->size-1] ={0,""};
                     rightsibling->size--;
                     rightsibling->children[rightsibling->size] = rightsibling->children[rightsibling->size+1]; //cursor
                     rightsibling->children[rightsibling->size+1]= nullptr;
@@ -515,7 +522,7 @@ public:
                 //parent property edit
                 Removepar(cursor, left, cursor->parent);
                 for(int i=0; i<cursor->size;i++){
-                    cursor->item[i]=0;
+                    cursor->item[i]={0,""};
                     cursor->children[i] = nullptr;
                 }
                 cursor->children[cursor->size] = nullptr;
@@ -543,7 +550,7 @@ public:
                 Removepar(rightsibling, right-1, cursor->parent);
 
                 for(int i=0; i<rightsibling->size;i++){
-                    rightsibling->item[i]=0;
+                    rightsibling->item[i]={0,""};
                     rightsibling->children[i] = nullptr;
                 }
                 rightsibling->children[rightsibling->size] = nullptr;
@@ -594,7 +601,7 @@ public:
         for(int i=index; i<cursor->size-1;i++){
             cursor->item[i] = cursor->item[i+1];
         }
-        cursor->item[cursor->size-1] = 0;
+        cursor->item[cursor->size-1] = {0,""};
 
         //remove pointer
         int rem_index = -1;
@@ -729,7 +736,7 @@ public:
                 cursor->item[cursor->size] = cursor->parent->item[right-1];
                 //merge two leaf node
                 for(int i=0; i<rightsibling->size; i++){
-                    cursor->item[cursor->size+1+i]=rightsibling->item[i];
+                    cursor->item[cursor->size+i+1]=rightsibling->item[i];
                 }
                 for(int i=0; i<rightsibling->size+1;i++){
                     cursor->children[cursor->size+i+1] = rightsibling->children[i];
@@ -765,6 +772,30 @@ public:
     void bpt_print(){
         print(this->root);
     }
+    void bpt_print(std::ostream &os){
+        print(this->root,os);
+    }
+    void print(Node<T>* cursor,std::ostream &os) {
+        // You must NOT edit this function.
+        if (cursor != NULL) {
+            bool temp = false;
+            for (int i = 0; i < cursor->size; ++i) {
+                if(cursor->is_leaf){
+                    temp = true;
+                    os <<cursor->item[i].key << " " << cursor->item[i].route ;
+                }
+                if(temp){
+                    os<<"\n";
+                    temp = false;
+                }
+            }
+            if (!cursor->is_leaf) {
+                for (int i = 0; i < cursor->size + 1; ++i) {
+                    print(cursor->children[i],os);
+                }
+            }
+        }
+    }
     void print(Node<T>* cursor) {
         // You must NOT edit this function.
         if (cursor != NULL) {
@@ -780,11 +811,12 @@ public:
             }
         }
     }
-    Item<T> searchItemById(T key){
+    Item<T> *searchItemById(T key){
         Node <int> *nodde = BPlusTreeSearch(root,key);
         for(int i=0;i<nodde->size;i++){
-            if(nodde->item[i].key == key) return nodde->item[i];
+            if(nodde->item[i].key == key) return &nodde->item[i];
         }
+        return 0;
     }
     Node <T> *searchItemByRange(T key){
         return BPlusTreeRangeSearch(root,key);
