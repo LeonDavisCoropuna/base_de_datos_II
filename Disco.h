@@ -58,6 +58,12 @@ public:
         while(getline(file,linea)) data += linea.substr(0,5) +  route + '\n';
         return data;
     }
+    void setMemoryAfterDelete(int fileSize){
+        memoriaDisponible -= fileSize;
+    }
+    void setMemoryAfterInsert(int fileSize){
+        memoriaDisponible += fileSize;
+    }
 };
 
 class Pista{
@@ -93,7 +99,7 @@ public:
     int memoriaSector;
     int sectorBloque;
     const int numSuperficies = 2;
-    queue <string> freeSpaceList;
+    vector <string> freeSpaceList;
     vector<Platos *> platos;
     BPlusTree <int>*btree;
     std::vector<int> currentIndexes;
@@ -108,8 +114,6 @@ public:
         memoriaSector = memoria;
         sectorBloque = _sectorBloque;
         platos.resize(numPlatos,0);
-
-
     }
     Disco(string nameTable){
         nameDisk = nameTable;
@@ -125,57 +129,55 @@ public:
         ss>>memoriaSector;
         ss>>sectorBloque;
         platos.resize(numPlatos,0);
-        loadLastPlace();
     }
-    void loadLastPlace()
-    {
-        ifstream archivo(nameDisk+"/lastPlace.txt");
-        string linea;
-        getline( archivo, linea);
-        stringstream ss(linea);
-        ss>>currentIndexes[0];
-        ss>>currentIndexes[1];
-        ss>>currentIndexes[2];
-        ss>>currentIndexes[3];
 
-    }
     void loadFreeSpace(){
         ifstream archiveFreeSpace(nameDisk+"/freeSpace.txt");
         string linea;
         while(getline(archiveFreeSpace,linea)){
             cout<<linea<<endl;
-            freeSpaceList.push(linea);
+            freeSpaceList.push_back(linea);
         }
+    }
+    string getFreeSpace(string route){
+        loadFreeSpace();
+        for(auto i:freeSpaceList){
+            if(route == i){
+                freeSpaceList.clear();
+                return i;
+            }
+        }
+        return "";
     }
     string getFreeSpace(){
         loadFreeSpace();
-        if(!freeSpaceList.empty()){
-            string top = freeSpaceList.front();
-
-            /* while (true)
-             {
-                 // Usando la función find()
-                 size_t posicion = top.find("LAST PLACE:");
-                 if (posicion != std::string::npos) {
-                     std::cout << "La subcadena '" << subcadena << "' se encuentra en la posición " << posicion << std::endl;
-                 } else {
-                     std::cout << "La subcadena no se encontró" << std::endl;
-                 }
-             }
-             */
-
-            freeSpaceList.pop();
-            return top;
+        if(freeSpaceList.size() > 0){
+            string freeTop = freeSpaceList[0];
+            freeSpaceList.clear();
+            return freeTop;
         }
-        else return "";
-
+        return "";
     }
-    void updateFreeSpace(){
+    void updateFreeSpace(string freeRoute){
         ofstream free(nameDisk+"/freeSpace.txt");
-        while (!freeSpaceList.empty()) {
-            free<< freeSpaceList.front()<<endl; // Acceder al elemento frontal de la cola
-            freeSpaceList.pop(); // Eliminar el elemento frontal de la cola
+        for(auto i: freeSpaceList){
+            if(i!= freeRoute){
+                free<<i<<endl;
+            }
         }
+        freeSpaceList.clear();
+    }
+    void updateAfterDeleteFreeSpace(string regi){
+        ofstream free(nameDisk+"/freeSpace.txt",ios::app);
+        free<<regi<<endl;
+        free.close();
+    }
+
+    string getLastSpace(){
+        std::ifstream  lastPlaceFile(nameDisk+"/lastPlace.txt");
+        string lastPlace;
+        getline(lastPlaceFile,lastPlace);
+        return lastPlace;
     }
     void makeBPlusTree(string id,int lineaSector,int secBloc,int bloque){
 
@@ -193,7 +195,7 @@ public:
         int bloque;
         string numBloque,secBloque,lineSector;
         while(std::getline(btreeFile,linea)){
-            if(linea.length()>0){
+            if(stoi(linea)>0){
                 stringstream ss(linea);
                 ss>>bloque;
                 ss>>numBloque;
@@ -203,6 +205,28 @@ public:
                 btree->insert(item);
             }
         }
+    }
+    void removeBPlusTree(int route){
+        std::fstream  btreeFile(nameDisk+"/bPlusTree.txt",ios::binary|ios::in|ios::out);
+        string linea;
+        while(getline(btreeFile,linea)){
+            cout<<stoi(linea)<<endl;
+            if(stoi(linea) == route){
+                break;
+            }
+        }
+        cout<<"aa: "<<linea<<endl;
+        int pos = btreeFile.tellg();
+        pos -=  linea.length() ;
+        pos--;
+        std::string emptyLine(linea.size(), ' ');
+        emptyLine += "\n";
+        btreeFile.seekg(pos);
+        // Sobrescribir la línea con espacios en blanco
+        btreeFile.write(emptyLine.c_str(), linea.size());
+
+        loadBPlusTree();
+        //btree->bpt_print();
     }
     void loadDisk() {
         cout << "nnn: " << numPlatos << " " << numSuperficies << " " << numPista << " " << numSector << endl;
@@ -283,7 +307,7 @@ public:
 
         fs::path initialPath = fs::current_path();
 
-        ifstream file("files/"+nameDisk+".txt");
+        ifstream file("files/"+nameDisk+".txt",ios::binary);
         string linea;
         bool band = 1;
         int idBloq = 0;
@@ -296,8 +320,16 @@ public:
                 fs::current_path(route);
                 uintmax_t fileSize = fs::file_size("sector"+to_string(currentIndexes[3])+".txt");
                 if(!(fileSize + linea.length() > memoriaSector)) {
-                    ofstream file("sector"+to_string(currentIndexes[3])+".txt",ios::app);
-                    file<<linea<<endl;
+                    ofstream file("sector"+to_string(currentIndexes[3])+".txt",ios::app|ios::binary);
+                    string output;
+                    for (char c : linea) {
+                        if (c == '\r') {
+                            output += '\n';  // Reemplazar '\r' con '\n'
+                        } else {
+                            output += c;
+                        }
+                    }
+                    file<<output;
                     lineaFile++;
                     makeBPlusTree(linea.substr(0,5),lineaFile,(temp-1)%sectorBloque,idBloq);
                     band = 1;
@@ -322,8 +354,16 @@ public:
                         fs::current_path(initialPath);
                         fs::path routeA = nameDisk+"/plato"+ to_string(currentIndexes[0])+"/superficie"+to_string(currentIndexes[1])+"/pista"+to_string(currentIndexes[2])+"/";
                         fs::current_path(routeA);
-                        ofstream file("sector"+to_string(currentIndexes[3])+".txt",ios::app);
-                        file<<linea<<endl;
+                        ofstream file("sector"+to_string(currentIndexes[3])+".txt",ios::app|ios::binary);
+                        string output;
+                        for (char c : linea) {
+                            if (c == '\r') {
+                                output += '\n';  // Reemplazar '\r' con '\n'
+                            } else {
+                                output += c;
+                            }
+                        }
+                        file<<output;
                         lineaFile = 1;
                         makeBPlusTree(linea.substr(0,5),lineaFile,(temp-1)%sectorBloque,idBloq);
                         band = 0;
@@ -338,26 +378,15 @@ public:
         }
 
 
-        //ofstream archivo (nameDisk+"/freeSpace.txt");
+        ofstream archivo2 (nameDisk+"/freeSpace.txt");
 
         ofstream archivo (nameDisk+"/lastPlace.txt");
-        for (auto a: currentIndexes)
-        {
-            archivo<<a<<" ";
-        }
-        archivo<<endl;
-        //ofstream archivo (nameDisk+"freeSpace.txt");
-
-        //archivo<<"LAST PLACE: "<<currentIndexes[0]<<" "<<" "<<currentIndexes[1]<<" "<<currentIndexes[2]<<" "<<currentIndexes[3]<<endl;
-
+        archivo<<idBloq<<" "<<(temp-1)%sectorBloque<<" "<<lineaFile<<endl;
     }
     void endProgram(){
         ofstream file(nameDisk+"/bPlusTree.txt");
         btree->bpt_print(file);
         file.close();
-
-
-
         //btree->bpt_print();
 
     }

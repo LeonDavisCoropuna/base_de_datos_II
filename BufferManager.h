@@ -39,6 +39,7 @@ public:
     void setBloq(Bloque * bloque){
         bloq = bloque;
         generateList();
+
     }
     ListIterator findRecord(string key) {
         int sizeKeyMagic = 5;
@@ -78,7 +79,8 @@ public:
     void Eliminar(string idRegistro){
         ListIterator it = findRecord(idRegistro);
         (*it).dirty = 1;
-        (*it).data = "vacio";
+        (*it).data = "";
+
     }
     void generateList() {
         vector<string> data = bloq->cargarData();
@@ -125,11 +127,11 @@ public:
     string getStateBufferPool()
     {
         // buffer lleno
-        if(buffer.size() >= buffer_size)
-        {
-            return "BUFFER LLENO: "+ to_string(buffer.size()) + " frame usados de " + to_string(buffer_size);
+        int k=0;
+        for(auto i: buffer){
+            if(i->pin_count != 0) k++;
         }
-        return to_string(buffer.size()) + " frame usados de " + to_string(buffer_size);
+        return to_string(k) + " frame usados de " + to_string(buffer_size);
     }
     void writeDisk(Page *page){
         vector<ModifySector> registros;
@@ -228,15 +230,27 @@ public:
             page->pin_count = 0;
             if(page->dirty_bit) writeDisk(page);
             page->dirty_bit = 0;
+            page->pageId = -1;
+            page->bit_uso = 0;
         }
     }
     void printStateBuffer() {
         for (auto i : buffer) {
+
             cout << "Frame ID: " << i->frame_id << " | ";
             cout << "Page ID: " << i->pageId << " | ";
             cout << "Bit Uso: " << i->bit_uso << " | ";
             cout << "Pin Count: " << i->pin_count << " | ";
             cout << "Dirty Bit: " << i->dirty_bit << endl;
+        }
+    }
+    void showContenido(){
+        for(auto i: buffer){
+            cout<<"Id pagina: "<<i->pageId<<endl;
+            cout<<"Contenido: "<<endl;
+            for(auto j:i->bloq->cargarData()){
+                cout<<j<<endl;
+            }
         }
     }
 };

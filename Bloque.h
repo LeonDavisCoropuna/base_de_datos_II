@@ -14,14 +14,30 @@ public:
     vector<Sector *> sectores;
     Disco * disk;
     string data;
-    int memoria_bloque;
-
+    int capacidadBloque;
+    int memoriaDisponible;
     Bloque(Disco *_disk){
         data = "";
         disk = _disk;
-        memoria_bloque = disk->memoriaSector*disk->sectorBloque;
+        capacidadBloque = disk->memoriaSector*disk->sectorBloque;
     }
-
+    void getInfoBloque(){
+        memoriaDisponible = 0;
+        int sectoresOcupados = 0;
+        for(auto a:sectores){
+            memoriaDisponible += a->memoriaDisponible;
+            if(a->memoriaDisponible != a->capacidad) sectoresOcupados++;
+        }
+        sectoresOcupados == 0 ? cout<<"Estado bloque: Bloque vacio"<<endl : cout<<"Estado bloque: Bloque ocupado"<<endl;
+        cout<<"Memoria total: "<<capacidadBloque<<endl;
+        cout<<"Memoria disponible: "<<memoriaDisponible<<endl;
+        cout<<"Numero de sectores: "<<sectores.size()<<endl;
+        cout<<"Sectores ocupados: "<<sectoresOcupados<<endl;
+        cout<<"Rutas de los sectores en disco: "<<endl;
+        for(auto a:sectores){
+            cout<<"\t"<<a->route<<endl;
+        }
+    }
     void writeDisk(const std::vector<ModifySector>& data) {
         for (const auto& i : data) {
             std::fstream archivo(sectores[i.sector]->route, std::ios::in | std::ios::out | std::ios::binary);

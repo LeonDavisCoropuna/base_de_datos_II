@@ -47,6 +47,7 @@ public:
                 break;
         }
         directorioBloques.push_back(bloq);
+
     }
     void showDirectorio(){
         for(auto i: directorioBloques){
@@ -84,44 +85,102 @@ public:
 
     void adcionarRegistroEnBloque(string data, int idBloque)
     {
-        for (auto a: directorioBloques[idBloque]->sectores)
-        {
-            cout<<a->memoriaDisponible<<endl;
-            if(a->memoriaDisponible > data.length()) {
-                ofstream archivo(a->route, ios::app);
-                archivo << data << endl;
-                cout << "Registro insertado en bloque con espacio" << endl;
-                cout << "\t" << a->route << endl;
-                return;
+        string values;
+        int keyData = stoi(data.substr(0,5));
+        bool temp = false;
+        ifstream freeSpaceFile(disk->nameDisk+"/freeSpace.txt");
+        string line;
+        while(getline(freeSpaceFile,line)){
+            cout<<line<<"--"<<stoi(line)<<endl;
+            if(stoi(line) == idBloque) {
+                temp = true;
+                break;
             }
         }
+        freeSpaceFile.close();
+        if(temp){
+            vector<int>ubicacion;
+            int num;
+            stringstream iss(line);
+            while(iss>>num) ubicacion.push_back(num);
+            cout<<"Bloque con espacio en: "<<line<<endl;
+            cout<<"Con respecto al disco: "<<directorioBloques[idBloque]->sectores[ubicacion[1]]->route<<endl;
+            fstream sector(directorioBloques[idBloque]->sectores[ubicacion[1]]->route,ios::binary|ios::in|ios::out);
+            int sizeLine;
+            string lineaSize;
+            sector.seekg(0,ios::beg);
+            getline(sector,lineaSize);
+            sizeLine = sector.tellg();
+            sector.close();
 
-        // caso de bloque lleno
-        string modifyIndfo = disk->getFreeSpace();
-        cout<<"Bloque lleno:  "<<endl;
+            fstream sectorWrite(directorioBloques[idBloque]->sectores[ubicacion[1]]->route,ios::binary|ios::in|ios::out);
+            if (data.size() < sizeLine) {
+                data += std::string(sizeLine - data.size() - 1, ' ');
+            }
+            data += "\n";
+            sectorWrite.seekg((sizeLine)*(ubicacion[2]-1), std::ios::beg);
+            sectorWrite.write(data.c_str(),sizeLine);
+            sectorWrite.close();
+            Item<int> newData = {keyData,to_string(ubicacion[0]) + " " +to_string(ubicacion[1])+" "+ to_string(ubicacion[2])};
+            disk->btree->insert(newData);
+            directorioBloques[ubicacion[0]]->sectores[ubicacion[1]]->setMemoryAfterDelete(sizeLine);
+            disk->loadFreeSpace();
+            disk->updateFreeSpace(newData.route);
 
-        cout<<"sadsdaads: "<<modifyIndfo<<endl;
-
-        if(modifyIndfo.length()> 5)
-        {
-            vector<string> modify;
-            string temp;
-            stringstream is(modifyIndfo);
-            while(is>>temp)
-                modify.push_back(temp);
-            cout<<"Insertado en un bloque con espacio"<<endl;
-            string ruta =  disk->nameDisk+"/plato"+ modify[0]+"/superficie"+modify[1]+"/pista"+modify[2]+"/";
-            ofstream file(ruta +"sector"+modify[3]+".txt",ios::app);
+        }else{
+            string routeLastPace = disk->getLastSpace();
+            stringstream iss(routeLastPace);
+            vector<int>lastPlaceRoute;
+            int number;
+            while(iss>>number) lastPlaceRoute.push_back(number);
+            cout<<"Bloque sin espacio, insertando al final: "<<endl;
+            cout<<"Ubicacion del nuevo registro: "<<endl;
+            cout<<"\tRespecto al bloque: "<<routeLastPace<<endl;
+            cout<<"\tRespecto al disco: "<<directorioBloques[lastPlaceRoute[0]]->sectores[lastPlaceRoute[1]]->route<<endl;
+            string ruta = directorioBloques[lastPlaceRoute[0]]->sectores[lastPlaceRoute[1]]->route;
+            fstream file(ruta,ios::app);
             file<<data<<endl;
+            int lineRecordLast=0;
+            string line;
+            file.close();
+            ifstream file2(ruta);
+            while(getline(file2,line)) lineRecordLast++;
+            Item<int> newData = {keyData,to_string(lastPlaceRoute[0]) + " " +to_string(lastPlaceRoute[1])+" "+ to_string(lineRecordLast)};
+            disk->btree->insert(newData);
+            directorioBloques[lastPlaceRoute[0]]->sectores[lastPlaceRoute[1]]->setMemoryAfterDelete(data.length());
         }
-        else
-        {
-            cout<<"No hay registros eliminados\nInsertando al final: "<<endl;
-            string ruta =  disk->nameDisk+"/plato"+ to_string(disk->currentIndexes[0])+"/superficie"+to_string(disk->currentIndexes[1])+"/pista"+to_string(disk->currentIndexes[2])+"/";
+    }
+    void eliminarRegistroDisco(int idRegistroToDelete){
+        Item<int> *item = disk->btree->searchItemById(idRegistroToDelete);
+        vector <int> ubicacion;
+        string route = (item->route);
+        stringstream iss(route);
+        int num;
+        while(iss>>num) ubicacion.push_back(num);
+        fstream sector(directorioBloques[ubicacion[0]]->sectores[ubicacion[1]]->route,ios::binary|ios::in|ios::out);
+        int sizeLine;
+        string lineaSize;
+        sector.seekg(0,ios::beg);
+        getline(sector,lineaSize);
+        sizeLine = sector.tellg();
+        sector.close();
 
-            ofstream file(ruta+ "sector"+to_string(disk->currentIndexes[3])+".txt",ios::app);
-            file<<data<<endl;
+        fstream sectorWrite(directorioBloques[ubicacion[0]]->sectores[ubicacion[1]]->route,ios::binary|ios::in|ios::out);
+        string data = "";
+        if (data.size() < sizeLine) {
+            data += std::string(sizeLine - data.size() - 1, ' ');
         }
+        data += "\n";
+        sectorWrite.seekg((sizeLine)*(ubicacion[2]-1), std::ios::beg);
+        sectorWrite.write(data.c_str(),sizeLine);
+        sectorWrite.close();
+        Item<int> newData = {ubicacion[0],to_string(ubicacion[0]) + " " +to_string(ubicacion[1])+" "+ to_string(ubicacion[2])};
+        cout<<"\tRespecto al bloque: "<<item->route<<endl;
+        cout<<"\tRespecto al disco: "<<directorioBloques[ubicacion[0]]->sectores[ubicacion[1]]->route<<endl;
+        directorioBloques[ubicacion[0]]->sectores[ubicacion[1]]->setMemoryAfterDelete(sizeLine);
+        disk->updateAfterDeleteFreeSpace(item->route);
+        //disk->btree->insert(newData);
+        //disk->btree->bpt_print();
     }
 
 };

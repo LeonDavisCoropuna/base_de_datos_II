@@ -24,68 +24,88 @@ public:
     }
     string getFreeSpace(){
         string data = DM->disk->getFreeSpace();
-        DM->disk->updateFreeSpace();
+
+        //DM->disk->updateFreeSpace();
         return data;
     }
-
-    void tiposBusqueda (int opc)
-    {
-        //
-        //if(opc==1)
+    string getLastSpace(){
+        return DM->disk->getLastSpace();
     }
 
     void sql_Request(string data,int opt)
     {
         // idRegistro       route                                            bloque
         // 100              titanic/plato2/superficie1/pista4/sector5           3
-        Item <int> * item = DM->disk->btree->searchItemById(stoi(data));
-        cout<<"\tInformacion obtenida del arbol: "<<item->route<<endl;
-        cout<<"\t\t idBloque  sectorBloque numLineaSector"<<endl;
-
-
-        stringstream ss(item->route);
-        int nroBloque;
-        ss>>nroBloque;
-        Bloque *bloq = DM->directorioBloques[nroBloque];
-        cout<<"\tBloque recuperado (id): "<<nroBloque<<endl;
-
-        BM->insertPage(nroBloque,bloq);
-        //BM->modifyPage(nroBloque,2);
-        cout<<"\tInsertadon en la pagina: "<<nroBloque<<endl;
 
         switch (opt) {
             case 1:{
                 //select
+                Item <int> * item = DM->disk->btree->searchItemById(stoi(data));
+                stringstream ss(item->route);
+                int nroBloque,nroSecBloq;
+                ss>>nroBloque;
+                ss>>nroSecBloq;
+                cout<<"\tBloque recuperado (id): "<<nroBloque<<endl;
+                cout<<"\tInformacion del registro en disco: "<<DM->directorioBloques[nroBloque]->sectores[nroSecBloq]->route<<endl;
 
-
-
+                Bloque *bloq = DM->directorioBloques[nroBloque];
+                bloq->getInfoBloque();
+                BM->insertPage(nroBloque,bloq);
                 break;
             }
             case 2: {
+                //insertar
                 string freeSpaceDisk = getFreeSpace();
-                std::istringstream iss(freeSpaceDisk);
-                string bloq;
-                string bloqSector;
-                string lineSector;
-                iss >> bloq;
-                iss >> bloqSector;
-                iss >> lineSector;
-                string dataInsert = bloqSector + "#" + lineSector + "#" + data;
-                cout<<dataInsert<<endl;
+                stringstream ss(freeSpaceDisk);
+                string bloq,bloqSector,lineSector;
+                string dataInsert="";
+
+                if(freeSpaceDisk.length() > 5){
+                    std::istringstream iss(freeSpaceDisk);
+                    iss >> bloq;
+                    iss >> bloqSector;
+                    iss >> lineSector;
+                    dataInsert = bloqSector + "#" + lineSector + "#" + data;
+                }
+                else{
+                    string lastSpace = getLastSpace();
+                    std::istringstream iss(lastSpace);
+                    iss >> bloq;
+                    iss >> bloqSector;
+                    iss >> lineSector;
+                    dataInsert = bloqSector + "#" + lineSector + "#" + data;
+                }
+
+                //cout<<dataInsert<<endl;
+                Bloque *block = DM->directorioBloques[stoi(bloq)];
+                BM->insertPage(stoi(bloq),block);
                 BM->modifyPage(stoi(bloq), 1, dataInsert);
                 Item<int> item = {stoi(data.substr(0,5)),{bloq + " " + bloqSector + " " + lineSector}};
                 DM->disk->btree->insert(item);
-                BM->deletePage(stoi(bloq));
+                cout<<"\tBloque recuperado (id): "<<bloq<<endl;
+                cout<<"\tInformacion del registro en disco: "<<DM->directorioBloques[stoi(bloq)]->sectores[stoi(bloqSector)]->route<<endl;
+                DM->disk->loadFreeSpace();
+
+                DM->disk->updateFreeSpace(freeSpaceDisk);
                 break;
             }
             case 3: {//eliminar
+                Item <int> * item = DM->disk->btree->searchItemById(stoi(data));
+                stringstream ss(item->route);
+                int nroBloque,nroSecBloq;
+                ss>>nroBloque;
+                ss>>nroSecBloq;
+                cout<<"\tBloque recuperado (id): "<<nroBloque<<endl;
+                cout<<"\tInformacion obtenida del arbol: "<<item->route<<endl;
+                cout<<"\tInformacion del registro en disco: "<<DM->directorioBloques[nroBloque]->sectores[nroSecBloq]->route<<endl;
+                Bloque *bloq = DM->directorioBloques[nroBloque];
+                BM->insertPage(nroBloque,bloq);
                 BM->modifyPage(nroBloque, 2, data);
-                BM->deletePage(nroBloque);
+                DM->disk->updateAfterDeleteFreeSpace(item->route);
                 break;
             }
         }
-        //BM->modifyPage(nroBloque,1);
-        //BM->deletePage(nroBloque);
+        cout<<"Estado Buffer Pool FLAGS: "<<endl;
         BM->printStateBuffer();
     }
 

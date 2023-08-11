@@ -7,7 +7,8 @@
 #include "BTree.h"
 using namespace std;
 
-void opt1(DiskManager *disk){
+
+void opt1(DiskManager *disk){ //mostrar registro por bloque grupo
     int nroBloque;
     cout<<"Mostrar en que plato, superficie, pista y sector están los registros del bloque"<<endl;
 
@@ -17,8 +18,7 @@ void opt1(DiskManager *disk){
     cout<<idsInfo<<endl;
 }
 
-
-void opt2(DiskManager *manager) //Consular un registro
+void opt2(DiskManager *manager) //Consular un registro unico
 {
     cout<<"Consultar un registro:"<<endl;
     int idRecord;
@@ -48,68 +48,70 @@ void opt3(DiskManager *disk)
     disk->adcionarRegistroEnBloque(newData,nBloq);
 }
 //Eliminar registro
-/*
-void opt4(DBMS * &db)
-{
-    int recordId;
-    cout<<"Ingrese id del Registro a eliminar: ";cin>>recordId;
-
-<<<<<<< HEAD
-    Item<int>* data= db->DM->disk->btree->searchItemById(recordId);
-=======
-    //Item<int>* data= db->manager->disk->btree->searchItemById(recordId);
-    //Item<int>* data = db
->>>>>>> 461203b2e4827100873c7b8d0c2a953e7f372bb3
-    string values = data->route;
-    std::stringstream ss(values); // Crea un stringstream con la cadena de entrada
-    string idBlock, secBlock, lineSector;
-    ss>>idBlock;
-    ss>>secBlock;
-    ss>>lineSector;
-
-    db->BM->modifyPage(stoi(idBlock), 2, to_string(recordId));
-    db->BM->deletePage(stoi(idBlock));
-    cout<<"Registro eliminado con exito! "<<endl;
-
+void opt3_1(DiskManager *disk){
+    int idRegistro;
+    string newData;
+    cout<<"Id registro a eliminar: ";cin>>idRegistro;
+    disk->eliminarRegistroDisco(idRegistro);
 }
-
-*/
 
 /*________________________________________________________________________________________________________________________________*/
 
 //Preguntas Buffer Manger
 
 /*________________________________________________________________________________________________________________________________*/
-
+void releasePageBuffer(DBMS *db){
+    int opt,idPage;
+    db->BM->printStateBuffer();
+    cout<<"\tPagina a liberar (-1 omitir): ";cin>>idPage;
+    if(idPage == -1) return;
+    cout<<"\t1. Hacer 1 unpinned"<<endl;
+    cout<<"\t2. Quitar pagina del buffer"<<endl;
+    cout<<"\tOpt: ";cin>>opt;
+    if(opt == 1){
+        db->BM->realeasePage(idPage);
+    } else if(opt == 2){
+        db->BM->deletePage(idPage);
+    }
+    return;
+}
 // Consultar Registro
 
-    void opt5(DBMS *db) {
-        cout << "Estado de buffer pool" << endl;
-
-        cout << db->BM->getStateBufferPool() << endl;
-
-        int idRecord;
-        cout << "Id del registro a buscar: ";
-        cin >> idRecord;
-        db->sql_Request(to_string(idRecord), 1);
-
-        cout << "\nRegistro encontrado finalizado!" << endl;
-    }
-
-// Consultar un rango de registro contiguos
-    void opt5(DiskManager *disk) {
-
-    }
+void opt5(DBMS *db) { //state buffer pool
+    cout << "Estado de buffer pool" << endl;
+    cout << db->BM->getStateBufferPool() << endl;
+    int idRecord;
+    cout << "Id del registro a buscar: ";
+    cin >> idRecord;
+    db->sql_Request(to_string(idRecord), 1);
+    releasePageBuffer(db);
+}
 
 // Consultar un rango de registros no contiguos
-    void opt6(DiskManager *disk) {
-
+void opt6(DBMS *db) {
+    int a,b;
+    cout<<"Inicio rango: ";cin>>a;
+    cout<<"Fin rango: ";cin>>b;
+    Node<int> *range = db->DM->disk->btree->searchItemByRange(a);
+    for(int i=0;i<range->size;i++){
+        db->sql_Request(to_string(range->item[i].key),1);
     }
-
-// Eliminar registro
-    void opt7(DiskManager *disk){}
+    releasePageBuffer(db);
+}
+// Consultar un rango de registros no contiguos
+void opt8(DBMS *db) {
+    int a,b;
+    cout<<"Inicio rango: ";cin>>a;
+    cout<<"Fin rango: ";cin>>b;
+    Node<int> *range = db->DM->disk->btree->searchItemByRange(a);
+    for(int i=0;i<range->size;i++){
+        db->sql_Request(to_string(range->item[i].key),1);
+    }
+    releasePageBuffer(db);
+}
 /*
- 4.1. Mostrar que el registro se encuentra en una página del buffer pool o no.
+ *
+4.1. Mostrar que el registro se encuentra en una página del buffer pool o no.
 4.2. Buscar la posición del registro usando la estructura de la tabla de índices - Mostrar en pantalla como realiza la ubicación del registro
 4.3. Mostrar en que bloque, sector, pista se encuentra el registro.
 4.4. Recuperar bloque: Mostrar la estructura e información del bloque
@@ -117,28 +119,32 @@ void opt4(DBMS * &db)
 4.6. Mostrar los flags de las páginas (Estado de la página)
  */
 
-void opt8(DBMS *db)
+//eliminar registro buffer
+void opt7(DBMS *db)
 {
     cout<<"Estado de buffer pool"<<endl;
-
     cout<<db->BM->getStateBufferPool()<<endl;
-
     int idRecord;
     cout<<"Id del registro a eliminar: "; cin>>idRecord;
     db->sql_Request(to_string(idRecord),3);
-
-    cout<<"\nRegistro encontrado finalizado!"<<endl;
+    cout << "Estado de buffer pool" << endl;
+    releasePageBuffer(db);
 }
 
 //Adicionar registro
-    void opt8(DiskManager *disk) {
+void opt8_1(DBMS *db) {
+    cout<<"Estado de buffer pool"<<endl;
+    cout<<db->BM->getStateBufferPool()<<endl;
+    string record;
+    cout<<"Nuevo registro a insertar: ";getline(cin,record);
+    db->sql_Request(record,2);
+    releasePageBuffer(db);
+}
 
-    }
-
-// Manejo de buffer pool
-    void opt9(DiskManager *disk) {
-
-    }
+void opt9(DBMS *db) { //mostrar paginas y contenido
+    cout<<"Paginas en el buffer y su contenido: "<<endl;
+    db->BM->showContenido();
+}
 
 //Estructura de la tabla de indices
     void opt10(DiskManager *disk) {
@@ -171,10 +177,8 @@ void opt8(DBMS *db)
             cout << "N sectores por bloque?: ";
             cin >> sectorBloques;
             disco = new Disco(tableName, numPlatos, numPistas, numSectores, memoriaSector, sectorBloques);
-
             disco->createDisk();
         }
-
     }
 
 
@@ -183,84 +187,25 @@ int main() {
     Disco *disco;
     optCreate(disco);
     disco->loadDisk();
-    cout<<"FINN"<<endl;
+
     DiskManager *manager = new DiskManager(disco );
     manager->makingBlok();
     BufferManager *bufem = new BufferManager(4);
     DBMS *db = new DBMS(manager,bufem);
-
-
-    //opt1(manager);
-    opt3(manager);
-
-    //opt8(db);
-
-    opt1(manager);
-
-
-    //manager->showDirectorio();
-    //string idsInfo = manager->mostrarInfoRegistroBloque(nroBloque);
 /*
-    //disco = new Disco("prueba");
-    disco->loadDisk();
-    DiskManager *manager = new DiskManager(disco );
-    manager->makingBlok();
-    BufferManager *bufem = new BufferManager(4);
-    DBMS *db = new DBMS(manager,bufem);
-    int x;
-    while(cin>>x && x < 60){
-        string data;
-        getline(cin,data);
-        db->sql_Request("841 Aldito Martinez Tu causaaaa ",2);
-        Item <int> *w = disco->btree->searchItemById(x);
-        cout<<w->key<<" -> "<<w->route<<endl;
-    }
-    */
-    /*
-   Node <int> *nodde = disco->btree->searchItemByRange(44);
-   for(int i=0;i<nodde->size;i++)
-       cout<<nodde->item[i].key<<"-";
-*/
-/*
-    Disco *disco = new Disco("titanic");
-    disco->loadDisk();
-    DiskManager *manager = new DiskManager(disco );
-    manager->makingBlok();
-    //manager->showDirectorio();
+    db->sql_Request("36544",2);
+    db->sql_Request("98745",2);
+    db->sql_Request("33333",2);
+    releasePageBuffer(db);
+    releasePageBuffer(db);
+    releasePageBuffer(db);
 
-    //manager.makingBTree(3,4);
-    BufferManager *bufem = new BufferManager(4);
-    DBMS *db = new DBMS(manager,bufem);
-    // 1 select, 2 insert, 3 delete
-    db->sql_Request("841",3);
 
-    db->sql_Request("133",3);
-    db->sql_Request("174",3);
-    db->sql_Request("132",3);
-    db->sql_Request("132",3);
-*/
-    //db->sql_Request("841 Aldito Martinez Tu causaaaa ",2);
+    //opt7(db);
+    //opt7(db);
 
-/*
-    BPlusTree bTree(10);
-
-    const int numRandoms = 1000;
-    for (int i = 0; i < numRandoms; ++i) {
-        bTree.insert(i, "Hola "+std::to_string(i));
-    }
-    int searchKey = 513 ;
-    Node * find = bTree.search(searchKey);
-    if(find){
-        for(auto i : find->keys){
-            if (find->keys[i] == searchKey){
-                std::string value = bTree.data[find->keys[i]];
-                std::cout << "Clave: " << find->keys[i] << ", Valor: " << value << std::endl;
-            }
-        }
-    }
-    bTree.print();
-*/
     disco->endProgram();
-
+*/
+    manager->disk->removeBPlusTree(20000);
     return 0;
 }
